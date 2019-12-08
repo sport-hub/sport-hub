@@ -1,6 +1,6 @@
 {
   "name": "ranking-server",
-  "version": "0.5.0",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.7.4",
