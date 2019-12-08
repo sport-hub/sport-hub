@@ -1,0 +1,33 @@
+#import "../fragments/setScores.graphql"
+#import "../fragments/playersInfo.graphql"
+
+query GetUserInfoQuery($userId: ID!) {
+  player(id: $userId) {
+    id
+    fullName
+    firstName
+    lastName
+    ranking {
+      singlePoints
+      single
+      mixPoints
+      mix
+      doublePoints
+      double
+    }
+    games {
+      count
+      result {
+        id
+        ...SetScores
+        ...PlayersInfo
+        won
+        team1
+        playedAt
+        SubEvent {
+          draw
+        }
+      }
+    }
+  }
+}

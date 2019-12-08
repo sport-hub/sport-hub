@@ -1,0 +1,8 @@
+fragment SetScores on PlayerGame {
+  set1_team1
+  set1_team2
+  set2_team1
+  set2_team2
+  set3_team1
+  set3_team2
+}
