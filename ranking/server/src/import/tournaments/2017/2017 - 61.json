@@ -8,12 +8,13 @@
       "subEvents": [
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2017-11-12T10:30:00Z",
               "team1_player1": "50114827",
               "team1_player2": null,
               "team2_player1": "30046592",
@@ -27,6 +28,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T11:30:00Z",
               "team1_player1": "50054153",
               "team1_player2": null,
               "team2_player1": "30046592",
@@ -40,6 +42,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T10:30:00Z",
               "team1_player1": "30046592",
               "team1_player2": null,
               "team2_player1": "50114827",
@@ -53,6 +56,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T12:35:00Z",
               "team1_player1": "50054153",
               "team1_player2": null,
               "team2_player1": "50114827",
@@ -66,6 +70,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T11:30:00Z",
               "team1_player1": "30046592",
               "team1_player2": null,
               "team2_player1": "50054153",
@@ -79,6 +84,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T12:35:00Z",
               "team1_player1": "50114827",
               "team1_player2": null,
               "team2_player1": "50054153",
@@ -92,6 +98,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T10:00:00Z",
               "team1_player1": "50803468",
               "team1_player2": "30014364",
               "team2_player1": "30046592",
@@ -105,6 +112,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T11:00:00Z",
               "team1_player1": "50086845",
               "team1_player2": "50095074",
               "team2_player1": "30046592",
@@ -118,6 +126,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T10:00:00Z",
               "team1_player1": "30046592",
               "team1_player2": "30056330",
               "team2_player1": "50803468",
@@ -131,6 +140,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T09:00:00Z",
               "team1_player1": "50086845",
               "team1_player2": "50095074",
               "team2_player1": "50803468",
@@ -144,6 +154,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T11:00:00Z",
               "team1_player1": "30046592",
               "team1_player2": "30056330",
               "team2_player1": "50086845",
@@ -157,6 +168,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T09:00:00Z",
               "team1_player1": "50803468",
               "team1_player2": "30014364",
               "team2_player1": "50086845",
@@ -170,6 +182,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T12:35:00Z",
               "team1_player1": "50090614",
               "team1_player2": null,
               "team2_player1": "30046592",
@@ -183,6 +196,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T13:45:00Z",
               "team1_player1": "50086210",
               "team1_player2": null,
               "team2_player1": "30046592",
@@ -196,6 +210,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T13:45:00Z",
               "team1_player1": "50090614",
               "team1_player2": null,
               "team2_player1": "50114827",
@@ -209,6 +224,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T09:30:00Z",
               "team1_player1": "50086210",
               "team1_player2": null,
               "team2_player1": "50114827",
@@ -222,6 +238,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:30:00Z",
               "team1_player1": "50090614",
               "team1_player2": null,
               "team2_player1": "50054153",
@@ -235,6 +252,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T10:30:00Z",
               "team1_player1": "50086210",
               "team1_player2": null,
               "team2_player1": "50054153",
@@ -248,6 +266,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T12:35:00Z",
               "team1_player1": "30046592",
               "team1_player2": null,
               "team2_player1": "50090614",
@@ -261,6 +280,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T13:45:00Z",
               "team1_player1": "50114827",
               "team1_player2": null,
               "team2_player1": "50090614",
@@ -274,6 +294,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:30:00Z",
               "team1_player1": "50054153",
               "team1_player2": null,
               "team2_player1": "50090614",
@@ -287,6 +308,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T11:30:00Z",
               "team1_player1": "50086210",
               "team1_player2": null,
               "team2_player1": "50090614",
@@ -300,6 +322,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T13:45:00Z",
               "team1_player1": "30046592",
               "team1_player2": null,
               "team2_player1": "50086210",
@@ -313,6 +336,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T09:30:00Z",
               "team1_player1": "50114827",
               "team1_player2": null,
               "team2_player1": "50086210",
@@ -326,6 +350,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T10:30:00Z",
               "team1_player1": "50054153",
               "team1_player2": null,
               "team2_player1": "50086210",
@@ -339,6 +364,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T11:30:00Z",
               "team1_player1": "50090614",
               "team1_player2": null,
               "team2_player1": "50086210",
@@ -355,7 +381,7 @@
         },
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
@@ -363,12 +389,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2017-11-11T10:00:00Z",
               "team1_player1": "50084500",
               "team1_player2": "50560751",
               "team2_player1": "50090247",
@@ -382,6 +409,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T11:00:00Z",
               "team1_player1": "50090614",
               "team1_player2": "50054153",
               "team2_player1": "50090247",
@@ -395,6 +423,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T10:00:00Z",
               "team1_player1": "50090247",
               "team1_player2": "50086851",
               "team2_player1": "50084500",
@@ -408,6 +437,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T09:00:00Z",
               "team1_player1": "50090614",
               "team1_player2": "50054153",
               "team2_player1": "50084500",
@@ -421,6 +451,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T11:00:00Z",
               "team1_player1": "50090247",
               "team1_player2": "50086851",
               "team2_player1": "50090614",
@@ -434,6 +465,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T09:00:00Z",
               "team1_player1": "50084500",
               "team1_player2": "50560751",
               "team2_player1": "50090614",
@@ -450,12 +482,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2017-11-11T09:00:00Z",
               "team1_player1": "50086210",
               "team1_player2": "50090308",
               "team2_player1": "50114290",
@@ -469,6 +502,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T11:00:00Z",
               "team1_player1": "50110211",
               "team1_player2": "50048378",
               "team2_player1": "50086210",
@@ -482,6 +516,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T09:00:00Z",
               "team1_player1": "50114290",
               "team1_player2": "50091303",
               "team2_player1": "50086210",
@@ -495,6 +530,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T10:00:00Z",
               "team1_player1": "50114290",
               "team1_player2": "50091303",
               "team2_player1": "50110211",
@@ -508,6 +544,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T11:00:00Z",
               "team1_player1": "50086210",
               "team1_player2": "50090308",
               "team2_player1": "50110211",
@@ -521,6 +558,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T10:00:00Z",
               "team1_player1": "50110211",
               "team1_player2": "50048378",
               "team2_player1": "50114290",
@@ -537,12 +575,13 @@
         },
         {
           "poule": "HD B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2017-11-11T13:00:00Z",
               "team1_player1": "50090614",
               "team1_player2": "50054153",
               "team2_player1": "30046592",
@@ -556,6 +595,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T14:00:00Z",
               "team1_player1": "50114290",
               "team1_player2": "50091303",
               "team2_player1": "30046592",
@@ -569,6 +609,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T13:00:00Z",
               "team1_player1": "30046592",
               "team1_player2": "30056330",
               "team2_player1": "50090614",
@@ -582,6 +623,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T12:00:00Z",
               "team1_player1": "50114290",
               "team1_player2": "50091303",
               "team2_player1": "50090614",
@@ -595,6 +637,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T14:00:00Z",
               "team1_player1": "30046592",
               "team1_player2": "30056330",
               "team2_player1": "50114290",
@@ -608,6 +651,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T12:00:00Z",
               "team1_player1": "50090614",
               "team1_player2": "50054153",
               "team2_player1": "50114290",
@@ -660,13 +704,14 @@
       "subEvents": [
         {
           "poule": "GD B2",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2017-11-11T15:30:00Z",
               "team1_player1": "50054153",
               "team1_player2": "50075081",
               "team2_player1": "50048378",
@@ -719,12 +764,13 @@
       "subEvents": [
         {
           "poule": "HE C1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2017-11-12T13:10:00Z",
               "team1_player1": "50110211",
               "team1_player2": null,
               "team2_player1": "50114290",
@@ -738,6 +784,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T14:25:00Z",
               "team1_player1": "50109766",
               "team1_player2": null,
               "team2_player1": "50114290",
@@ -751,6 +798,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T13:10:00Z",
               "team1_player1": "50114290",
               "team1_player2": null,
               "team2_player1": "50110211",
@@ -764,6 +812,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T12:00:00Z",
               "team1_player1": "50109766",
               "team1_player2": null,
               "team2_player1": "50110211",
@@ -777,6 +826,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T14:25:00Z",
               "team1_player1": "50114290",
               "team1_player2": null,
               "team2_player1": "50109766",
@@ -790,6 +840,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T12:00:00Z",
               "team1_player1": "50110211",
               "team1_player2": null,
               "team2_player1": "50109766",
@@ -806,12 +857,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2017-11-11T10:00:00Z",
               "team1_player1": "30002110",
               "team1_player2": "30067162",
               "team2_player1": "50085625",
@@ -825,6 +877,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T11:00:00Z",
               "team1_player1": "30005051",
               "team1_player2": "30065305",
               "team2_player1": "50085625",
@@ -838,6 +891,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T10:00:00Z",
               "team1_player1": "50085625",
               "team1_player2": "50498517",
               "team2_player1": "30002110",
@@ -851,6 +905,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T09:00:00Z",
               "team1_player1": "30005051",
               "team1_player2": "30065305",
               "team2_player1": "30002110",
@@ -864,6 +919,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T11:00:00Z",
               "team1_player1": "50085625",
               "team1_player2": "50498517",
               "team2_player1": "30005051",
@@ -877,6 +933,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T09:00:00Z",
               "team1_player1": "30002110",
               "team1_player2": "30067162",
               "team2_player1": "30005051",
@@ -893,12 +950,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2017-11-11T10:00:00Z",
               "team1_player1": "30091404",
               "team1_player2": "30055086",
               "team2_player1": "50078742",
@@ -912,6 +970,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T11:00:00Z",
               "team1_player1": "50252127",
               "team1_player2": "50079357",
               "team2_player1": "50078742",
@@ -925,6 +984,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T10:00:00Z",
               "team1_player1": "50078742",
               "team1_player2": "50055736",
               "team2_player1": "30091404",
@@ -938,6 +998,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T09:00:00Z",
               "team1_player1": "50252127",
               "team1_player2": "50079357",
               "team2_player1": "30091404",
@@ -951,6 +1012,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T11:00:00Z",
               "team1_player1": "50078742",
               "team1_player2": "50055736",
               "team2_player1": "50252127",
@@ -964,6 +1026,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T09:00:00Z",
               "team1_player1": "30091404",
               "team1_player2": "30055086",
               "team2_player1": "50252127",
@@ -980,12 +1043,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2017-11-11T10:00:00Z",
               "team1_player1": "50109766",
               "team1_player2": "50076924",
               "team2_player1": "50094270",
@@ -999,6 +1063,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T11:00:00Z",
               "team1_player1": "50104873",
               "team1_player2": "30095747",
               "team2_player1": "50094270",
@@ -1012,6 +1077,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T10:00:00Z",
               "team1_player1": "50094270",
               "team1_player2": "50116897",
               "team2_player1": "50109766",
@@ -1025,6 +1091,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T09:00:00Z",
               "team1_player1": "50104873",
               "team1_player2": "30095747",
               "team2_player1": "50109766",
@@ -1038,6 +1105,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T11:00:00Z",
               "team1_player1": "50094270",
               "team1_player2": "50116897",
               "team2_player1": "50104873",
@@ -1051,6 +1119,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T09:00:00Z",
               "team1_player1": "50109766",
               "team1_player2": "50076924",
               "team2_player1": "50104873",
@@ -1067,12 +1136,13 @@
         },
         {
           "poule": "HD C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2017-11-11T13:00:00Z",
               "team1_player1": "50078742",
               "team1_player2": "50055736",
               "team2_player1": "30002110",
@@ -1086,6 +1156,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T14:00:00Z",
               "team1_player1": "50094270",
               "team1_player2": "50116897",
               "team2_player1": "30002110",
@@ -1099,6 +1170,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T13:00:00Z",
               "team1_player1": "30002110",
               "team1_player2": "30067162",
               "team2_player1": "50078742",
@@ -1112,6 +1184,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T12:00:00Z",
               "team1_player1": "50094270",
               "team1_player2": "50116897",
               "team2_player1": "50078742",
@@ -1125,6 +1198,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T14:00:00Z",
               "team1_player1": "30002110",
               "team1_player2": "30067162",
               "team2_player1": "50094270",
@@ -1138,6 +1212,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T12:00:00Z",
               "team1_player1": "50078742",
               "team1_player2": "50055736",
               "team2_player1": "50094270",
@@ -1154,12 +1229,13 @@
         },
         {
           "poule": "GD C1",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2017-11-11T16:00:00Z",
               "team1_player1": "50091303",
               "team1_player2": "50836986",
               "team2_player1": "50012439",
@@ -1173,6 +1249,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T17:00:00Z",
               "team1_player1": "50560751",
               "team1_player2": "50286935",
               "team2_player1": "50012439",
@@ -1186,6 +1263,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T18:00:00Z",
               "team1_player1": "50090308",
               "team1_player2": "50095448",
               "team2_player1": "50012439",
@@ -1199,6 +1277,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T19:00:00Z",
               "team1_player1": "50090247",
               "team1_player2": "50063814",
               "team2_player1": "50012439",
@@ -1212,6 +1291,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T16:00:00Z",
               "team1_player1": "50012439",
               "team1_player2": "50724800",
               "team2_player1": "50091303",
@@ -1225,6 +1305,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T18:00:00Z",
               "team1_player1": "50560751",
               "team1_player2": "50286935",
               "team2_player1": "50091303",
@@ -1238,6 +1319,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T19:00:00Z",
               "team1_player1": "50090308",
               "team1_player2": "50095448",
               "team2_player1": "50091303",
@@ -1251,6 +1333,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T15:00:00Z",
               "team1_player1": "50090247",
               "team1_player2": "50063814",
               "team2_player1": "50091303",
@@ -1264,6 +1347,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T17:00:00Z",
               "team1_player1": "50012439",
               "team1_player2": "50724800",
               "team2_player1": "50560751",
@@ -1277,6 +1361,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T18:00:00Z",
               "team1_player1": "50091303",
               "team1_player2": "50836986",
               "team2_player1": "50560751",
@@ -1290,6 +1375,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T15:00:00Z",
               "team1_player1": "50090308",
               "team1_player2": "50095448",
               "team2_player1": "50560751",
@@ -1303,6 +1389,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T16:00:00Z",
               "team1_player1": "50090247",
               "team1_player2": "50063814",
               "team2_player1": "50560751",
@@ -1316,6 +1403,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T18:00:00Z",
               "team1_player1": "50012439",
               "team1_player2": "50724800",
               "team2_player1": "50090308",
@@ -1329,6 +1417,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T19:00:00Z",
               "team1_player1": "50091303",
               "team1_player2": "50836986",
               "team2_player1": "50090308",
@@ -1342,6 +1431,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T15:00:00Z",
               "team1_player1": "50560751",
               "team1_player2": "50286935",
               "team2_player1": "50090308",
@@ -1355,6 +1445,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T17:00:00Z",
               "team1_player1": "50090247",
               "team1_player2": "50063814",
               "team2_player1": "50090308",
@@ -1368,6 +1459,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T19:00:00Z",
               "team1_player1": "50012439",
               "team1_player2": "50724800",
               "team2_player1": "50090247",
@@ -1381,6 +1473,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T15:00:00Z",
               "team1_player1": "50091303",
               "team1_player2": "50836986",
               "team2_player1": "50090247",
@@ -1394,6 +1487,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T16:00:00Z",
               "team1_player1": "50560751",
               "team1_player2": "50286935",
               "team2_player1": "50090247",
@@ -1407,6 +1501,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T17:00:00Z",
               "team1_player1": "50090308",
               "team1_player2": "50095448",
               "team2_player1": "50090247",
@@ -1459,12 +1554,13 @@
       "subEvents": [
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2017-11-12T10:30:00Z",
               "team1_player1": "50985515",
               "team1_player2": null,
               "team2_player1": "50076924",
@@ -1478,6 +1574,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T11:30:00Z",
               "team1_player1": "50034233",
               "team1_player2": null,
               "team2_player1": "50076924",
@@ -1491,6 +1588,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T12:35:00Z",
               "team1_player1": "30091404",
               "team1_player2": null,
               "team2_player1": "50076924",
@@ -1504,6 +1602,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T10:30:00Z",
               "team1_player1": "50076924",
               "team1_player2": null,
               "team2_player1": "50985515",
@@ -1517,6 +1616,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T12:35:00Z",
               "team1_player1": "50034233",
               "team1_player2": null,
               "team2_player1": "50985515",
@@ -1530,6 +1630,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T13:45:00Z",
               "team1_player1": "30091404",
               "team1_player2": null,
               "team2_player1": "50985515",
@@ -1543,6 +1644,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T11:30:00Z",
               "team1_player1": "50076924",
               "team1_player2": null,
               "team2_player1": "50034233",
@@ -1556,6 +1658,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T12:35:00Z",
               "team1_player1": "50985515",
               "team1_player2": null,
               "team2_player1": "50034233",
@@ -1569,6 +1672,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:30:00Z",
               "team1_player1": "30091404",
               "team1_player2": null,
               "team2_player1": "50034233",
@@ -1582,6 +1686,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T12:35:00Z",
               "team1_player1": "50076924",
               "team1_player2": null,
               "team2_player1": "30091404",
@@ -1595,6 +1700,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T13:45:00Z",
               "team1_player1": "50985515",
               "team1_player2": null,
               "team2_player1": "30091404",
@@ -1608,6 +1714,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:30:00Z",
               "team1_player1": "50034233",
               "team1_player2": null,
               "team2_player1": "30091404",
@@ -1621,6 +1728,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T13:45:00Z",
               "team1_player1": "50104873",
               "team1_player2": null,
               "team2_player1": "50076924",
@@ -1634,6 +1742,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:30:00Z",
               "team1_player1": "50104873",
               "team1_player2": null,
               "team2_player1": "50985515",
@@ -1647,6 +1756,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T10:30:00Z",
               "team1_player1": "50104873",
               "team1_player2": null,
               "team2_player1": "50034233",
@@ -1660,6 +1770,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T11:30:00Z",
               "team1_player1": "50104873",
               "team1_player2": null,
               "team2_player1": "30091404",
@@ -1673,6 +1784,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T13:45:00Z",
               "team1_player1": "50076924",
               "team1_player2": null,
               "team2_player1": "50104873",
@@ -1686,6 +1798,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T09:30:00Z",
               "team1_player1": "50985515",
               "team1_player2": null,
               "team2_player1": "50104873",
@@ -1699,6 +1812,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T10:30:00Z",
               "team1_player1": "50034233",
               "team1_player2": null,
               "team2_player1": "50104873",
@@ -1712,6 +1826,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T11:30:00Z",
               "team1_player1": "30091404",
               "team1_player2": null,
               "team2_player1": "50104873",
@@ -1728,12 +1843,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2017-11-12T10:30:00Z",
               "team1_player1": "50116481",
               "team1_player2": null,
               "team2_player1": "30055086",
@@ -1747,6 +1863,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T11:30:00Z",
               "team1_player1": "50090308",
               "team1_player2": null,
               "team2_player1": "30055086",
@@ -1760,6 +1877,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T12:35:00Z",
               "team1_player1": "30064028",
               "team1_player2": null,
               "team2_player1": "30055086",
@@ -1773,6 +1891,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T10:30:00Z",
               "team1_player1": "30055086",
               "team1_player2": null,
               "team2_player1": "50116481",
@@ -1786,6 +1905,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T12:35:00Z",
               "team1_player1": "50090308",
               "team1_player2": null,
               "team2_player1": "50116481",
@@ -1799,6 +1919,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T13:45:00Z",
               "team1_player1": "30064028",
               "team1_player2": null,
               "team2_player1": "50116481",
@@ -1812,6 +1933,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T11:30:00Z",
               "team1_player1": "30055086",
               "team1_player2": null,
               "team2_player1": "50090308",
@@ -1825,6 +1947,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T12:35:00Z",
               "team1_player1": "50116481",
               "team1_player2": null,
               "team2_player1": "50090308",
@@ -1838,6 +1961,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:30:00Z",
               "team1_player1": "30064028",
               "team1_player2": null,
               "team2_player1": "50090308",
@@ -1851,6 +1975,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T12:35:00Z",
               "team1_player1": "30055086",
               "team1_player2": null,
               "team2_player1": "30064028",
@@ -1864,6 +1989,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T13:45:00Z",
               "team1_player1": "50116481",
               "team1_player2": null,
               "team2_player1": "30064028",
@@ -1877,6 +2003,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:30:00Z",
               "team1_player1": "50090308",
               "team1_player2": null,
               "team2_player1": "30064028",
@@ -1890,6 +2017,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T13:45:00Z",
               "team1_player1": "30065305",
               "team1_player2": null,
               "team2_player1": "30055086",
@@ -1903,6 +2031,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:30:00Z",
               "team1_player1": "30065305",
               "team1_player2": null,
               "team2_player1": "50116481",
@@ -1916,6 +2045,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T10:30:00Z",
               "team1_player1": "30065305",
               "team1_player2": null,
               "team2_player1": "50090308",
@@ -1929,6 +2059,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T11:30:00Z",
               "team1_player1": "30065305",
               "team1_player2": null,
               "team2_player1": "30064028",
@@ -1942,6 +2073,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T13:45:00Z",
               "team1_player1": "30055086",
               "team1_player2": null,
               "team2_player1": "30065305",
@@ -1955,6 +2087,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T09:30:00Z",
               "team1_player1": "50116481",
               "team1_player2": null,
               "team2_player1": "30065305",
@@ -1968,6 +2101,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T10:30:00Z",
               "team1_player1": "50090308",
               "team1_player2": null,
               "team2_player1": "30065305",
@@ -1981,6 +2115,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T11:30:00Z",
               "team1_player1": "30064028",
               "team1_player2": null,
               "team2_player1": "30065305",
@@ -1997,12 +2132,13 @@
         },
         {
           "poule": "DD C2",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2017-11-11T11:30:00Z",
               "team1_player1": "50073237",
               "team1_player2": "50095448",
               "team2_player1": "50053302",
@@ -2016,6 +2152,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T13:30:00Z",
               "team1_player1": "50073527",
               "team1_player2": "50078444",
               "team2_player1": "50053302",
@@ -2029,6 +2166,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T11:30:00Z",
               "team1_player1": "50053302",
               "team1_player2": "50082039",
               "team2_player1": "50073237",
@@ -2042,6 +2180,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T10:30:00Z",
               "team1_player1": "50073527",
               "team1_player2": "50078444",
               "team2_player1": "50073237",
@@ -2055,6 +2194,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T13:30:00Z",
               "team1_player1": "50053302",
               "team1_player2": "50082039",
               "team2_player1": "50073527",
@@ -2068,6 +2208,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T10:30:00Z",
               "team1_player1": "50073237",
               "team1_player2": "50095448",
               "team2_player1": "50073527",
@@ -2084,12 +2225,13 @@
         },
         {
           "poule": "DE C2",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2017-11-12T13:10:00Z",
               "team1_player1": "50104295",
               "team1_player2": null,
               "team2_player1": "50095448",
@@ -2103,6 +2245,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T14:25:00Z",
               "team1_player1": "50073237",
               "team1_player2": null,
               "team2_player1": "50095448",
@@ -2116,6 +2259,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T12:00:00Z",
               "team1_player1": "50082039",
               "team1_player2": null,
               "team2_player1": "50095448",
@@ -2129,6 +2273,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T13:10:00Z",
               "team1_player1": "50095448",
               "team1_player2": null,
               "team2_player1": "50104295",
@@ -2142,6 +2287,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T12:00:00Z",
               "team1_player1": "50073237",
               "team1_player2": null,
               "team2_player1": "50104295",
@@ -2155,6 +2301,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T14:25:00Z",
               "team1_player1": "50082039",
               "team1_player2": null,
               "team2_player1": "50104295",
@@ -2168,6 +2315,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T14:25:00Z",
               "team1_player1": "50095448",
               "team1_player2": null,
               "team2_player1": "50073237",
@@ -2181,6 +2329,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T12:00:00Z",
               "team1_player1": "50104295",
               "team1_player2": null,
               "team2_player1": "50073237",
@@ -2194,6 +2343,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T13:10:00Z",
               "team1_player1": "50082039",
               "team1_player2": null,
               "team2_player1": "50073237",
@@ -2207,6 +2357,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T12:00:00Z",
               "team1_player1": "50095448",
               "team1_player2": null,
               "team2_player1": "50082039",
@@ -2220,6 +2371,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T14:25:00Z",
               "team1_player1": "50104295",
               "team1_player2": null,
               "team2_player1": "50082039",
@@ -2233,6 +2385,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T13:10:00Z",
               "team1_player1": "50073237",
               "team1_player2": null,
               "team2_player1": "50082039",
@@ -2249,13 +2402,14 @@
         },
         {
           "poule": "HE C2",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2017-11-12T15:00:00Z",
               "team1_player1": "50076924",
               "team1_player2": null,
               "team2_player1": "30055086",
@@ -2272,12 +2426,13 @@
         },
         {
           "poule": "GD C2",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2017-11-11T15:30:00Z",
               "team1_player1": "50116897",
               "team1_player2": "50679619",
               "team2_player1": "50514733",
@@ -2291,6 +2446,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T16:30:00Z",
               "team1_player1": "50027884",
               "team1_player2": "50077633",
               "team2_player1": "50514733",
@@ -2304,6 +2460,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T17:30:00Z",
               "team1_player1": "50047413",
               "team1_player2": "50053302",
               "team2_player1": "50514733",
@@ -2317,6 +2474,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T18:30:00Z",
               "team1_player1": "50076924",
               "team1_player2": "50073527",
               "team2_player1": "50514733",
@@ -2330,6 +2488,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T15:30:00Z",
               "team1_player1": "50514733",
               "team1_player2": "50078444",
               "team2_player1": "50116897",
@@ -2343,6 +2502,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T17:30:00Z",
               "team1_player1": "50027884",
               "team1_player2": "50077633",
               "team2_player1": "50116897",
@@ -2356,6 +2516,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T18:30:00Z",
               "team1_player1": "50047413",
               "team1_player2": "50053302",
               "team2_player1": "50116897",
@@ -2369,6 +2530,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T14:30:00Z",
               "team1_player1": "50076924",
               "team1_player2": "50073527",
               "team2_player1": "50116897",
@@ -2382,6 +2544,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T16:30:00Z",
               "team1_player1": "50514733",
               "team1_player2": "50078444",
               "team2_player1": "50027884",
@@ -2395,6 +2558,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T17:30:00Z",
               "team1_player1": "50116897",
               "team1_player2": "50679619",
               "team2_player1": "50027884",
@@ -2408,6 +2572,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T14:30:00Z",
               "team1_player1": "50047413",
               "team1_player2": "50053302",
               "team2_player1": "50027884",
@@ -2421,6 +2586,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T15:30:00Z",
               "team1_player1": "50076924",
               "team1_player2": "50073527",
               "team2_player1": "50027884",
@@ -2434,6 +2600,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T17:30:00Z",
               "team1_player1": "50514733",
               "team1_player2": "50078444",
               "team2_player1": "50047413",
@@ -2447,6 +2614,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T18:30:00Z",
               "team1_player1": "50116897",
               "team1_player2": "50679619",
               "team2_player1": "50047413",
@@ -2460,6 +2628,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T14:30:00Z",
               "team1_player1": "50027884",
               "team1_player2": "50077633",
               "team2_player1": "50047413",
@@ -2473,6 +2642,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T16:30:00Z",
               "team1_player1": "50076924",
               "team1_player2": "50073527",
               "team2_player1": "50047413",
@@ -2486,6 +2656,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T18:30:00Z",
               "team1_player1": "50514733",
               "team1_player2": "50078444",
               "team2_player1": "50076924",
@@ -2499,6 +2670,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T14:30:00Z",
               "team1_player1": "50116897",
               "team1_player2": "50679619",
               "team2_player1": "50076924",
@@ -2512,6 +2684,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T15:30:00Z",
               "team1_player1": "50027884",
               "team1_player2": "50077633",
               "team2_player1": "50076924",
@@ -2525,6 +2698,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T16:30:00Z",
               "team1_player1": "50047413",
               "team1_player2": "50053302",
               "team2_player1": "50076924",
@@ -2577,12 +2751,13 @@
       "subEvents": [
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2017-11-12T10:00:00Z",
               "team1_player1": "50047413",
               "team1_player2": null,
               "team2_player1": "50033567",
@@ -2596,6 +2771,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T11:00:00Z",
               "team1_player1": "50682911",
               "team1_player2": null,
               "team2_player1": "50033567",
@@ -2609,6 +2785,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T10:00:00Z",
               "team1_player1": "50033567",
               "team1_player2": null,
               "team2_player1": "50047413",
@@ -2622,6 +2799,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T09:00:00Z",
               "team1_player1": "50682911",
               "team1_player2": null,
               "team2_player1": "50047413",
@@ -2635,6 +2813,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T11:00:00Z",
               "team1_player1": "50033567",
               "team1_player2": null,
               "team2_player1": "50682911",
@@ -2648,6 +2827,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T09:00:00Z",
               "team1_player1": "50047413",
               "team1_player2": null,
               "team2_player1": "50682911",
@@ -2664,12 +2844,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2017-11-12T10:00:00Z",
               "team1_player1": "30003926",
               "team1_player2": null,
               "team2_player1": "30034299",
@@ -2683,6 +2864,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T11:00:00Z",
               "team1_player1": "30078553",
               "team1_player2": null,
               "team2_player1": "30034299",
@@ -2696,6 +2878,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T10:00:00Z",
               "team1_player1": "30034299",
               "team1_player2": null,
               "team2_player1": "30003926",
@@ -2709,6 +2892,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:00:00Z",
               "team1_player1": "30078553",
               "team1_player2": null,
               "team2_player1": "30003926",
@@ -2722,6 +2906,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T11:00:00Z",
               "team1_player1": "30034299",
               "team1_player2": null,
               "team2_player1": "30078553",
@@ -2735,6 +2920,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:00:00Z",
               "team1_player1": "30003926",
               "team1_player2": null,
               "team2_player1": "30078553",
@@ -2748,6 +2934,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T09:00:00Z",
               "team1_player1": "30094590",
               "team1_player2": null,
               "team2_player1": "30034299",
@@ -2761,6 +2948,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T11:00:00Z",
               "team1_player1": "30094590",
               "team1_player2": null,
               "team2_player1": "30003926",
@@ -2774,6 +2962,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T10:00:00Z",
               "team1_player1": "30094590",
               "team1_player2": null,
               "team2_player1": "30078553",
@@ -2787,6 +2976,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:00:00Z",
               "team1_player1": "30034299",
               "team1_player2": null,
               "team2_player1": "30094590",
@@ -2800,6 +2990,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T11:00:00Z",
               "team1_player1": "30003926",
               "team1_player2": null,
               "team2_player1": "30094590",
@@ -2813,6 +3004,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T10:00:00Z",
               "team1_player1": "30078553",
               "team1_player2": null,
               "team2_player1": "30094590",
@@ -2829,12 +3021,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2017-11-12T10:00:00Z",
               "team1_player1": "50399322",
               "team1_player2": null,
               "team2_player1": "50114092",
@@ -2848,6 +3041,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T11:00:00Z",
               "team1_player1": "30056439",
               "team1_player2": null,
               "team2_player1": "50114092",
@@ -2861,6 +3055,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T10:00:00Z",
               "team1_player1": "50114092",
               "team1_player2": null,
               "team2_player1": "50399322",
@@ -2874,6 +3069,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T09:00:00Z",
               "team1_player1": "30056439",
               "team1_player2": null,
               "team2_player1": "50399322",
@@ -2887,6 +3083,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T11:00:00Z",
               "team1_player1": "50114092",
               "team1_player2": null,
               "team2_player1": "30056439",
@@ -2900,6 +3097,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T09:00:00Z",
               "team1_player1": "50399322",
               "team1_player2": null,
               "team2_player1": "30056439",
@@ -2916,12 +3114,13 @@
         },
         {
           "poule": "Groep D",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2017-11-12T09:00:00Z",
               "team1_player1": "50460897",
               "team1_player2": null,
               "team2_player1": "50109774",
@@ -2935,6 +3134,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T11:00:00Z",
               "team1_player1": "50460897",
               "team1_player2": null,
               "team2_player1": "30005051",
@@ -2948,6 +3148,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T10:00:00Z",
               "team1_player1": "50460897",
               "team1_player2": null,
               "team2_player1": "30095747",
@@ -2961,6 +3162,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:00:00Z",
               "team1_player1": "50109774",
               "team1_player2": null,
               "team2_player1": "50460897",
@@ -2974,6 +3176,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T11:00:00Z",
               "team1_player1": "30005051",
               "team1_player2": null,
               "team2_player1": "50460897",
@@ -2987,6 +3190,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T10:00:00Z",
               "team1_player1": "30095747",
               "team1_player2": null,
               "team2_player1": "50460897",
@@ -3000,6 +3204,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T10:00:00Z",
               "team1_player1": "30005051",
               "team1_player2": null,
               "team2_player1": "50109774",
@@ -3013,6 +3218,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T11:00:00Z",
               "team1_player1": "30095747",
               "team1_player2": null,
               "team2_player1": "50109774",
@@ -3026,6 +3232,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T10:00:00Z",
               "team1_player1": "50109774",
               "team1_player2": null,
               "team2_player1": "30005051",
@@ -3039,6 +3246,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:00:00Z",
               "team1_player1": "30095747",
               "team1_player2": null,
               "team2_player1": "30005051",
@@ -3052,6 +3260,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T11:00:00Z",
               "team1_player1": "50109774",
               "team1_player2": null,
               "team2_player1": "30095747",
@@ -3065,6 +3274,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:00:00Z",
               "team1_player1": "30005051",
               "team1_player2": null,
               "team2_player1": "30095747",
@@ -3081,12 +3291,13 @@
         },
         {
           "poule": "Groep E",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2017-11-12T10:00:00Z",
               "team1_player1": "50116897",
               "team1_player2": null,
               "team2_player1": "30005987",
@@ -3100,6 +3311,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T11:00:00Z",
               "team1_player1": "50498517",
               "team1_player2": null,
               "team2_player1": "30005987",
@@ -3113,6 +3325,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-12T10:00:00Z",
               "team1_player1": "30005987",
               "team1_player2": null,
               "team2_player1": "50116897",
@@ -3126,6 +3339,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:00:00Z",
               "team1_player1": "50498517",
               "team1_player2": null,
               "team2_player1": "50116897",
@@ -3139,6 +3353,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T11:00:00Z",
               "team1_player1": "30005987",
               "team1_player2": null,
               "team2_player1": "50498517",
@@ -3152,6 +3367,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-12T09:00:00Z",
               "team1_player1": "50116897",
               "team1_player2": null,
               "team2_player1": "50498517",
@@ -3168,13 +3384,14 @@
         },
         {
           "poule": "HE D",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 8,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2017-11-12T14:25:00Z",
               "team1_player1": "30095747",
               "team1_player2": null,
               "team2_player1": "30003926",
@@ -3189,6 +3406,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2017-11-12T13:10:00Z",
               "team1_player1": "50033567",
               "team1_player2": null,
               "team2_player1": "30095747",
@@ -3203,6 +3421,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2017-11-12T13:10:00Z",
               "team1_player1": "50116897",
               "team1_player2": null,
               "team2_player1": "30003926",
@@ -3217,6 +3436,7 @@
             },
             {
               "final": 3,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50033567",
               "team1_player2": null,
               "team2_player1": null,
@@ -3231,6 +3451,7 @@
             },
             {
               "final": 3,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "30095747",
               "team1_player2": null,
               "team2_player1": null,
@@ -3245,6 +3466,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2017-11-12T12:00:00Z",
               "team1_player1": "50116897",
               "team1_player2": null,
               "team2_player1": "50114092",
@@ -3259,6 +3481,7 @@
             },
             {
               "final": 3,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "30003926",
@@ -3275,12 +3498,13 @@
         },
         {
           "poule": "HD D",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2017-11-11T10:30:00Z",
               "team1_player1": "50047413",
               "team1_player2": "50235508",
               "team2_player1": "30056439",
@@ -3294,6 +3518,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T11:30:00Z",
               "team1_player1": "50091808",
               "team1_player2": "50399292",
               "team2_player1": "30056439",
@@ -3307,6 +3532,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T12:30:00Z",
               "team1_player1": "50115509",
               "team1_player2": "50115507",
               "team2_player1": "30056439",
@@ -3320,6 +3546,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T13:30:00Z",
               "team1_player1": "50109774",
               "team1_player2": "50114092",
               "team2_player1": "30056439",
@@ -3333,6 +3560,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T10:30:00Z",
               "team1_player1": "30056439",
               "team1_player2": "30078553",
               "team2_player1": "50047413",
@@ -3346,6 +3574,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T12:30:00Z",
               "team1_player1": "50091808",
               "team1_player2": "50399292",
               "team2_player1": "50047413",
@@ -3359,6 +3588,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T13:30:00Z",
               "team1_player1": "50115509",
               "team1_player2": "50115507",
               "team2_player1": "50047413",
@@ -3372,6 +3602,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T09:30:00Z",
               "team1_player1": "50109774",
               "team1_player2": "50114092",
               "team2_player1": "50047413",
@@ -3385,6 +3616,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T11:30:00Z",
               "team1_player1": "30056439",
               "team1_player2": "30078553",
               "team2_player1": "50091808",
@@ -3398,6 +3630,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T12:30:00Z",
               "team1_player1": "50047413",
               "team1_player2": "50235508",
               "team2_player1": "50091808",
@@ -3411,6 +3644,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T09:30:00Z",
               "team1_player1": "50115509",
               "team1_player2": "50115507",
               "team2_player1": "50091808",
@@ -3424,6 +3658,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T10:30:00Z",
               "team1_player1": "50109774",
               "team1_player2": "50114092",
               "team2_player1": "50091808",
@@ -3437,6 +3672,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T12:30:00Z",
               "team1_player1": "30056439",
               "team1_player2": "30078553",
               "team2_player1": "50115509",
@@ -3450,6 +3686,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T13:30:00Z",
               "team1_player1": "50047413",
               "team1_player2": "50235508",
               "team2_player1": "50115509",
@@ -3463,6 +3700,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T09:30:00Z",
               "team1_player1": "50091808",
               "team1_player2": "50399292",
               "team2_player1": "50115509",
@@ -3476,6 +3714,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T11:30:00Z",
               "team1_player1": "50109774",
               "team1_player2": "50114092",
               "team2_player1": "50115509",
@@ -3489,6 +3728,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T13:30:00Z",
               "team1_player1": "30056439",
               "team1_player2": "30078553",
               "team2_player1": "50109774",
@@ -3502,6 +3742,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2017-11-11T09:30:00Z",
               "team1_player1": "50047413",
               "team1_player2": "50235508",
               "team2_player1": "50109774",
@@ -3515,6 +3756,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T10:30:00Z",
               "team1_player1": "50091808",
               "team1_player2": "50399292",
               "team2_player1": "50109774",
@@ -3528,6 +3770,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2017-11-11T11:30:00Z",
               "team1_player1": "50115509",
               "team1_player2": "50115507",
               "team2_player1": "50109774",

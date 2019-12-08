@@ -96,17 +96,18 @@ export function UserGames(props) {
       ? props.games.result
           .sort(x => x.playedAt)
           .reduce(function(acc, item) {
-            (acc[item.playedAt] = acc[item.playedAt] || []).push(item);
+            var date = new Date(item.playedAt).toDateString();
+            (acc[date] = acc[date] || []).push(item);
             return acc;
           }, {})
       : [];
 
   console.log(props.games, results);
 
-
   const entries = Object.entries(results).map(([key, result]) => {
     return (
       <React.Fragment key={key}>
+        <h3>{result[0].SubEvent.Event.name}</h3>
         <ListItem component="div" className={classes.listItem}>
           <div className={classes.draw}>
             <div className={classes.drawName}>{result[0].SubEvent.draw}</div>

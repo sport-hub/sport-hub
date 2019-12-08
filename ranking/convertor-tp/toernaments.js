@@ -7,7 +7,7 @@ ADODB.debug = true;
 const { promises: fs, existsSync } = require('fs');
 
 export async function ImportToernament(file) {
-  console.log('Importing', file);
+  console.info('Importing', file);
   const connectionString = `Provider=Microsoft.Jet.OLEDB.4.0;Data Source='${join(
     basePathTp,
     file
@@ -87,7 +87,7 @@ export async function ImportToernament(file) {
       );
 
       var dbPlayerMatches = await connection.query(
-        `select id, event, draw, planning, entry, planning, wn, van1, van2, team1set1, team2set1, team1set2, team2set2, team1set3, team2set3, winner from PlayerMatch`
+        `select id, event, draw, planning, plandate, entry, wn, van1, van2, team1set1, team2set1, team1set2, team2set2, team1set3, team2set3, winner from PlayerMatch`
       );
 
       var dbEntries = await connection.query(
@@ -119,13 +119,13 @@ export async function ImportToernament(file) {
 
       event.subEvents.push({
         poule: dbDraw.name,
-        gender: dbEvent.gender,
+        gender: dbEvent.gender-1, // Toernooi.nl works with 1 based instead of 0 based array
         event_type: dbEvent.eventtype,
         draw_type: dbDraw.drawtype,
         size: dbDraw.drawsize,
         matches: []
       });
-    });
+    }); 
 
     // Build KO's
     dbPlayerMatches
@@ -157,7 +157,7 @@ export async function ImportToernament(file) {
 
         var subEvent = event.subEvents.find(
           subEvent =>
-            subEvent.poule == dbDraw.name && subEvent.gender == dbEvent.gender
+            subEvent.poule == dbDraw.name && subEvent.gender == dbEvent.gender-1 // Toernooi.nl works 1 based instead of 0 based!
         );
         if (!playerMatch1) {
           console.log(
@@ -187,6 +187,7 @@ export async function ImportToernament(file) {
     function addMatch(dbEntry, dbOponentEntry, match, final, subEvent) {
       subEvent.matches.push({
         final,
+        playedAt: match.plandate,
         team1_player1: getMemberId(dbEntry ? dbEntry.player1 : null),
         team1_player2: getMemberId(dbEntry ? dbEntry.player2 : null),
         team2_player1: getMemberId(

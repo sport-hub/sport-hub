@@ -8,13 +8,14 @@
       "subEvents": [
         {
           "poule": "DEC1",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 1,
           "size": 8,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2019-03-24T12:00:00Z",
               "team1_player1": "50601695",
               "team1_player2": null,
               "team2_player1": "50098670",
@@ -29,6 +30,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-24T10:30:00Z",
               "team1_player1": "50374990",
               "team1_player2": null,
               "team2_player1": "50601695",
@@ -43,6 +45,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-24T10:30:00Z",
               "team1_player1": "50098670",
               "team1_player2": null,
               "team2_player1": "50159119",
@@ -57,6 +60,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T08:30:00Z",
               "team1_player1": "50374990",
               "team1_player2": null,
               "team2_player1": "50108764",
@@ -71,6 +75,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T08:30:00Z",
               "team1_player1": "50053950",
               "team1_player2": null,
               "team2_player1": "50601695",
@@ -85,6 +90,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T09:00:00Z",
               "team1_player1": "861323",
               "team1_player2": null,
               "team2_player1": "50098670",
@@ -99,6 +105,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T09:00:00Z",
               "team1_player1": "853206",
               "team1_player2": null,
               "team2_player1": "50159119",
@@ -115,13 +122,14 @@
         },
         {
           "poule": "HEC1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 32,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2019-03-24T14:30:00Z",
               "team1_player1": "50410199",
               "team1_player2": null,
               "team2_player1": "50221051",
@@ -136,6 +144,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-24T13:30:00Z",
               "team1_player1": "50410199",
               "team1_player2": null,
               "team2_player1": "30042782",
@@ -150,6 +159,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-24T13:30:00Z",
               "team1_player1": "50069159",
               "team1_player2": null,
               "team2_player1": "50221051",
@@ -164,6 +174,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T12:15:00Z",
               "team1_player1": "50448269",
               "team1_player2": null,
               "team2_player1": "50410199",
@@ -178,6 +189,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T12:15:00Z",
               "team1_player1": "30042782",
               "team1_player2": null,
               "team2_player1": "50080512",
@@ -192,6 +204,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T12:30:00Z",
               "team1_player1": "50074661",
               "team1_player2": null,
               "team2_player1": "50069159",
@@ -206,6 +219,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T12:30:00Z",
               "team1_player1": "50221051",
               "team1_player2": null,
               "team2_player1": "30039485",
@@ -220,6 +234,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T10:45:00Z",
               "team1_player1": "50821482",
               "team1_player2": null,
               "team2_player1": "50448269",
@@ -234,6 +249,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T10:45:00Z",
               "team1_player1": "50410199",
               "team1_player2": null,
               "team2_player1": "30040760",
@@ -248,6 +264,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T10:45:00Z",
               "team1_player1": "50100985",
               "team1_player2": null,
               "team2_player1": "30042782",
@@ -262,6 +279,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T11:00:00Z",
               "team1_player1": "50080512",
               "team1_player2": null,
               "team2_player1": "50513117",
@@ -276,6 +294,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T11:00:00Z",
               "team1_player1": "50074661",
               "team1_player2": null,
               "team2_player1": "50312138",
@@ -290,6 +309,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T11:00:00Z",
               "team1_player1": "50084272",
               "team1_player2": null,
               "team2_player1": "50069159",
@@ -304,6 +324,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T11:00:00Z",
               "team1_player1": "50221051",
               "team1_player2": null,
               "team2_player1": "50493752",
@@ -318,6 +339,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T11:15:00Z",
               "team1_player1": "30051239",
               "team1_player2": null,
               "team2_player1": "30039485",
@@ -332,6 +354,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50821482",
               "team1_player2": null,
               "team2_player1": null,
@@ -346,6 +369,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": null,
               "team2_player1": null,
@@ -360,6 +384,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50410199",
               "team1_player2": null,
               "team2_player1": null,
@@ -374,6 +399,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T09:00:00Z",
               "team1_player1": "761206",
               "team1_player2": null,
               "team2_player1": "30040760",
@@ -388,6 +414,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50100985",
               "team1_player2": null,
               "team2_player1": null,
@@ -402,6 +429,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T09:00:00Z",
               "team1_player1": "30042782",
               "team1_player2": null,
               "team2_player1": "50001448",
@@ -416,6 +444,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50080512",
               "team1_player2": null,
               "team2_player1": null,
@@ -430,6 +459,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T09:15:00Z",
               "team1_player1": "50513117",
               "team1_player2": null,
               "team2_player1": "50024529",
@@ -444,6 +474,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T09:15:00Z",
               "team1_player1": "50103580",
               "team1_player2": null,
               "team2_player1": "50074661",
@@ -458,6 +489,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50312138",
@@ -472,6 +504,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T09:15:00Z",
               "team1_player1": "50084272",
               "team1_player2": null,
               "team2_player1": "30003077",
@@ -486,6 +519,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50069159",
@@ -500,6 +534,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T09:15:00Z",
               "team1_player1": "50221051",
               "team1_player2": null,
               "team2_player1": "50067530",
@@ -514,6 +549,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50493752",
@@ -528,6 +564,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "30051239",
@@ -542,6 +579,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "30039485",
@@ -558,12 +596,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T10:45:00Z",
               "team1_player1": "50070922",
               "team1_player2": "50070923",
               "team2_player1": "50159119",
@@ -577,6 +616,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:45:00Z",
               "team1_player1": "50098670",
               "team1_player2": "50098678",
               "team2_player1": "50159119",
@@ -590,6 +630,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T10:45:00Z",
               "team1_player1": "50159119",
               "team1_player2": "50588737",
               "team2_player1": "50070922",
@@ -603,6 +644,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "50098670",
               "team1_player2": "50098678",
               "team2_player1": "50070922",
@@ -616,6 +658,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T12:45:00Z",
               "team1_player1": "50159119",
               "team1_player2": "50588737",
               "team2_player1": "50098670",
@@ -629,6 +672,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "50070922",
               "team1_player2": "50070923",
               "team2_player1": "50098670",
@@ -645,12 +689,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T10:45:00Z",
               "team1_player1": "50118714",
               "team1_player2": "50504320",
               "team2_player1": "50082657",
@@ -664,6 +709,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T12:45:00Z",
               "team1_player1": "50080399",
               "team1_player2": "50600915",
               "team2_player1": "50082657",
@@ -677,6 +723,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "50075901",
               "team1_player2": "30038054",
               "team2_player1": "50082657",
@@ -690,6 +737,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T10:45:00Z",
               "team1_player1": "50082657",
               "team1_player2": "50108214",
               "team2_player1": "50118714",
@@ -703,6 +751,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "50080399",
               "team1_player2": "50600915",
               "team2_player1": "50118714",
@@ -716,6 +765,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:45:00Z",
               "team1_player1": "50075901",
               "team1_player2": "30038054",
               "team2_player1": "50118714",
@@ -729,6 +779,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:45:00Z",
               "team1_player1": "50082657",
               "team1_player2": "50108214",
               "team2_player1": "50080399",
@@ -742,6 +793,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "50118714",
               "team1_player2": "50504320",
               "team2_player1": "50080399",
@@ -755,6 +807,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T10:45:00Z",
               "team1_player1": "50075901",
               "team1_player2": "30038054",
               "team2_player1": "50080399",
@@ -768,6 +821,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "50082657",
               "team1_player2": "50108214",
               "team2_player1": "50075901",
@@ -781,6 +835,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:45:00Z",
               "team1_player1": "50118714",
               "team1_player2": "50504320",
               "team2_player1": "50075901",
@@ -794,6 +849,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T10:45:00Z",
               "team1_player1": "50080399",
               "team1_player2": "50600915",
               "team2_player1": "50075901",
@@ -810,13 +866,14 @@
         },
         {
           "poule": "DDC1",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2019-03-23T14:00:00Z",
               "team1_player1": "50070922",
               "team1_player2": "50070923",
               "team2_player1": "50082657",
@@ -833,12 +890,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T10:30:00Z",
               "team1_player1": "50007238",
               "team1_player2": "50044699",
               "team2_player1": "50162616",
@@ -852,6 +910,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T12:30:00Z",
               "team1_player1": "50099623",
               "team1_player2": "50099662",
               "team2_player1": "50162616",
@@ -865,6 +924,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T10:30:00Z",
               "team1_player1": "50162616",
               "team1_player2": "50073678",
               "team2_player1": "50007238",
@@ -878,6 +938,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "50099623",
               "team1_player2": "50099662",
               "team2_player1": "50007238",
@@ -891,6 +952,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:30:00Z",
               "team1_player1": "50162616",
               "team1_player2": "50073678",
               "team2_player1": "50099623",
@@ -904,6 +966,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "50007238",
               "team1_player2": "50044699",
               "team2_player1": "50099623",
@@ -920,12 +983,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T10:30:00Z",
               "team1_player1": "50056741",
               "team1_player2": "50058244",
               "team2_player1": "50091722",
@@ -939,6 +1003,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T12:30:00Z",
               "team1_player1": "890516",
               "team1_player2": "761206",
               "team2_player1": "50091722",
@@ -952,6 +1017,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "50079793",
               "team1_player2": "50063885",
               "team2_player1": "50091722",
@@ -965,6 +1031,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T10:30:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50448269",
               "team2_player1": "50056741",
@@ -978,6 +1045,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "890516",
               "team1_player2": "761206",
               "team2_player1": "50056741",
@@ -991,6 +1059,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:30:00Z",
               "team1_player1": "50079793",
               "team1_player2": "50063885",
               "team2_player1": "50056741",
@@ -1004,6 +1073,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:30:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50448269",
               "team2_player1": "890516",
@@ -1017,6 +1087,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "50056741",
               "team1_player2": "50058244",
               "team2_player1": "890516",
@@ -1030,6 +1101,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T10:30:00Z",
               "team1_player1": "50079793",
               "team1_player2": "50063885",
               "team2_player1": "890516",
@@ -1043,6 +1115,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50448269",
               "team2_player1": "50079793",
@@ -1056,6 +1129,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:30:00Z",
               "team1_player1": "50056741",
               "team1_player2": "50058244",
               "team2_player1": "50079793",
@@ -1069,6 +1143,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T10:30:00Z",
               "team1_player1": "890516",
               "team1_player2": "761206",
               "team2_player1": "50079793",
@@ -1085,12 +1160,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T10:30:00Z",
               "team1_player1": "30091357",
               "team1_player2": "30003077",
               "team2_player1": "30039039",
@@ -1104,6 +1180,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T12:30:00Z",
               "team1_player1": "50017902",
               "team1_player2": "50009515",
               "team2_player1": "30039039",
@@ -1117,6 +1194,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "50080512",
               "team1_player2": "50077101",
               "team2_player1": "30039039",
@@ -1130,6 +1208,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T10:30:00Z",
               "team1_player1": "30039039",
               "team1_player2": "30051239",
               "team2_player1": "30091357",
@@ -1143,6 +1222,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "50017902",
               "team1_player2": "50009515",
               "team2_player1": "30091357",
@@ -1156,6 +1236,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T12:45:00Z",
               "team1_player1": "50080512",
               "team1_player2": "50077101",
               "team2_player1": "30091357",
@@ -1169,6 +1250,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T12:30:00Z",
               "team1_player1": "30039039",
               "team1_player2": "30051239",
               "team2_player1": "50017902",
@@ -1182,6 +1264,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "30091357",
               "team1_player2": "30003077",
               "team2_player1": "50017902",
@@ -1195,6 +1278,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T10:45:00Z",
               "team1_player1": "50080512",
               "team1_player2": "50077101",
               "team2_player1": "50017902",
@@ -1208,6 +1292,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T08:30:00Z",
               "team1_player1": "30039039",
               "team1_player2": "30051239",
               "team2_player1": "50080512",
@@ -1221,6 +1306,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T12:45:00Z",
               "team1_player1": "30091357",
               "team1_player2": "30003077",
               "team2_player1": "50080512",
@@ -1234,6 +1320,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T10:45:00Z",
               "team1_player1": "50017902",
               "team1_player2": "50009515",
               "team2_player1": "50080512",
@@ -1250,12 +1337,13 @@
         },
         {
           "poule": "HDC1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T14:45:00Z",
               "team1_player1": "890516",
               "team1_player2": "761206",
               "team2_player1": "50099623",
@@ -1269,6 +1357,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T15:45:00Z",
               "team1_player1": "30091357",
               "team1_player2": "30003077",
               "team2_player1": "50099623",
@@ -1282,6 +1371,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T14:45:00Z",
               "team1_player1": "50099623",
               "team1_player2": "50099662",
               "team2_player1": "890516",
@@ -1295,6 +1385,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T14:00:00Z",
               "team1_player1": "30091357",
               "team1_player2": "30003077",
               "team2_player1": "890516",
@@ -1308,6 +1399,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T15:45:00Z",
               "team1_player1": "50099623",
               "team1_player2": "50099662",
               "team2_player1": "30091357",
@@ -1321,6 +1413,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T14:00:00Z",
               "team1_player1": "890516",
               "team1_player2": "761206",
               "team2_player1": "30091357",
@@ -1337,12 +1430,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T17:30:00Z",
               "team1_player1": "50603108",
               "team1_player2": "50111276",
               "team2_player1": "50084272",
@@ -1356,6 +1450,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:00:00Z",
               "team1_player1": "30039485",
               "team1_player2": "50098678",
               "team2_player1": "50084272",
@@ -1369,6 +1464,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T17:30:00Z",
               "team1_player1": "50084272",
               "team1_player2": "50106603",
               "team2_player1": "50603108",
@@ -1382,6 +1478,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:15:00Z",
               "team1_player1": "30039485",
               "team1_player2": "50098678",
               "team2_player1": "50603108",
@@ -1395,6 +1492,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:00:00Z",
               "team1_player1": "50084272",
               "team1_player2": "50106603",
               "team2_player1": "30039485",
@@ -1408,6 +1506,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:15:00Z",
               "team1_player1": "50603108",
               "team1_player2": "50111276",
               "team2_player1": "30039485",
@@ -1424,12 +1523,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T17:45:00Z",
               "team1_player1": "50058244",
               "team1_player2": "50049171",
               "team2_player1": "50091722",
@@ -1443,6 +1543,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:00:00Z",
               "team1_player1": "50109394",
               "team1_player2": "50090928",
               "team2_player1": "50091722",
@@ -1456,6 +1557,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T17:45:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50098670",
               "team2_player1": "50058244",
@@ -1469,6 +1571,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:15:00Z",
               "team1_player1": "50109394",
               "team1_player2": "50090928",
               "team2_player1": "50058244",
@@ -1482,6 +1585,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50098670",
               "team2_player1": "50109394",
@@ -1495,6 +1599,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:15:00Z",
               "team1_player1": "50058244",
               "team1_player2": "50049171",
               "team2_player1": "50109394",
@@ -1511,12 +1616,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T17:45:00Z",
               "team1_player1": "50072512",
               "team1_player2": "50600915",
               "team2_player1": "50054089",
@@ -1530,6 +1636,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:00:00Z",
               "team1_player1": "50063246",
               "team1_player2": "50118714",
               "team2_player1": "50054089",
@@ -1543,6 +1650,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T17:45:00Z",
               "team1_player1": "50054089",
               "team1_player2": "50055078",
               "team2_player1": "50072512",
@@ -1556,6 +1664,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:15:00Z",
               "team1_player1": "50063246",
               "team1_player2": "50118714",
               "team2_player1": "50072512",
@@ -1569,6 +1678,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:00:00Z",
               "team1_player1": "50054089",
               "team1_player2": "50055078",
               "team2_player1": "50063246",
@@ -1582,6 +1692,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:15:00Z",
               "team1_player1": "50072512",
               "team1_player2": "50600915",
               "team2_player1": "50063246",
@@ -1598,12 +1709,13 @@
         },
         {
           "poule": "Groep D",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T17:45:00Z",
               "team1_player1": "761206",
               "team1_player2": "851883",
               "team2_player1": "50069159",
@@ -1617,6 +1729,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T19:15:00Z",
               "team1_player1": "30040760",
               "team1_player2": "30038054",
               "team2_player1": "50069159",
@@ -1630,6 +1743,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:30:00Z",
               "team1_player1": "50100530",
               "team1_player2": "50053950",
               "team2_player1": "50069159",
@@ -1643,6 +1757,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T17:45:00Z",
               "team1_player1": "50069159",
               "team1_player2": "50108764",
               "team2_player1": "761206",
@@ -1656,6 +1771,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T16:30:00Z",
               "team1_player1": "30040760",
               "team1_player2": "30038054",
               "team2_player1": "761206",
@@ -1669,6 +1785,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:15:00Z",
               "team1_player1": "50100530",
               "team1_player2": "50053950",
               "team2_player1": "761206",
@@ -1682,6 +1799,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T19:15:00Z",
               "team1_player1": "50069159",
               "team1_player2": "50108764",
               "team2_player1": "30040760",
@@ -1695,6 +1813,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T16:30:00Z",
               "team1_player1": "761206",
               "team1_player2": "851883",
               "team2_player1": "30040760",
@@ -1708,6 +1827,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T17:45:00Z",
               "team1_player1": "50100530",
               "team1_player2": "50053950",
               "team2_player1": "30040760",
@@ -1721,6 +1841,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:30:00Z",
               "team1_player1": "50069159",
               "team1_player2": "50108764",
               "team2_player1": "50100530",
@@ -1734,6 +1855,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:15:00Z",
               "team1_player1": "761206",
               "team1_player2": "851883",
               "team2_player1": "50100530",
@@ -1747,6 +1869,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T17:45:00Z",
               "team1_player1": "30040760",
               "team1_player2": "30038054",
               "team2_player1": "50100530",
@@ -1763,13 +1886,14 @@
         },
         {
           "poule": "GDC1",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2019-03-23T20:45:00Z",
               "team1_player1": "50084272",
               "team1_player2": "50106603",
               "team2_player1": "50091722",
@@ -1784,6 +1908,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-23T20:00:00Z",
               "team1_player1": "50084272",
               "team1_player2": "50106603",
               "team2_player1": "50100530",
@@ -1798,6 +1923,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-23T20:00:00Z",
               "team1_player1": "50054089",
               "team1_player2": "50055078",
               "team2_player1": "50091722",
@@ -1822,12 +1948,13 @@
       "subEvents": [
         {
           "poule": "Groep A",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T11:15:00Z",
               "team1_player1": "50037915",
               "team1_player2": "853206",
               "team2_player1": "50024912",
@@ -1841,6 +1968,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T13:15:00Z",
               "team1_player1": "50049171",
               "team1_player2": "30041747",
               "team2_player1": "50024912",
@@ -1854,6 +1982,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "50107409",
               "team1_player2": "50110537",
               "team2_player1": "50024912",
@@ -1867,6 +1996,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T11:15:00Z",
               "team1_player1": "50024912",
               "team1_player2": "50036168",
               "team2_player1": "50037915",
@@ -1880,6 +2010,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "50049171",
               "team1_player2": "30041747",
               "team2_player1": "50037915",
@@ -1893,6 +2024,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T13:15:00Z",
               "team1_player1": "50107409",
               "team1_player2": "50110537",
               "team2_player1": "50037915",
@@ -1906,6 +2038,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T13:15:00Z",
               "team1_player1": "50024912",
               "team1_player2": "50036168",
               "team2_player1": "50049171",
@@ -1919,6 +2052,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "50037915",
               "team1_player2": "853206",
               "team2_player1": "50049171",
@@ -1932,6 +2066,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T11:15:00Z",
               "team1_player1": "50107409",
               "team1_player2": "50110537",
               "team2_player1": "50049171",
@@ -1945,6 +2080,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "50024912",
               "team1_player2": "50036168",
               "team2_player1": "50107409",
@@ -1958,6 +2094,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T13:15:00Z",
               "team1_player1": "50037915",
               "team1_player2": "853206",
               "team2_player1": "50107409",
@@ -1971,6 +2108,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T11:15:00Z",
               "team1_player1": "50049171",
               "team1_player2": "30041747",
               "team2_player1": "50107409",
@@ -1987,12 +2125,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T11:15:00Z",
               "team1_player1": "50721038",
               "team1_player2": "50508202",
               "team2_player1": "50093137",
@@ -2006,6 +2145,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T13:15:00Z",
               "team1_player1": "50108764",
               "team1_player2": "50098675",
               "team2_player1": "50093137",
@@ -2019,6 +2159,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "50871048",
               "team1_player2": "30055207",
               "team2_player1": "50093137",
@@ -2032,6 +2173,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T11:15:00Z",
               "team1_player1": "50093137",
               "team1_player2": "50220950",
               "team2_player1": "50721038",
@@ -2045,6 +2187,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "50108764",
               "team1_player2": "50098675",
               "team2_player1": "50721038",
@@ -2058,6 +2201,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T13:15:00Z",
               "team1_player1": "50871048",
               "team1_player2": "30055207",
               "team2_player1": "50721038",
@@ -2071,6 +2215,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T13:15:00Z",
               "team1_player1": "50093137",
               "team1_player2": "50220950",
               "team2_player1": "50108764",
@@ -2084,6 +2229,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "50721038",
               "team1_player2": "50508202",
               "team2_player1": "50108764",
@@ -2097,6 +2243,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T11:15:00Z",
               "team1_player1": "50871048",
               "team1_player2": "30055207",
               "team2_player1": "50108764",
@@ -2110,6 +2257,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "50093137",
               "team1_player2": "50220950",
               "team2_player1": "50871048",
@@ -2123,6 +2271,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T13:15:00Z",
               "team1_player1": "50721038",
               "team1_player2": "50508202",
               "team2_player1": "50871048",
@@ -2136,6 +2285,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T11:15:00Z",
               "team1_player1": "50108764",
               "team1_player2": "50098675",
               "team2_player1": "50871048",
@@ -2152,13 +2302,14 @@
         },
         {
           "poule": "DDC2",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2019-03-23T14:45:00Z",
               "team1_player1": "50037915",
               "team1_player2": "853206",
               "team2_player1": "50108764",
@@ -2175,13 +2326,14 @@
         },
         {
           "poule": "HEC2",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 8,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2019-03-24T13:00:00Z",
               "team1_player1": "50114177",
               "team1_player2": null,
               "team2_player1": "50722328",
@@ -2196,6 +2348,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-24T11:30:00Z",
               "team1_player1": "50079793",
               "team1_player2": null,
               "team2_player1": "50114177",
@@ -2210,6 +2363,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-24T11:30:00Z",
               "team1_player1": "30038053",
               "team1_player2": null,
               "team2_player1": "50722328",
@@ -2224,6 +2378,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T09:45:00Z",
               "team1_player1": "50094378",
               "team1_player2": null,
               "team2_player1": "50079793",
@@ -2238,6 +2393,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T09:45:00Z",
               "team1_player1": "50114177",
               "team1_player2": null,
               "team2_player1": "50077101",
@@ -2252,6 +2408,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T09:45:00Z",
               "team1_player1": "30038053",
               "team1_player2": null,
               "team2_player1": "50028466",
@@ -2266,6 +2423,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T10:00:00Z",
               "team1_player1": "50722328",
               "team1_player2": null,
               "team2_player1": "50075317",
@@ -2282,12 +2440,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T18:15:00Z",
               "team1_player1": "50105317",
               "team1_player2": "50087045",
               "team2_player1": "50100985",
@@ -2301,6 +2460,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:30:00Z",
               "team1_player1": "50114173",
               "team1_player2": "50098675",
               "team2_player1": "50100985",
@@ -2314,6 +2474,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T18:15:00Z",
               "team1_player1": "50100985",
               "team1_player2": "50159119",
               "team2_player1": "50105317",
@@ -2327,6 +2488,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:45:00Z",
               "team1_player1": "50114173",
               "team1_player2": "50098675",
               "team2_player1": "50105317",
@@ -2340,6 +2502,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:30:00Z",
               "team1_player1": "50100985",
               "team1_player2": "50159119",
               "team2_player1": "50114173",
@@ -2353,6 +2516,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:45:00Z",
               "team1_player1": "50105317",
               "team1_player2": "50087045",
               "team2_player1": "50114173",
@@ -2369,12 +2533,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T18:15:00Z",
               "team1_player1": "50073678",
               "team1_player2": "50220950",
               "team2_player1": "50448269",
@@ -2388,6 +2553,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:30:00Z",
               "team1_player1": "30037024",
               "team1_player2": "50502042",
               "team2_player1": "50448269",
@@ -2401,6 +2567,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T18:15:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50037915",
               "team2_player1": "50073678",
@@ -2414,6 +2581,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:45:00Z",
               "team1_player1": "30037024",
               "team1_player2": "50502042",
               "team2_player1": "50073678",
@@ -2427,6 +2595,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:30:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50037915",
               "team2_player1": "30037024",
@@ -2440,6 +2609,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:45:00Z",
               "team1_player1": "50073678",
               "team1_player2": "50220950",
               "team2_player1": "30037024",
@@ -2456,12 +2626,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T18:15:00Z",
               "team1_player1": "30051239",
               "team1_player2": "30041747",
               "team2_player1": "50048378",
@@ -2475,6 +2646,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T19:45:00Z",
               "team1_player1": "50099559",
               "team1_player2": "50070922",
               "team2_player1": "50048378",
@@ -2488,6 +2660,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T17:00:00Z",
               "team1_player1": "50060136",
               "team1_player2": "50088093",
               "team2_player1": "50048378",
@@ -2501,6 +2674,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T18:15:00Z",
               "team1_player1": "50048378",
               "team1_player2": "50080399",
               "team2_player1": "30051239",
@@ -2514,6 +2688,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T17:00:00Z",
               "team1_player1": "50099559",
               "team1_player2": "50070922",
               "team2_player1": "30051239",
@@ -2527,6 +2702,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T19:45:00Z",
               "team1_player1": "50060136",
               "team1_player2": "50088093",
               "team2_player1": "30051239",
@@ -2540,6 +2716,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:45:00Z",
               "team1_player1": "50048378",
               "team1_player2": "50080399",
               "team2_player1": "50099559",
@@ -2553,6 +2730,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T17:00:00Z",
               "team1_player1": "30051239",
               "team1_player2": "30041747",
               "team2_player1": "50099559",
@@ -2566,6 +2744,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T18:15:00Z",
               "team1_player1": "50060136",
               "team1_player2": "50088093",
               "team2_player1": "50099559",
@@ -2579,6 +2758,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T17:00:00Z",
               "team1_player1": "50048378",
               "team1_player2": "50080399",
               "team2_player1": "50060136",
@@ -2592,6 +2772,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:45:00Z",
               "team1_player1": "30051239",
               "team1_player2": "30041747",
               "team2_player1": "50060136",
@@ -2605,6 +2786,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T18:15:00Z",
               "team1_player1": "50099559",
               "team1_player2": "50070922",
               "team2_player1": "50060136",
@@ -2621,12 +2803,13 @@
         },
         {
           "poule": "Groep D",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T18:30:00Z",
               "team1_player1": "50513117",
               "team1_player2": "50751271",
               "team2_player1": "50079793",
@@ -2640,6 +2823,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T19:45:00Z",
               "team1_player1": "50056741",
               "team1_player2": "50088367",
               "team2_player1": "50079793",
@@ -2653,6 +2837,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T17:00:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50036168",
               "team2_player1": "50079793",
@@ -2666,6 +2851,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T18:30:00Z",
               "team1_player1": "50079793",
               "team1_player2": "853206",
               "team2_player1": "50513117",
@@ -2679,6 +2865,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T17:00:00Z",
               "team1_player1": "50056741",
               "team1_player2": "50088367",
               "team2_player1": "50513117",
@@ -2692,6 +2879,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T19:45:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50036168",
               "team2_player1": "50513117",
@@ -2705,6 +2893,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T19:45:00Z",
               "team1_player1": "50079793",
               "team1_player2": "853206",
               "team2_player1": "50056741",
@@ -2718,6 +2907,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T17:00:00Z",
               "team1_player1": "50513117",
               "team1_player2": "50751271",
               "team2_player1": "50056741",
@@ -2731,6 +2921,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T18:30:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50036168",
               "team2_player1": "50056741",
@@ -2744,6 +2935,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T17:00:00Z",
               "team1_player1": "50079793",
               "team1_player2": "853206",
               "team2_player1": "50024529",
@@ -2757,6 +2949,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:45:00Z",
               "team1_player1": "50513117",
               "team1_player2": "50751271",
               "team2_player1": "50024529",
@@ -2770,6 +2963,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T18:30:00Z",
               "team1_player1": "50056741",
               "team1_player2": "50088367",
               "team2_player1": "50024529",
@@ -2786,13 +2980,14 @@
         },
         {
           "poule": "GDC2",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2019-03-23T20:45:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50036168",
               "team2_player1": "50099559",
@@ -2807,6 +3002,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-23T20:15:00Z",
               "team1_player1": "50100985",
               "team1_player2": "50159119",
               "team2_player1": "50024529",
@@ -2821,6 +3017,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-23T20:15:00Z",
               "team1_player1": "50099559",
               "team1_player2": "50070922",
               "team2_player1": "50448269",
@@ -2837,12 +3034,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T11:45:00Z",
               "team1_player1": "50316303",
               "team1_player2": "50730185",
               "team2_player1": "50513117",
@@ -2856,6 +3054,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T13:30:00Z",
               "team1_player1": "50393758",
               "team1_player2": "50271288",
               "team2_player1": "50513117",
@@ -2869,6 +3068,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T11:45:00Z",
               "team1_player1": "50513117",
               "team1_player2": "50067530",
               "team2_player1": "50316303",
@@ -2882,6 +3082,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:45:00Z",
               "team1_player1": "50393758",
               "team1_player2": "50271288",
               "team2_player1": "50316303",
@@ -2895,6 +3096,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T13:30:00Z",
               "team1_player1": "50513117",
               "team1_player2": "50067530",
               "team2_player1": "50393758",
@@ -2908,6 +3110,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:45:00Z",
               "team1_player1": "50316303",
               "team1_player2": "50730185",
               "team2_player1": "50393758",
@@ -2924,12 +3127,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T11:45:00Z",
               "team1_player1": "50722328",
               "team1_player2": "50114177",
               "team2_player1": "50109842",
@@ -2943,6 +3147,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T13:30:00Z",
               "team1_player1": "50075317",
               "team1_player2": "50092195",
               "team2_player1": "50109842",
@@ -2956,6 +3161,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T11:45:00Z",
               "team1_player1": "50109842",
               "team1_player2": "50060136",
               "team2_player1": "50722328",
@@ -2969,6 +3175,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T09:45:00Z",
               "team1_player1": "50075317",
               "team1_player2": "50092195",
               "team2_player1": "50722328",
@@ -2982,6 +3189,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T13:30:00Z",
               "team1_player1": "50109842",
               "team1_player2": "50060136",
               "team2_player1": "50075317",
@@ -2995,6 +3203,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:45:00Z",
               "team1_player1": "50722328",
               "team1_player2": "50114177",
               "team2_player1": "50075317",
@@ -3011,12 +3220,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T11:45:00Z",
               "team1_player1": "50080034",
               "team1_player2": "50028466",
               "team2_player1": "30035967",
@@ -3030,6 +3240,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T13:30:00Z",
               "team1_player1": "50114171",
               "team1_player2": "50110526",
               "team2_player1": "30035967",
@@ -3043,6 +3254,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T11:45:00Z",
               "team1_player1": "30035967",
               "team1_player2": "30037024",
               "team2_player1": "50080034",
@@ -3056,6 +3268,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T09:45:00Z",
               "team1_player1": "50114171",
               "team1_player2": "50110526",
               "team2_player1": "50080034",
@@ -3069,6 +3282,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T13:30:00Z",
               "team1_player1": "30035967",
               "team1_player2": "30037024",
               "team2_player1": "50114171",
@@ -3082,6 +3296,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:45:00Z",
               "team1_player1": "50080034",
               "team1_player2": "50028466",
               "team2_player1": "50114171",
@@ -3098,12 +3313,13 @@
         },
         {
           "poule": "HDC2",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T15:00:00Z",
               "team1_player1": "50722328",
               "team1_player2": "50114177",
               "team2_player1": "50513117",
@@ -3117,6 +3333,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T15:30:00Z",
               "team1_player1": "50080034",
               "team1_player2": "50028466",
               "team2_player1": "50513117",
@@ -3130,6 +3347,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T15:00:00Z",
               "team1_player1": "50513117",
               "team1_player2": "50067530",
               "team2_player1": "50722328",
@@ -3143,6 +3361,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T14:15:00Z",
               "team1_player1": "50080034",
               "team1_player2": "50028466",
               "team2_player1": "50722328",
@@ -3156,6 +3375,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T15:30:00Z",
               "team1_player1": "50513117",
               "team1_player2": "50067530",
               "team2_player1": "50080034",
@@ -3169,6 +3389,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T14:15:00Z",
               "team1_player1": "50722328",
               "team1_player2": "50114177",
               "team2_player1": "50080034",
@@ -3193,13 +3414,14 @@
       "subEvents": [
         {
           "poule": "HEB1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 32,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2019-03-24T14:00:00Z",
               "team1_player1": "50066907",
               "team1_player2": null,
               "team2_player1": "50057100",
@@ -3214,6 +3436,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-24T13:00:00Z",
               "team1_player1": "718683",
               "team1_player2": null,
               "team2_player1": "50066907",
@@ -3228,6 +3451,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-24T13:00:00Z",
               "team1_player1": "50057100",
               "team1_player2": null,
               "team2_player1": "50084839",
@@ -3242,6 +3466,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T11:30:00Z",
               "team1_player1": "50079963",
               "team1_player2": null,
               "team2_player1": "718683",
@@ -3256,6 +3481,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T11:45:00Z",
               "team1_player1": "50066907",
               "team1_player2": null,
               "team2_player1": "828643",
@@ -3270,6 +3496,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T11:45:00Z",
               "team1_player1": "877357",
               "team1_player2": null,
               "team2_player1": "50057100",
@@ -3284,6 +3511,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T11:45:00Z",
               "team1_player1": "50111095",
               "team1_player2": null,
               "team2_player1": "50084839",
@@ -3298,6 +3526,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T10:00:00Z",
               "team1_player1": "50079963",
               "team1_player2": null,
               "team2_player1": "50091400",
@@ -3312,6 +3541,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T10:00:00Z",
               "team1_player1": "50070509",
               "team1_player2": null,
               "team2_player1": "718683",
@@ -3326,6 +3556,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T10:00:00Z",
               "team1_player1": "50066907",
               "team1_player2": null,
               "team2_player1": "50093475",
@@ -3340,6 +3571,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T10:15:00Z",
               "team1_player1": "828643",
               "team1_player2": null,
               "team2_player1": "50099623",
@@ -3354,6 +3586,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T10:15:00Z",
               "team1_player1": "50104341",
               "team1_player2": null,
               "team2_player1": "877357",
@@ -3368,6 +3601,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T10:15:00Z",
               "team1_player1": "50092197",
               "team1_player2": null,
               "team2_player1": "50057100",
@@ -3382,6 +3616,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T10:15:00Z",
               "team1_player1": "30039039",
               "team1_player2": null,
               "team2_player1": "50111095",
@@ -3396,6 +3631,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2019-03-24T10:30:00Z",
               "team1_player1": "50108199",
               "team1_player2": null,
               "team2_player1": "50084839",
@@ -3410,6 +3646,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50079963",
               "team1_player2": null,
               "team2_player1": null,
@@ -3424,6 +3661,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T08:00:00Z",
               "team1_player1": "50091400",
               "team1_player2": null,
               "team2_player1": null,
@@ -3438,6 +3676,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T08:00:00Z",
               "team1_player1": "892172",
               "team1_player2": null,
               "team2_player1": "50070509",
@@ -3452,6 +3691,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T08:00:00Z",
               "team1_player1": "50188321",
               "team1_player2": null,
               "team2_player1": "718683",
@@ -3466,6 +3706,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50066907",
               "team1_player2": null,
               "team2_player1": null,
@@ -3480,6 +3721,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T08:00:00Z",
               "team1_player1": "50054089",
               "team1_player2": null,
               "team2_player1": "50093475",
@@ -3494,6 +3736,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T08:00:00Z",
               "team1_player1": "50828975",
               "team1_player2": null,
               "team2_player1": "828643",
@@ -3508,6 +3751,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T08:00:00Z",
               "team1_player1": "50111255",
               "team1_player2": null,
               "team2_player1": "50099623",
@@ -3522,6 +3766,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T08:00:00Z",
               "team1_player1": "883039",
               "team1_player2": null,
               "team2_player1": "50104341",
@@ -3536,6 +3781,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T08:30:00Z",
               "team1_player1": "50111087",
               "team1_player2": null,
               "team2_player1": "877357",
@@ -3550,6 +3796,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T08:30:00Z",
               "team1_player1": "50092197",
               "team1_player2": null,
               "team2_player1": "50072512",
@@ -3564,6 +3811,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50057100",
@@ -3578,6 +3826,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T08:30:00Z",
               "team1_player1": "50095389",
               "team1_player2": null,
               "team2_player1": "30039039",
@@ -3592,6 +3841,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T08:30:00Z",
               "team1_player1": "50010240",
               "team1_player2": null,
               "team2_player1": "50111095",
@@ -3606,6 +3856,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2019-03-24T08:30:00Z",
               "team1_player1": "970901",
               "team1_player2": null,
               "team2_player1": "50108199",
@@ -3620,6 +3871,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50084839",
@@ -3636,13 +3888,14 @@
         },
         {
           "poule": "DEB1",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 1,
           "size": 8,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2019-03-24T13:00:00Z",
               "team1_player1": "50095390",
               "team1_player2": null,
               "team2_player1": "50024168",
@@ -3657,6 +3910,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-24T11:15:00Z",
               "team1_player1": "50008498",
               "team1_player2": null,
               "team2_player1": "50095390",
@@ -3671,6 +3925,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-24T11:30:00Z",
               "team1_player1": "875774",
               "team1_player2": null,
               "team2_player1": "50024168",
@@ -3685,6 +3940,7 @@
             },
             {
               "final": 3,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50008498",
               "team1_player2": null,
               "team2_player1": null,
@@ -3699,6 +3955,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T09:30:00Z",
               "team1_player1": "50114468",
               "team1_player2": null,
               "team2_player1": "50095390",
@@ -3713,6 +3970,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T09:30:00Z",
               "team1_player1": "875774",
               "team1_player2": null,
               "team2_player1": "50682512",
@@ -3727,6 +3985,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T09:45:00Z",
               "team1_player1": "50024168",
               "team1_player2": null,
               "team2_player1": "50090076",
@@ -3743,12 +4002,13 @@
         },
         {
           "poule": "GDB1",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T17:30:00Z",
               "team1_player1": "718683",
               "team1_player2": "50024168",
               "team2_player1": "50103721",
@@ -3762,6 +4022,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T18:45:00Z",
               "team1_player1": "50091400",
               "team1_player2": "50330799",
               "team2_player1": "50103721",
@@ -3775,6 +4036,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:00:00Z",
               "team1_player1": "836751",
               "team1_player2": "50886789",
               "team2_player1": "50103721",
@@ -3788,6 +4050,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T17:30:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50008498",
               "team2_player1": "718683",
@@ -3801,6 +4064,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T16:00:00Z",
               "team1_player1": "50091400",
               "team1_player2": "50330799",
               "team2_player1": "718683",
@@ -3814,6 +4078,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:00:00Z",
               "team1_player1": "836751",
               "team1_player2": "50886789",
               "team2_player1": "718683",
@@ -3827,6 +4092,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T18:45:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50008498",
               "team2_player1": "50091400",
@@ -3840,6 +4106,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T16:00:00Z",
               "team1_player1": "718683",
               "team1_player2": "50024168",
               "team2_player1": "50091400",
@@ -3853,6 +4120,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T17:30:00Z",
               "team1_player1": "836751",
               "team1_player2": "50886789",
               "team2_player1": "50091400",
@@ -3866,6 +4134,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T16:00:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50008498",
               "team2_player1": "836751",
@@ -3879,6 +4148,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T19:00:00Z",
               "team1_player1": "718683",
               "team1_player2": "50024168",
               "team2_player1": "836751",
@@ -3892,6 +4162,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T17:30:00Z",
               "team1_player1": "50091400",
               "team1_player2": "50330799",
               "team2_player1": "836751",
@@ -3908,12 +4179,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T11:00:00Z",
               "team1_player1": "50330799",
               "team1_player2": "50886789",
               "team2_player1": "50024168",
@@ -3927,6 +4199,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T13:00:00Z",
               "team1_player1": "50008498",
               "team1_player2": "50090928",
               "team2_player1": "50024168",
@@ -3940,6 +4213,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "50053596",
               "team1_player2": "50879766",
               "team2_player1": "50024168",
@@ -3953,6 +4227,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T11:00:00Z",
               "team1_player1": "50024168",
               "team1_player2": "50090076",
               "team2_player1": "50330799",
@@ -3966,6 +4241,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "50008498",
               "team1_player2": "50090928",
               "team2_player1": "50330799",
@@ -3979,6 +4255,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T13:00:00Z",
               "team1_player1": "50053596",
               "team1_player2": "50879766",
               "team2_player1": "50330799",
@@ -3992,6 +4269,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T13:00:00Z",
               "team1_player1": "50024168",
               "team1_player2": "50090076",
               "team2_player1": "50008498",
@@ -4005,6 +4283,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "50330799",
               "team1_player2": "50886789",
               "team2_player1": "50008498",
@@ -4018,6 +4297,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T11:00:00Z",
               "team1_player1": "50053596",
               "team1_player2": "50879766",
               "team2_player1": "50008498",
@@ -4031,6 +4311,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "50024168",
               "team1_player2": "50090076",
               "team2_player1": "50053596",
@@ -4044,6 +4325,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T13:00:00Z",
               "team1_player1": "50330799",
               "team1_player2": "50886789",
               "team2_player1": "50053596",
@@ -4057,6 +4339,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T11:00:00Z",
               "team1_player1": "50008498",
               "team1_player2": "50090928",
               "team2_player1": "50053596",
@@ -4073,12 +4356,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T11:00:00Z",
               "team1_player1": "50072283",
               "team1_player2": "50055078",
               "team2_player1": "50682512",
@@ -4092,6 +4376,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T13:00:00Z",
               "team1_player1": "861323",
               "team1_player2": "50576283",
               "team2_player1": "50682512",
@@ -4105,6 +4390,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "875774",
               "team1_player2": "50111276",
               "team2_player1": "50682512",
@@ -4118,6 +4404,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T11:00:00Z",
               "team1_player1": "50682512",
               "team1_player2": "50095390",
               "team2_player1": "50072283",
@@ -4131,6 +4418,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "861323",
               "team1_player2": "50576283",
               "team2_player1": "50072283",
@@ -4144,6 +4432,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T13:00:00Z",
               "team1_player1": "875774",
               "team1_player2": "50111276",
               "team2_player1": "50072283",
@@ -4157,6 +4446,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T13:00:00Z",
               "team1_player1": "50682512",
               "team1_player2": "50095390",
               "team2_player1": "861323",
@@ -4170,6 +4460,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "50072283",
               "team1_player2": "50055078",
               "team2_player1": "861323",
@@ -4183,6 +4474,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T11:00:00Z",
               "team1_player1": "875774",
               "team1_player2": "50111276",
               "team2_player1": "861323",
@@ -4196,6 +4488,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T09:00:00Z",
               "team1_player1": "50682512",
               "team1_player2": "50095390",
               "team2_player1": "875774",
@@ -4209,6 +4502,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T13:00:00Z",
               "team1_player1": "50072283",
               "team1_player2": "50055078",
               "team2_player1": "875774",
@@ -4222,6 +4516,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T11:00:00Z",
               "team1_player1": "861323",
               "team1_player2": "50576283",
               "team2_player1": "875774",
@@ -4238,13 +4533,14 @@
         },
         {
           "poule": "DDB1",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2019-03-23T14:15:00Z",
               "team1_player1": "50024168",
               "team1_player2": "50090076",
               "team2_player1": "50682512",
@@ -4261,12 +4557,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T11:30:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50043844",
               "team2_player1": "50060991",
@@ -4280,6 +4577,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T13:30:00Z",
               "team1_player1": "50082726",
               "team1_player2": "50045869",
               "team2_player1": "50060991",
@@ -4293,6 +4591,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T11:30:00Z",
               "team1_player1": "50060991",
               "team1_player2": "50091594",
               "team2_player1": "50070509",
@@ -4306,6 +4605,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:30:00Z",
               "team1_player1": "50082726",
               "team1_player2": "50045869",
               "team2_player1": "50070509",
@@ -4319,6 +4619,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T13:30:00Z",
               "team1_player1": "50060991",
               "team1_player2": "50091594",
               "team2_player1": "50082726",
@@ -4332,6 +4633,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T09:30:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50043844",
               "team2_player1": "50082726",
@@ -4348,12 +4650,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T11:30:00Z",
               "team1_player1": "50069159",
               "team1_player2": "50069485",
               "team2_player1": "50057100",
@@ -4367,6 +4670,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T13:45:00Z",
               "team1_player1": "50065268",
               "team1_player2": "50091400",
               "team2_player1": "50057100",
@@ -4380,6 +4684,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T11:30:00Z",
               "team1_player1": "50057100",
               "team1_player2": "50084272",
               "team2_player1": "50069159",
@@ -4393,6 +4698,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:30:00Z",
               "team1_player1": "50065268",
               "team1_player2": "50091400",
               "team2_player1": "50069159",
@@ -4406,6 +4712,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T13:45:00Z",
               "team1_player1": "50057100",
               "team1_player2": "50084272",
               "team2_player1": "50065268",
@@ -4419,6 +4726,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:30:00Z",
               "team1_player1": "50069159",
               "team1_player2": "50069485",
               "team2_player1": "50065268",
@@ -4435,12 +4743,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T11:30:00Z",
               "team1_player1": "50093475",
               "team1_player2": "50111087",
               "team2_player1": "50084839",
@@ -4454,6 +4763,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T13:45:00Z",
               "team1_player1": "50092197",
               "team1_player2": "50111095",
               "team2_player1": "50084839",
@@ -4467,6 +4777,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T11:30:00Z",
               "team1_player1": "50084839",
               "team1_player2": "50079963",
               "team2_player1": "50093475",
@@ -4480,6 +4791,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:30:00Z",
               "team1_player1": "50092197",
               "team1_player2": "50111095",
               "team2_player1": "50093475",
@@ -4493,6 +4805,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T13:45:00Z",
               "team1_player1": "50084839",
               "team1_player2": "50079963",
               "team2_player1": "50092197",
@@ -4506,6 +4819,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T09:30:00Z",
               "team1_player1": "50093475",
               "team1_player2": "50111087",
               "team2_player1": "50092197",
@@ -4522,12 +4836,13 @@
         },
         {
           "poule": "Groep D",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50072050",
@@ -4541,6 +4856,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T13:45:00Z",
               "team1_player1": "836751",
               "team1_player2": "718683",
               "team2_player1": "50072050",
@@ -4554,6 +4870,7 @@
               "winner": 1
             },
             {
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50072050",
               "team1_player2": "50066907",
               "team2_player1": null,
@@ -4567,6 +4884,7 @@
               "winner": 1
             },
             {
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "836751",
               "team1_player2": "718683",
               "team2_player1": null,
@@ -4580,6 +4898,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T13:45:00Z",
               "team1_player1": "50072050",
               "team1_player2": "50066907",
               "team2_player1": "836751",
@@ -4593,6 +4912,7 @@
               "winner": 2
             },
             {
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "836751",
@@ -4606,6 +4926,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T09:45:00Z",
               "team1_player1": "50074661",
               "team1_player2": "50094706",
               "team2_player1": "50072050",
@@ -4619,6 +4940,7 @@
               "winner": 2
             },
             {
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50074661",
               "team1_player2": "50094706",
               "team2_player1": null,
@@ -4632,6 +4954,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T11:45:00Z",
               "team1_player1": "50074661",
               "team1_player2": "50094706",
               "team2_player1": "836751",
@@ -4645,6 +4968,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T09:45:00Z",
               "team1_player1": "50072050",
               "team1_player2": "50066907",
               "team2_player1": "50074661",
@@ -4658,6 +4982,7 @@
               "winner": 1
             },
             {
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50074661",
@@ -4671,6 +4996,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T11:45:00Z",
               "team1_player1": "836751",
               "team1_player2": "718683",
               "team2_player1": "50074661",
@@ -4687,13 +5013,14 @@
         },
         {
           "poule": "HDB1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2019-03-23T15:15:00Z",
               "team1_player1": "50060991",
               "team1_player2": "50091594",
               "team2_player1": "50057100",
@@ -4708,6 +5035,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-23T14:30:00Z",
               "team1_player1": "50060991",
               "team1_player2": "50091594",
               "team2_player1": "836751",
@@ -4722,6 +5050,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-23T14:30:00Z",
               "team1_player1": "50084839",
               "team1_player2": "50079963",
               "team2_player1": "50057100",
@@ -4746,12 +5075,13 @@
       "subEvents": [
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T10:00:00Z",
               "team1_player1": "50081662",
               "team1_player2": "50070408",
               "team2_player1": "50603108",
@@ -4765,6 +5095,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T12:00:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50010240",
               "team2_player1": "50603108",
@@ -4778,6 +5109,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "50072512",
               "team1_player2": "50099559",
               "team2_player1": "50603108",
@@ -4791,6 +5123,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T10:00:00Z",
               "team1_player1": "50603108",
               "team1_player2": "50111255",
               "team2_player1": "50081662",
@@ -4804,6 +5137,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50010240",
               "team2_player1": "50081662",
@@ -4817,6 +5151,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:00:00Z",
               "team1_player1": "50072512",
               "team1_player2": "50099559",
               "team2_player1": "50081662",
@@ -4830,6 +5165,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:00:00Z",
               "team1_player1": "50603108",
               "team1_player2": "50111255",
               "team2_player1": "50024529",
@@ -4843,6 +5179,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "50081662",
               "team1_player2": "50070408",
               "team2_player1": "50024529",
@@ -4856,6 +5193,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T10:00:00Z",
               "team1_player1": "50072512",
               "team1_player2": "50099559",
               "team2_player1": "50024529",
@@ -4869,6 +5207,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "50603108",
               "team1_player2": "50111255",
               "team2_player1": "50072512",
@@ -4882,6 +5221,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:00:00Z",
               "team1_player1": "50081662",
               "team1_player2": "50070408",
               "team2_player1": "50072512",
@@ -4895,6 +5235,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T10:00:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50010240",
               "team2_player1": "50072512",
@@ -4911,12 +5252,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T10:00:00Z",
               "team1_player1": "50001448",
               "team1_player2": "50925571",
               "team2_player1": "50104341",
@@ -4930,6 +5272,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T12:00:00Z",
               "team1_player1": "50110211",
               "team1_player2": "50048378",
               "team2_player1": "50104341",
@@ -4943,6 +5286,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "30039485",
               "team1_player2": "30042782",
               "team2_player1": "50104341",
@@ -4956,6 +5300,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T10:00:00Z",
               "team1_player1": "50104341",
               "team1_player2": "50109394",
               "team2_player1": "50001448",
@@ -4969,6 +5314,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "50110211",
               "team1_player2": "50048378",
               "team2_player1": "50001448",
@@ -4982,6 +5328,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:00:00Z",
               "team1_player1": "30039485",
               "team1_player2": "30042782",
               "team2_player1": "50001448",
@@ -4995,6 +5342,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:00:00Z",
               "team1_player1": "50104341",
               "team1_player2": "50109394",
               "team2_player1": "50110211",
@@ -5008,6 +5356,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "50001448",
               "team1_player2": "50925571",
               "team2_player1": "50110211",
@@ -5021,6 +5370,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T10:00:00Z",
               "team1_player1": "30039485",
               "team1_player2": "30042782",
               "team2_player1": "50110211",
@@ -5034,6 +5384,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "50104341",
               "team1_player2": "50109394",
               "team2_player1": "30039485",
@@ -5047,6 +5398,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T12:00:00Z",
               "team1_player1": "50001448",
               "team1_player2": "50925571",
               "team2_player1": "30039485",
@@ -5060,6 +5412,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T10:00:00Z",
               "team1_player1": "50110211",
               "team1_player2": "50048378",
               "team2_player1": "30039485",
@@ -5076,12 +5429,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T10:15:00Z",
               "team1_player1": "50312138",
               "team1_player2": "50821482",
               "team2_player1": "50037095",
@@ -5095,6 +5449,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T12:15:00Z",
               "team1_player1": "50410199",
               "team1_player2": "50221051",
               "team2_player1": "50037095",
@@ -5108,6 +5463,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "50828975",
               "team1_player2": "50063246",
               "team2_player1": "50037095",
@@ -5121,6 +5477,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T10:15:00Z",
               "team1_player1": "50037095",
               "team1_player2": "50054089",
               "team2_player1": "50312138",
@@ -5134,6 +5491,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "50410199",
               "team1_player2": "50221051",
               "team2_player1": "50312138",
@@ -5147,6 +5505,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:15:00Z",
               "team1_player1": "50828975",
               "team1_player2": "50063246",
               "team2_player1": "50312138",
@@ -5160,6 +5519,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:15:00Z",
               "team1_player1": "50037095",
               "team1_player2": "50054089",
               "team2_player1": "50410199",
@@ -5173,6 +5533,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "50312138",
               "team1_player2": "50821482",
               "team2_player1": "50410199",
@@ -5186,6 +5547,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T10:15:00Z",
               "team1_player1": "50828975",
               "team1_player2": "50063246",
               "team2_player1": "50410199",
@@ -5199,6 +5561,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "50037095",
               "team1_player2": "50054089",
               "team2_player1": "50828975",
@@ -5212,6 +5575,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:15:00Z",
               "team1_player1": "50312138",
               "team1_player2": "50821482",
               "team2_player1": "50828975",
@@ -5225,6 +5589,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T10:15:00Z",
               "team1_player1": "50410199",
               "team1_player2": "50221051",
               "team2_player1": "50828975",
@@ -5241,12 +5606,13 @@
         },
         {
           "poule": "Groep D",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T10:15:00Z",
               "team1_player1": "883039",
               "team1_player2": "877357",
               "team2_player1": "50108199",
@@ -5260,6 +5626,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T12:15:00Z",
               "team1_player1": "50357298",
               "team1_player2": "50104857",
               "team2_player1": "50108199",
@@ -5273,6 +5640,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "892172",
               "team1_player2": "828643",
               "team2_player1": "50108199",
@@ -5286,6 +5654,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T10:15:00Z",
               "team1_player1": "50108199",
               "team1_player2": "50095389",
               "team2_player1": "883039",
@@ -5299,6 +5668,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "50357298",
               "team1_player2": "50104857",
               "team2_player1": "883039",
@@ -5312,6 +5682,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T12:15:00Z",
               "team1_player1": "892172",
               "team1_player2": "828643",
               "team2_player1": "883039",
@@ -5325,6 +5696,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T12:15:00Z",
               "team1_player1": "50108199",
               "team1_player2": "50095389",
               "team2_player1": "50357298",
@@ -5338,6 +5710,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "883039",
               "team1_player2": "877357",
               "team2_player1": "50357298",
@@ -5351,6 +5724,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T10:15:00Z",
               "team1_player1": "892172",
               "team1_player2": "828643",
               "team2_player1": "50357298",
@@ -5364,6 +5738,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T08:00:00Z",
               "team1_player1": "50108199",
               "team1_player2": "50095389",
               "team2_player1": "892172",
@@ -5377,6 +5752,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T12:15:00Z",
               "team1_player1": "883039",
               "team1_player2": "877357",
               "team2_player1": "892172",
@@ -5390,6 +5766,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T10:15:00Z",
               "team1_player1": "50357298",
               "team1_player2": "50104857",
               "team2_player1": "892172",
@@ -5406,13 +5783,14 @@
         },
         {
           "poule": "HDB2",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2019-03-23T15:00:00Z",
               "team1_player1": "883039",
               "team1_player2": "877357",
               "team2_player1": "50110211",
@@ -5427,6 +5805,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-23T14:00:00Z",
               "team1_player1": "50603108",
               "team1_player2": "50111255",
               "team2_player1": "883039",
@@ -5441,6 +5820,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-23T14:00:00Z",
               "team1_player1": "50037095",
               "team1_player2": "50054089",
               "team2_player1": "50110211",
@@ -5457,12 +5837,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T17:15:00Z",
               "team1_player1": "50065268",
               "team1_player2": "50504320",
               "team2_player1": "50037095",
@@ -5476,6 +5857,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T18:30:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50082657",
               "team2_player1": "50037095",
@@ -5489,6 +5871,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T17:15:00Z",
               "team1_player1": "50037095",
               "team1_player2": "50879766",
               "team2_player1": "50065268",
@@ -5502,6 +5885,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T15:45:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50082657",
               "team2_player1": "50065268",
@@ -5515,6 +5899,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T18:30:00Z",
               "team1_player1": "50037095",
               "team1_player2": "50879766",
               "team2_player1": "50070509",
@@ -5528,6 +5913,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T15:45:00Z",
               "team1_player1": "50065268",
               "team1_player2": "50504320",
               "team2_player1": "50070509",
@@ -5544,12 +5930,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T17:15:00Z",
               "team1_player1": "883039",
               "team1_player2": "861323",
               "team2_player1": "50072050",
@@ -5563,6 +5950,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T18:30:00Z",
               "team1_player1": "50111095",
               "team1_player2": "50072283",
               "team2_player1": "50072050",
@@ -5576,6 +5964,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T17:15:00Z",
               "team1_player1": "50072050",
               "team1_player2": "50090076",
               "team2_player1": "883039",
@@ -5589,6 +5978,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T15:45:00Z",
               "team1_player1": "50111095",
               "team1_player2": "50072283",
               "team2_player1": "883039",
@@ -5602,6 +5992,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T18:30:00Z",
               "team1_player1": "50072050",
               "team1_player2": "50090076",
               "team2_player1": "50111095",
@@ -5615,6 +6006,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T15:45:00Z",
               "team1_player1": "883039",
               "team1_player2": "861323",
               "team2_player1": "50111095",
@@ -5631,12 +6023,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2019-03-23T17:15:00Z",
               "team1_player1": "50221051",
               "team1_player2": "50682512",
               "team2_player1": "50079963",
@@ -5650,6 +6043,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T18:45:00Z",
               "team1_player1": "828643",
               "team1_player2": "875774",
               "team2_player1": "50079963",
@@ -5663,6 +6057,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T17:15:00Z",
               "team1_player1": "50079963",
               "team1_player2": "50108214",
               "team2_player1": "50221051",
@@ -5676,6 +6071,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T15:45:00Z",
               "team1_player1": "828643",
               "team1_player2": "875774",
               "team2_player1": "50221051",
@@ -5689,6 +6085,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T18:45:00Z",
               "team1_player1": "50079963",
               "team1_player2": "50108214",
               "team2_player1": "828643",
@@ -5702,6 +6099,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T15:45:00Z",
               "team1_player1": "50221051",
               "team1_player2": "50682512",
               "team2_player1": "828643",
@@ -5718,12 +6116,13 @@
         },
         {
           "poule": "Groep D",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T17:15:00Z",
               "team1_player1": "50104341",
               "team1_player2": "50114468",
               "team2_player1": "892172",
@@ -5737,6 +6136,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T18:45:00Z",
               "team1_player1": "50092197",
               "team1_player2": "50075901",
               "team2_player1": "892172",
@@ -5750,6 +6150,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:00:00Z",
               "team1_player1": "50084839",
               "team1_player2": "50576283",
               "team2_player1": "892172",
@@ -5763,6 +6164,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T17:15:00Z",
               "team1_player1": "892172",
               "team1_player2": "50095390",
               "team2_player1": "50104341",
@@ -5776,6 +6178,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:00:00Z",
               "team1_player1": "50092197",
               "team1_player2": "50075901",
               "team2_player1": "50104341",
@@ -5789,6 +6192,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T18:45:00Z",
               "team1_player1": "50084839",
               "team1_player2": "50576283",
               "team2_player1": "50104341",
@@ -5802,6 +6206,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T18:45:00Z",
               "team1_player1": "892172",
               "team1_player2": "50095390",
               "team2_player1": "50092197",
@@ -5815,6 +6220,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T16:00:00Z",
               "team1_player1": "50104341",
               "team1_player2": "50114468",
               "team2_player1": "50092197",
@@ -5828,6 +6234,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T17:30:00Z",
               "team1_player1": "50084839",
               "team1_player2": "50576283",
               "team2_player1": "50092197",
@@ -5841,6 +6248,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T16:00:00Z",
               "team1_player1": "892172",
               "team1_player2": "50095390",
               "team2_player1": "50084839",
@@ -5854,6 +6262,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T18:45:00Z",
               "team1_player1": "50104341",
               "team1_player2": "50114468",
               "team2_player1": "50084839",
@@ -5867,6 +6276,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T17:30:00Z",
               "team1_player1": "50092197",
               "team1_player2": "50075901",
               "team2_player1": "50084839",
@@ -5883,13 +6293,14 @@
         },
         {
           "poule": "GDB2",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2019-03-23T20:45:00Z",
               "team1_player1": "50092197",
               "team1_player2": "50075901",
               "team2_player1": "828643",
@@ -5904,6 +6315,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-23T20:00:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50082657",
               "team2_player1": "50092197",
@@ -5918,6 +6330,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-23T20:00:00Z",
               "team1_player1": "828643",
               "team1_player2": "875774",
               "team2_player1": "50072050",
@@ -6005,12 +6418,13 @@
       "subEvents": [
         {
           "poule": "Groep A",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T18:00:00Z",
               "team1_player1": "30035967",
               "team1_player2": "30055207",
               "team2_player1": "50730185",
@@ -6024,6 +6438,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T19:15:00Z",
               "team1_player1": "50393758",
               "team1_player2": "50871048",
               "team2_player1": "50730185",
@@ -6037,6 +6452,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:30:00Z",
               "team1_player1": "50028466",
               "team1_player2": "50110537",
               "team2_player1": "50730185",
@@ -6050,6 +6466,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T18:00:00Z",
               "team1_player1": "50730185",
               "team1_player2": "50107409",
               "team2_player1": "30035967",
@@ -6063,6 +6480,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T16:30:00Z",
               "team1_player1": "50393758",
               "team1_player2": "50871048",
               "team2_player1": "30035967",
@@ -6076,6 +6494,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T19:15:00Z",
               "team1_player1": "50028466",
               "team1_player2": "50110537",
               "team2_player1": "30035967",
@@ -6089,6 +6508,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:15:00Z",
               "team1_player1": "50730185",
               "team1_player2": "50107409",
               "team2_player1": "50393758",
@@ -6102,6 +6522,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T16:30:00Z",
               "team1_player1": "30035967",
               "team1_player2": "30055207",
               "team2_player1": "50393758",
@@ -6115,6 +6536,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T18:00:00Z",
               "team1_player1": "50028466",
               "team1_player2": "50110537",
               "team2_player1": "50393758",
@@ -6128,6 +6550,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T16:30:00Z",
               "team1_player1": "50730185",
               "team1_player2": "50107409",
               "team2_player1": "50028466",
@@ -6141,6 +6564,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:15:00Z",
               "team1_player1": "30035967",
               "team1_player2": "30055207",
               "team2_player1": "50028466",
@@ -6154,6 +6578,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T18:00:00Z",
               "team1_player1": "50393758",
               "team1_player2": "50871048",
               "team2_player1": "50028466",
@@ -6170,12 +6595,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2019-03-23T18:00:00Z",
               "team1_player1": "50068550",
               "team1_player2": "50852256",
               "team2_player1": "50316303",
@@ -6189,6 +6615,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:45:00Z",
               "team1_player1": "50719297",
               "team1_player2": "4984759",
               "team2_player1": "50068550",
@@ -6202,6 +6629,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:30:00Z",
               "team1_player1": "50114177",
               "team1_player2": "50508202",
               "team2_player1": "50068550",
@@ -6215,6 +6643,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T18:00:00Z",
               "team1_player1": "50316303",
               "team1_player2": "50721038",
               "team2_player1": "50068550",
@@ -6228,6 +6657,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T18:00:00Z",
               "team1_player1": "50114177",
               "team1_player2": "50508202",
               "team2_player1": "50719297",
@@ -6241,6 +6671,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T19:30:00Z",
               "team1_player1": "50316303",
               "team1_player2": "50721038",
               "team2_player1": "50719297",
@@ -6254,6 +6685,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T16:45:00Z",
               "team1_player1": "50068550",
               "team1_player2": "50852256",
               "team2_player1": "50719297",
@@ -6267,6 +6699,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T18:00:00Z",
               "team1_player1": "50719297",
               "team1_player2": "4984759",
               "team2_player1": "50114177",
@@ -6280,6 +6713,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T16:45:00Z",
               "team1_player1": "50316303",
               "team1_player2": "50721038",
               "team2_player1": "50114177",
@@ -6293,6 +6727,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-23T19:30:00Z",
               "team1_player1": "50068550",
               "team1_player2": "50852256",
               "team2_player1": "50114177",
@@ -6306,6 +6741,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T19:30:00Z",
               "team1_player1": "50719297",
               "team1_player2": "4984759",
               "team2_player1": "50316303",
@@ -6319,6 +6755,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-23T16:45:00Z",
               "team1_player1": "50114177",
               "team1_player2": "50508202",
               "team2_player1": "50316303",
@@ -6335,13 +6772,14 @@
         },
         {
           "poule": "GDD",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2019-03-23T20:15:00Z",
               "team1_player1": "50393758",
               "team1_player2": "50871048",
               "team2_player1": "50068550",
@@ -6358,13 +6796,14 @@
         },
         {
           "poule": "HED",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 8,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2019-03-24T12:15:00Z",
               "team1_player1": "30037024",
               "team1_player2": null,
               "team2_player1": "50589075",
@@ -6379,6 +6818,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-24T10:30:00Z",
               "team1_player1": "50719297",
               "team1_player2": null,
               "team2_player1": "30037024",
@@ -6393,6 +6833,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2019-03-24T10:45:00Z",
               "team1_player1": "50114173",
               "team1_player2": null,
               "team2_player1": "50589075",
@@ -6407,6 +6848,7 @@
             },
             {
               "final": 3,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50719297",
               "team1_player2": null,
               "team2_player1": null,
@@ -6421,6 +6863,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T09:00:00Z",
               "team1_player1": "50110526",
               "team1_player2": null,
               "team2_player1": "30037024",
@@ -6435,6 +6878,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T09:00:00Z",
               "team1_player1": "50114173",
               "team1_player2": null,
               "team2_player1": "50092195",
@@ -6449,6 +6893,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2019-03-24T09:00:00Z",
               "team1_player1": "50257021",
               "team1_player2": null,
               "team2_player1": "50589075",
@@ -6465,12 +6910,13 @@
         },
         {
           "poule": "DED",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2019-03-24T11:15:00Z",
               "team1_player1": "50107409",
               "team1_player2": null,
               "team2_player1": "4984759",
@@ -6484,6 +6930,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-24T12:30:00Z",
               "team1_player1": "50721038",
               "team1_player2": null,
               "team2_player1": "4984759",
@@ -6497,6 +6944,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-24T13:30:00Z",
               "team1_player1": "50110537",
               "team1_player2": null,
               "team2_player1": "4984759",
@@ -6510,6 +6958,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-24T14:45:00Z",
               "team1_player1": "50508202",
               "team1_player2": null,
               "team2_player1": "4984759",
@@ -6523,6 +6972,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-24T11:15:00Z",
               "team1_player1": "4984759",
               "team1_player2": null,
               "team2_player1": "50107409",
@@ -6536,6 +6986,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-24T13:30:00Z",
               "team1_player1": "50721038",
               "team1_player2": null,
               "team2_player1": "50107409",
@@ -6549,6 +7000,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-24T14:45:00Z",
               "team1_player1": "50110537",
               "team1_player2": null,
               "team2_player1": "50107409",
@@ -6562,6 +7014,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-24T09:30:00Z",
               "team1_player1": "50508202",
               "team1_player2": null,
               "team2_player1": "50107409",
@@ -6575,6 +7028,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-24T12:30:00Z",
               "team1_player1": "4984759",
               "team1_player2": null,
               "team2_player1": "50721038",
@@ -6588,6 +7042,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-24T13:30:00Z",
               "team1_player1": "50107409",
               "team1_player2": null,
               "team2_player1": "50721038",
@@ -6601,6 +7056,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-24T09:30:00Z",
               "team1_player1": "50110537",
               "team1_player2": null,
               "team2_player1": "50721038",
@@ -6614,6 +7070,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-24T11:15:00Z",
               "team1_player1": "50508202",
               "team1_player2": null,
               "team2_player1": "50721038",
@@ -6627,6 +7084,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2019-03-24T13:30:00Z",
               "team1_player1": "4984759",
               "team1_player2": null,
               "team2_player1": "50110537",
@@ -6640,6 +7098,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-24T14:45:00Z",
               "team1_player1": "50107409",
               "team1_player2": null,
               "team2_player1": "50110537",
@@ -6653,6 +7112,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-24T09:30:00Z",
               "team1_player1": "50721038",
               "team1_player2": null,
               "team2_player1": "50110537",
@@ -6666,6 +7126,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-24T12:30:00Z",
               "team1_player1": "50508202",
               "team1_player2": null,
               "team2_player1": "50110537",
@@ -6679,6 +7140,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-24T14:45:00Z",
               "team1_player1": "4984759",
               "team1_player2": null,
               "team2_player1": "50508202",
@@ -6692,6 +7154,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-24T09:30:00Z",
               "team1_player1": "50107409",
               "team1_player2": null,
               "team2_player1": "50508202",
@@ -6705,6 +7168,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-24T11:15:00Z",
               "team1_player1": "50721038",
               "team1_player2": null,
               "team2_player1": "50508202",
@@ -6718,6 +7182,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2019-03-24T12:30:00Z",
               "team1_player1": "50110537",
               "team1_player2": null,
               "team2_player1": "50508202",

@@ -8,12 +8,13 @@
       "subEvents": [
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50093094",
               "team1_player2": null,
               "team2_player1": "30046592",
@@ -27,6 +28,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50078085",
               "team1_player2": null,
               "team2_player1": "30046592",
@@ -40,6 +42,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50090959",
               "team1_player2": null,
               "team2_player1": "30046592",
@@ -53,6 +56,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "30046592",
               "team1_player2": null,
               "team2_player1": "50093094",
@@ -66,6 +70,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50078085",
               "team1_player2": null,
               "team2_player1": "50093094",
@@ -79,6 +84,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50090959",
               "team1_player2": null,
               "team2_player1": "50093094",
@@ -92,6 +98,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "30046592",
               "team1_player2": null,
               "team2_player1": "50078085",
@@ -105,6 +112,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50093094",
               "team1_player2": null,
               "team2_player1": "50078085",
@@ -118,6 +126,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50090959",
               "team1_player2": null,
               "team2_player1": "50078085",
@@ -131,6 +140,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "30046592",
               "team1_player2": null,
               "team2_player1": "50090959",
@@ -144,6 +154,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50093094",
               "team1_player2": null,
               "team2_player1": "50090959",
@@ -157,6 +168,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50078085",
               "team1_player2": null,
               "team2_player1": "50090959",
@@ -170,6 +182,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50091081",
               "team1_player2": "50084177",
               "team2_player1": "50093094",
@@ -183,6 +196,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T12:30:00Z",
               "team1_player1": "50018747",
               "team1_player2": "50090860",
               "team2_player1": "50093094",
@@ -196,6 +210,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50093094",
               "team1_player2": "50099653",
               "team2_player1": "50091081",
@@ -209,6 +224,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50018747",
               "team1_player2": "50090860",
               "team2_player1": "50091081",
@@ -222,6 +238,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T12:30:00Z",
               "team1_player1": "50093094",
               "team1_player2": "50099653",
               "team2_player1": "50018747",
@@ -235,6 +252,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50091081",
               "team1_player2": "50084177",
               "team2_player1": "50018747",
@@ -251,12 +269,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50099653",
               "team1_player2": null,
               "team2_player1": "50083258",
@@ -270,6 +289,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50082037",
               "team1_player2": null,
               "team2_player1": "50083258",
@@ -283,6 +303,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50082763",
               "team1_player2": null,
               "team2_player1": "50083258",
@@ -296,6 +317,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50083258",
               "team1_player2": null,
               "team2_player1": "50099653",
@@ -309,6 +331,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50082037",
               "team1_player2": null,
               "team2_player1": "50099653",
@@ -322,6 +345,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50082763",
               "team1_player2": null,
               "team2_player1": "50099653",
@@ -335,6 +359,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50083258",
               "team1_player2": null,
               "team2_player1": "50082037",
@@ -348,6 +373,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50099653",
               "team1_player2": null,
               "team2_player1": "50082037",
@@ -361,6 +387,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50082763",
               "team1_player2": null,
               "team2_player1": "50082037",
@@ -374,6 +401,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50083258",
               "team1_player2": null,
               "team2_player1": "50082763",
@@ -387,6 +415,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50099653",
               "team1_player2": null,
               "team2_player1": "50082763",
@@ -400,6 +429,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50082037",
               "team1_player2": null,
               "team2_player1": "50082763",
@@ -413,6 +443,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50086210",
               "team1_player2": "50082037",
               "team2_player1": "50012150",
@@ -426,6 +457,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T12:30:00Z",
               "team1_player1": "50086072",
               "team1_player2": "50090769",
               "team2_player1": "50012150",
@@ -439,6 +471,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50012150",
               "team1_player2": "50082763",
               "team2_player1": "50086210",
@@ -452,6 +485,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50086072",
               "team1_player2": "50090769",
               "team2_player1": "50086210",
@@ -465,6 +499,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T12:30:00Z",
               "team1_player1": "50012150",
               "team1_player2": "50082763",
               "team2_player1": "50086072",
@@ -478,6 +513,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50086210",
               "team1_player2": "50082037",
               "team2_player1": "50086072",
@@ -494,12 +530,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50084177",
               "team1_player2": null,
               "team2_player1": "50090247",
@@ -513,6 +550,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50090769",
               "team1_player2": null,
               "team2_player1": "50090247",
@@ -526,6 +564,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50086210",
               "team1_player2": null,
               "team2_player1": "50090247",
@@ -539,6 +578,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50090247",
               "team1_player2": null,
               "team2_player1": "50084177",
@@ -552,6 +592,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50090769",
               "team1_player2": null,
               "team2_player1": "50084177",
@@ -565,6 +606,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50086210",
               "team1_player2": null,
               "team2_player1": "50084177",
@@ -578,6 +620,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50090247",
               "team1_player2": null,
               "team2_player1": "50090769",
@@ -591,6 +634,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50084177",
               "team1_player2": null,
               "team2_player1": "50090769",
@@ -604,6 +648,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50086210",
               "team1_player2": null,
               "team2_player1": "50090769",
@@ -617,6 +662,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50090247",
               "team1_player2": null,
               "team2_player1": "50086210",
@@ -630,6 +676,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50084177",
               "team1_player2": null,
               "team2_player1": "50086210",
@@ -643,6 +690,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50090769",
               "team1_player2": null,
               "team2_player1": "50086210",
@@ -659,12 +707,13 @@
         },
         {
           "poule": "HEB",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2015-03-01T13:30:00Z",
               "team1_player1": "50083258",
               "team1_player2": null,
               "team2_player1": "50090959",
@@ -678,6 +727,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T14:30:00Z",
               "team1_player1": "50086210",
               "team1_player2": null,
               "team2_player1": "50090959",
@@ -691,6 +741,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T13:30:00Z",
               "team1_player1": "50090959",
               "team1_player2": null,
               "team2_player1": "50083258",
@@ -704,6 +755,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "50086210",
               "team1_player2": null,
               "team2_player1": "50083258",
@@ -717,6 +769,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T14:30:00Z",
               "team1_player1": "50090959",
               "team1_player2": null,
               "team2_player1": "50086210",
@@ -730,6 +783,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "50083258",
               "team1_player2": null,
               "team2_player1": "50086210",
@@ -746,12 +800,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50095950",
               "team1_player2": null,
               "team2_player1": "50094280",
@@ -765,6 +820,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50101365",
               "team1_player2": null,
               "team2_player1": "50094280",
@@ -778,6 +834,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50094280",
               "team1_player2": null,
               "team2_player1": "50095950",
@@ -791,6 +848,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50101365",
               "team1_player2": null,
               "team2_player1": "50095950",
@@ -804,6 +862,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50094280",
               "team1_player2": null,
               "team2_player1": "50101365",
@@ -817,6 +876,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50095950",
               "team1_player2": null,
               "team2_player1": "50101365",
@@ -833,12 +893,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50066180",
               "team1_player2": null,
               "team2_player1": "50086927",
@@ -852,6 +913,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50095874",
               "team1_player2": null,
               "team2_player1": "50086927",
@@ -865,6 +927,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50104685",
               "team1_player2": null,
               "team2_player1": "50086927",
@@ -878,6 +941,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50086927",
               "team1_player2": null,
               "team2_player1": "50066180",
@@ -891,6 +955,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50095874",
               "team1_player2": null,
               "team2_player1": "50066180",
@@ -904,6 +969,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50104685",
               "team1_player2": null,
               "team2_player1": "50066180",
@@ -917,6 +983,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50086927",
               "team1_player2": null,
               "team2_player1": "50095874",
@@ -930,6 +997,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50066180",
               "team1_player2": null,
               "team2_player1": "50095874",
@@ -943,6 +1011,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50104685",
               "team1_player2": null,
               "team2_player1": "50095874",
@@ -956,6 +1025,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50086927",
               "team1_player2": null,
               "team2_player1": "50104685",
@@ -969,6 +1039,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50066180",
               "team1_player2": null,
               "team2_player1": "50104685",
@@ -982,6 +1053,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50095874",
               "team1_player2": null,
               "team2_player1": "50104685",
@@ -998,13 +1070,14 @@
         },
         {
           "poule": "DEB",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "50094280",
               "team1_player2": null,
               "team2_player1": "50086927",
@@ -1021,7 +1094,7 @@
         },
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
@@ -1029,7 +1102,7 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
@@ -1037,13 +1110,14 @@
         },
         {
           "poule": "HDB",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2015-03-01T14:00:00Z",
               "team1_player1": "50093094",
               "team1_player2": "50099653",
               "team2_player1": "50086072",
@@ -1060,12 +1134,13 @@
         },
         {
           "poule": "GDB",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50086072",
               "team1_player2": "50101365",
               "team2_player1": "50083258",
@@ -1079,6 +1154,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:00:00Z",
               "team1_player1": "50082763",
               "team1_player2": "50095950",
               "team2_player1": "50083258",
@@ -1092,6 +1168,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50084177",
               "team1_player2": "50086927",
               "team2_player1": "50083258",
@@ -1105,6 +1182,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50083258",
               "team1_player2": "50094280",
               "team2_player1": "50086072",
@@ -1118,6 +1196,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50082763",
               "team1_player2": "50095950",
               "team2_player1": "50086072",
@@ -1131,6 +1210,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:00:00Z",
               "team1_player1": "50084177",
               "team1_player2": "50086927",
               "team2_player1": "50086072",
@@ -1144,6 +1224,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:00:00Z",
               "team1_player1": "50083258",
               "team1_player2": "50094280",
               "team2_player1": "50082763",
@@ -1157,6 +1238,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50086072",
               "team1_player2": "50101365",
               "team2_player1": "50082763",
@@ -1170,6 +1252,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50084177",
               "team1_player2": "50086927",
               "team2_player1": "50082763",
@@ -1183,6 +1266,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50083258",
               "team1_player2": "50094280",
               "team2_player1": "50084177",
@@ -1196,6 +1280,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T17:00:00Z",
               "team1_player1": "50086072",
               "team1_player2": "50101365",
               "team2_player1": "50084177",
@@ -1209,6 +1294,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50082763",
               "team1_player2": "50095950",
               "team2_player1": "50084177",
@@ -1247,12 +1333,13 @@
       "subEvents": [
         {
           "poule": "DDB2",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2015-03-01T12:30:00Z",
               "team1_player1": "50095950",
               "team1_player2": "50104685",
               "team2_player1": "50094280",
@@ -1266,6 +1353,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T14:00:00Z",
               "team1_player1": "50095874",
               "team1_player2": "50101365",
               "team2_player1": "50094280",
@@ -1279,6 +1367,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T12:30:00Z",
               "team1_player1": "50094280",
               "team1_player2": "50102671",
               "team2_player1": "50095950",
@@ -1292,6 +1381,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50095874",
               "team1_player2": "50101365",
               "team2_player1": "50095950",
@@ -1305,6 +1395,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T14:00:00Z",
               "team1_player1": "50094280",
               "team1_player2": "50102671",
               "team2_player1": "50095874",
@@ -1318,6 +1409,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50095950",
               "team1_player2": "50104685",
               "team2_player1": "50095874",
@@ -1349,12 +1441,13 @@
       "subEvents": [
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50051560",
               "team1_player2": null,
               "team2_player1": "50094542",
@@ -1368,6 +1461,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50106208",
               "team1_player2": null,
               "team2_player1": "50094542",
@@ -1381,6 +1475,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50084261",
               "team1_player2": null,
               "team2_player1": "50094542",
@@ -1394,6 +1489,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50094542",
               "team1_player2": null,
               "team2_player1": "50051560",
@@ -1407,6 +1503,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50106208",
               "team1_player2": null,
               "team2_player1": "50051560",
@@ -1420,6 +1517,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50084261",
               "team1_player2": null,
               "team2_player1": "50051560",
@@ -1433,6 +1531,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50094542",
               "team1_player2": null,
               "team2_player1": "50106208",
@@ -1446,6 +1545,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50051560",
               "team1_player2": null,
               "team2_player1": "50106208",
@@ -1459,6 +1559,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50084261",
               "team1_player2": null,
               "team2_player1": "50106208",
@@ -1472,6 +1573,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50094542",
               "team1_player2": null,
               "team2_player1": "50084261",
@@ -1485,6 +1587,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50051560",
               "team1_player2": null,
               "team2_player1": "50084261",
@@ -1498,6 +1601,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50106208",
               "team1_player2": null,
               "team2_player1": "50084261",
@@ -1511,6 +1615,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50051560",
               "team1_player2": "50109681",
               "team2_player1": "30068584",
@@ -1524,6 +1629,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "50069384",
               "team1_player2": "50093008",
               "team2_player1": "30068584",
@@ -1537,6 +1643,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "30068584",
               "team1_player2": "50104687",
               "team2_player1": "50051560",
@@ -1550,6 +1657,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50069384",
               "team1_player2": "50093008",
               "team2_player1": "50051560",
@@ -1563,6 +1671,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "30068584",
               "team1_player2": "50104687",
               "team2_player1": "50069384",
@@ -1576,6 +1685,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50051560",
               "team1_player2": "50109681",
               "team2_player1": "50069384",
@@ -1592,12 +1702,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50059022",
               "team1_player2": null,
               "team2_player1": "50112855",
@@ -1611,6 +1722,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "30043318",
               "team1_player2": null,
               "team2_player1": "50112855",
@@ -1624,6 +1736,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50090603",
               "team1_player2": null,
               "team2_player1": "50112855",
@@ -1637,6 +1750,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50112855",
               "team1_player2": null,
               "team2_player1": "50059022",
@@ -1650,6 +1764,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "30043318",
               "team1_player2": null,
               "team2_player1": "50059022",
@@ -1663,6 +1778,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50090603",
               "team1_player2": null,
               "team2_player1": "50059022",
@@ -1676,6 +1792,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50112855",
               "team1_player2": null,
               "team2_player1": "30043318",
@@ -1689,6 +1806,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50059022",
               "team1_player2": null,
               "team2_player1": "30043318",
@@ -1702,6 +1820,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50090603",
               "team1_player2": null,
               "team2_player1": "30043318",
@@ -1715,6 +1834,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50112855",
               "team1_player2": null,
               "team2_player1": "50090603",
@@ -1728,6 +1848,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50059022",
               "team1_player2": null,
               "team2_player1": "50090603",
@@ -1741,6 +1862,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "30043318",
               "team1_player2": null,
               "team2_player1": "50090603",
@@ -1754,6 +1876,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50090259",
               "team1_player2": "50090770",
               "team2_player1": "50090247",
@@ -1767,6 +1890,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T12:30:00Z",
               "team1_player1": "50090603",
               "team1_player2": "50080614",
               "team2_player1": "50090247",
@@ -1780,6 +1904,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50090247",
               "team1_player2": "50115529",
               "team2_player1": "50090259",
@@ -1793,6 +1918,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50090603",
               "team1_player2": "50080614",
               "team2_player1": "50090259",
@@ -1806,6 +1932,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T12:30:00Z",
               "team1_player1": "50090247",
               "team1_player2": "50115529",
               "team2_player1": "50090603",
@@ -1819,6 +1946,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50090259",
               "team1_player2": "50090770",
               "team2_player1": "50090603",
@@ -1835,12 +1963,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50090259",
               "team1_player2": null,
               "team2_player1": "50111719",
@@ -1854,6 +1983,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50109681",
               "team1_player2": null,
               "team2_player1": "50111719",
@@ -1867,6 +1997,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50090770",
               "team1_player2": null,
               "team2_player1": "50111719",
@@ -1880,6 +2011,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50111719",
               "team1_player2": null,
               "team2_player1": "50090259",
@@ -1893,6 +2025,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50109681",
               "team1_player2": null,
               "team2_player1": "50090259",
@@ -1906,6 +2039,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50090770",
               "team1_player2": null,
               "team2_player1": "50090259",
@@ -1919,6 +2053,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50111719",
               "team1_player2": null,
               "team2_player1": "50109681",
@@ -1932,6 +2067,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50090259",
               "team1_player2": null,
               "team2_player1": "50109681",
@@ -1945,6 +2081,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50090770",
               "team1_player2": null,
               "team2_player1": "50109681",
@@ -1958,6 +2095,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50111719",
               "team1_player2": null,
               "team2_player1": "50090770",
@@ -1971,6 +2109,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50090259",
               "team1_player2": null,
               "team2_player1": "50090770",
@@ -1984,6 +2123,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50109681",
               "team1_player2": null,
               "team2_player1": "50090770",
@@ -2000,12 +2140,13 @@
         },
         {
           "poule": "Groep D",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "50089296",
               "team1_player2": null,
               "team2_player1": "30056346",
@@ -2019,6 +2160,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "30006944",
               "team1_player2": null,
               "team2_player1": "30056346",
@@ -2032,6 +2174,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50103167",
               "team1_player2": null,
               "team2_player1": "30056346",
@@ -2045,6 +2188,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T12:00:00Z",
               "team1_player1": "30056346",
               "team1_player2": null,
               "team2_player1": "50089296",
@@ -2058,6 +2202,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "30006944",
               "team1_player2": null,
               "team2_player1": "50089296",
@@ -2071,6 +2216,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50103167",
               "team1_player2": null,
               "team2_player1": "50089296",
@@ -2084,6 +2230,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "30056346",
               "team1_player2": null,
               "team2_player1": "30006944",
@@ -2097,6 +2244,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50089296",
               "team1_player2": null,
               "team2_player1": "30006944",
@@ -2110,6 +2258,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50103167",
               "team1_player2": null,
               "team2_player1": "30006944",
@@ -2123,6 +2272,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "30056346",
               "team1_player2": null,
               "team2_player1": "50103167",
@@ -2136,6 +2286,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50089296",
               "team1_player2": null,
               "team2_player1": "50103167",
@@ -2149,6 +2300,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "30006944",
               "team1_player2": null,
               "team2_player1": "50103167",
@@ -2162,6 +2314,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50104687",
               "team1_player2": null,
               "team2_player1": "30056346",
@@ -2175,6 +2328,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50104687",
               "team1_player2": null,
               "team2_player1": "50089296",
@@ -2188,6 +2342,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50104687",
               "team1_player2": null,
               "team2_player1": "30006944",
@@ -2201,6 +2356,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50104687",
               "team1_player2": null,
               "team2_player1": "50103167",
@@ -2214,6 +2370,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "30056346",
               "team1_player2": null,
               "team2_player1": "50104687",
@@ -2227,6 +2384,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50089296",
               "team1_player2": null,
               "team2_player1": "50104687",
@@ -2240,6 +2398,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "30006944",
               "team1_player2": null,
               "team2_player1": "50104687",
@@ -2253,6 +2412,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50103167",
               "team1_player2": null,
               "team2_player1": "50104687",
@@ -2269,13 +2429,14 @@
         },
         {
           "poule": "HEC1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2015-03-01T13:30:00Z",
               "team1_player1": "50089296",
               "team1_player2": null,
               "team2_player1": "50112855",
@@ -2290,6 +2451,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "50094542",
               "team1_player2": null,
               "team2_player1": "50089296",
@@ -2304,6 +2466,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "50090259",
               "team1_player2": null,
               "team2_player1": "50112855",
@@ -2320,12 +2483,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50063649",
               "team1_player2": null,
               "team2_player1": "50078740",
@@ -2339,6 +2503,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50089739",
               "team1_player2": null,
               "team2_player1": "50078740",
@@ -2352,6 +2517,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50089203",
               "team1_player2": null,
               "team2_player1": "50078740",
@@ -2365,6 +2531,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50078740",
               "team1_player2": null,
               "team2_player1": "50063649",
@@ -2378,6 +2545,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50089739",
               "team1_player2": null,
               "team2_player1": "50063649",
@@ -2391,6 +2559,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50089203",
               "team1_player2": null,
               "team2_player1": "50063649",
@@ -2404,6 +2573,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50078740",
               "team1_player2": null,
               "team2_player1": "50089739",
@@ -2417,6 +2587,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50063649",
               "team1_player2": null,
               "team2_player1": "50089739",
@@ -2430,6 +2601,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50089203",
               "team1_player2": null,
               "team2_player1": "50089739",
@@ -2443,6 +2615,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50078740",
               "team1_player2": null,
               "team2_player1": "50089203",
@@ -2456,6 +2629,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50063649",
               "team1_player2": null,
               "team2_player1": "50089203",
@@ -2469,6 +2643,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50089739",
               "team1_player2": null,
               "team2_player1": "50089203",
@@ -2485,12 +2660,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50090613",
               "team1_player2": null,
               "team2_player1": "50082213",
@@ -2504,6 +2680,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50068581",
               "team1_player2": null,
               "team2_player1": "50082213",
@@ -2517,6 +2694,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50114468",
               "team1_player2": null,
               "team2_player1": "50082213",
@@ -2530,6 +2708,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50082213",
               "team1_player2": null,
               "team2_player1": "50090613",
@@ -2543,6 +2722,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50068581",
               "team1_player2": null,
               "team2_player1": "50090613",
@@ -2556,6 +2736,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50114468",
               "team1_player2": null,
               "team2_player1": "50090613",
@@ -2569,6 +2750,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50082213",
               "team1_player2": null,
               "team2_player1": "50068581",
@@ -2582,6 +2764,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50090613",
               "team1_player2": null,
               "team2_player1": "50068581",
@@ -2595,6 +2778,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50114468",
               "team1_player2": null,
               "team2_player1": "50068581",
@@ -2608,6 +2792,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50082213",
               "team1_player2": null,
               "team2_player1": "50114468",
@@ -2621,6 +2806,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50090613",
               "team1_player2": null,
               "team2_player1": "50114468",
@@ -2634,6 +2820,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50068581",
               "team1_player2": null,
               "team2_player1": "50114468",
@@ -2650,13 +2837,14 @@
         },
         {
           "poule": "DEC1",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "50089739",
               "team1_player2": null,
               "team2_player1": "50090613",
@@ -2673,7 +2861,7 @@
         },
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
@@ -2681,7 +2869,7 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
@@ -2689,13 +2877,14 @@
         },
         {
           "poule": "HDC1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2015-03-01T14:00:00Z",
               "team1_player1": "30068584",
               "team1_player2": "50104687",
               "team2_player1": "50090247",
@@ -2712,12 +2901,13 @@
         },
         {
           "poule": "DDC1",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-03-01T12:30:00Z",
               "team1_player1": "50114468",
               "team1_player2": "50367870",
               "team2_player1": "50063649",
@@ -2731,6 +2921,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T14:00:00Z",
               "team1_player1": "50068581",
               "team1_player2": "50089203",
               "team2_player1": "50063649",
@@ -2744,6 +2935,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50090613",
               "team1_player2": "50078740",
               "team2_player1": "50063649",
@@ -2757,6 +2949,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T12:30:00Z",
               "team1_player1": "50063649",
               "team1_player2": "50066180",
               "team2_player1": "50114468",
@@ -2770,6 +2963,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50068581",
               "team1_player2": "50089203",
               "team2_player1": "50114468",
@@ -2783,6 +2977,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T14:00:00Z",
               "team1_player1": "50090613",
               "team1_player2": "50078740",
               "team2_player1": "50114468",
@@ -2796,6 +2991,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T14:00:00Z",
               "team1_player1": "50063649",
               "team1_player2": "50066180",
               "team2_player1": "50068581",
@@ -2809,6 +3005,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50114468",
               "team1_player2": "50367870",
               "team2_player1": "50068581",
@@ -2822,6 +3019,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T12:30:00Z",
               "team1_player1": "50090613",
               "team1_player2": "50078740",
               "team2_player1": "50068581",
@@ -2835,6 +3033,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50063649",
               "team1_player2": "50066180",
               "team2_player1": "50090613",
@@ -2848,6 +3047,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T14:00:00Z",
               "team1_player1": "50114468",
               "team1_player2": "50367870",
               "team2_player1": "50090613",
@@ -2861,6 +3061,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T12:30:00Z",
               "team1_player1": "50068581",
               "team1_player2": "50089203",
               "team2_player1": "50090613",
@@ -2877,12 +3078,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50089296",
               "team1_player2": "50089739",
               "team2_player1": "50082037",
@@ -2896,6 +3098,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50089204",
               "team1_player2": "50090905",
               "team2_player1": "50082037",
@@ -2909,6 +3112,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50082037",
               "team1_player2": "50078740",
               "team2_player1": "50089296",
@@ -2922,6 +3126,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50089204",
               "team1_player2": "50090905",
               "team2_player1": "50089296",
@@ -2935,6 +3140,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50082037",
               "team1_player2": "50078740",
               "team2_player1": "50089204",
@@ -2948,6 +3154,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50089296",
               "team1_player2": "50089739",
               "team2_player1": "50089204",
@@ -2964,12 +3171,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50093094",
               "team1_player2": "50090613",
               "team2_player1": "50099653",
@@ -2983,6 +3191,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50051560",
               "team1_player2": "50063649",
               "team2_player1": "50099653",
@@ -2996,6 +3205,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50099653",
               "team1_player2": "50082213",
               "team2_player1": "50093094",
@@ -3009,6 +3219,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50051560",
               "team1_player2": "50063649",
               "team2_player1": "50093094",
@@ -3022,6 +3233,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50099653",
               "team1_player2": "50082213",
               "team2_player1": "50051560",
@@ -3035,6 +3247,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50093094",
               "team1_player2": "50090613",
               "team2_player1": "50051560",
@@ -3051,13 +3264,14 @@
         },
         {
           "poule": "GDC1",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2015-02-28T17:00:00Z",
               "team1_player1": "50089296",
               "team1_player2": "50089739",
               "team2_player1": "50093094",
@@ -3110,12 +3324,13 @@
       "subEvents": [
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "30089954",
               "team1_player2": null,
               "team2_player1": "50097829",
@@ -3129,6 +3344,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50015094",
               "team1_player2": null,
               "team2_player1": "50097829",
@@ -3142,6 +3358,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50091873",
               "team1_player2": null,
               "team2_player1": "50097829",
@@ -3155,6 +3372,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50097829",
               "team1_player2": null,
               "team2_player1": "30089954",
@@ -3168,6 +3386,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50015094",
               "team1_player2": null,
               "team2_player1": "30089954",
@@ -3181,6 +3400,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50091873",
               "team1_player2": null,
               "team2_player1": "30089954",
@@ -3194,6 +3414,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "50097829",
               "team1_player2": null,
               "team2_player1": "50015094",
@@ -3207,6 +3428,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "30089954",
               "team1_player2": null,
               "team2_player1": "50015094",
@@ -3220,6 +3442,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50091873",
               "team1_player2": null,
               "team2_player1": "50015094",
@@ -3233,6 +3456,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50097829",
               "team1_player2": null,
               "team2_player1": "50091873",
@@ -3246,6 +3470,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:00:00Z",
               "team1_player1": "30089954",
               "team1_player2": null,
               "team2_player1": "50091873",
@@ -3259,6 +3484,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50015094",
               "team1_player2": null,
               "team2_player1": "50091873",
@@ -3272,6 +3498,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50109770",
               "team1_player2": "50038816",
               "team2_player1": "50112855",
@@ -3285,6 +3512,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "30056346",
               "team1_player2": "30043318",
               "team2_player1": "50112855",
@@ -3298,6 +3526,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50084261",
               "team1_player2": "50100416",
               "team2_player1": "50112855",
@@ -3311,6 +3540,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50112855",
               "team1_player2": "50873830",
               "team2_player1": "50109770",
@@ -3324,6 +3554,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "30056346",
               "team1_player2": "30043318",
               "team2_player1": "50109770",
@@ -3337,6 +3568,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "50084261",
               "team1_player2": "50100416",
               "team2_player1": "50109770",
@@ -3350,6 +3582,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "50112855",
               "team1_player2": "50873830",
               "team2_player1": "30056346",
@@ -3363,6 +3596,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50109770",
               "team1_player2": "50038816",
               "team2_player1": "30056346",
@@ -3376,6 +3610,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50084261",
               "team1_player2": "50100416",
               "team2_player1": "30056346",
@@ -3389,6 +3624,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50112855",
               "team1_player2": "50873830",
               "team2_player1": "50084261",
@@ -3402,6 +3638,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "50109770",
               "team1_player2": "50038816",
               "team2_player1": "50084261",
@@ -3415,6 +3652,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "30056346",
               "team1_player2": "30043318",
               "team2_player1": "50084261",
@@ -3431,12 +3669,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50082758",
               "team1_player2": null,
               "team2_player1": "30044859",
@@ -3450,6 +3689,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50077280",
               "team1_player2": null,
               "team2_player1": "30044859",
@@ -3463,6 +3703,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50103922",
               "team1_player2": null,
               "team2_player1": "30044859",
@@ -3476,6 +3717,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "30044859",
               "team1_player2": null,
               "team2_player1": "50082758",
@@ -3489,6 +3731,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50077280",
               "team1_player2": null,
               "team2_player1": "50082758",
@@ -3502,6 +3745,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50103922",
               "team1_player2": null,
               "team2_player1": "50082758",
@@ -3515,6 +3759,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "30044859",
               "team1_player2": null,
               "team2_player1": "50077280",
@@ -3528,6 +3773,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50082758",
               "team1_player2": null,
               "team2_player1": "50077280",
@@ -3541,6 +3787,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50103922",
               "team1_player2": null,
               "team2_player1": "50077280",
@@ -3554,6 +3801,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "30044859",
               "team1_player2": null,
               "team2_player1": "50103922",
@@ -3567,6 +3815,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50082758",
               "team1_player2": null,
               "team2_player1": "50103922",
@@ -3580,6 +3829,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50077280",
               "team1_player2": null,
               "team2_player1": "50103922",
@@ -3593,6 +3843,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "30089954",
               "team1_player2": "30044859",
               "team2_player1": "50097829",
@@ -3606,6 +3857,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "50103230",
               "team1_player2": "50091873",
               "team2_player1": "50097829",
@@ -3619,6 +3871,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50015094",
               "team1_player2": "50033680",
               "team2_player1": "50097829",
@@ -3632,6 +3885,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50097829",
               "team1_player2": "50106208",
               "team2_player1": "30089954",
@@ -3645,6 +3899,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50103230",
               "team1_player2": "50091873",
               "team2_player1": "30089954",
@@ -3658,6 +3913,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "50015094",
               "team1_player2": "50033680",
               "team2_player1": "30089954",
@@ -3671,6 +3927,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "50097829",
               "team1_player2": "50106208",
               "team2_player1": "50103230",
@@ -3684,6 +3941,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "30089954",
               "team1_player2": "30044859",
               "team2_player1": "50103230",
@@ -3697,6 +3955,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50015094",
               "team1_player2": "50033680",
               "team2_player1": "50103230",
@@ -3710,6 +3969,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50097829",
               "team1_player2": "50106208",
               "team2_player1": "50015094",
@@ -3723,6 +3983,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "30089954",
               "team1_player2": "30044859",
               "team2_player1": "50015094",
@@ -3736,6 +3997,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50103230",
               "team1_player2": "50091873",
               "team2_player1": "50015094",
@@ -3752,12 +4014,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50093008",
               "team1_player2": null,
               "team2_player1": "50083601",
@@ -3771,6 +4034,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50103230",
               "team1_player2": null,
               "team2_player1": "50083601",
@@ -3784,6 +4048,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50093796",
               "team1_player2": null,
               "team2_player1": "50083601",
@@ -3797,6 +4062,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50083601",
               "team1_player2": null,
               "team2_player1": "50093008",
@@ -3810,6 +4076,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50103230",
               "team1_player2": null,
               "team2_player1": "50093008",
@@ -3823,6 +4090,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50093796",
               "team1_player2": null,
               "team2_player1": "50093008",
@@ -3836,6 +4104,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50083601",
               "team1_player2": null,
               "team2_player1": "50103230",
@@ -3849,6 +4118,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50093008",
               "team1_player2": null,
               "team2_player1": "50103230",
@@ -3862,6 +4132,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50093796",
               "team1_player2": null,
               "team2_player1": "50103230",
@@ -3875,6 +4146,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50083601",
               "team1_player2": null,
               "team2_player1": "50093796",
@@ -3888,6 +4160,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T17:30:00Z",
               "team1_player1": "50093008",
               "team1_player2": null,
               "team2_player1": "50093796",
@@ -3901,6 +4174,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50103230",
               "team1_player2": null,
               "team2_player1": "50093796",
@@ -3914,6 +4188,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T18:00:00Z",
               "team1_player1": "50100416",
               "team1_player2": null,
               "team2_player1": "50083601",
@@ -3927,6 +4202,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50100416",
               "team1_player2": null,
               "team2_player1": "50093008",
@@ -3940,6 +4216,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50100416",
               "team1_player2": null,
               "team2_player1": "50103230",
@@ -3953,6 +4230,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50100416",
               "team1_player2": null,
               "team2_player1": "50093796",
@@ -3966,6 +4244,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T18:00:00Z",
               "team1_player1": "50083601",
               "team1_player2": null,
               "team2_player1": "50100416",
@@ -3979,6 +4258,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50093008",
               "team1_player2": null,
               "team2_player1": "50100416",
@@ -3992,6 +4272,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50103230",
               "team1_player2": null,
               "team2_player1": "50100416",
@@ -4005,6 +4286,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50093796",
               "team1_player2": null,
               "team2_player1": "50100416",
@@ -4018,6 +4300,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50093796",
               "team1_player2": "50111719",
               "team2_player1": "50116635",
@@ -4031,6 +4314,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "30010792",
               "team1_player2": "30026479",
               "team2_player1": "50116635",
@@ -4044,6 +4328,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50103167",
               "team1_player2": "50094542",
               "team2_player1": "50116635",
@@ -4057,6 +4342,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50116635",
               "team1_player2": "50038285",
               "team2_player1": "50093796",
@@ -4070,6 +4356,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "30010792",
               "team1_player2": "30026479",
               "team2_player1": "50093796",
@@ -4083,6 +4370,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "50103167",
               "team1_player2": "50094542",
               "team2_player1": "50093796",
@@ -4096,6 +4384,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "50116635",
               "team1_player2": "50038285",
               "team2_player1": "30010792",
@@ -4109,6 +4398,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50093796",
               "team1_player2": "50111719",
               "team2_player1": "30010792",
@@ -4122,6 +4412,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "50103167",
               "team1_player2": "50094542",
               "team2_player1": "30010792",
@@ -4135,6 +4426,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50116635",
               "team1_player2": "50038285",
               "team2_player1": "50103167",
@@ -4148,6 +4440,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "50093796",
               "team1_player2": "50111719",
               "team2_player1": "50103167",
@@ -4161,6 +4454,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T10:30:00Z",
               "team1_player1": "30010792",
               "team1_player2": "30026479",
               "team2_player1": "50103167",
@@ -4177,12 +4471,13 @@
         },
         {
           "poule": "Groep D",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50080614",
               "team1_player2": null,
               "team2_player1": "50078742",
@@ -4196,6 +4491,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50085682",
               "team1_player2": null,
               "team2_player1": "50078742",
@@ -4209,6 +4505,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50116635",
               "team1_player2": null,
               "team2_player1": "50078742",
@@ -4222,6 +4519,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50078742",
               "team1_player2": null,
               "team2_player1": "50080614",
@@ -4235,6 +4533,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50085682",
               "team1_player2": null,
               "team2_player1": "50080614",
@@ -4248,6 +4547,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T18:00:00Z",
               "team1_player1": "50116635",
               "team1_player2": null,
               "team2_player1": "50080614",
@@ -4261,6 +4561,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50078742",
               "team1_player2": null,
               "team2_player1": "50085682",
@@ -4274,6 +4575,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50080614",
               "team1_player2": null,
               "team2_player1": "50085682",
@@ -4287,6 +4589,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50116635",
               "team1_player2": null,
               "team2_player1": "50085682",
@@ -4300,6 +4603,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50078742",
               "team1_player2": null,
               "team2_player1": "50116635",
@@ -4313,6 +4617,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T18:00:00Z",
               "team1_player1": "50080614",
               "team1_player2": null,
               "team2_player1": "50116635",
@@ -4326,6 +4631,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50085682",
               "team1_player2": null,
               "team2_player1": "50116635",
@@ -4339,6 +4645,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T18:00:00Z",
               "team1_player1": "50109770",
               "team1_player2": null,
               "team2_player1": "50078742",
@@ -4352,6 +4659,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50109770",
               "team1_player2": null,
               "team2_player1": "50080614",
@@ -4365,6 +4673,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50109770",
               "team1_player2": null,
               "team2_player1": "50085682",
@@ -4378,6 +4687,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50109770",
               "team1_player2": null,
               "team2_player1": "50116635",
@@ -4391,6 +4701,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T18:00:00Z",
               "team1_player1": "50078742",
               "team1_player2": null,
               "team2_player1": "50109770",
@@ -4404,6 +4715,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:30:00Z",
               "team1_player1": "50080614",
               "team1_player2": null,
               "team2_player1": "50109770",
@@ -4417,6 +4729,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50085682",
               "team1_player2": null,
               "team2_player1": "50109770",
@@ -4430,6 +4743,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50116635",
               "team1_player2": null,
               "team2_player1": "50109770",
@@ -4446,13 +4760,14 @@
         },
         {
           "poule": "HEC2",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2015-03-01T13:30:00Z",
               "team1_player1": "50097829",
               "team1_player2": null,
               "team2_player1": "50093008",
@@ -4467,6 +4782,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50097829",
               "team1_player2": null,
               "team2_player1": "50085682",
@@ -4481,6 +4797,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50093008",
               "team1_player2": null,
               "team2_player1": "50082758",
@@ -4497,12 +4814,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50090905",
               "team1_player2": null,
               "team2_player1": "50367870",
@@ -4516,6 +4834,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50109775",
               "team1_player2": null,
               "team2_player1": "50367870",
@@ -4529,6 +4848,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:00:00Z",
               "team1_player1": "50106396",
               "team1_player2": null,
               "team2_player1": "50367870",
@@ -4542,6 +4862,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T12:30:00Z",
               "team1_player1": "50367870",
               "team1_player2": null,
               "team2_player1": "50090905",
@@ -4555,6 +4876,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:00:00Z",
               "team1_player1": "50109775",
               "team1_player2": null,
               "team2_player1": "50090905",
@@ -4568,6 +4890,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50106396",
               "team1_player2": null,
               "team2_player1": "50090905",
@@ -4581,6 +4904,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50367870",
               "team1_player2": null,
               "team2_player1": "50109775",
@@ -4594,6 +4918,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:00:00Z",
               "team1_player1": "50090905",
               "team1_player2": null,
               "team2_player1": "50109775",
@@ -4607,6 +4932,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50106396",
               "team1_player2": null,
               "team2_player1": "50109775",
@@ -4620,6 +4946,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:00:00Z",
               "team1_player1": "50367870",
               "team1_player2": null,
               "team2_player1": "50106396",
@@ -4633,6 +4960,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50090905",
               "team1_player2": null,
               "team2_player1": "50106396",
@@ -4646,6 +4974,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50109775",
               "team1_player2": null,
               "team2_player1": "50106396",
@@ -4662,12 +4991,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50080221",
               "team1_player2": null,
               "team2_player1": "50886789",
@@ -4681,6 +5011,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "30044452",
               "team1_player2": null,
               "team2_player1": "50886789",
@@ -4694,6 +5025,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:00:00Z",
               "team1_player1": "50063965",
               "team1_player2": null,
               "team2_player1": "50886789",
@@ -4707,6 +5039,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50886789",
               "team1_player2": null,
               "team2_player1": "50080221",
@@ -4720,6 +5053,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:00:00Z",
               "team1_player1": "30044452",
               "team1_player2": null,
               "team2_player1": "50080221",
@@ -4733,6 +5067,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50063965",
               "team1_player2": null,
               "team2_player1": "50080221",
@@ -4746,6 +5081,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50886789",
               "team1_player2": null,
               "team2_player1": "30044452",
@@ -4759,6 +5095,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:00:00Z",
               "team1_player1": "50080221",
               "team1_player2": null,
               "team2_player1": "30044452",
@@ -4772,6 +5109,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50063965",
               "team1_player2": null,
               "team2_player1": "30044452",
@@ -4785,6 +5123,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:00:00Z",
               "team1_player1": "50886789",
               "team1_player2": null,
               "team2_player1": "50063965",
@@ -4798,6 +5137,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T14:30:00Z",
               "team1_player1": "50080221",
               "team1_player2": null,
               "team2_player1": "50063965",
@@ -4811,6 +5151,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "30044452",
               "team1_player2": null,
               "team2_player1": "50063965",
@@ -4827,12 +5168,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50086212",
               "team1_player2": null,
               "team2_player1": "50104295",
@@ -4846,6 +5188,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50088561",
               "team1_player2": null,
               "team2_player1": "50104295",
@@ -4859,6 +5202,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50093429",
               "team1_player2": null,
               "team2_player1": "50104295",
@@ -4872,6 +5216,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50104295",
               "team1_player2": null,
               "team2_player1": "50086212",
@@ -4885,6 +5230,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50088561",
               "team1_player2": null,
               "team2_player1": "50086212",
@@ -4898,6 +5244,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T18:00:00Z",
               "team1_player1": "50093429",
               "team1_player2": null,
               "team2_player1": "50086212",
@@ -4911,6 +5258,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50104295",
               "team1_player2": null,
               "team2_player1": "50088561",
@@ -4924,6 +5272,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50086212",
               "team1_player2": null,
               "team2_player1": "50088561",
@@ -4937,6 +5286,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:00:00Z",
               "team1_player1": "50093429",
               "team1_player2": null,
               "team2_player1": "50088561",
@@ -4950,6 +5300,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T16:30:00Z",
               "team1_player1": "50104295",
               "team1_player2": null,
               "team2_player1": "50093429",
@@ -4963,6 +5314,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T18:00:00Z",
               "team1_player1": "50086212",
               "team1_player2": null,
               "team2_player1": "50093429",
@@ -4976,6 +5328,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:00:00Z",
               "team1_player1": "50088561",
               "team1_player2": null,
               "team2_player1": "50093429",
@@ -4989,6 +5342,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T18:00:00Z",
               "team1_player1": "50097886",
               "team1_player2": null,
               "team2_player1": "50104295",
@@ -5002,6 +5356,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:00:00Z",
               "team1_player1": "50097886",
               "team1_player2": null,
               "team2_player1": "50086212",
@@ -5015,6 +5370,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50097886",
               "team1_player2": null,
               "team2_player1": "50088561",
@@ -5028,6 +5384,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50097886",
               "team1_player2": null,
               "team2_player1": "50093429",
@@ -5041,6 +5398,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T18:00:00Z",
               "team1_player1": "50104295",
               "team1_player2": null,
               "team2_player1": "50097886",
@@ -5054,6 +5412,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:00:00Z",
               "team1_player1": "50086212",
               "team1_player2": null,
               "team2_player1": "50097886",
@@ -5067,6 +5426,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50088561",
               "team1_player2": null,
               "team2_player1": "50097886",
@@ -5080,6 +5440,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:00:00Z",
               "team1_player1": "50093429",
               "team1_player2": null,
               "team2_player1": "50097886",
@@ -5096,12 +5457,13 @@
         },
         {
           "poule": "DEC2",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50886789",
               "team1_player2": null,
               "team2_player1": "50106396",
@@ -5115,6 +5477,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T13:30:00Z",
               "team1_player1": "50093429",
               "team1_player2": null,
               "team2_player1": "50106396",
@@ -5128,6 +5491,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50106396",
               "team1_player2": null,
               "team2_player1": "50886789",
@@ -5141,6 +5505,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50093429",
               "team1_player2": null,
               "team2_player1": "50886789",
@@ -5154,6 +5519,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T13:30:00Z",
               "team1_player1": "50106396",
               "team1_player2": null,
               "team2_player1": "50093429",
@@ -5167,6 +5533,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50886789",
               "team1_player2": null,
               "team2_player1": "50093429",
@@ -5183,7 +5550,7 @@
         },
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
@@ -5191,7 +5558,7 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
@@ -5199,7 +5566,7 @@
         },
         {
           "poule": "Groep C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
@@ -5207,12 +5574,13 @@
         },
         {
           "poule": "HDC2",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2015-03-01T14:00:00Z",
               "team1_player1": "50097829",
               "team1_player2": "50106208",
               "team2_player1": "30056346",
@@ -5226,6 +5594,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T14:30:00Z",
               "team1_player1": "50103167",
               "team1_player2": "50094542",
               "team2_player1": "30056346",
@@ -5239,6 +5608,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T14:00:00Z",
               "team1_player1": "30056346",
               "team1_player2": "30043318",
               "team2_player1": "50097829",
@@ -5252,6 +5622,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T13:00:00Z",
               "team1_player1": "50103167",
               "team1_player2": "50094542",
               "team2_player1": "50097829",
@@ -5265,6 +5636,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T14:30:00Z",
               "team1_player1": "30056346",
               "team1_player2": "30043318",
               "team2_player1": "50103167",
@@ -5278,6 +5650,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T13:00:00Z",
               "team1_player1": "50097829",
               "team1_player2": "50106208",
               "team2_player1": "50103167",
@@ -5294,12 +5667,13 @@
         },
         {
           "poule": "DDC2",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "50080221",
               "team1_player2": "50109775",
               "team2_player1": "50063965",
@@ -5313,6 +5687,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T13:00:00Z",
               "team1_player1": "50111032",
               "team1_player2": "50097886",
               "team2_player1": "50063965",
@@ -5326,6 +5701,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T14:00:00Z",
               "team1_player1": "50104295",
               "team1_player2": "50096566",
               "team2_player1": "50063965",
@@ -5339,6 +5715,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T14:30:00Z",
               "team1_player1": "30044452",
               "team1_player2": "50093429",
               "team2_player1": "50063965",
@@ -5352,6 +5729,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "50063965",
               "team1_player2": "50084260",
               "team2_player1": "50080221",
@@ -5365,6 +5743,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T14:00:00Z",
               "team1_player1": "50111032",
               "team1_player2": "50097886",
               "team2_player1": "50080221",
@@ -5378,6 +5757,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T14:30:00Z",
               "team1_player1": "50104295",
               "team1_player2": "50096566",
               "team2_player1": "50080221",
@@ -5391,6 +5771,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T10:00:00Z",
               "team1_player1": "30044452",
               "team1_player2": "50093429",
               "team2_player1": "50080221",
@@ -5404,6 +5785,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T13:00:00Z",
               "team1_player1": "50063965",
               "team1_player2": "50084260",
               "team2_player1": "50111032",
@@ -5417,6 +5799,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T14:00:00Z",
               "team1_player1": "50080221",
               "team1_player2": "50109775",
               "team2_player1": "50111032",
@@ -5430,6 +5813,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T10:00:00Z",
               "team1_player1": "50104295",
               "team1_player2": "50096566",
               "team2_player1": "50111032",
@@ -5443,6 +5827,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "30044452",
               "team1_player2": "50093429",
               "team2_player1": "50111032",
@@ -5456,6 +5841,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T14:00:00Z",
               "team1_player1": "50063965",
               "team1_player2": "50084260",
               "team2_player1": "50104295",
@@ -5469,6 +5855,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T14:30:00Z",
               "team1_player1": "50080221",
               "team1_player2": "50109775",
               "team2_player1": "50104295",
@@ -5482,6 +5869,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T10:00:00Z",
               "team1_player1": "50111032",
               "team1_player2": "50097886",
               "team2_player1": "50104295",
@@ -5495,6 +5883,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T13:00:00Z",
               "team1_player1": "30044452",
               "team1_player2": "50093429",
               "team2_player1": "50104295",
@@ -5508,6 +5897,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T14:30:00Z",
               "team1_player1": "50063965",
               "team1_player2": "50084260",
               "team2_player1": "30044452",
@@ -5521,6 +5911,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T10:00:00Z",
               "team1_player1": "50080221",
               "team1_player2": "50109775",
               "team2_player1": "30044452",
@@ -5534,6 +5925,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "50111032",
               "team1_player2": "50097886",
               "team2_player1": "30044452",
@@ -5547,6 +5939,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T13:00:00Z",
               "team1_player1": "50104295",
               "team1_player2": "50096566",
               "team2_player1": "30044452",
@@ -5563,12 +5956,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50109681",
               "team1_player2": "50106396",
               "team2_player1": "50104687",
@@ -5582,6 +5976,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50077280",
               "team1_player2": "50092707",
               "team2_player1": "50104687",
@@ -5595,6 +5990,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50104687",
               "team1_player2": "50104685",
               "team2_player1": "50109681",
@@ -5608,6 +6004,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50077280",
               "team1_player2": "50092707",
               "team2_player1": "50109681",
@@ -5621,6 +6018,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50104687",
               "team1_player2": "50104685",
               "team2_player1": "50077280",
@@ -5634,6 +6032,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50109681",
               "team1_player2": "50106396",
               "team2_player1": "50077280",
@@ -5650,12 +6049,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50082758",
               "team1_player2": "50104295",
               "team2_player1": "50090095",
@@ -5669,6 +6069,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50112855",
               "team1_player2": "50114468",
               "team2_player1": "50090095",
@@ -5682,6 +6083,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50090095",
               "team1_player2": "50089203",
               "team2_player1": "50082758",
@@ -5695,6 +6097,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50112855",
               "team1_player2": "50114468",
               "team2_player1": "50082758",
@@ -5708,6 +6111,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50090095",
               "team1_player2": "50089203",
               "team2_player1": "50112855",
@@ -5721,6 +6125,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50082758",
               "team1_player2": "50104295",
               "team2_player1": "50112855",
@@ -5737,12 +6142,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50084261",
               "team1_player2": "50063965",
               "team2_player1": "50078553",
@@ -5756,6 +6162,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50038816",
               "team1_player2": "50410059",
               "team2_player1": "50078553",
@@ -5769,6 +6176,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50078553",
               "team1_player2": "50109212",
               "team2_player1": "50084261",
@@ -5782,6 +6190,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50038816",
               "team1_player2": "50410059",
               "team2_player1": "50084261",
@@ -5795,6 +6204,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50078553",
               "team1_player2": "50109212",
               "team2_player1": "50038816",
@@ -5808,6 +6218,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50084261",
               "team1_player2": "50063965",
               "team2_player1": "50038816",
@@ -5821,6 +6232,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50032868",
               "team1_player2": "50068581",
               "team2_player1": "50078553",
@@ -5834,6 +6246,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50032868",
               "team1_player2": "50068581",
               "team2_player1": "50084261",
@@ -5847,6 +6260,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50032868",
               "team1_player2": "50068581",
               "team2_player1": "50038816",
@@ -5860,6 +6274,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50078553",
               "team1_player2": "50109212",
               "team2_player1": "50032868",
@@ -5873,6 +6288,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50084261",
               "team1_player2": "50063965",
               "team2_player1": "50032868",
@@ -5886,6 +6302,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50038816",
               "team1_player2": "50410059",
               "team2_player1": "50032868",
@@ -5902,12 +6319,13 @@
         },
         {
           "poule": "Groep D",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50094542",
               "team1_player2": "50095874",
               "team2_player1": "50109770",
@@ -5921,6 +6339,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50115529",
               "team1_player2": "50886789",
               "team2_player1": "50109770",
@@ -5934,6 +6353,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50109770",
               "team1_player2": "50086212",
               "team2_player1": "50094542",
@@ -5947,6 +6367,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50115529",
               "team1_player2": "50886789",
               "team2_player1": "50094542",
@@ -5960,6 +6381,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50109770",
               "team1_player2": "50086212",
               "team2_player1": "50115529",
@@ -5973,6 +6395,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50094542",
               "team1_player2": "50095874",
               "team2_player1": "50115529",
@@ -5986,6 +6409,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50015094",
               "team1_player2": "50813161",
               "team2_player1": "50109770",
@@ -5999,6 +6423,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50015094",
               "team1_player2": "50813161",
               "team2_player1": "50094542",
@@ -6012,6 +6437,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50015094",
               "team1_player2": "50813161",
               "team2_player1": "50115529",
@@ -6025,6 +6451,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:30:00Z",
               "team1_player1": "50109770",
               "team1_player2": "50086212",
               "team2_player1": "50015094",
@@ -6038,6 +6465,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50094542",
               "team1_player2": "50095874",
               "team2_player1": "50015094",
@@ -6051,6 +6479,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50115529",
               "team1_player2": "50886789",
               "team2_player1": "50015094",
@@ -6067,13 +6496,14 @@
         },
         {
           "poule": "GDC2",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50094542",
               "team1_player2": "50095874",
               "team2_player1": "50078553",
@@ -6088,6 +6518,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2015-02-28T17:00:00Z",
               "team1_player1": "50104687",
               "team1_player2": "50104685",
               "team2_player1": "50094542",
@@ -6102,6 +6533,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2015-02-28T17:00:00Z",
               "team1_player1": "50078553",
               "team1_player2": "50109212",
               "team2_player1": "50112855",
@@ -6154,12 +6586,13 @@
       "subEvents": [
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50061395",
               "team1_player2": null,
               "team2_player1": "30054966",
@@ -6173,6 +6606,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50102672",
               "team1_player2": null,
               "team2_player1": "30054966",
@@ -6186,6 +6620,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50110120",
               "team1_player2": null,
               "team2_player1": "30054966",
@@ -6199,6 +6634,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "30054966",
               "team1_player2": null,
               "team2_player1": "50061395",
@@ -6212,6 +6648,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50102672",
               "team1_player2": null,
               "team2_player1": "50061395",
@@ -6225,6 +6662,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50110120",
               "team1_player2": null,
               "team2_player1": "50061395",
@@ -6238,6 +6676,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "30054966",
               "team1_player2": null,
               "team2_player1": "50102672",
@@ -6251,6 +6690,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50061395",
               "team1_player2": null,
               "team2_player1": "50102672",
@@ -6264,6 +6704,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50110120",
               "team1_player2": null,
               "team2_player1": "50102672",
@@ -6277,6 +6718,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "30054966",
               "team1_player2": null,
               "team2_player1": "50110120",
@@ -6290,6 +6732,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50061395",
               "team1_player2": null,
               "team2_player1": "50110120",
@@ -6303,6 +6746,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50102672",
               "team1_player2": null,
               "team2_player1": "50110120",
@@ -6316,6 +6760,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "30054966",
               "team1_player2": "30059897",
               "team2_player1": "50078742",
@@ -6329,6 +6774,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T13:00:00Z",
               "team1_player1": "50366599",
               "team1_player2": "50111033",
               "team2_player1": "50078742",
@@ -6342,6 +6788,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "50078742",
               "team1_player2": "50061395",
               "team2_player1": "30054966",
@@ -6355,6 +6802,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50366599",
               "team1_player2": "50111033",
               "team2_player1": "30054966",
@@ -6368,6 +6816,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T13:00:00Z",
               "team1_player1": "50078742",
               "team1_player2": "50061395",
               "team2_player1": "50366599",
@@ -6381,6 +6830,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "30054966",
               "team1_player2": "30059897",
               "team2_player1": "50366599",
@@ -6397,12 +6847,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50038285",
               "team1_player2": null,
               "team2_player1": "50873830",
@@ -6416,6 +6867,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "30059897",
               "team1_player2": null,
               "team2_player1": "50873830",
@@ -6429,6 +6881,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50452177",
               "team1_player2": null,
               "team2_player1": "50873830",
@@ -6442,6 +6895,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50873830",
               "team1_player2": null,
               "team2_player1": "50038285",
@@ -6455,6 +6909,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "30059897",
               "team1_player2": null,
               "team2_player1": "50038285",
@@ -6468,6 +6923,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50452177",
               "team1_player2": null,
               "team2_player1": "50038285",
@@ -6481,6 +6937,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50873830",
               "team1_player2": null,
               "team2_player1": "30059897",
@@ -6494,6 +6951,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50038285",
               "team1_player2": null,
               "team2_player1": "30059897",
@@ -6507,6 +6965,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50452177",
               "team1_player2": null,
               "team2_player1": "30059897",
@@ -6520,6 +6979,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50873830",
               "team1_player2": null,
               "team2_player1": "50452177",
@@ -6533,6 +6993,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50038285",
               "team1_player2": null,
               "team2_player1": "50452177",
@@ -6546,6 +7007,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "30059897",
               "team1_player2": null,
               "team2_player1": "50452177",
@@ -6559,6 +7021,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "50085421",
               "team1_player2": "50094270",
               "team2_player1": "50102672",
@@ -6572,6 +7035,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T13:00:00Z",
               "team1_player1": "50055736",
               "team1_player2": "50106471",
               "team2_player1": "50102672",
@@ -6585,6 +7049,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "50102672",
               "team1_player2": "50085682",
               "team2_player1": "50085421",
@@ -6598,6 +7063,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50055736",
               "team1_player2": "50106471",
               "team2_player1": "50085421",
@@ -6611,6 +7077,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T13:00:00Z",
               "team1_player1": "50102672",
               "team1_player2": "50085682",
               "team2_player1": "50055736",
@@ -6624,6 +7091,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50085421",
               "team1_player2": "50094270",
               "team2_player1": "50055736",
@@ -6637,6 +7105,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50452177",
               "team1_player2": "50358367",
               "team2_player1": "50102672",
@@ -6650,6 +7119,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T13:00:00Z",
               "team1_player1": "50452177",
               "team1_player2": "50358367",
               "team2_player1": "50085421",
@@ -6663,6 +7133,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "50452177",
               "team1_player2": "50358367",
               "team2_player1": "50055736",
@@ -6676,6 +7147,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:30:00Z",
               "team1_player1": "50102672",
               "team1_player2": "50085682",
               "team2_player1": "50452177",
@@ -6689,6 +7161,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T13:00:00Z",
               "team1_player1": "50085421",
               "team1_player2": "50094270",
               "team2_player1": "50452177",
@@ -6702,6 +7175,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "50055736",
               "team1_player2": "50106471",
               "team2_player1": "50452177",
@@ -6718,12 +7192,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50098331",
               "team1_player2": null,
               "team2_player1": "50038816",
@@ -6737,6 +7212,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50106471",
               "team1_player2": null,
               "team2_player1": "50038816",
@@ -6750,6 +7226,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50111033",
               "team1_player2": null,
               "team2_player1": "50038816",
@@ -6763,6 +7240,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T13:00:00Z",
               "team1_player1": "50038816",
               "team1_player2": null,
               "team2_player1": "50098331",
@@ -6776,6 +7254,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50106471",
               "team1_player2": null,
               "team2_player1": "50098331",
@@ -6789,6 +7268,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50111033",
               "team1_player2": null,
               "team2_player1": "50098331",
@@ -6802,6 +7282,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50038816",
               "team1_player2": null,
               "team2_player1": "50106471",
@@ -6815,6 +7296,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50098331",
               "team1_player2": null,
               "team2_player1": "50106471",
@@ -6828,6 +7310,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50111033",
               "team1_player2": null,
               "team2_player1": "50106471",
@@ -6841,6 +7324,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50038816",
               "team1_player2": null,
               "team2_player1": "50111033",
@@ -6854,6 +7338,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50098331",
               "team1_player2": null,
               "team2_player1": "50111033",
@@ -6867,6 +7352,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50106471",
               "team1_player2": null,
               "team2_player1": "50111033",
@@ -6880,6 +7366,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50100306",
               "team1_player2": null,
               "team2_player1": "50038816",
@@ -6893,6 +7380,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50100306",
               "team1_player2": null,
               "team2_player1": "50098331",
@@ -6906,6 +7394,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T13:30:00Z",
               "team1_player1": "50100306",
               "team1_player2": null,
               "team2_player1": "50106471",
@@ -6919,6 +7408,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50100306",
               "team1_player2": null,
               "team2_player1": "50111033",
@@ -6932,6 +7422,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50038816",
               "team1_player2": null,
               "team2_player1": "50100306",
@@ -6945,6 +7436,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50098331",
               "team1_player2": null,
               "team2_player1": "50100306",
@@ -6958,6 +7450,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T13:30:00Z",
               "team1_player1": "50106471",
               "team1_player2": null,
               "team2_player1": "50100306",
@@ -6971,6 +7464,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50111033",
               "team1_player2": null,
               "team2_player1": "50100306",
@@ -6987,12 +7481,13 @@
         },
         {
           "poule": "Groep D",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2015-02-28T13:30:00Z",
               "team1_player1": "50091808",
               "team1_player2": null,
               "team2_player1": "50358367",
@@ -7006,6 +7501,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50094270",
               "team1_player2": null,
               "team2_player1": "50358367",
@@ -7019,6 +7515,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50070637",
               "team1_player2": null,
               "team2_player1": "50358367",
@@ -7032,6 +7529,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T13:30:00Z",
               "team1_player1": "50358367",
               "team1_player2": null,
               "team2_player1": "50091808",
@@ -7045,6 +7543,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50094270",
               "team1_player2": null,
               "team2_player1": "50091808",
@@ -7058,6 +7557,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50070637",
               "team1_player2": null,
               "team2_player1": "50091808",
@@ -7071,6 +7571,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50358367",
               "team1_player2": null,
               "team2_player1": "50094270",
@@ -7084,6 +7585,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50091808",
               "team1_player2": null,
               "team2_player1": "50094270",
@@ -7097,6 +7599,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50070637",
               "team1_player2": null,
               "team2_player1": "50094270",
@@ -7110,6 +7613,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50358367",
               "team1_player2": null,
               "team2_player1": "50070637",
@@ -7123,6 +7627,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50091808",
               "team1_player2": null,
               "team2_player1": "50070637",
@@ -7136,6 +7641,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50094270",
               "team1_player2": null,
               "team2_player1": "50070637",
@@ -7149,6 +7655,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50366599",
               "team1_player2": null,
               "team2_player1": "50358367",
@@ -7162,6 +7669,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50366599",
               "team1_player2": null,
               "team2_player1": "50091808",
@@ -7175,6 +7683,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T13:30:00Z",
               "team1_player1": "50366599",
               "team1_player2": null,
               "team2_player1": "50094270",
@@ -7188,6 +7697,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50366599",
               "team1_player2": null,
               "team2_player1": "50070637",
@@ -7201,6 +7711,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:00:00Z",
               "team1_player1": "50358367",
               "team1_player2": null,
               "team2_player1": "50366599",
@@ -7214,6 +7725,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T10:30:00Z",
               "team1_player1": "50091808",
               "team1_player2": null,
               "team2_player1": "50366599",
@@ -7227,6 +7739,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T13:30:00Z",
               "team1_player1": "50094270",
               "team1_player2": null,
               "team2_player1": "50366599",
@@ -7240,6 +7753,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50070637",
               "team1_player2": null,
               "team2_player1": "50366599",
@@ -7256,13 +7770,14 @@
         },
         {
           "poule": "HED",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2015-03-01T14:30:00Z",
               "team1_player1": "50102672",
               "team1_player2": null,
               "team2_player1": "50106471",
@@ -7277,6 +7792,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2015-03-01T13:30:00Z",
               "team1_player1": "50102672",
               "team1_player2": null,
               "team2_player1": "50091808",
@@ -7291,6 +7807,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2015-03-01T13:30:00Z",
               "team1_player1": "50106471",
               "team1_player2": null,
               "team2_player1": "50873830",
@@ -7307,12 +7824,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T13:30:00Z",
               "team1_player1": "50045304",
               "team1_player2": null,
               "team2_player1": "50114234",
@@ -7326,6 +7844,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50096566",
               "team1_player2": null,
               "team2_player1": "50114234",
@@ -7339,6 +7858,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50316532",
               "team1_player2": null,
               "team2_player1": "50114234",
@@ -7352,6 +7872,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T13:30:00Z",
               "team1_player1": "50114234",
               "team1_player2": null,
               "team2_player1": "50045304",
@@ -7365,6 +7886,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50096566",
               "team1_player2": null,
               "team2_player1": "50045304",
@@ -7378,6 +7900,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T19:00:00Z",
               "team1_player1": "50316532",
               "team1_player2": null,
               "team2_player1": "50045304",
@@ -7391,6 +7914,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T18:30:00Z",
               "team1_player1": "50114234",
               "team1_player2": null,
               "team2_player1": "50096566",
@@ -7404,6 +7928,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50045304",
               "team1_player2": null,
               "team2_player1": "50096566",
@@ -7417,6 +7942,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T13:30:00Z",
               "team1_player1": "50316532",
               "team1_player2": null,
               "team2_player1": "50096566",
@@ -7430,6 +7956,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50114234",
               "team1_player2": null,
               "team2_player1": "50316532",
@@ -7443,6 +7970,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T19:00:00Z",
               "team1_player1": "50045304",
               "team1_player2": null,
               "team2_player1": "50316532",
@@ -7456,6 +7984,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T13:30:00Z",
               "team1_player1": "50096566",
               "team1_player2": null,
               "team2_player1": "50316532",
@@ -7472,12 +8001,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2015-02-28T13:30:00Z",
               "team1_player1": "50105230",
               "team1_player2": null,
               "team2_player1": "50410059",
@@ -7491,6 +8021,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T19:00:00Z",
               "team1_player1": "50097888",
               "team1_player2": null,
               "team2_player1": "50410059",
@@ -7504,6 +8035,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50111874",
               "team1_player2": null,
               "team2_player1": "50410059",
@@ -7517,6 +8049,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "50095879",
               "team1_player2": null,
               "team2_player1": "50410059",
@@ -7530,6 +8063,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T13:30:00Z",
               "team1_player1": "50410059",
               "team1_player2": null,
               "team2_player1": "50105230",
@@ -7543,6 +8077,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50097888",
               "team1_player2": null,
               "team2_player1": "50105230",
@@ -7556,6 +8091,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "50111874",
               "team1_player2": null,
               "team2_player1": "50105230",
@@ -7569,6 +8105,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50095879",
               "team1_player2": null,
               "team2_player1": "50105230",
@@ -7582,6 +8119,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T19:00:00Z",
               "team1_player1": "50410059",
               "team1_player2": null,
               "team2_player1": "50097888",
@@ -7595,6 +8133,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50105230",
               "team1_player2": null,
               "team2_player1": "50097888",
@@ -7608,6 +8147,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50111874",
               "team1_player2": null,
               "team2_player1": "50097888",
@@ -7621,6 +8161,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T13:30:00Z",
               "team1_player1": "50095879",
               "team1_player2": null,
               "team2_player1": "50097888",
@@ -7634,6 +8175,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T09:00:00Z",
               "team1_player1": "50410059",
               "team1_player2": null,
               "team2_player1": "50111874",
@@ -7647,6 +8189,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "50105230",
               "team1_player2": null,
               "team2_player1": "50111874",
@@ -7660,6 +8203,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50097888",
               "team1_player2": null,
               "team2_player1": "50111874",
@@ -7673,6 +8217,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T19:00:00Z",
               "team1_player1": "50095879",
               "team1_player2": null,
               "team2_player1": "50111874",
@@ -7686,6 +8231,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T11:30:00Z",
               "team1_player1": "50410059",
               "team1_player2": null,
               "team2_player1": "50095879",
@@ -7699,6 +8245,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:00:00Z",
               "team1_player1": "50105230",
               "team1_player2": null,
               "team2_player1": "50095879",
@@ -7712,6 +8259,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T13:30:00Z",
               "team1_player1": "50097888",
               "team1_player2": null,
               "team2_player1": "50095879",
@@ -7725,6 +8273,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T19:00:00Z",
               "team1_player1": "50111874",
               "team1_player2": null,
               "team2_player1": "50095879",
@@ -7741,13 +8290,14 @@
         },
         {
           "poule": "DED",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2015-03-01T14:30:00Z",
               "team1_player1": "50045304",
               "team1_player2": null,
               "team2_player1": "50097888",
@@ -7764,7 +8314,7 @@
         },
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
@@ -7772,7 +8322,7 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
@@ -7780,13 +8330,14 @@
         },
         {
           "poule": "HDD",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2015-03-01T14:30:00Z",
               "team1_player1": "50078742",
               "team1_player2": "50061395",
               "team2_player1": "50055736",
@@ -7803,12 +8354,13 @@
         },
         {
           "poule": "DDD",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "50105230",
               "team1_player2": "50114234",
               "team2_player1": "50086212",
@@ -7822,6 +8374,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T13:00:00Z",
               "team1_player1": "50045304",
               "team1_player2": "50097888",
               "team2_player1": "50086212",
@@ -7835,6 +8388,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-03-01T12:00:00Z",
               "team1_player1": "50086212",
               "team1_player2": "50316532",
               "team2_player1": "50105230",
@@ -7848,6 +8402,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T10:00:00Z",
               "team1_player1": "50045304",
               "team1_player2": "50097888",
               "team2_player1": "50105230",
@@ -7861,6 +8416,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T13:00:00Z",
               "team1_player1": "50086212",
               "team1_player2": "50316532",
               "team2_player1": "50045304",
@@ -7874,6 +8430,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-03-01T10:00:00Z",
               "team1_player1": "50105230",
               "team1_player2": "50114234",
               "team2_player1": "50045304",
@@ -7890,12 +8447,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50111033",
               "team1_player2": "50614991",
               "team2_player1": "50102672",
@@ -7909,6 +8467,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "30059897",
               "team1_player2": "50105230",
               "team2_player1": "50102672",
@@ -7922,6 +8481,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50102672",
               "team1_player2": "50114234",
               "team2_player1": "50111033",
@@ -7935,6 +8495,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "30059897",
               "team1_player2": "50105230",
               "team2_player1": "50111033",
@@ -7948,6 +8509,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50102672",
               "team1_player2": "50114234",
               "team2_player1": "30059897",
@@ -7961,6 +8523,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50111033",
               "team1_player2": "50614991",
               "team2_player1": "30059897",
@@ -7977,12 +8540,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50093008",
               "team1_player2": "50045304",
               "team2_player1": "50085682",
@@ -7996,6 +8560,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50091808",
               "team1_player2": "50097886",
               "team2_player1": "50085682",
@@ -8009,6 +8574,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50090259",
               "team1_player2": "50111874",
               "team2_player1": "50085682",
@@ -8022,6 +8588,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50085682",
               "team1_player2": "50109775",
               "team2_player1": "50093008",
@@ -8035,6 +8602,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50091808",
               "team1_player2": "50097886",
               "team2_player1": "50093008",
@@ -8048,6 +8616,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50090259",
               "team1_player2": "50111874",
               "team2_player1": "50093008",
@@ -8061,6 +8630,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50085682",
               "team1_player2": "50109775",
               "team2_player1": "50091808",
@@ -8074,6 +8644,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50093008",
               "team1_player2": "50045304",
               "team2_player1": "50091808",
@@ -8087,6 +8658,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50090259",
               "team1_player2": "50111874",
               "team2_player1": "50091808",
@@ -8100,6 +8672,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50085682",
               "team1_player2": "50109775",
               "team2_player1": "50090259",
@@ -8113,6 +8686,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50093008",
               "team1_player2": "50045304",
               "team2_player1": "50090259",
@@ -8126,6 +8700,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50091808",
               "team1_player2": "50097886",
               "team2_player1": "50090259",
@@ -8142,12 +8717,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "30054966",
               "team1_player2": "50316532",
               "team2_player1": "30044859",
@@ -8161,6 +8737,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50366599",
               "team1_player2": "50111032",
               "team2_player1": "30044859",
@@ -8174,6 +8751,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50110120",
               "team1_player2": "50088561",
               "team2_player1": "30044859",
@@ -8187,6 +8765,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "30044859",
               "team1_player2": "30079716",
               "team2_player1": "30054966",
@@ -8200,6 +8779,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "50366599",
               "team1_player2": "50111032",
               "team2_player1": "30054966",
@@ -8213,6 +8793,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "50110120",
               "team1_player2": "50088561",
               "team2_player1": "30054966",
@@ -8226,6 +8807,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "30044859",
               "team1_player2": "30079716",
               "team2_player1": "50366599",
@@ -8239,6 +8821,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "30054966",
               "team1_player2": "50316532",
               "team2_player1": "50366599",
@@ -8252,6 +8835,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50110120",
               "team1_player2": "50088561",
               "team2_player1": "50366599",
@@ -8265,6 +8849,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2015-02-28T08:00:00Z",
               "team1_player1": "30044859",
               "team1_player2": "30079716",
               "team2_player1": "50110120",
@@ -8278,6 +8863,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T11:30:00Z",
               "team1_player1": "30054966",
               "team1_player2": "50316532",
               "team2_player1": "50110120",
@@ -8291,6 +8877,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2015-02-28T09:00:00Z",
               "team1_player1": "50366599",
               "team1_player2": "50111032",
               "team2_player1": "50110120",
@@ -8307,13 +8894,14 @@
         },
         {
           "poule": "GDD",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2015-02-28T17:00:00Z",
               "team1_player1": "50090259",
               "team1_player2": "50111874",
               "team2_player1": "50110120",
@@ -8328,6 +8916,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2015-02-28T15:30:00Z",
               "team1_player1": "50111033",
               "team1_player2": "50614991",
               "team2_player1": "50090259",
@@ -8342,6 +8931,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2015-02-28T16:00:00Z",
               "team1_player1": "50091808",
               "team1_player2": "50097886",
               "team2_player1": "50110120",

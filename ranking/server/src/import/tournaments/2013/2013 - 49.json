@@ -8,12 +8,13 @@
       "subEvents": [
         {
           "poule": "Poule A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2013-11-02T13:00:00Z",
               "team1_player1": "50067832",
               "team1_player2": null,
               "team2_player1": "30022132",
@@ -27,6 +28,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T15:00:00Z",
               "team1_player1": "50030471",
               "team1_player2": null,
               "team2_player1": "30022132",
@@ -40,6 +42,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T13:00:00Z",
               "team1_player1": "30022132",
               "team1_player2": null,
               "team2_player1": "50067832",
@@ -53,6 +56,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T11:00:00Z",
               "team1_player1": "50030471",
               "team1_player2": null,
               "team2_player1": "50067832",
@@ -66,6 +70,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T15:00:00Z",
               "team1_player1": "30022132",
               "team1_player2": null,
               "team2_player1": "50030471",
@@ -79,6 +84,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T11:00:00Z",
               "team1_player1": "50067832",
               "team1_player2": null,
               "team2_player1": "50030471",
@@ -95,12 +101,13 @@
         },
         {
           "poule": "Poule B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2013-11-02T13:00:00Z",
               "team1_player1": "50053763",
               "team1_player2": null,
               "team2_player1": "50062105",
@@ -114,6 +121,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T15:00:00Z",
               "team1_player1": "50082244",
               "team1_player2": null,
               "team2_player1": "50062105",
@@ -127,6 +135,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T13:00:00Z",
               "team1_player1": "50062105",
               "team1_player2": null,
               "team2_player1": "50053763",
@@ -140,6 +149,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T11:00:00Z",
               "team1_player1": "50082244",
               "team1_player2": null,
               "team2_player1": "50053763",
@@ -153,6 +163,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T15:00:00Z",
               "team1_player1": "50062105",
               "team1_player2": null,
               "team2_player1": "50082244",
@@ -166,6 +177,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T11:00:00Z",
               "team1_player1": "50053763",
               "team1_player2": null,
               "team2_player1": "50082244",
@@ -182,13 +194,14 @@
         },
         {
           "poule": "HEA",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T13:30:00Z",
               "team1_player1": "30022132",
               "team1_player2": null,
               "team2_player1": "50053763",
@@ -205,13 +218,14 @@
         },
         {
           "poule": "DEA",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 1,
           "size": 8,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T14:30:00Z",
               "team1_player1": "50059467",
               "team1_player2": null,
               "team2_player1": "50065873",
@@ -226,6 +240,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:30:00Z",
               "team1_player1": "50059467",
               "team1_player2": null,
               "team2_player1": "50070184",
@@ -240,6 +255,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:30:00Z",
               "team1_player1": "50073670",
               "team1_player2": null,
               "team2_player1": "50065873",
@@ -254,6 +270,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T18:00:00Z",
               "team1_player1": "50066313",
               "team1_player2": null,
               "team2_player1": "50059467",
@@ -268,6 +285,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T18:30:00Z",
               "team1_player1": "50070184",
               "team1_player2": null,
               "team2_player1": "50053769",
@@ -282,6 +300,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T18:30:00Z",
               "team1_player1": "50089298",
               "team1_player2": null,
               "team2_player1": "50073670",
@@ -296,6 +315,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T18:30:00Z",
               "team1_player1": "50059706",
               "team1_player2": null,
               "team2_player1": "50065873",
@@ -312,12 +332,13 @@
         },
         {
           "poule": "HDA",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2013-11-02T19:30:00Z",
               "team1_player1": "30022132",
               "team1_player2": "50023009",
               "team2_player1": "50082244",
@@ -331,6 +352,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T18:00:00Z",
               "team1_player1": "50067832",
               "team1_player2": "50044584",
               "team2_player1": "50082244",
@@ -344,6 +366,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T19:30:00Z",
               "team1_player1": "50082244",
               "team1_player2": "50042294",
               "team2_player1": "30022132",
@@ -357,6 +380,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T17:00:00Z",
               "team1_player1": "50067832",
               "team1_player2": "50044584",
               "team2_player1": "30022132",
@@ -370,6 +394,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T18:00:00Z",
               "team1_player1": "50082244",
               "team1_player2": "50042294",
               "team2_player1": "50067832",
@@ -383,6 +408,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T17:00:00Z",
               "team1_player1": "30022132",
               "team1_player2": "50023009",
               "team2_player1": "50067832",
@@ -399,12 +425,13 @@
         },
         {
           "poule": "DDA",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2013-11-02T17:00:00Z",
               "team1_player1": "50054619",
               "team1_player2": "50053769",
               "team2_player1": "50059706",
@@ -418,6 +445,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T13:00:00Z",
               "team1_player1": "50065873",
               "team1_player2": "50059467",
               "team2_player1": "50059706",
@@ -431,6 +459,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T10:00:00Z",
               "team1_player1": "50076985",
               "team1_player2": "50089298",
               "team2_player1": "50059706",
@@ -444,6 +473,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T15:30:00Z",
               "team1_player1": "50073670",
               "team1_player2": "50094214",
               "team2_player1": "50059706",
@@ -457,6 +487,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T17:00:00Z",
               "team1_player1": "50059706",
               "team1_player2": "50066313",
               "team2_player1": "50054619",
@@ -470,6 +501,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T10:00:00Z",
               "team1_player1": "50065873",
               "team1_player2": "50059467",
               "team2_player1": "50054619",
@@ -483,6 +515,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T15:30:00Z",
               "team1_player1": "50076985",
               "team1_player2": "50089298",
               "team2_player1": "50054619",
@@ -496,6 +529,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T11:30:00Z",
               "team1_player1": "50073670",
               "team1_player2": "50094214",
               "team2_player1": "50054619",
@@ -509,6 +543,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T13:00:00Z",
               "team1_player1": "50059706",
               "team1_player2": "50066313",
               "team2_player1": "50065873",
@@ -522,6 +557,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T10:00:00Z",
               "team1_player1": "50054619",
               "team1_player2": "50053769",
               "team2_player1": "50065873",
@@ -535,6 +571,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T11:30:00Z",
               "team1_player1": "50076985",
               "team1_player2": "50089298",
               "team2_player1": "50065873",
@@ -548,6 +585,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T17:00:00Z",
               "team1_player1": "50073670",
               "team1_player2": "50094214",
               "team2_player1": "50065873",
@@ -561,6 +599,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T10:00:00Z",
               "team1_player1": "50059706",
               "team1_player2": "50066313",
               "team2_player1": "50076985",
@@ -574,6 +613,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T15:30:00Z",
               "team1_player1": "50054619",
               "team1_player2": "50053769",
               "team2_player1": "50076985",
@@ -587,6 +627,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T11:30:00Z",
               "team1_player1": "50065873",
               "team1_player2": "50059467",
               "team2_player1": "50076985",
@@ -600,6 +641,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T13:00:00Z",
               "team1_player1": "50073670",
               "team1_player2": "50094214",
               "team2_player1": "50076985",
@@ -613,6 +655,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T15:30:00Z",
               "team1_player1": "50059706",
               "team1_player2": "50066313",
               "team2_player1": "50073670",
@@ -626,6 +669,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T11:30:00Z",
               "team1_player1": "50054619",
               "team1_player2": "50053769",
               "team2_player1": "50073670",
@@ -639,6 +683,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T17:00:00Z",
               "team1_player1": "50065873",
               "team1_player2": "50059467",
               "team2_player1": "50073670",
@@ -652,6 +697,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T13:00:00Z",
               "team1_player1": "50076985",
               "team1_player2": "50089298",
               "team2_player1": "50073670",
@@ -668,13 +714,14 @@
         },
         {
           "poule": "GDA",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 8,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T13:00:00Z",
               "team1_player1": "50076212",
               "team1_player2": "50054619",
               "team2_player1": "50067832",
@@ -689,6 +736,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:00:00Z",
               "team1_player1": "50076212",
               "team1_player2": "50054619",
               "team2_player1": "50042294",
@@ -703,6 +751,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:00:00Z",
               "team1_player1": "50067832",
               "team1_player2": "50076985",
               "team2_player1": "50053763",
@@ -717,6 +766,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:00:00Z",
               "team1_player1": "50076212",
               "team1_player2": "50054619",
               "team2_player1": "50062105",
@@ -731,6 +781,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:30:00Z",
               "team1_player1": "50042294",
               "team1_player2": "50070184",
               "team2_player1": "50044584",
@@ -745,6 +796,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:30:00Z",
               "team1_player1": "50067832",
               "team1_player2": "50076985",
               "team2_player1": "50030471",
@@ -759,6 +811,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:30:00Z",
               "team1_player1": "50053763",
               "team1_player2": "50065873",
               "team2_player1": "30022132",
@@ -811,13 +864,14 @@
       "subEvents": [
         {
           "poule": "HEB1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 64,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T14:00:00Z",
               "team1_player1": "50060670",
               "team1_player2": null,
               "team2_player1": "50093263",
@@ -832,6 +886,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T11:30:00Z",
               "team1_player1": "50060670",
               "team1_player2": null,
               "team2_player1": "50070414",
@@ -846,6 +901,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T11:30:00Z",
               "team1_player1": "50069310",
               "team1_player2": null,
               "team2_player1": "50093263",
@@ -860,6 +916,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T19:30:00Z",
               "team1_player1": "50060670",
               "team1_player2": null,
               "team2_player1": "50042147",
@@ -874,6 +931,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:00:00Z",
               "team1_player1": "50048356",
               "team1_player2": null,
               "team2_player1": "50070414",
@@ -888,6 +946,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:00:00Z",
               "team1_player1": "50061618",
               "team1_player2": null,
               "team2_player1": "50069310",
@@ -902,6 +961,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:00:00Z",
               "team1_player1": "50060379",
               "team1_player2": null,
               "team2_player1": "50093263",
@@ -916,6 +976,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:30:00Z",
               "team1_player1": "50077231",
               "team1_player2": null,
               "team2_player1": "50060670",
@@ -930,6 +991,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:30:00Z",
               "team1_player1": "50083677",
               "team1_player2": null,
               "team2_player1": "50042147",
@@ -944,6 +1006,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:00:00Z",
               "team1_player1": "50071874",
               "team1_player2": null,
               "team2_player1": "50048356",
@@ -958,6 +1021,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:00:00Z",
               "team1_player1": "50070414",
               "team1_player2": null,
               "team2_player1": "50065822",
@@ -972,6 +1036,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:00:00Z",
               "team1_player1": "50061618",
               "team1_player2": null,
               "team2_player1": "50052862",
@@ -986,6 +1051,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:00:00Z",
               "team1_player1": "50069310",
               "team1_player2": null,
               "team2_player1": "50056332",
@@ -1000,6 +1066,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:00:00Z",
               "team1_player1": "50060379",
               "team1_player2": null,
               "team2_player1": "50093808",
@@ -1014,6 +1081,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:00:00Z",
               "team1_player1": "50004226",
               "team1_player2": null,
               "team2_player1": "50093263",
@@ -1028,6 +1096,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T08:30:00Z",
               "team1_player1": "50077231",
               "team1_player2": null,
               "team2_player1": "50090452",
@@ -1042,6 +1111,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T08:30:00Z",
               "team1_player1": "50064697",
               "team1_player2": null,
               "team2_player1": "50060670",
@@ -1056,6 +1126,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T08:30:00Z",
               "team1_player1": "50083677",
               "team1_player2": null,
               "team2_player1": "50086850",
@@ -1070,6 +1141,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T08:30:00Z",
               "team1_player1": "50076984",
               "team1_player2": null,
               "team2_player1": "50042147",
@@ -1084,6 +1156,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T08:30:00Z",
               "team1_player1": "50093807",
               "team1_player2": null,
               "team2_player1": "50071874",
@@ -1098,6 +1171,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T08:30:00Z",
               "team1_player1": "50028931",
               "team1_player2": null,
               "team2_player1": "50048356",
@@ -1112,6 +1186,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T08:30:00Z",
               "team1_player1": "50070414",
               "team1_player2": null,
               "team2_player1": "50063617",
@@ -1126,6 +1201,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T08:30:00Z",
               "team1_player1": "50065822",
               "team1_player2": null,
               "team2_player1": "50045642",
@@ -1140,6 +1216,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:00:00Z",
               "team1_player1": "50061618",
               "team1_player2": null,
               "team2_player1": "50052116",
@@ -1154,6 +1231,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T08:30:00Z",
               "team1_player1": "50052723",
               "team1_player2": null,
               "team2_player1": "50052862",
@@ -1168,6 +1246,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:00:00Z",
               "team1_player1": "50090614",
               "team1_player2": null,
               "team2_player1": "50069310",
@@ -1182,6 +1261,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:00:00Z",
               "team1_player1": "50054048",
               "team1_player2": null,
               "team2_player1": "50056332",
@@ -1196,6 +1276,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:00:00Z",
               "team1_player1": "50060379",
               "team1_player2": null,
               "team2_player1": "50040330",
@@ -1210,6 +1291,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:00:00Z",
               "team1_player1": "50093808",
               "team1_player2": null,
               "team2_player1": "50076939",
@@ -1224,6 +1306,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:00:00Z",
               "team1_player1": "50004226",
               "team1_player2": null,
               "team2_player1": "50066952",
@@ -1238,6 +1321,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:00:00Z",
               "team1_player1": "50078761",
               "team1_player2": null,
               "team2_player1": "50093263",
@@ -1252,6 +1336,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50077231",
               "team1_player2": null,
               "team2_player1": null,
@@ -1266,6 +1351,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50090452",
               "team1_player2": null,
               "team2_player1": null,
@@ -1280,6 +1366,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50064697",
               "team1_player2": null,
               "team2_player1": null,
@@ -1294,6 +1381,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50060670",
               "team1_player2": null,
               "team2_player1": null,
@@ -1308,6 +1396,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50083677",
               "team1_player2": null,
               "team2_player1": null,
@@ -1322,6 +1411,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50086850",
               "team1_player2": null,
               "team2_player1": null,
@@ -1336,6 +1426,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50076984",
               "team1_player2": null,
               "team2_player1": null,
@@ -1350,6 +1441,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50042147",
               "team1_player2": null,
               "team2_player1": null,
@@ -1364,6 +1456,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50093807",
               "team1_player2": null,
               "team2_player1": null,
@@ -1378,6 +1471,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50071874",
               "team1_player2": null,
               "team2_player1": null,
@@ -1392,6 +1486,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50028931",
               "team1_player2": null,
               "team2_player1": null,
@@ -1406,6 +1501,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50048356",
               "team1_player2": null,
               "team2_player1": null,
@@ -1420,6 +1516,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50070414",
               "team1_player2": null,
               "team2_player1": null,
@@ -1434,6 +1531,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50063617",
               "team1_player2": null,
               "team2_player1": null,
@@ -1448,6 +1546,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50065822",
               "team1_player2": null,
               "team2_player1": null,
@@ -1462,6 +1561,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50045642",
               "team1_player2": null,
               "team2_player1": null,
@@ -1476,6 +1576,7 @@
             },
             {
               "final": 6,
+              "playedAt": "2013-11-02T08:00:00Z",
               "team1_player1": "50055296",
               "team1_player2": null,
               "team2_player1": "50061618",
@@ -1490,6 +1591,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50052116",
@@ -1504,6 +1606,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50052723",
@@ -1518,6 +1621,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50052862",
@@ -1532,6 +1636,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50090614",
@@ -1546,6 +1651,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50069310",
@@ -1560,6 +1666,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50054048",
@@ -1574,6 +1681,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50056332",
@@ -1588,6 +1696,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50060379",
@@ -1602,6 +1711,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50040330",
@@ -1616,6 +1726,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50093808",
@@ -1630,6 +1741,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50076939",
@@ -1644,6 +1756,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50004226",
@@ -1658,6 +1771,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50066952",
@@ -1672,6 +1786,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50078761",
@@ -1686,6 +1801,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50093263",
@@ -1702,13 +1818,14 @@
         },
         {
           "poule": "DEB1",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 1,
           "size": 32,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T14:00:00Z",
               "team1_player1": "50076985",
               "team1_player2": null,
               "team2_player1": "50094214",
@@ -1723,6 +1840,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:30:00Z",
               "team1_player1": "50059954",
               "team1_player2": null,
               "team2_player1": "50076985",
@@ -1737,6 +1855,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:00:00Z",
               "team1_player1": "50091428",
               "team1_player2": null,
               "team2_player1": "50094214",
@@ -1751,6 +1870,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:00:00Z",
               "team1_player1": "50096457",
               "team1_player2": null,
               "team2_player1": "50059954",
@@ -1765,6 +1885,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:00:00Z",
               "team1_player1": "50076985",
               "team1_player2": null,
               "team2_player1": "50074422",
@@ -1779,6 +1900,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:00:00Z",
               "team1_player1": "50070415",
               "team1_player2": null,
               "team2_player1": "50091428",
@@ -1793,6 +1915,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:00:00Z",
               "team1_player1": "50069383",
               "team1_player2": null,
               "team2_player1": "50094214",
@@ -1807,6 +1930,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:00:00Z",
               "team1_player1": "50096457",
               "team1_player2": null,
               "team2_player1": "50066459",
@@ -1821,6 +1945,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:00:00Z",
               "team1_player1": "50071102",
               "team1_player2": null,
               "team2_player1": "50059954",
@@ -1835,6 +1960,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:00:00Z",
               "team1_player1": "50076985",
               "team1_player2": null,
               "team2_player1": "50056952",
@@ -1849,6 +1975,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:00:00Z",
               "team1_player1": "50074422",
               "team1_player2": null,
               "team2_player1": "50041392",
@@ -1863,6 +1990,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:00:00Z",
               "team1_player1": "50070415",
               "team1_player2": null,
               "team2_player1": "50049654",
@@ -1877,6 +2005,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:30:00Z",
               "team1_player1": "50069484",
               "team1_player2": null,
               "team2_player1": "50091428",
@@ -1891,6 +2020,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:30:00Z",
               "team1_player1": "50069383",
               "team1_player2": null,
               "team2_player1": "50070524",
@@ -1905,6 +2035,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:30:00Z",
               "team1_player1": "50059462",
               "team1_player2": null,
               "team2_player1": "50094214",
@@ -1919,6 +2050,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50096457",
               "team1_player2": null,
               "team2_player1": null,
@@ -1933,6 +2065,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50066459",
               "team1_player2": null,
               "team2_player1": null,
@@ -1947,6 +2080,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50071102",
               "team1_player2": null,
               "team2_player1": null,
@@ -1961,6 +2095,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:00:00Z",
               "team1_player1": "50086927",
               "team1_player2": null,
               "team2_player1": "50059954",
@@ -1975,6 +2110,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50076985",
               "team1_player2": null,
               "team2_player1": null,
@@ -1989,6 +2125,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50056952",
               "team1_player2": null,
               "team2_player1": null,
@@ -2003,6 +2140,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50074422",
               "team1_player2": null,
               "team2_player1": null,
@@ -2017,6 +2155,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:00:00Z",
               "team1_player1": "50075081",
               "team1_player2": null,
               "team2_player1": "50041392",
@@ -2031,6 +2170,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:00:00Z",
               "team1_player1": "50056223",
               "team1_player2": null,
               "team2_player1": "50070415",
@@ -2045,6 +2185,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50049654",
@@ -2059,6 +2200,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:00:00Z",
               "team1_player1": "50094280",
               "team1_player2": null,
               "team2_player1": "50069484",
@@ -2073,6 +2215,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50091428",
@@ -2087,6 +2230,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:00:00Z",
               "team1_player1": "50069383",
               "team1_player2": null,
               "team2_player1": "50091985",
@@ -2101,6 +2245,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50070524",
@@ -2115,6 +2260,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50059462",
@@ -2129,6 +2275,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50094214",
@@ -2145,13 +2292,14 @@
         },
         {
           "poule": "HDB1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 1,
           "size": 32,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T15:00:00Z",
               "team1_player1": "50070414",
               "team1_player2": "50069310",
               "team2_player1": "50036718",
@@ -2166,6 +2314,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:00:00Z",
               "team1_player1": "50070414",
               "team1_player2": "50069310",
               "team2_player1": "50061618",
@@ -2180,6 +2329,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:00:00Z",
               "team1_player1": "50036718",
               "team1_player2": "50042147",
               "team2_player1": "50004227",
@@ -2194,6 +2344,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T08:00:00Z",
               "team1_player1": "50070414",
               "team1_player2": "50069310",
               "team2_player1": "50044357",
@@ -2208,6 +2359,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T08:30:00Z",
               "team1_player1": "50061618",
               "team1_player2": "50076939",
               "team2_player1": "50093808",
@@ -2222,6 +2374,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T08:30:00Z",
               "team1_player1": "50036718",
               "team1_player2": "50042147",
               "team2_player1": "50060670",
@@ -2236,6 +2389,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T08:30:00Z",
               "team1_player1": "50004227",
               "team1_player2": "50028755",
               "team2_player1": "50072437",
@@ -2250,6 +2404,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:00:00Z",
               "team1_player1": "50070414",
               "team1_player2": "50069310",
               "team2_player1": "50066952",
@@ -2264,6 +2419,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:00:00Z",
               "team1_player1": "50044357",
               "team1_player2": "50053899",
               "team2_player1": "50071874",
@@ -2278,6 +2434,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:00:00Z",
               "team1_player1": "50056332",
               "team1_player2": "50077231",
               "team2_player1": "50061618",
@@ -2292,6 +2449,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:30:00Z",
               "team1_player1": "50052116",
               "team1_player2": "50045642",
               "team2_player1": "50093808",
@@ -2306,6 +2464,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:30:00Z",
               "team1_player1": "50028931",
               "team1_player2": "50046987",
               "team2_player1": "50036718",
@@ -2320,6 +2479,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:30:00Z",
               "team1_player1": "50090114",
               "team1_player2": "50086850",
               "team2_player1": "50060670",
@@ -2334,6 +2494,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:30:00Z",
               "team1_player1": "50004227",
               "team1_player2": "50028755",
               "team2_player1": "50048356",
@@ -2348,6 +2509,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:30:00Z",
               "team1_player1": "50060379",
               "team1_player2": "50063617",
               "team2_player1": "50072437",
@@ -2362,6 +2524,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50070414",
               "team1_player2": "50069310",
               "team2_player1": null,
@@ -2376,6 +2539,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50066952",
               "team1_player2": "50065822",
               "team2_player1": null,
@@ -2390,6 +2554,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50044357",
               "team1_player2": "50053899",
               "team2_player1": null,
@@ -2404,6 +2569,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T11:00:00Z",
               "team1_player1": "50082633",
               "team1_player2": "50064697",
               "team2_player1": "50071874",
@@ -2418,6 +2584,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50056332",
               "team1_player2": "50077231",
               "team2_player1": null,
@@ -2432,6 +2599,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50061618",
               "team1_player2": "50076939",
               "team2_player1": null,
@@ -2446,6 +2614,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50052116",
               "team1_player2": "50045642",
               "team2_player1": null,
@@ -2460,6 +2629,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T11:00:00Z",
               "team1_player1": "50078761",
               "team1_player2": "50090452",
               "team2_player1": "50093808",
@@ -2474,6 +2644,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T11:00:00Z",
               "team1_player1": "50004226",
               "team1_player2": "50040330",
               "team2_player1": "50028931",
@@ -2488,6 +2659,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50036718",
@@ -2502,6 +2674,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50090114",
@@ -2516,6 +2689,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50060670",
@@ -2530,6 +2704,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T11:00:00Z",
               "team1_player1": "50093262",
               "team1_player2": "50093263",
               "team2_player1": "50004227",
@@ -2544,6 +2719,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50048356",
@@ -2558,6 +2734,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50060379",
@@ -2572,6 +2749,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50072437",
@@ -2588,13 +2766,14 @@
         },
         {
           "poule": "DDB1",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 1,
           "size": 16,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T15:00:00Z",
               "team1_player1": "50096457",
               "team1_player2": "50070415",
               "team2_player1": "50029373",
@@ -2609,6 +2788,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:00:00Z",
               "team1_player1": "50096457",
               "team1_player2": "50070415",
               "team2_player1": "50059462",
@@ -2623,6 +2803,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:00:00Z",
               "team1_player1": "50049654",
               "team1_player2": "50070524",
               "team2_player1": "50029373",
@@ -2637,6 +2818,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T08:30:00Z",
               "team1_player1": "50096457",
               "team1_player2": "50070415",
               "team2_player1": "50091985",
@@ -2651,6 +2833,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T08:30:00Z",
               "team1_player1": "50056223",
               "team1_player2": "50041392",
               "team2_player1": "50059462",
@@ -2665,6 +2848,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:00:00Z",
               "team1_player1": "50069383",
               "team1_player2": "50075081",
               "team2_player1": "50049654",
@@ -2679,6 +2863,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:00:00Z",
               "team1_player1": "50029373",
               "team1_player2": "50066459",
               "team2_player1": "50071102",
@@ -2693,6 +2878,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50096457",
               "team1_player2": "50070415",
               "team2_player1": null,
@@ -2707,6 +2893,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:30:00Z",
               "team1_player1": "50063644",
               "team1_player2": "50056952",
               "team2_player1": "50091985",
@@ -2721,6 +2908,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50056223",
               "team1_player2": "50041392",
               "team2_player1": null,
@@ -2735,6 +2923,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:30:00Z",
               "team1_player1": "50094280",
               "team1_player2": "50086927",
               "team2_player1": "50059462",
@@ -2749,6 +2938,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:30:00Z",
               "team1_player1": "50069383",
               "team1_player2": "50075081",
               "team2_player1": "50045636",
@@ -2763,6 +2953,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50049654",
@@ -2777,6 +2968,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:30:00Z",
               "team1_player1": "50074422",
               "team1_player2": "50061231",
               "team2_player1": "50029373",
@@ -2791,6 +2983,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50071102",
@@ -2807,13 +3000,14 @@
         },
         {
           "poule": "GDB1",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 32,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T15:30:00Z",
               "team1_player1": "50069310",
               "team1_player2": "50091985",
               "team2_player1": "50093807",
@@ -2828,6 +3022,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:30:00Z",
               "team1_player1": "50069310",
               "team1_player2": "50091985",
               "team2_player1": "50052723",
@@ -2842,6 +3037,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:30:00Z",
               "team1_player1": "50093807",
               "team1_player2": "50094214",
               "team2_player1": "50093263",
@@ -2856,6 +3052,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:00:00Z",
               "team1_player1": "50069310",
               "team1_player2": "50091985",
               "team2_player1": "50078761",
@@ -2870,6 +3067,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:00:00Z",
               "team1_player1": "50065822",
               "team1_player2": "50069383",
               "team2_player1": "50052723",
@@ -2884,6 +3082,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:00:00Z",
               "team1_player1": "50028755",
               "team1_player2": "50045636",
               "team2_player1": "50093807",
@@ -2898,6 +3097,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:00:00Z",
               "team1_player1": "50093808",
               "team1_player2": "50094280",
               "team2_player1": "50093263",
@@ -2912,6 +3112,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T18:30:00Z",
               "team1_player1": "50069310",
               "team1_player2": "50091985",
               "team2_player1": "50048356",
@@ -2926,6 +3127,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T18:30:00Z",
               "team1_player1": "50078761",
               "team1_player2": "50086927",
               "team2_player1": "50052862",
@@ -2940,6 +3142,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T18:30:00Z",
               "team1_player1": "50065822",
               "team1_player2": "50069383",
               "team2_player1": "50086850",
@@ -2954,6 +3157,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T18:30:00Z",
               "team1_player1": "50054048",
               "team1_player2": "50051796",
               "team2_player1": "50052723",
@@ -2968,6 +3172,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T18:30:00Z",
               "team1_player1": "50036718",
               "team1_player2": "50029373",
               "team2_player1": "50028755",
@@ -2982,6 +3187,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T18:30:00Z",
               "team1_player1": "50060670",
               "team1_player2": "50061312",
               "team2_player1": "50093807",
@@ -2996,6 +3202,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T18:30:00Z",
               "team1_player1": "50056332",
               "team1_player2": "50049654",
               "team2_player1": "50093808",
@@ -3010,6 +3217,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T18:30:00Z",
               "team1_player1": "50004227",
               "team1_player2": "50056952",
               "team2_player1": "50093263",
@@ -3024,6 +3232,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50069310",
               "team1_player2": "50091985",
               "team2_player1": null,
@@ -3038,6 +3247,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:00:00Z",
               "team1_player1": "50076939",
               "team1_player2": "50070415",
               "team2_player1": "50048356",
@@ -3052,6 +3262,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50078761",
               "team1_player2": "50086927",
               "team2_player1": null,
@@ -3066,6 +3277,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:00:00Z",
               "team1_player1": "50052862",
               "team1_player2": "50071102",
               "team2_player1": "50052116",
@@ -3080,6 +3292,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50065822",
               "team1_player2": "50069383",
               "team2_player1": null,
@@ -3094,6 +3307,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:00:00Z",
               "team1_player1": "50076984",
               "team1_player2": "50056223",
               "team2_player1": "50086850",
@@ -3108,6 +3322,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50054048",
               "team1_player2": "50051796",
               "team2_player1": null,
@@ -3122,6 +3337,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:00:00Z",
               "team1_player1": "50052723",
               "team1_player2": "50070524",
               "team2_player1": "50028931",
@@ -3136,6 +3352,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:00:00Z",
               "team1_player1": "50036718",
               "team1_player2": "50029373",
               "team2_player1": "50072437",
@@ -3150,6 +3367,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50028755",
@@ -3164,6 +3382,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:00:00Z",
               "team1_player1": "50090614",
               "team1_player2": "50075081",
               "team2_player1": "50060670",
@@ -3178,6 +3397,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50093807",
@@ -3192,6 +3412,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:00:00Z",
               "team1_player1": "50040330",
               "team1_player2": "50059954",
               "team2_player1": "50056332",
@@ -3206,6 +3427,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50093808",
@@ -3220,6 +3442,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:00:00Z",
               "team1_player1": "50061618",
               "team1_player2": "50066459",
               "team2_player1": "50004227",
@@ -3234,6 +3457,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50093263",
@@ -3286,13 +3510,14 @@
       "subEvents": [
         {
           "poule": "HEB2",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 32,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T14:30:00Z",
               "team1_player1": "50078931",
               "team1_player2": null,
               "team2_player1": "50080096",
@@ -3307,6 +3532,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:30:00Z",
               "team1_player1": "50078931",
               "team1_player2": null,
               "team2_player1": "50093262",
@@ -3321,6 +3547,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:30:00Z",
               "team1_player1": "50080096",
               "team1_player2": null,
               "team2_player1": "50090114",
@@ -3335,6 +3562,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T19:30:00Z",
               "team1_player1": "50078931",
               "team1_player2": null,
               "team2_player1": "50087637",
@@ -3349,6 +3577,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T19:30:00Z",
               "team1_player1": "50093262",
               "team1_player2": null,
               "team2_player1": "50094808",
@@ -3363,6 +3592,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T19:30:00Z",
               "team1_player1": "50080096",
               "team1_player2": null,
               "team2_player1": "50082633",
@@ -3377,6 +3607,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T19:30:00Z",
               "team1_player1": "50101251",
               "team1_player2": null,
               "team2_player1": "50090114",
@@ -3391,6 +3622,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T15:00:00Z",
               "team1_player1": "50078931",
               "team1_player2": null,
               "team2_player1": "50068874",
@@ -3405,6 +3637,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T15:00:00Z",
               "team1_player1": "50071942",
               "team1_player2": null,
               "team2_player1": "50087637",
@@ -3419,6 +3652,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T15:00:00Z",
               "team1_player1": "50093262",
               "team1_player2": null,
               "team2_player1": "50089525",
@@ -3433,6 +3667,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T15:00:00Z",
               "team1_player1": "50094808",
               "team1_player2": null,
               "team2_player1": "50083258",
@@ -3447,6 +3682,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T15:00:00Z",
               "team1_player1": "50080096",
               "team1_player2": null,
               "team2_player1": "50060438",
@@ -3461,6 +3697,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T15:00:00Z",
               "team1_player1": "50091303",
               "team1_player2": null,
               "team2_player1": "50082633",
@@ -3475,6 +3712,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T15:00:00Z",
               "team1_player1": "50060848",
               "team1_player2": null,
               "team2_player1": "50101251",
@@ -3489,6 +3727,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T15:00:00Z",
               "team1_player1": "50090247",
               "team1_player2": null,
               "team2_player1": "50090114",
@@ -3503,6 +3742,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50078931",
               "team1_player2": null,
               "team2_player1": null,
@@ -3517,6 +3757,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:00:00Z",
               "team1_player1": "50068874",
               "team1_player2": null,
               "team2_player1": "50033165",
@@ -3531,6 +3772,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50071942",
               "team1_player2": null,
               "team2_player1": null,
@@ -3545,6 +3787,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:30:00Z",
               "team1_player1": "50089296",
               "team1_player2": null,
               "team2_player1": "50087637",
@@ -3559,6 +3802,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50093262",
               "team1_player2": null,
               "team2_player1": null,
@@ -3573,6 +3817,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:30:00Z",
               "team1_player1": "50053764",
               "team1_player2": null,
               "team2_player1": "50089525",
@@ -3587,6 +3832,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50094808",
               "team1_player2": null,
               "team2_player1": null,
@@ -3601,6 +3847,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:30:00Z",
               "team1_player1": "50083258",
               "team1_player2": null,
               "team2_player1": "50066720",
@@ -3615,6 +3862,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:30:00Z",
               "team1_player1": "50080096",
               "team1_player2": null,
               "team2_player1": "50020662",
@@ -3629,6 +3877,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:30:00Z",
               "team1_player1": "50060438",
               "team1_player2": null,
               "team2_player1": "50078554",
@@ -3643,6 +3892,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:30:00Z",
               "team1_player1": "50108139",
               "team1_player2": null,
               "team2_player1": "50091303",
@@ -3657,6 +3907,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50082633",
@@ -3671,6 +3922,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:30:00Z",
               "team1_player1": "50060848",
               "team1_player2": null,
               "team2_player1": "50087980",
@@ -3685,6 +3937,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50101251",
@@ -3699,6 +3952,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:30:00Z",
               "team1_player1": "50081888",
               "team1_player2": null,
               "team2_player1": "50090247",
@@ -3713,6 +3967,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50090114",
@@ -3729,13 +3984,14 @@
         },
         {
           "poule": "DEB2",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 1,
           "size": 8,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T14:30:00Z",
               "team1_player1": "50088566",
               "team1_player2": null,
               "team2_player1": "50090264",
@@ -3750,6 +4006,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:30:00Z",
               "team1_player1": "50088566",
               "team1_player2": null,
               "team2_player1": "50051796",
@@ -3764,6 +4021,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:30:00Z",
               "team1_player1": "50062690",
               "team1_player2": null,
               "team2_player1": "50090264",
@@ -3778,6 +4036,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:30:00Z",
               "team1_player1": "50088566",
               "team1_player2": null,
               "team2_player1": "50061231",
@@ -3792,6 +4051,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:00:00Z",
               "team1_player1": "50090613",
               "team1_player2": null,
               "team2_player1": "50051796",
@@ -3806,6 +4066,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:00:00Z",
               "team1_player1": "50062690",
               "team1_player2": null,
               "team2_player1": "50076213",
@@ -3820,6 +4081,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:30:00Z",
               "team1_player1": "50044818",
               "team1_player2": null,
               "team2_player1": "50090264",
@@ -3836,13 +4098,14 @@
         },
         {
           "poule": "HDB2",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 1,
           "size": 16,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T15:00:00Z",
               "team1_player1": "50080096",
               "team1_player2": "50078931",
               "team2_player1": "50033165",
@@ -3857,6 +4120,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:30:00Z",
               "team1_player1": "50080096",
               "team1_player2": "50078931",
               "team2_player1": "50098941",
@@ -3871,6 +4135,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:30:00Z",
               "team1_player1": "50066720",
               "team1_player2": "50101251",
               "team2_player1": "50033165",
@@ -3885,6 +4150,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:00:00Z",
               "team1_player1": "50080096",
               "team1_player2": "50078931",
               "team2_player1": "50083258",
@@ -3899,6 +4165,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:00:00Z",
               "team1_player1": "50082037",
               "team1_player2": "50089525",
               "team2_player1": "50098941",
@@ -3913,6 +4180,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:00:00Z",
               "team1_player1": "50066720",
               "team1_player2": "50101251",
               "team2_player1": "50020662",
@@ -3927,6 +4195,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:00:00Z",
               "team1_player1": "50033165",
               "team1_player2": "50094808",
               "team2_player1": "50108139",
@@ -3941,6 +4210,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50080096",
               "team1_player2": "50078931",
               "team2_player1": null,
@@ -3955,6 +4225,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T18:00:00Z",
               "team1_player1": "50089296",
               "team1_player2": "50086845",
               "team2_player1": "50083258",
@@ -3969,6 +4240,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50082037",
               "team1_player2": "50089525",
               "team2_player1": null,
@@ -3983,6 +4255,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T18:00:00Z",
               "team1_player1": "50098941",
               "team1_player2": "50078085",
               "team2_player1": "50078554",
@@ -3997,6 +4270,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T18:00:00Z",
               "team1_player1": "50087980",
               "team1_player2": "50071942",
               "team2_player1": "50066720",
@@ -4011,6 +4285,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50020662",
@@ -4025,6 +4300,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T18:00:00Z",
               "team1_player1": "50087637",
               "team1_player2": "50090247",
               "team2_player1": "50033165",
@@ -4039,6 +4315,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50108139",
@@ -4055,12 +4332,13 @@
         },
         {
           "poule": "DDB2",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2013-11-02T17:00:00Z",
               "team1_player1": "50084753",
               "team1_player2": "50090264",
               "team2_player1": "50051796",
@@ -4074,6 +4352,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T15:00:00Z",
               "team1_player1": "50090613",
               "team1_player2": "50062690",
               "team2_player1": "50051796",
@@ -4087,6 +4366,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T17:00:00Z",
               "team1_player1": "50051796",
               "team1_player2": "50054049",
               "team2_player1": "50084753",
@@ -4100,6 +4380,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T13:30:00Z",
               "team1_player1": "50090613",
               "team1_player2": "50062690",
               "team2_player1": "50084753",
@@ -4113,6 +4394,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T15:00:00Z",
               "team1_player1": "50051796",
               "team1_player2": "50054049",
               "team2_player1": "50090613",
@@ -4126,6 +4408,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T13:30:00Z",
               "team1_player1": "50084753",
               "team1_player2": "50090264",
               "team2_player1": "50090613",
@@ -4142,13 +4425,14 @@
         },
         {
           "poule": "GDB2",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 16,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T15:30:00Z",
               "team1_player1": "50071942",
               "team1_player2": "50099371",
               "team2_player1": "50090114",
@@ -4163,6 +4447,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T14:00:00Z",
               "team1_player1": "50071942",
               "team1_player2": "50099371",
               "team2_player1": "50078085",
@@ -4177,6 +4462,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T14:00:00Z",
               "team1_player1": "50089296",
               "team1_player2": "50090613",
               "team2_player1": "50090114",
@@ -4191,6 +4477,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:30:00Z",
               "team1_player1": "50078931",
               "team1_player2": "50084753",
               "team2_player1": "50071942",
@@ -4205,6 +4492,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:30:00Z",
               "team1_player1": "50078085",
               "team1_player2": "50076213",
               "team2_player1": "50087980",
@@ -4219,6 +4507,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:30:00Z",
               "team1_player1": "50089296",
               "team1_player2": "50090613",
               "team2_player1": "50041590",
@@ -4233,6 +4522,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:30:00Z",
               "team1_player1": "50090114",
               "team1_player2": "50062690",
               "team2_player1": "50089525",
@@ -4247,6 +4537,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50078931",
               "team1_player2": "50084753",
               "team2_player1": null,
@@ -4261,6 +4552,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50071942",
               "team1_player2": "50099371",
               "team2_player1": null,
@@ -4275,6 +4567,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50078085",
               "team1_player2": "50076213",
               "team2_player1": null,
@@ -4289,6 +4582,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50087980",
               "team1_player2": "50076940",
               "team2_player1": null,
@@ -4303,6 +4597,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T11:30:00Z",
               "team1_player1": "50090247",
               "team1_player2": "50044818",
               "team2_player1": "50089296",
@@ -4317,6 +4612,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50041590",
@@ -4331,6 +4627,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50090114",
@@ -4345,6 +4642,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50089525",
@@ -4397,13 +4695,14 @@
       "subEvents": [
         {
           "poule": "HEC1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 32,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T14:30:00Z",
               "team1_player1": "50076988",
               "team1_player2": null,
               "team2_player1": "50041393",
@@ -4418,6 +4717,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:00:00Z",
               "team1_player1": "50090959",
               "team1_player2": null,
               "team2_player1": "50076988",
@@ -4432,6 +4732,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:00:00Z",
               "team1_player1": "50041393",
               "team1_player2": null,
               "team2_player1": "50082763",
@@ -4446,6 +4747,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:30:00Z",
               "team1_player1": "50101563",
               "team1_player2": null,
               "team2_player1": "50090959",
@@ -4460,6 +4762,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:30:00Z",
               "team1_player1": "50076988",
               "team1_player2": null,
               "team2_player1": "50093915",
@@ -4474,6 +4777,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:30:00Z",
               "team1_player1": "50084177",
               "team1_player2": null,
               "team2_player1": "50041393",
@@ -4488,6 +4792,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:30:00Z",
               "team1_player1": "50104687",
               "team1_player2": null,
               "team2_player1": "50082763",
@@ -4502,6 +4807,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T12:30:00Z",
               "team1_player1": "50101563",
               "team1_player2": null,
               "team2_player1": "50073417",
@@ -4516,6 +4822,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:00:00Z",
               "team1_player1": "50080750",
               "team1_player2": null,
               "team2_player1": "50090959",
@@ -4530,6 +4837,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:00:00Z",
               "team1_player1": "50076988",
               "team1_player2": null,
               "team2_player1": "50086072",
@@ -4544,6 +4852,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:00:00Z",
               "team1_player1": "50093915",
               "team1_player2": null,
               "team2_player1": "50063687",
@@ -4558,6 +4867,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:00:00Z",
               "team1_player1": "50084177",
               "team1_player2": null,
               "team2_player1": "50076992",
@@ -4572,6 +4882,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:00:00Z",
               "team1_player1": "50041393",
               "team1_player2": null,
               "team2_player1": "50082037",
@@ -4586,6 +4897,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:00:00Z",
               "team1_player1": "50047202",
               "team1_player2": null,
               "team2_player1": "50104687",
@@ -4600,6 +4912,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:00:00Z",
               "team1_player1": "50082763",
               "team1_player2": null,
               "team2_player1": "50090769",
@@ -4614,6 +4927,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50101563",
               "team1_player2": null,
               "team2_player1": null,
@@ -4628,6 +4942,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:00:00Z",
               "team1_player1": "50089911",
               "team1_player2": null,
               "team2_player1": "50073417",
@@ -4642,6 +4957,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:30:00Z",
               "team1_player1": "50080750",
               "team1_player2": null,
               "team2_player1": "50046002",
@@ -4656,6 +4972,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:30:00Z",
               "team1_player1": "50090959",
               "team1_player2": null,
               "team2_player1": "50086210",
@@ -4670,6 +4987,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:30:00Z",
               "team1_player1": "50076988",
               "team1_player2": null,
               "team2_player1": "50083114",
@@ -4684,6 +5002,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:30:00Z",
               "team1_player1": "50097528",
               "team1_player2": null,
               "team2_player1": "50086072",
@@ -4698,6 +5017,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:30:00Z",
               "team1_player1": "50093915",
               "team1_player2": null,
               "team2_player1": "50109582",
@@ -4712,6 +5032,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:30:00Z",
               "team1_player1": "50091127",
               "team1_player2": null,
               "team2_player1": "50063687",
@@ -4726,6 +5047,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:30:00Z",
               "team1_player1": "50084177",
               "team1_player2": null,
               "team2_player1": "50037684",
@@ -4740,6 +5062,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:30:00Z",
               "team1_player1": "50076992",
               "team1_player2": null,
               "team2_player1": "50015935",
@@ -4754,6 +5077,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:30:00Z",
               "team1_player1": "50066746",
               "team1_player2": null,
               "team2_player1": "50041393",
@@ -4768,6 +5092,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:30:00Z",
               "team1_player1": "50086845",
               "team1_player2": null,
               "team2_player1": "50082037",
@@ -4782,6 +5107,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:30:00Z",
               "team1_player1": "50047202",
               "team1_player2": null,
               "team2_player1": "50061687",
@@ -4796,6 +5122,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T11:00:00Z",
               "team1_player1": "50092693",
               "team1_player2": null,
               "team2_player1": "50104687",
@@ -4810,6 +5137,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T11:00:00Z",
               "team1_player1": "50082763",
               "team1_player2": null,
               "team2_player1": "50073721",
@@ -4824,6 +5152,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50090769",
@@ -4840,13 +5169,14 @@
         },
         {
           "poule": "DEC1",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 1,
           "size": 16,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T14:30:00Z",
               "team1_player1": "50099371",
               "team1_player2": null,
               "team2_player1": "50095950",
@@ -4861,6 +5191,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:00:00Z",
               "team1_player1": "50099371",
               "team1_player2": null,
               "team2_player1": "50082582",
@@ -4875,6 +5206,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:30:00Z",
               "team1_player1": "50095950",
               "team1_player2": null,
               "team2_player1": "50099745",
@@ -4889,6 +5221,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:30:00Z",
               "team1_player1": "50099371",
               "team1_player2": null,
               "team2_player1": "50063649",
@@ -4903,6 +5236,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:30:00Z",
               "team1_player1": "50101365",
               "team1_player2": null,
               "team2_player1": "50082582",
@@ -4917,6 +5251,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:30:00Z",
               "team1_player1": "50076940",
               "team1_player2": null,
               "team2_player1": "50095950",
@@ -4931,6 +5266,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:30:00Z",
               "team1_player1": "50102671",
               "team1_player2": null,
               "team2_player1": "50099745",
@@ -4945,6 +5281,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50099371",
               "team1_player2": null,
               "team2_player1": null,
@@ -4959,6 +5296,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T18:00:00Z",
               "team1_player1": "50104249",
               "team1_player2": null,
               "team2_player1": "50063649",
@@ -4973,6 +5311,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50101365",
               "team1_player2": null,
               "team2_player1": null,
@@ -4987,6 +5326,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T17:30:00Z",
               "team1_player1": "50082582",
               "team1_player2": null,
               "team2_player1": "50104685",
@@ -5001,6 +5341,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T17:30:00Z",
               "team1_player1": "50076940",
               "team1_player2": null,
               "team2_player1": "50085813",
@@ -5015,6 +5356,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T18:00:00Z",
               "team1_player1": "50093429",
               "team1_player2": null,
               "team2_player1": "50095950",
@@ -5029,6 +5371,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T17:30:00Z",
               "team1_player1": "50102671",
               "team1_player2": null,
               "team2_player1": "50108140",
@@ -5043,6 +5386,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50099745",
@@ -5059,13 +5403,14 @@
         },
         {
           "poule": "HDC1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 1,
           "size": 16,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T15:00:00Z",
               "team1_player1": "50061687",
               "team1_player2": "50073417",
               "team2_player1": "50046002",
@@ -5080,6 +5425,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:30:00Z",
               "team1_player1": "50061687",
               "team1_player2": "50073417",
               "team2_player1": "50041393",
@@ -5094,6 +5440,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:00:00Z",
               "team1_player1": "50046002",
               "team1_player2": "50090860",
               "team2_player1": "50076988",
@@ -5108,6 +5455,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:30:00Z",
               "team1_player1": "50061687",
               "team1_player2": "50073417",
               "team2_player1": "50097528",
@@ -5122,6 +5470,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:30:00Z",
               "team1_player1": "50041393",
               "team1_player2": "50077141",
               "team2_player1": "50041590",
@@ -5136,6 +5485,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:30:00Z",
               "team1_player1": "50109582",
               "team1_player2": "50037684",
               "team2_player1": "50046002",
@@ -5150,6 +5500,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:30:00Z",
               "team1_player1": "50061613",
               "team1_player2": "50053764",
               "team2_player1": "50076988",
@@ -5164,6 +5515,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:30:00Z",
               "team1_player1": "50061687",
               "team1_player2": "50073417",
               "team2_player1": "50085710",
@@ -5178,6 +5530,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:30:00Z",
               "team1_player1": "50089911",
               "team1_player2": "50104687",
               "team2_player1": "50097528",
@@ -5192,6 +5545,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:30:00Z",
               "team1_player1": "50086072",
               "team1_player2": "50090769",
               "team2_player1": "50041393",
@@ -5206,6 +5560,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:30:00Z",
               "team1_player1": "50092693",
               "team1_player2": "50064310",
               "team2_player1": "50041590",
@@ -5220,6 +5575,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:30:00Z",
               "team1_player1": "50109582",
               "team1_player2": "50037684",
               "team2_player1": "50092736",
@@ -5234,6 +5590,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:30:00Z",
               "team1_player1": "50080750",
               "team1_player2": "50073721",
               "team2_player1": "50046002",
@@ -5248,6 +5605,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:30:00Z",
               "team1_player1": "50076992",
               "team1_player2": "50066746",
               "team2_player1": "50061613",
@@ -5262,6 +5620,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T14:30:00Z",
               "team1_player1": "50076988",
               "team1_player2": "50086210",
               "team2_player1": "50063687",
@@ -5278,13 +5637,14 @@
         },
         {
           "poule": "DDC1",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 1,
           "size": 16,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T15:00:00Z",
               "team1_player1": "50095950",
               "team1_player2": "50104685",
               "team2_player1": "50062998",
@@ -5299,6 +5659,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:00:00Z",
               "team1_player1": "50099371",
               "team1_player2": "50076940",
               "team2_player1": "50095950",
@@ -5313,6 +5674,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:30:00Z",
               "team1_player1": "50062998",
               "team1_player2": "50059021",
               "team2_player1": "50102069",
@@ -5327,6 +5689,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:30:00Z",
               "team1_player1": "50099371",
               "team1_player2": "50076940",
               "team2_player1": "50047233",
@@ -5341,6 +5704,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:30:00Z",
               "team1_player1": "50085813",
               "team1_player2": "50099745",
               "team2_player1": "50095950",
@@ -5355,6 +5719,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:30:00Z",
               "team1_player1": "50102671",
               "team1_player2": "50101365",
               "team2_player1": "50062998",
@@ -5369,6 +5734,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:30:00Z",
               "team1_player1": "50108140",
               "team1_player2": "50083680",
               "team2_player1": "50102069",
@@ -5383,6 +5749,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50099371",
               "team1_player2": "50076940",
               "team2_player1": null,
@@ -5397,6 +5764,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50047233",
               "team1_player2": "50082582",
               "team2_player1": null,
@@ -5411,6 +5779,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50085813",
               "team1_player2": "50099745",
               "team2_player1": null,
@@ -5425,6 +5794,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T20:00:00Z",
               "team1_player1": "50085102",
               "team1_player2": "50091984",
               "team2_player1": "50095950",
@@ -5439,6 +5809,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T20:00:00Z",
               "team1_player1": "50104249",
               "team1_player2": "50093429",
               "team2_player1": "50102671",
@@ -5453,6 +5824,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50062998",
@@ -5467,6 +5839,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50108140",
@@ -5481,6 +5854,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50102069",
@@ -5497,13 +5871,14 @@
         },
         {
           "poule": "GDC1",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 32,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T15:30:00Z",
               "team1_player1": "50086845",
               "team1_player2": "50062998",
               "team2_player1": "50082763",
@@ -5518,6 +5893,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T14:00:00Z",
               "team1_player1": "50083258",
               "team1_player2": "50101365",
               "team2_player1": "50086845",
@@ -5532,6 +5908,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T14:00:00Z",
               "team1_player1": "50082763",
               "team1_player2": "50085813",
               "team2_player1": "50086072",
@@ -5546,6 +5923,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:30:00Z",
               "team1_player1": "50083258",
               "team1_player2": "50101365",
               "team2_player1": "50076992",
@@ -5560,6 +5938,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:30:00Z",
               "team1_player1": "50086845",
               "team1_player2": "50062998",
               "team2_player1": "50037684",
@@ -5574,6 +5953,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:30:00Z",
               "team1_player1": "50090860",
               "team1_player2": "50047233",
               "team2_player1": "50082763",
@@ -5588,6 +5968,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:30:00Z",
               "team1_player1": "50086072",
               "team1_player2": "50093429",
               "team2_player1": "50101563",
@@ -5602,6 +5983,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:00:00Z",
               "team1_player1": "50083258",
               "team1_player2": "50101365",
               "team2_player1": "50046002",
@@ -5616,6 +5998,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:00:00Z",
               "team1_player1": "50076992",
               "team1_player2": "50081321",
               "team2_player1": "50063687",
@@ -5630,6 +6013,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:00:00Z",
               "team1_player1": "50086845",
               "team1_player2": "50062998",
               "team2_player1": "50090769",
@@ -5644,6 +6028,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:00:00Z",
               "team1_player1": "50073721",
               "team1_player2": "50078287",
               "team2_player1": "50037684",
@@ -5658,6 +6043,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:00:00Z",
               "team1_player1": "50084177",
               "team1_player2": "50080522",
               "team2_player1": "50090860",
@@ -5672,6 +6058,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:00:00Z",
               "team1_player1": "50082763",
               "team1_player2": "50085813",
               "team2_player1": "50082037",
@@ -5686,6 +6073,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:00:00Z",
               "team1_player1": "50086072",
               "team1_player2": "50093429",
               "team2_player1": "50067166",
@@ -5700,6 +6088,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:00:00Z",
               "team1_player1": "50104687",
               "team1_player2": "50104685",
               "team2_player1": "50101563",
@@ -5714,6 +6103,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50083258",
               "team1_player2": "50101365",
               "team2_player1": null,
@@ -5728,6 +6118,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50046002",
               "team1_player2": "50108476",
               "team2_player1": null,
@@ -5742,6 +6133,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50076992",
               "team1_player2": "50081321",
               "team2_player1": null,
@@ -5756,6 +6148,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T16:30:00Z",
               "team1_player1": "50089911",
               "team1_player2": "50104938",
               "team2_player1": "50063687",
@@ -5770,6 +6163,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50086845",
               "team1_player2": "50062998",
               "team2_player1": null,
@@ -5784,6 +6178,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T16:30:00Z",
               "team1_player1": "50090769",
               "team1_player2": "50108140",
               "team2_player1": "50076988",
@@ -5798,6 +6193,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50073721",
               "team1_player2": "50078287",
               "team2_player1": null,
@@ -5812,6 +6208,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T17:00:00Z",
               "team1_player1": "50037684",
               "team1_player2": "50458779",
               "team2_player1": "50078553",
@@ -5826,6 +6223,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T17:00:00Z",
               "team1_player1": "50091127",
               "team1_player2": "50104249",
               "team2_player1": "50084177",
@@ -5840,6 +6238,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50090860",
@@ -5854,6 +6253,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T17:00:00Z",
               "team1_player1": "50082763",
               "team1_player2": "50085813",
               "team2_player1": "50066746",
@@ -5868,6 +6268,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50082037",
@@ -5882,6 +6283,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T17:00:00Z",
               "team1_player1": "50086072",
               "team1_player2": "50093429",
               "team2_player1": "50041393",
@@ -5896,6 +6298,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50067166",
@@ -5910,6 +6313,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50104687",
@@ -5924,6 +6328,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50101563",
@@ -5976,13 +6381,14 @@
       "subEvents": [
         {
           "poule": "HEC2",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 32,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T14:30:00Z",
               "team1_player1": "50455079",
               "team1_player2": null,
               "team2_player1": "50100997",
@@ -5997,6 +6403,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T11:30:00Z",
               "team1_player1": "50455079",
               "team1_player2": null,
               "team2_player1": "50078951",
@@ -6011,6 +6418,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:00:00Z",
               "team1_player1": "50100997",
               "team1_player2": null,
               "team2_player1": "50101935",
@@ -6025,6 +6433,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:30:00Z",
               "team1_player1": "50099653",
               "team1_player2": null,
               "team2_player1": "50455079",
@@ -6039,6 +6448,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:30:00Z",
               "team1_player1": "50078951",
               "team1_player2": null,
               "team2_player1": "50099233",
@@ -6053,6 +6463,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:30:00Z",
               "team1_player1": "50112855",
               "team1_player2": null,
               "team2_player1": "50100997",
@@ -6067,6 +6478,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:30:00Z",
               "team1_player1": "50090603",
               "team1_player2": null,
               "team2_player1": "50101935",
@@ -6081,6 +6493,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T15:30:00Z",
               "team1_player1": "50099653",
               "team1_player2": null,
               "team2_player1": "50085710",
@@ -6095,6 +6508,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T15:30:00Z",
               "team1_player1": "50455079",
               "team1_player2": null,
               "team2_player1": "50047865",
@@ -6109,6 +6523,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T15:30:00Z",
               "team1_player1": "50104653",
               "team1_player2": null,
               "team2_player1": "50078951",
@@ -6123,6 +6538,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T15:30:00Z",
               "team1_player1": "50099233",
               "team1_player2": null,
               "team2_player1": "50094886",
@@ -6137,6 +6553,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T15:30:00Z",
               "team1_player1": "50112855",
               "team1_player2": null,
               "team2_player1": "50061613",
@@ -6151,6 +6568,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T15:30:00Z",
               "team1_player1": "50100997",
               "team1_player2": null,
               "team2_player1": "50048091",
@@ -6165,6 +6583,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T15:30:00Z",
               "team1_player1": "50090603",
               "team1_player2": null,
               "team2_player1": "50064310",
@@ -6179,6 +6598,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:00:00Z",
               "team1_player1": "50090451",
               "team1_player2": null,
               "team2_player1": "50101935",
@@ -6193,6 +6613,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50099653",
               "team1_player2": null,
               "team2_player1": null,
@@ -6207,6 +6628,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T11:30:00Z",
               "team1_player1": "50085710",
               "team1_player2": null,
               "team2_player1": "50081639",
@@ -6221,6 +6643,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50455079",
               "team1_player2": null,
               "team2_player1": null,
@@ -6235,6 +6658,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T11:30:00Z",
               "team1_player1": "50047865",
               "team1_player2": null,
               "team2_player1": "50083601",
@@ -6249,6 +6673,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50104653",
               "team1_player2": null,
               "team2_player1": null,
@@ -6263,6 +6688,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T11:30:00Z",
               "team1_player1": "50078951",
               "team1_player2": null,
               "team2_player1": "50091983",
@@ -6277,6 +6703,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T11:30:00Z",
               "team1_player1": "50059022",
               "team1_player2": null,
               "team2_player1": "50099233",
@@ -6291,6 +6718,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T11:30:00Z",
               "team1_player1": "50094886",
               "team1_player2": null,
               "team2_player1": "50015973",
@@ -6305,6 +6733,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T11:30:00Z",
               "team1_player1": "50112855",
               "team1_player2": null,
               "team2_player1": "50088470",
@@ -6319,6 +6748,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T11:30:00Z",
               "team1_player1": "50061613",
               "team1_player2": null,
               "team2_player1": "50012775",
@@ -6333,6 +6763,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T11:30:00Z",
               "team1_player1": "50100997",
               "team1_player2": null,
               "team2_player1": "50083599",
@@ -6347,6 +6778,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50048091",
@@ -6361,6 +6793,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:00:00Z",
               "team1_player1": "50079527",
               "team1_player2": null,
               "team2_player1": "50090603",
@@ -6375,6 +6808,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50064310",
@@ -6389,6 +6823,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T12:00:00Z",
               "team1_player1": "50090451",
               "team1_player2": null,
               "team2_player1": "50104698",
@@ -6403,6 +6838,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50101935",
@@ -6419,13 +6855,14 @@
         },
         {
           "poule": "DEC2",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 1,
           "size": 16,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T14:30:00Z",
               "team1_player1": "50458779",
               "team1_player2": null,
               "team2_player1": "50095874",
@@ -6440,6 +6877,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:00:00Z",
               "team1_player1": "50113797",
               "team1_player2": null,
               "team2_player1": "50458779",
@@ -6454,6 +6892,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:00:00Z",
               "team1_player1": "50076531",
               "team1_player2": null,
               "team2_player1": "50095874",
@@ -6468,6 +6907,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:30:00Z",
               "team1_player1": "50113797",
               "team1_player2": null,
               "team2_player1": "50082213",
@@ -6482,6 +6922,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:30:00Z",
               "team1_player1": "50458779",
               "team1_player2": null,
               "team2_player1": "50104938",
@@ -6496,6 +6937,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:30:00Z",
               "team1_player1": "50076531",
               "team1_player2": null,
               "team2_player1": "50089203",
@@ -6510,6 +6952,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:30:00Z",
               "team1_player1": "50095874",
               "team1_player2": null,
               "team2_player1": "50079397",
@@ -6524,6 +6967,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50113797",
               "team1_player2": null,
               "team2_player1": null,
@@ -6538,6 +6982,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:00:00Z",
               "team1_player1": "50068581",
               "team1_player2": null,
               "team2_player1": "50082213",
@@ -6552,6 +6997,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:00:00Z",
               "team1_player1": "50458779",
               "team1_player2": null,
               "team2_player1": "50077819",
@@ -6566,6 +7012,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:00:00Z",
               "team1_player1": "50091529",
               "team1_player2": null,
               "team2_player1": "50104938",
@@ -6580,6 +7027,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:00:00Z",
               "team1_player1": "50080522",
               "team1_player2": null,
               "team2_player1": "50076531",
@@ -6594,6 +7042,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:00:00Z",
               "team1_player1": "30044452",
               "team1_player2": null,
               "team2_player1": "50089203",
@@ -6608,6 +7057,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:00:00Z",
               "team1_player1": "50095874",
               "team1_player2": null,
               "team2_player1": "50097463",
@@ -6622,6 +7072,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T16:00:00Z",
               "team1_player1": "50096444",
               "team1_player2": null,
               "team2_player1": "50079397",
@@ -6638,13 +7089,14 @@
         },
         {
           "poule": "HDC2",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 1,
           "size": 16,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T15:00:00Z",
               "team1_player1": "50060445",
               "team1_player2": "50105210",
               "team2_player1": "50100997",
@@ -6659,6 +7111,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:00:00Z",
               "team1_player1": "50107353",
               "team1_player2": "50067962",
               "team2_player1": "50060445",
@@ -6673,6 +7126,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:00:00Z",
               "team1_player1": "50085104",
               "team1_player2": "50091983",
               "team2_player1": "50100997",
@@ -6687,6 +7141,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T09:30:00Z",
               "team1_player1": "50107353",
               "team1_player2": "50067962",
               "team2_player1": "50079527",
@@ -6701,6 +7156,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:00:00Z",
               "team1_player1": "50099653",
               "team1_player2": "50104653",
               "team2_player1": "50060445",
@@ -6715,6 +7171,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:00:00Z",
               "team1_player1": "50048091",
               "team1_player2": "50015973",
               "team2_player1": "50085104",
@@ -6729,6 +7186,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:00:00Z",
               "team1_player1": "50088470",
               "team1_player2": "50090451",
               "team2_player1": "50100997",
@@ -6743,6 +7201,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:00:00Z",
               "team1_player1": "50107353",
               "team1_player2": "50067962",
               "team2_player1": "50099233",
@@ -6757,6 +7216,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:00:00Z",
               "team1_player1": "50079527",
               "team1_player2": "50455079",
               "team2_player1": "50081639",
@@ -6771,6 +7231,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:00:00Z",
               "team1_player1": "50099653",
               "team1_player2": "50104653",
               "team2_player1": "50093514",
@@ -6785,6 +7246,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:30:00Z",
               "team1_player1": "50060445",
               "team1_player2": "50105210",
               "team2_player1": "50090603",
@@ -6799,6 +7261,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:30:00Z",
               "team1_player1": "50048091",
               "team1_player2": "50015973",
               "team2_player1": "50093915",
@@ -6813,6 +7276,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:30:00Z",
               "team1_player1": "50112855",
               "team1_player2": "50873830",
               "team2_player1": "50085104",
@@ -6827,6 +7291,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:30:00Z",
               "team1_player1": "50094886",
               "team1_player2": "50104698",
               "team2_player1": "50088470",
@@ -6841,6 +7306,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T19:30:00Z",
               "team1_player1": "50012775",
               "team1_player2": "50093256",
               "team2_player1": "50100997",
@@ -6857,13 +7323,14 @@
         },
         {
           "poule": "DDC2",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 1,
           "size": 8,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T15:00:00Z",
               "team1_player1": "50113797",
               "team1_player2": "30047270",
               "team2_player1": "50096660",
@@ -6878,6 +7345,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:00:00Z",
               "team1_player1": "50068581",
               "team1_player2": "50089203",
               "team2_player1": "50113797",
@@ -6892,6 +7360,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T13:00:00Z",
               "team1_player1": "50032299",
               "team1_player2": "50076531",
               "team2_player1": "50096660",
@@ -6906,6 +7375,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:00:00Z",
               "team1_player1": "50068581",
               "team1_player2": "50089203",
               "team2_player1": "50096444",
@@ -6920,6 +7390,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:00:00Z",
               "team1_player1": "50458779",
               "team1_player2": "50091529",
               "team2_player1": "50113797",
@@ -6934,6 +7405,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:00:00Z",
               "team1_player1": "50032299",
               "team1_player2": "50076531",
               "team2_player1": "50110177",
@@ -6948,6 +7420,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T10:00:00Z",
               "team1_player1": "30044452",
               "team1_player2": "50097463",
               "team2_player1": "50096660",
@@ -6964,13 +7437,14 @@
         },
         {
           "poule": "GDC2",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 32,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T15:30:00Z",
               "team1_player1": "50077141",
               "team1_player2": "50077140",
               "team2_player1": "50455079",
@@ -6985,6 +7459,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T14:00:00Z",
               "team1_player1": "50077141",
               "team1_player2": "50077140",
               "team2_player1": "50099063",
@@ -6999,6 +7474,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T14:00:00Z",
               "team1_player1": "50048091",
               "team1_player2": "50089203",
               "team2_player1": "50455079",
@@ -7013,6 +7489,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:00:00Z",
               "team1_player1": "50060445",
               "team1_player2": "50083680",
               "team2_player1": "50077141",
@@ -7027,6 +7504,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:00:00Z",
               "team1_player1": "50104698",
               "team1_player2": "50082213",
               "team2_player1": "50099063",
@@ -7041,6 +7519,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:00:00Z",
               "team1_player1": "50091983",
               "team1_player2": "50091984",
               "team2_player1": "50048091",
@@ -7055,6 +7534,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T11:00:00Z",
               "team1_player1": "50455079",
               "team1_player2": "50077134",
               "team2_player1": "50088470",
@@ -7069,6 +7549,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-03T08:30:00Z",
               "team1_player1": "50060445",
               "team1_player2": "50083680",
               "team2_player1": "50085710",
@@ -7083,6 +7564,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-03T08:30:00Z",
               "team1_player1": "50077141",
               "team1_player2": "50077140",
               "team2_player1": "50081639",
@@ -7097,6 +7579,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-03T08:30:00Z",
               "team1_player1": "50104698",
               "team1_player2": "50082213",
               "team2_player1": "50086827",
@@ -7111,6 +7594,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-03T08:30:00Z",
               "team1_player1": "50099233",
               "team1_player2": "50095874",
               "team2_player1": "50099063",
@@ -7125,6 +7609,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-03T08:00:00Z",
               "team1_player1": "50091983",
               "team1_player2": "50091984",
               "team2_player1": "50090451",
@@ -7139,6 +7624,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-03T08:30:00Z",
               "team1_player1": "50109197",
               "team1_player2": "50113797",
               "team2_player1": "50048091",
@@ -7153,6 +7639,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-03T08:30:00Z",
               "team1_player1": "50455079",
               "team1_player2": "50077134",
               "team2_player1": "50101935",
@@ -7167,6 +7654,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-03T08:00:00Z",
               "team1_player1": "50088470",
               "team1_player2": "50068581",
               "team2_player1": "50099653",
@@ -7181,6 +7669,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50060445",
               "team1_player2": "50083680",
               "team2_player1": null,
@@ -7195,6 +7684,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50085710",
               "team1_player2": "50110177",
               "team2_player1": null,
@@ -7209,6 +7699,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50077141",
               "team1_player2": "50077140",
               "team2_player1": null,
@@ -7223,6 +7714,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50081639",
               "team1_player2": "50096660",
               "team2_player1": null,
@@ -7237,6 +7729,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50104698",
               "team1_player2": "50082213",
               "team2_player1": null,
@@ -7251,6 +7744,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50086827",
               "team1_player2": "50096444",
               "team2_player1": null,
@@ -7265,6 +7759,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50099233",
               "team1_player2": "50095874",
               "team2_player1": null,
@@ -7279,6 +7774,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T18:00:00Z",
               "team1_player1": "50099063",
               "team1_player2": "50070664",
               "team2_player1": "50047865",
@@ -7293,6 +7789,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T18:00:00Z",
               "team1_player1": "50112855",
               "team1_player2": "50097463",
               "team2_player1": "50091983",
@@ -7307,6 +7804,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50090451",
@@ -7321,6 +7819,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50109197",
@@ -7335,6 +7834,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50048091",
@@ -7349,6 +7849,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T18:00:00Z",
               "team1_player1": "50455079",
               "team1_player2": "50077134",
               "team2_player1": "50100997",
@@ -7363,6 +7864,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50101935",
@@ -7377,6 +7879,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50088470",
@@ -7391,6 +7894,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50099653",
@@ -7443,13 +7947,14 @@
       "subEvents": [
         {
           "poule": "HED",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 64,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T13:30:00Z",
               "team1_player1": "50109197",
               "team1_player2": null,
               "team2_player1": "50060445",
@@ -7464,6 +7969,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:30:00Z",
               "team1_player1": "50085078",
               "team1_player2": null,
               "team2_player1": "50109197",
@@ -7478,6 +7984,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:30:00Z",
               "team1_player1": "50060445",
               "team1_player2": null,
               "team2_player1": "50088127",
@@ -7492,6 +7999,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T08:00:00Z",
               "team1_player1": "50085078",
               "team1_player2": null,
               "team2_player1": "50115529",
@@ -7506,6 +8014,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T08:00:00Z",
               "team1_player1": "50090770",
               "team1_player2": null,
               "team2_player1": "50109197",
@@ -7520,6 +8029,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T08:00:00Z",
               "team1_player1": "50060445",
               "team1_player2": null,
               "team2_player1": "50091873",
@@ -7534,6 +8044,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T08:00:00Z",
               "team1_player1": "50069360",
               "team1_player2": null,
               "team2_player1": "50088127",
@@ -7548,6 +8059,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T17:30:00Z",
               "team1_player1": "50090259",
               "team1_player2": null,
               "team2_player1": "50085078",
@@ -7562,6 +8074,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T17:30:00Z",
               "team1_player1": "50115529",
               "team1_player2": null,
               "team2_player1": "50086827",
@@ -7576,6 +8089,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T17:30:00Z",
               "team1_player1": "50085318",
               "team1_player2": null,
               "team2_player1": "50090770",
@@ -7590,6 +8104,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T17:30:00Z",
               "team1_player1": "50054170",
               "team1_player2": null,
               "team2_player1": "50109197",
@@ -7604,6 +8119,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T17:30:00Z",
               "team1_player1": "50077628",
               "team1_player2": null,
               "team2_player1": "50060445",
@@ -7618,6 +8134,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T17:30:00Z",
               "team1_player1": "50088272",
               "team1_player2": null,
               "team2_player1": "50091873",
@@ -7632,6 +8149,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T17:30:00Z",
               "team1_player1": "50093256",
               "team1_player2": null,
               "team2_player1": "50069360",
@@ -7646,6 +8164,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T17:30:00Z",
               "team1_player1": "50088127",
               "team1_player2": null,
               "team2_player1": "50078402",
@@ -7660,6 +8179,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:00:00Z",
               "team1_player1": "50096509",
               "team1_player2": null,
               "team2_player1": "50090259",
@@ -7674,6 +8194,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:00:00Z",
               "team1_player1": "50054896",
               "team1_player2": null,
               "team2_player1": "50085078",
@@ -7688,6 +8209,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:00:00Z",
               "team1_player1": "50115529",
               "team1_player2": null,
               "team2_player1": "50100426",
@@ -7702,6 +8224,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:00:00Z",
               "team1_player1": "50106867",
               "team1_player2": null,
               "team2_player1": "50086827",
@@ -7716,6 +8239,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:30:00Z",
               "team1_player1": "50085318",
               "team1_player2": null,
               "team2_player1": "50086828",
@@ -7730,6 +8254,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:30:00Z",
               "team1_player1": "50092801",
               "team1_player2": null,
               "team2_player1": "50090770",
@@ -7744,6 +8269,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:30:00Z",
               "team1_player1": "50054170",
               "team1_player2": null,
               "team2_player1": "50077790",
@@ -7758,6 +8284,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:30:00Z",
               "team1_player1": "50103922",
               "team1_player2": null,
               "team2_player1": "50109197",
@@ -7772,6 +8299,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:30:00Z",
               "team1_player1": "50077628",
               "team1_player2": null,
               "team2_player1": "50103313",
@@ -7786,6 +8314,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:30:00Z",
               "team1_player1": "50060445",
               "team1_player2": null,
               "team2_player1": "50100416",
@@ -7800,6 +8329,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:30:00Z",
               "team1_player1": "50088272",
               "team1_player2": null,
               "team2_player1": "50038816",
@@ -7814,6 +8344,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:30:00Z",
               "team1_player1": "50091873",
               "team1_player2": null,
               "team2_player1": "50064178",
@@ -7828,6 +8359,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:30:00Z",
               "team1_player1": "50092453",
               "team1_player2": null,
               "team2_player1": "50093256",
@@ -7842,6 +8374,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:30:00Z",
               "team1_player1": "50069360",
               "team1_player2": null,
               "team2_player1": "50080614",
@@ -7856,6 +8389,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T09:30:00Z",
               "team1_player1": "50088127",
               "team1_player2": null,
               "team2_player1": "50143824",
@@ -7870,6 +8404,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T10:00:00Z",
               "team1_player1": "50110170",
               "team1_player2": null,
               "team2_player1": "50078402",
@@ -7884,6 +8419,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50096509",
               "team1_player2": null,
               "team2_player1": null,
@@ -7898,6 +8434,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50090259",
               "team1_player2": null,
               "team2_player1": null,
@@ -7912,6 +8449,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50054896",
               "team1_player2": null,
               "team2_player1": null,
@@ -7926,6 +8464,7 @@
             },
             {
               "final": 6,
+              "playedAt": "2013-11-02T08:00:00Z",
               "team1_player1": "50085078",
               "team1_player2": null,
               "team2_player1": "50082910",
@@ -7940,6 +8479,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50115529",
               "team1_player2": null,
               "team2_player1": null,
@@ -7954,6 +8494,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50100426",
               "team1_player2": null,
               "team2_player1": null,
@@ -7968,6 +8509,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50106867",
               "team1_player2": null,
               "team2_player1": null,
@@ -7982,6 +8524,7 @@
             },
             {
               "final": 6,
+              "playedAt": "2013-11-02T08:00:00Z",
               "team1_player1": "50093796",
               "team1_player2": null,
               "team2_player1": "50086827",
@@ -7996,6 +8539,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50085318",
               "team1_player2": null,
               "team2_player1": null,
@@ -8010,6 +8554,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50086828",
               "team1_player2": null,
               "team2_player1": null,
@@ -8024,6 +8569,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50092801",
               "team1_player2": null,
               "team2_player1": null,
@@ -8038,6 +8584,7 @@
             },
             {
               "final": 6,
+              "playedAt": "2013-11-02T08:00:00Z",
               "team1_player1": "50077280",
               "team1_player2": null,
               "team2_player1": "50090770",
@@ -8052,6 +8599,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50054170",
               "team1_player2": null,
               "team2_player1": null,
@@ -8066,6 +8614,7 @@
             },
             {
               "final": 6,
+              "playedAt": "2013-11-02T08:00:00Z",
               "team1_player1": "50094834",
               "team1_player2": null,
               "team2_player1": "50077790",
@@ -8080,6 +8629,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50103922",
               "team1_player2": null,
               "team2_player1": null,
@@ -8094,6 +8644,7 @@
             },
             {
               "final": 6,
+              "playedAt": "2013-11-02T08:00:00Z",
               "team1_player1": "50109770",
               "team1_player2": null,
               "team2_player1": "50109197",
@@ -8108,6 +8659,7 @@
             },
             {
               "final": 6,
+              "playedAt": "2013-11-02T08:00:00Z",
               "team1_player1": "50103230",
               "team1_player2": null,
               "team2_player1": "50077628",
@@ -8122,6 +8674,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50103313",
@@ -8136,6 +8689,7 @@
             },
             {
               "final": 6,
+              "playedAt": "2013-11-02T08:00:00Z",
               "team1_player1": "50060445",
               "team1_player2": null,
               "team2_player1": "50101936",
@@ -8150,6 +8704,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50100416",
@@ -8164,6 +8719,7 @@
             },
             {
               "final": 6,
+              "playedAt": "2013-11-02T08:00:00Z",
               "team1_player1": "50113065",
               "team1_player2": null,
               "team2_player1": "50088272",
@@ -8178,6 +8734,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50038816",
@@ -8192,6 +8749,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50091873",
@@ -8206,6 +8764,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50064178",
@@ -8220,6 +8779,7 @@
             },
             {
               "final": 6,
+              "playedAt": "2013-11-02T08:00:00Z",
               "team1_player1": "50873830",
               "team1_player2": null,
               "team2_player1": "50092453",
@@ -8234,6 +8794,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50093256",
@@ -8248,6 +8809,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50069360",
@@ -8262,6 +8824,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50080614",
@@ -8276,6 +8839,7 @@
             },
             {
               "final": 6,
+              "playedAt": "2013-11-02T08:00:00Z",
               "team1_player1": "50088127",
               "team1_player2": null,
               "team2_player1": "50096891",
@@ -8290,6 +8854,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50143824",
@@ -8304,6 +8869,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50110170",
@@ -8318,6 +8884,7 @@
             },
             {
               "final": 6,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50078402",
@@ -8334,13 +8901,14 @@
         },
         {
           "poule": "DED",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 1,
           "size": 16,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T13:30:00Z",
               "team1_player1": "50070664",
               "team1_player2": null,
               "team2_player1": "30047270",
@@ -8355,6 +8923,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:30:00Z",
               "team1_player1": "50096660",
               "team1_player2": null,
               "team2_player1": "50070664",
@@ -8369,6 +8938,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:30:00Z",
               "team1_player1": "30047270",
               "team1_player2": null,
               "team2_player1": "50108476",
@@ -8383,6 +8953,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T08:00:00Z",
               "team1_player1": "50113349",
               "team1_player2": null,
               "team2_player1": "50096660",
@@ -8397,6 +8968,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T08:00:00Z",
               "team1_player1": "50103937",
               "team1_player2": null,
               "team2_player1": "50070664",
@@ -8411,6 +8983,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T08:00:00Z",
               "team1_player1": "30047270",
               "team1_player2": null,
               "team2_player1": "50110072",
@@ -8425,6 +8998,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-03T08:00:00Z",
               "team1_player1": "50108476",
               "team1_player2": null,
               "team2_player1": "50089958",
@@ -8439,6 +9013,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50113349",
               "team1_player2": null,
               "team2_player1": null,
@@ -8453,6 +9028,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50096660",
               "team1_player2": null,
               "team2_player1": null,
@@ -8467,6 +9043,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50103937",
               "team1_player2": null,
               "team2_player1": null,
@@ -8481,6 +9058,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T17:00:00Z",
               "team1_player1": "50070664",
               "team1_player2": null,
               "team2_player1": "50095448",
@@ -8495,6 +9073,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T17:00:00Z",
               "team1_player1": "50095749",
               "team1_player2": null,
               "team2_player1": "30047270",
@@ -8509,6 +9088,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50110072",
@@ -8523,6 +9103,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T17:00:00Z",
               "team1_player1": "50108476",
               "team1_player2": null,
               "team2_player1": "50104660",
@@ -8537,6 +9118,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50089958",
@@ -8553,13 +9135,14 @@
         },
         {
           "poule": "HDD",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 1,
           "size": 32,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T14:30:00Z",
               "team1_player1": "50092453",
               "team1_player2": "50096509",
               "team2_player1": "50109197",
@@ -8574,6 +9157,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:00:00Z",
               "team1_player1": "50092453",
               "team1_player2": "50096509",
               "team2_player1": "50090259",
@@ -8588,6 +9172,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2013-11-03T12:00:00Z",
               "team1_player1": "50115529",
               "team1_player2": "50085063",
               "team2_player1": "50109197",
@@ -8602,6 +9187,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:00:00Z",
               "team1_player1": "50092453",
               "team1_player2": "50096509",
               "team2_player1": "50088272",
@@ -8616,6 +9202,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:00:00Z",
               "team1_player1": "50086827",
               "team1_player2": "50086828",
               "team2_player1": "50090259",
@@ -8630,6 +9217,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:30:00Z",
               "team1_player1": "50115529",
               "team1_player2": "50085063",
               "team2_player1": "50143824",
@@ -8644,6 +9232,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2013-11-02T20:30:00Z",
               "team1_player1": "50109197",
               "team1_player2": "50101936",
               "team2_player1": "50085078",
@@ -8658,6 +9247,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:30:00Z",
               "team1_player1": "50092453",
               "team1_player2": "50096509",
               "team2_player1": "50077628",
@@ -8672,6 +9262,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:30:00Z",
               "team1_player1": "50106867",
               "team1_player2": "50100416",
               "team2_player1": "50088272",
@@ -8686,6 +9277,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:30:00Z",
               "team1_player1": "50086827",
               "team1_player2": "50086828",
               "team2_player1": "50069360",
@@ -8700,6 +9292,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:30:00Z",
               "team1_player1": "50090259",
               "team1_player2": "50090770",
               "team2_player1": "50093796",
@@ -8714,6 +9307,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:30:00Z",
               "team1_player1": "50115529",
               "team1_player2": "50085063",
               "team2_player1": "50096891",
@@ -8728,6 +9322,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:30:00Z",
               "team1_player1": "50143824",
               "team1_player2": "50110170",
               "team2_player1": "50077790",
@@ -8742,6 +9337,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:30:00Z",
               "team1_player1": "50109197",
               "team1_player2": "50101936",
               "team2_player1": "50077280",
@@ -8756,6 +9352,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2013-11-02T13:30:00Z",
               "team1_player1": "50067161",
               "team1_player2": "50064178",
               "team2_player1": "50085078",
@@ -8770,6 +9367,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50092453",
               "team1_player2": "50096509",
               "team2_player1": null,
@@ -8784,6 +9382,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50077628",
               "team1_player2": "50109770",
               "team2_player1": null,
@@ -8798,6 +9397,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50106867",
               "team1_player2": "50100416",
               "team2_player1": null,
@@ -8812,6 +9412,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50088272",
               "team1_player2": "50088127",
               "team2_player1": null,
@@ -8826,6 +9427,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50086827",
               "team1_player2": "50086828",
               "team2_player1": null,
@@ -8840,6 +9442,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50069360",
               "team1_player2": "50113065",
               "team2_player1": null,
@@ -8854,6 +9457,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50090259",
               "team1_player2": "50090770",
               "team2_player1": null,
@@ -8868,6 +9472,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50093796",
               "team1_player2": "50103230",
               "team2_player1": null,
@@ -8882,6 +9487,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2013-11-02T11:00:00Z",
               "team1_player1": "50115529",
               "team1_player2": "50085063",
               "team2_player1": "50103922",
@@ -8896,6 +9502,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50096891",
@@ -8910,6 +9517,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50143824",
@@ -8924,6 +9532,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50077790",
@@ -8938,6 +9547,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50109197",
@@ -8952,6 +9562,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50077280",
@@ -8966,6 +9577,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50067161",
@@ -8980,6 +9592,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50085078",
@@ -8996,12 +9609,13 @@
         },
         {
           "poule": "DDD",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2013-11-02T10:00:00Z",
               "team1_player1": "50103937",
               "team1_player2": "50089958",
               "team2_player1": "50083459",
@@ -9015,6 +9629,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T11:00:00Z",
               "team1_player1": "50077140",
               "team1_player2": "50077134",
               "team2_player1": "50083459",
@@ -9028,6 +9643,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T12:30:00Z",
               "team1_player1": "50113349",
               "team1_player2": "50110072",
               "team2_player1": "50083459",
@@ -9041,6 +9657,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T10:00:00Z",
               "team1_player1": "50083459",
               "team1_player2": "50219634",
               "team2_player1": "50103937",
@@ -9054,6 +9671,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T12:30:00Z",
               "team1_player1": "50077140",
               "team1_player2": "50077134",
               "team2_player1": "50103937",
@@ -9067,6 +9685,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T15:30:00Z",
               "team1_player1": "50113349",
               "team1_player2": "50110072",
               "team2_player1": "50103937",
@@ -9080,6 +9699,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T11:00:00Z",
               "team1_player1": "50083459",
               "team1_player2": "50219634",
               "team2_player1": "50077140",
@@ -9093,6 +9713,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T12:30:00Z",
               "team1_player1": "50103937",
               "team1_player2": "50089958",
               "team2_player1": "50077140",
@@ -9106,6 +9727,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T08:30:00Z",
               "team1_player1": "50113349",
               "team1_player2": "50110072",
               "team2_player1": "50077140",
@@ -9119,6 +9741,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T12:30:00Z",
               "team1_player1": "50083459",
               "team1_player2": "50219634",
               "team2_player1": "50113349",
@@ -9132,6 +9755,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T15:30:00Z",
               "team1_player1": "50103937",
               "team1_player2": "50089958",
               "team2_player1": "50113349",
@@ -9145,6 +9769,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T08:30:00Z",
               "team1_player1": "50077140",
               "team1_player2": "50077134",
               "team2_player1": "50113349",
@@ -9158,6 +9783,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T15:30:00Z",
               "team1_player1": "50070664",
               "team1_player2": "50070634",
               "team2_player1": "50083459",
@@ -9171,6 +9797,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T08:30:00Z",
               "team1_player1": "50070664",
               "team1_player2": "50070634",
               "team2_player1": "50103937",
@@ -9184,6 +9811,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T10:00:00Z",
               "team1_player1": "50070664",
               "team1_player2": "50070634",
               "team2_player1": "50077140",
@@ -9197,6 +9825,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T11:00:00Z",
               "team1_player1": "50070664",
               "team1_player2": "50070634",
               "team2_player1": "50113349",
@@ -9210,6 +9839,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-02T15:30:00Z",
               "team1_player1": "50083459",
               "team1_player2": "50219634",
               "team2_player1": "50070664",
@@ -9223,6 +9853,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T08:30:00Z",
               "team1_player1": "50103937",
               "team1_player2": "50089958",
               "team2_player1": "50070664",
@@ -9236,6 +9867,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T10:00:00Z",
               "team1_player1": "50077140",
               "team1_player2": "50077134",
               "team2_player1": "50070664",
@@ -9249,6 +9881,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-02T11:00:00Z",
               "team1_player1": "50113349",
               "team1_player2": "50110072",
               "team2_player1": "50070664",
@@ -9265,12 +9898,13 @@
         },
         {
           "poule": "Poule A",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2013-11-03T09:00:00Z",
               "team1_player1": "50078402",
               "team1_player2": "50103937",
               "team2_player1": "50077790",
@@ -9284,6 +9918,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-03T11:00:00Z",
               "team1_player1": "50109770",
               "team1_player2": "50113349",
               "team2_player1": "50077790",
@@ -9297,6 +9932,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-03T10:00:00Z",
               "team1_player1": "50077628",
               "team1_player2": "50095448",
               "team2_player1": "50077790",
@@ -9310,6 +9946,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-03T09:00:00Z",
               "team1_player1": "50077790",
               "team1_player2": "50104660",
               "team2_player1": "50078402",
@@ -9323,6 +9960,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-03T10:00:00Z",
               "team1_player1": "50109770",
               "team1_player2": "50113349",
               "team2_player1": "50078402",
@@ -9336,6 +9974,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-03T11:00:00Z",
               "team1_player1": "50077628",
               "team1_player2": "50095448",
               "team2_player1": "50078402",
@@ -9349,6 +9988,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-03T11:00:00Z",
               "team1_player1": "50077790",
               "team1_player2": "50104660",
               "team2_player1": "50109770",
@@ -9362,6 +10002,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-03T10:00:00Z",
               "team1_player1": "50078402",
               "team1_player2": "50103937",
               "team2_player1": "50109770",
@@ -9375,6 +10016,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-03T09:00:00Z",
               "team1_player1": "50077628",
               "team1_player2": "50095448",
               "team2_player1": "50109770",
@@ -9388,6 +10030,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-03T10:00:00Z",
               "team1_player1": "50077790",
               "team1_player2": "50104660",
               "team2_player1": "50077628",
@@ -9401,6 +10044,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-03T11:00:00Z",
               "team1_player1": "50078402",
               "team1_player2": "50103937",
               "team2_player1": "50077628",
@@ -9414,6 +10058,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-03T09:00:00Z",
               "team1_player1": "50109770",
               "team1_player2": "50113349",
               "team2_player1": "50077628",
@@ -9430,12 +10075,13 @@
         },
         {
           "poule": "Poule B",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2013-11-03T09:00:00Z",
               "team1_player1": "50064178",
               "team1_player2": "50083459",
               "team2_player1": "50085078",
@@ -9449,6 +10095,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-03T11:00:00Z",
               "team1_player1": "50110170",
               "team1_player2": "50110072",
               "team2_player1": "50085078",
@@ -9462,6 +10109,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-03T09:00:00Z",
               "team1_player1": "50085078",
               "team1_player2": "50089958",
               "team2_player1": "50064178",
@@ -9475,6 +10123,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-03T10:00:00Z",
               "team1_player1": "50110170",
               "team1_player2": "50110072",
               "team2_player1": "50064178",
@@ -9488,6 +10137,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2013-11-03T11:00:00Z",
               "team1_player1": "50085078",
               "team1_player2": "50089958",
               "team2_player1": "50110170",
@@ -9501,6 +10151,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2013-11-03T10:00:00Z",
               "team1_player1": "50064178",
               "team1_player2": "50083459",
               "team2_player1": "50110170",
@@ -9517,13 +10168,14 @@
         },
         {
           "poule": "GDD",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2013-11-03T13:30:00Z",
               "team1_player1": "50077628",
               "team1_player2": "50095448",
               "team2_player1": "50085078",

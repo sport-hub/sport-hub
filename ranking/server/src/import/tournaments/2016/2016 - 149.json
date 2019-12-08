@@ -8,12 +8,13 @@
       "subEvents": [
         {
           "poule": "Poule A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50023927",
               "team1_player2": "50024504",
               "team2_player1": "50422901",
@@ -27,6 +28,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50075317",
               "team2_player1": "50422901",
@@ -40,6 +42,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50110526",
               "team1_player2": "50110535",
               "team2_player1": "50422901",
@@ -53,6 +56,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50422901",
               "team1_player2": "50073678",
               "team2_player1": "50023927",
@@ -66,6 +70,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50075317",
               "team2_player1": "50023927",
@@ -79,6 +84,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50110526",
               "team1_player2": "50110535",
               "team2_player1": "50023927",
@@ -92,6 +98,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50422901",
               "team1_player2": "50073678",
               "team2_player1": "50448269",
@@ -105,6 +112,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50023927",
               "team1_player2": "50024504",
               "team2_player1": "50448269",
@@ -118,6 +126,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50110526",
               "team1_player2": "50110535",
               "team2_player1": "50448269",
@@ -131,6 +140,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50422901",
               "team1_player2": "50073678",
               "team2_player1": "50110526",
@@ -144,6 +154,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50023927",
               "team1_player2": "50024504",
               "team2_player1": "50110526",
@@ -157,6 +168,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50075317",
               "team2_player1": "50110526",
@@ -170,6 +182,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50104873",
               "team1_player2": null,
               "team2_player1": "50077985",
@@ -183,6 +196,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50095541",
               "team1_player2": null,
               "team2_player1": "50077985",
@@ -196,6 +210,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50077985",
               "team1_player2": null,
               "team2_player1": "50104873",
@@ -209,6 +224,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50095541",
               "team1_player2": null,
               "team2_player1": "50104873",
@@ -222,6 +238,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50077985",
               "team1_player2": null,
               "team2_player1": "50095541",
@@ -235,6 +252,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50104873",
               "team1_player2": null,
               "team2_player1": "50095541",
@@ -251,12 +269,13 @@
         },
         {
           "poule": "Poule B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2016-03-19T09:30:00Z",
               "team1_player1": "50072491",
               "team1_player2": "50111255",
               "team2_player1": "50114170",
@@ -270,6 +289,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T10:30:00Z",
               "team1_player1": "50068167",
               "team1_player2": "50114177",
               "team2_player1": "50114170",
@@ -283,6 +303,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T08:30:00Z",
               "team1_player1": "50090616",
               "team1_player2": "50095541",
               "team2_player1": "50114170",
@@ -296,6 +317,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T09:30:00Z",
               "team1_player1": "50114170",
               "team1_player2": "50054090",
               "team2_player1": "50072491",
@@ -309,6 +331,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T08:30:00Z",
               "team1_player1": "50068167",
               "team1_player2": "50114177",
               "team2_player1": "50072491",
@@ -322,6 +345,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T10:30:00Z",
               "team1_player1": "50090616",
               "team1_player2": "50095541",
               "team2_player1": "50072491",
@@ -335,6 +359,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T10:30:00Z",
               "team1_player1": "50114170",
               "team1_player2": "50054090",
               "team2_player1": "50068167",
@@ -348,6 +373,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:30:00Z",
               "team1_player1": "50072491",
               "team1_player2": "50111255",
               "team2_player1": "50068167",
@@ -361,6 +387,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T09:30:00Z",
               "team1_player1": "50090616",
               "team1_player2": "50095541",
               "team2_player1": "50068167",
@@ -374,6 +401,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:30:00Z",
               "team1_player1": "50114170",
               "team1_player2": "50054090",
               "team2_player1": "50090616",
@@ -387,6 +415,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T10:30:00Z",
               "team1_player1": "50072491",
               "team1_player2": "50111255",
               "team2_player1": "50090616",
@@ -400,6 +429,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T09:30:00Z",
               "team1_player1": "50068167",
               "team1_player2": "50114177",
               "team2_player1": "50090616",
@@ -413,6 +443,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50079793",
               "team1_player2": null,
               "team2_player1": "50064165",
@@ -426,6 +457,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T17:00:00Z",
               "team1_player1": "50114170",
               "team1_player2": null,
               "team2_player1": "50064165",
@@ -439,6 +471,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50111255",
               "team1_player2": null,
               "team2_player1": "50064165",
@@ -452,6 +485,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50064165",
               "team1_player2": null,
               "team2_player1": "50079793",
@@ -465,6 +499,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50114170",
               "team1_player2": null,
               "team2_player1": "50079793",
@@ -478,6 +513,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T17:00:00Z",
               "team1_player1": "50111255",
               "team1_player2": null,
               "team2_player1": "50079793",
@@ -491,6 +527,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T17:00:00Z",
               "team1_player1": "50064165",
               "team1_player2": null,
               "team2_player1": "50114170",
@@ -504,6 +541,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50079793",
               "team1_player2": null,
               "team2_player1": "50114170",
@@ -517,6 +555,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50111255",
               "team1_player2": null,
               "team2_player1": "50114170",
@@ -530,6 +569,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50064165",
               "team1_player2": null,
               "team2_player1": "50111255",
@@ -543,6 +583,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T17:00:00Z",
               "team1_player1": "50079793",
               "team1_player2": null,
               "team2_player1": "50111255",
@@ -556,6 +597,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50114170",
               "team1_player2": null,
               "team2_player1": "50111255",
@@ -572,13 +614,14 @@
         },
         {
           "poule": "HDC2 + D",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2016-03-19T12:30:00Z",
               "team1_player1": "50422901",
               "team1_player2": "50073678",
               "team2_player1": "50072491",
@@ -593,6 +636,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2016-03-19T11:30:00Z",
               "team1_player1": "50422901",
               "team1_player2": "50073678",
               "team2_player1": "50114170",
@@ -607,6 +651,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2016-03-19T11:30:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50075317",
               "team2_player1": "50072491",
@@ -623,12 +668,13 @@
         },
         {
           "poule": "DDC2",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2016-03-19T09:30:00Z",
               "team1_player1": "50024912",
               "team1_player2": "50036168",
               "team2_player1": "50070922",
@@ -642,6 +688,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T10:30:00Z",
               "team1_player1": "50724800",
               "team1_player2": "50062565",
               "team2_player1": "50070922",
@@ -655,6 +702,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:30:00Z",
               "team1_player1": "50073078",
               "team1_player2": "50093137",
               "team2_player1": "50070922",
@@ -668,6 +716,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T09:30:00Z",
               "team1_player1": "50070922",
               "team1_player2": "50017463",
               "team2_player1": "50024912",
@@ -681,6 +730,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T08:30:00Z",
               "team1_player1": "50724800",
               "team1_player2": "50062565",
               "team2_player1": "50024912",
@@ -694,6 +744,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T10:30:00Z",
               "team1_player1": "50073078",
               "team1_player2": "50093137",
               "team2_player1": "50024912",
@@ -707,6 +758,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T10:30:00Z",
               "team1_player1": "50070922",
               "team1_player2": "50017463",
               "team2_player1": "50724800",
@@ -720,6 +772,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T08:30:00Z",
               "team1_player1": "50024912",
               "team1_player2": "50036168",
               "team2_player1": "50724800",
@@ -733,6 +786,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T09:30:00Z",
               "team1_player1": "50073078",
               "team1_player2": "50093137",
               "team2_player1": "50724800",
@@ -746,6 +800,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:30:00Z",
               "team1_player1": "50070922",
               "team1_player2": "50017463",
               "team2_player1": "50073078",
@@ -759,6 +814,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T10:30:00Z",
               "team1_player1": "50024912",
               "team1_player2": "50036168",
               "team2_player1": "50073078",
@@ -772,6 +828,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T09:30:00Z",
               "team1_player1": "50724800",
               "team1_player2": "50062565",
               "team2_player1": "50073078",
@@ -788,12 +845,13 @@
         },
         {
           "poule": "Poule A",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 6,
           "matches": [
             {
+              "playedAt": "2016-03-20T09:00:00Z",
               "team1_player1": "50098215",
               "team1_player2": "50724800",
               "team2_player1": "50091722",
@@ -807,6 +865,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T10:00:00Z",
               "team1_player1": "50101652",
               "team1_player2": "50072283",
               "team2_player1": "50091722",
@@ -820,6 +879,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T11:00:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50095390",
               "team2_player1": "50091722",
@@ -833,6 +893,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T12:00:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50076893",
               "team2_player1": "50091722",
@@ -846,6 +907,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T08:00:00Z",
               "team1_player1": "50095541",
               "team1_player2": "50093137",
               "team2_player1": "50091722",
@@ -859,6 +921,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T09:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50098670",
               "team2_player1": "50098215",
@@ -872,6 +935,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T11:00:00Z",
               "team1_player1": "50101652",
               "team1_player2": "50072283",
               "team2_player1": "50098215",
@@ -885,6 +949,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T12:00:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50095390",
               "team2_player1": "50098215",
@@ -898,6 +963,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T08:00:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50076893",
               "team2_player1": "50098215",
@@ -911,6 +977,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T10:00:00Z",
               "team1_player1": "50095541",
               "team1_player2": "50093137",
               "team2_player1": "50098215",
@@ -924,6 +991,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T10:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50098670",
               "team2_player1": "50101652",
@@ -937,6 +1005,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T11:00:00Z",
               "team1_player1": "50098215",
               "team1_player2": "50724800",
               "team2_player1": "50101652",
@@ -950,6 +1019,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T08:00:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50095390",
               "team2_player1": "50101652",
@@ -963,6 +1033,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T09:00:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50076893",
               "team2_player1": "50101652",
@@ -976,6 +1047,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T12:00:00Z",
               "team1_player1": "50095541",
               "team1_player2": "50093137",
               "team2_player1": "50101652",
@@ -989,6 +1061,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T11:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50098670",
               "team2_player1": "50103721",
@@ -1002,6 +1075,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T12:00:00Z",
               "team1_player1": "50098215",
               "team1_player2": "50724800",
               "team2_player1": "50103721",
@@ -1015,6 +1089,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T08:00:00Z",
               "team1_player1": "50101652",
               "team1_player2": "50072283",
               "team2_player1": "50103721",
@@ -1028,6 +1103,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T10:00:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50076893",
               "team2_player1": "50103721",
@@ -1041,6 +1117,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T09:00:00Z",
               "team1_player1": "50095541",
               "team1_player2": "50093137",
               "team2_player1": "50103721",
@@ -1054,6 +1131,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T12:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50098670",
               "team2_player1": "50077985",
@@ -1067,6 +1145,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T08:00:00Z",
               "team1_player1": "50098215",
               "team1_player2": "50724800",
               "team2_player1": "50077985",
@@ -1080,6 +1159,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T09:00:00Z",
               "team1_player1": "50101652",
               "team1_player2": "50072283",
               "team2_player1": "50077985",
@@ -1093,6 +1173,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T10:00:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50095390",
               "team2_player1": "50077985",
@@ -1106,6 +1187,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T11:00:00Z",
               "team1_player1": "50095541",
               "team1_player2": "50093137",
               "team2_player1": "50077985",
@@ -1119,6 +1201,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T08:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50098670",
               "team2_player1": "50095541",
@@ -1132,6 +1215,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T10:00:00Z",
               "team1_player1": "50098215",
               "team1_player2": "50724800",
               "team2_player1": "50095541",
@@ -1145,6 +1229,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T12:00:00Z",
               "team1_player1": "50101652",
               "team1_player2": "50072283",
               "team2_player1": "50095541",
@@ -1158,6 +1243,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T09:00:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50095390",
               "team2_player1": "50095541",
@@ -1171,6 +1257,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T11:00:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50076893",
               "team2_player1": "50095541",
@@ -1187,12 +1274,13 @@
         },
         {
           "poule": "Poule B",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 6,
           "matches": [
             {
+              "playedAt": "2016-03-20T09:00:00Z",
               "team1_player1": "50075317",
               "team1_player2": "50048795",
               "team2_player1": "50089116",
@@ -1206,6 +1294,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T10:00:00Z",
               "team1_player1": "50054090",
               "team1_player2": "50037915",
               "team2_player1": "50089116",
@@ -1219,6 +1308,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T11:00:00Z",
               "team1_player1": "50033589",
               "team1_player2": "50039615",
               "team2_player1": "50089116",
@@ -1232,6 +1322,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T12:00:00Z",
               "team1_player1": "50044933",
               "team1_player2": "50079420",
               "team2_player1": "50089116",
@@ -1245,6 +1336,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T08:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50062565",
               "team2_player1": "50089116",
@@ -1258,6 +1350,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T09:00:00Z",
               "team1_player1": "50089116",
               "team1_player2": "50090103",
               "team2_player1": "50075317",
@@ -1271,6 +1364,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T11:00:00Z",
               "team1_player1": "50054090",
               "team1_player2": "50037915",
               "team2_player1": "50075317",
@@ -1284,6 +1378,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T12:00:00Z",
               "team1_player1": "50033589",
               "team1_player2": "50039615",
               "team2_player1": "50075317",
@@ -1297,6 +1392,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T08:00:00Z",
               "team1_player1": "50044933",
               "team1_player2": "50079420",
               "team2_player1": "50075317",
@@ -1310,6 +1406,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T10:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50062565",
               "team2_player1": "50075317",
@@ -1323,6 +1420,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T10:00:00Z",
               "team1_player1": "50089116",
               "team1_player2": "50090103",
               "team2_player1": "50054090",
@@ -1336,6 +1434,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T11:00:00Z",
               "team1_player1": "50075317",
               "team1_player2": "50048795",
               "team2_player1": "50054090",
@@ -1349,6 +1448,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T08:00:00Z",
               "team1_player1": "50033589",
               "team1_player2": "50039615",
               "team2_player1": "50054090",
@@ -1362,6 +1462,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T09:00:00Z",
               "team1_player1": "50044933",
               "team1_player2": "50079420",
               "team2_player1": "50054090",
@@ -1375,6 +1476,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T12:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50062565",
               "team2_player1": "50054090",
@@ -1388,6 +1490,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T11:00:00Z",
               "team1_player1": "50089116",
               "team1_player2": "50090103",
               "team2_player1": "50033589",
@@ -1401,6 +1504,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T12:00:00Z",
               "team1_player1": "50075317",
               "team1_player2": "50048795",
               "team2_player1": "50033589",
@@ -1414,6 +1518,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T08:00:00Z",
               "team1_player1": "50054090",
               "team1_player2": "50037915",
               "team2_player1": "50033589",
@@ -1427,6 +1532,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T10:00:00Z",
               "team1_player1": "50044933",
               "team1_player2": "50079420",
               "team2_player1": "50033589",
@@ -1440,6 +1546,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T09:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50062565",
               "team2_player1": "50033589",
@@ -1453,6 +1560,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T12:00:00Z",
               "team1_player1": "50089116",
               "team1_player2": "50090103",
               "team2_player1": "50044933",
@@ -1466,6 +1574,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T08:00:00Z",
               "team1_player1": "50075317",
               "team1_player2": "50048795",
               "team2_player1": "50044933",
@@ -1479,6 +1588,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T09:00:00Z",
               "team1_player1": "50054090",
               "team1_player2": "50037915",
               "team2_player1": "50044933",
@@ -1492,6 +1602,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T10:00:00Z",
               "team1_player1": "50033589",
               "team1_player2": "50039615",
               "team2_player1": "50044933",
@@ -1505,6 +1616,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T11:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50062565",
               "team2_player1": "50044933",
@@ -1518,6 +1630,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T08:00:00Z",
               "team1_player1": "50089116",
               "team1_player2": "50090103",
               "team2_player1": "50448269",
@@ -1531,6 +1644,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T10:00:00Z",
               "team1_player1": "50075317",
               "team1_player2": "50048795",
               "team2_player1": "50448269",
@@ -1544,6 +1658,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T12:00:00Z",
               "team1_player1": "50054090",
               "team1_player2": "50037915",
               "team2_player1": "50448269",
@@ -1557,6 +1672,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T09:00:00Z",
               "team1_player1": "50033589",
               "team1_player2": "50039615",
               "team2_player1": "50448269",
@@ -1570,6 +1686,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T11:00:00Z",
               "team1_player1": "50044933",
               "team1_player2": "50079420",
               "team2_player1": "50448269",
@@ -1586,13 +1703,14 @@
         },
         {
           "poule": "GDC2",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2016-03-20T14:30:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50076893",
               "team2_player1": "50044933",
@@ -1609,7 +1727,7 @@
         },
         {
           "poule": "Poule A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
@@ -1617,7 +1735,7 @@
         },
         {
           "poule": "Poule B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
@@ -1625,12 +1743,13 @@
         },
         {
           "poule": "Poule C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50075317",
               "team1_player2": null,
               "team2_player1": "50080034",
@@ -1644,6 +1763,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T17:00:00Z",
               "team1_player1": "50072491",
               "team1_player2": null,
               "team2_player1": "50080034",
@@ -1657,6 +1777,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50054090",
               "team1_player2": null,
               "team2_player1": "50080034",
@@ -1670,6 +1791,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50080034",
               "team1_player2": null,
               "team2_player1": "50075317",
@@ -1683,6 +1805,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50072491",
               "team1_player2": null,
               "team2_player1": "50075317",
@@ -1696,6 +1819,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T17:00:00Z",
               "team1_player1": "50054090",
               "team1_player2": null,
               "team2_player1": "50075317",
@@ -1709,6 +1833,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T17:00:00Z",
               "team1_player1": "50080034",
               "team1_player2": null,
               "team2_player1": "50072491",
@@ -1722,6 +1847,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50075317",
               "team1_player2": null,
               "team2_player1": "50072491",
@@ -1735,6 +1861,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50054090",
               "team1_player2": null,
               "team2_player1": "50072491",
@@ -1748,6 +1875,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50080034",
               "team1_player2": null,
               "team2_player1": "50054090",
@@ -1761,6 +1889,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T17:00:00Z",
               "team1_player1": "50075317",
               "team1_player2": null,
               "team2_player1": "50054090",
@@ -1774,6 +1903,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50072491",
               "team1_player2": null,
               "team2_player1": "50054090",
@@ -1790,12 +1920,13 @@
         },
         {
           "poule": "HEC2",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2016-03-20T13:30:00Z",
               "team1_player1": "50064165",
               "team1_player2": null,
               "team2_player1": "50095541",
@@ -1809,6 +1940,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T14:30:00Z",
               "team1_player1": "50072491",
               "team1_player2": null,
               "team2_player1": "50095541",
@@ -1822,6 +1954,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T13:30:00Z",
               "team1_player1": "50095541",
               "team1_player2": null,
               "team2_player1": "50064165",
@@ -1835,6 +1968,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T12:30:00Z",
               "team1_player1": "50072491",
               "team1_player2": null,
               "team2_player1": "50064165",
@@ -1848,6 +1982,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T14:30:00Z",
               "team1_player1": "50095541",
               "team1_player2": null,
               "team2_player1": "50072491",
@@ -1861,6 +1996,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T12:30:00Z",
               "team1_player1": "50064165",
               "team1_player2": null,
               "team2_player1": "50072491",
@@ -1877,12 +2013,13 @@
         },
         {
           "poule": "Poule A",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50073078",
               "team1_player2": null,
               "team2_player1": "50114578",
@@ -1896,6 +2033,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50039615",
               "team1_player2": null,
               "team2_player1": "50114578",
@@ -1909,6 +2047,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50114578",
               "team1_player2": null,
               "team2_player1": "50073078",
@@ -1922,6 +2061,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50039615",
               "team1_player2": null,
               "team2_player1": "50073078",
@@ -1935,6 +2075,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50114578",
               "team1_player2": null,
               "team2_player1": "50039615",
@@ -1948,6 +2089,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50073078",
               "team1_player2": null,
               "team2_player1": "50039615",
@@ -1964,12 +2106,13 @@
         },
         {
           "poule": "Poule B",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50115154",
               "team1_player2": null,
               "team2_player1": "50093137",
@@ -1983,6 +2126,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50116116",
               "team1_player2": null,
               "team2_player1": "50093137",
@@ -1996,6 +2140,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50098675",
               "team1_player2": null,
               "team2_player1": "50093137",
@@ -2009,6 +2154,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50093137",
               "team1_player2": null,
               "team2_player1": "50115154",
@@ -2022,6 +2168,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50116116",
               "team1_player2": null,
               "team2_player1": "50115154",
@@ -2035,6 +2182,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50098675",
               "team1_player2": null,
               "team2_player1": "50115154",
@@ -2048,6 +2196,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50093137",
               "team1_player2": null,
               "team2_player1": "50116116",
@@ -2061,6 +2210,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50115154",
               "team1_player2": null,
               "team2_player1": "50116116",
@@ -2074,6 +2224,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50098675",
               "team1_player2": null,
               "team2_player1": "50116116",
@@ -2087,6 +2238,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50093137",
               "team1_player2": null,
               "team2_player1": "50098675",
@@ -2100,6 +2252,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50115154",
               "team1_player2": null,
               "team2_player1": "50098675",
@@ -2113,6 +2266,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50116116",
               "team1_player2": null,
               "team2_player1": "50098675",
@@ -2129,13 +2283,14 @@
         },
         {
           "poule": "DEC2 + D",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2016-03-20T13:00:00Z",
               "team1_player1": "50039615",
               "team1_player2": null,
               "team2_player1": "50114578",
@@ -2150,6 +2305,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2016-03-20T12:00:00Z",
               "team1_player1": "50039615",
               "team1_player2": null,
               "team2_player1": "50093137",
@@ -2164,6 +2320,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2016-03-20T12:00:00Z",
               "team1_player1": "50114578",
               "team1_player2": null,
               "team2_player1": "50098675",
@@ -2195,12 +2352,13 @@
       "subEvents": [
         {
           "poule": "GDD",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2016-03-20T09:00:00Z",
               "team1_player1": "50068167",
               "team1_player2": "50651315",
               "team2_player1": "50114170",
@@ -2214,6 +2372,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T10:00:00Z",
               "team1_player1": "50104873",
               "team1_player2": "50165526",
               "team2_player1": "50114170",
@@ -2227,6 +2386,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T09:00:00Z",
               "team1_player1": "50114170",
               "team1_player2": "50098675",
               "team2_player1": "50068167",
@@ -2240,6 +2400,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T08:00:00Z",
               "team1_player1": "50104873",
               "team1_player2": "50165526",
               "team2_player1": "50068167",
@@ -2253,6 +2414,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T10:00:00Z",
               "team1_player1": "50114170",
               "team1_player2": "50098675",
               "team2_player1": "50104873",
@@ -2266,6 +2428,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T08:00:00Z",
               "team1_player1": "50068167",
               "team1_player2": "50651315",
               "team2_player1": "50104873",
@@ -2282,12 +2445,13 @@
         },
         {
           "poule": "HED",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 6,
           "matches": [
             {
+              "playedAt": "2016-03-19T12:30:00Z",
               "team1_player1": "50448269",
               "team1_player2": null,
               "team2_player1": "50090616",
@@ -2301,6 +2465,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50110526",
               "team1_player2": null,
               "team2_player1": "50090616",
@@ -2314,6 +2479,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T10:30:00Z",
               "team1_player1": "50110535",
               "team1_player2": null,
               "team2_player1": "50090616",
@@ -2327,6 +2493,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T16:30:00Z",
               "team1_player1": "50114177",
               "team1_player2": null,
               "team2_player1": "50090616",
@@ -2340,6 +2507,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T11:30:00Z",
               "team1_player1": "50068167",
               "team1_player2": null,
               "team2_player1": "50090616",
@@ -2353,6 +2521,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T12:30:00Z",
               "team1_player1": "50090616",
               "team1_player2": null,
               "team2_player1": "50448269",
@@ -2366,6 +2535,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T13:00:00Z",
               "team1_player1": "50110526",
               "team1_player2": null,
               "team2_player1": "50448269",
@@ -2379,6 +2549,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T14:00:00Z",
               "team1_player1": "50110535",
               "team1_player2": null,
               "team2_player1": "50448269",
@@ -2392,6 +2563,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T11:30:00Z",
               "team1_player1": "50114177",
               "team1_player2": null,
               "team2_player1": "50448269",
@@ -2405,6 +2577,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50068167",
               "team1_player2": null,
               "team2_player1": "50448269",
@@ -2418,6 +2591,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50090616",
               "team1_player2": null,
               "team2_player1": "50110526",
@@ -2431,6 +2605,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T13:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": null,
               "team2_player1": "50110526",
@@ -2444,6 +2619,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T11:30:00Z",
               "team1_player1": "50110535",
               "team1_player2": null,
               "team2_player1": "50110526",
@@ -2457,6 +2633,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T12:30:00Z",
               "team1_player1": "50114177",
               "team1_player2": null,
               "team2_player1": "50110526",
@@ -2470,6 +2647,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T11:30:00Z",
               "team1_player1": "50068167",
               "team1_player2": null,
               "team2_player1": "50110526",
@@ -2483,6 +2661,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T10:30:00Z",
               "team1_player1": "50090616",
               "team1_player2": null,
               "team2_player1": "50110535",
@@ -2496,6 +2675,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T14:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": null,
               "team2_player1": "50110535",
@@ -2509,6 +2689,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T11:30:00Z",
               "team1_player1": "50110526",
               "team1_player2": null,
               "team2_player1": "50110535",
@@ -2522,6 +2703,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50114177",
               "team1_player2": null,
               "team2_player1": "50110535",
@@ -2535,6 +2717,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T12:30:00Z",
               "team1_player1": "50068167",
               "team1_player2": null,
               "team2_player1": "50110535",
@@ -2548,6 +2731,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:30:00Z",
               "team1_player1": "50090616",
               "team1_player2": null,
               "team2_player1": "50114177",
@@ -2561,6 +2745,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T11:30:00Z",
               "team1_player1": "50448269",
               "team1_player2": null,
               "team2_player1": "50114177",
@@ -2574,6 +2759,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T12:30:00Z",
               "team1_player1": "50110526",
               "team1_player2": null,
               "team2_player1": "50114177",
@@ -2587,6 +2773,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50110535",
               "team1_player2": null,
               "team2_player1": "50114177",
@@ -2600,6 +2787,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50068167",
               "team1_player2": null,
               "team2_player1": "50114177",
@@ -2613,6 +2801,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T11:30:00Z",
               "team1_player1": "50090616",
               "team1_player2": null,
               "team2_player1": "50068167",
@@ -2626,6 +2815,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50448269",
               "team1_player2": null,
               "team2_player1": "50068167",
@@ -2639,6 +2829,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T11:30:00Z",
               "team1_player1": "50110526",
               "team1_player2": null,
               "team2_player1": "50068167",
@@ -2652,6 +2843,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T12:30:00Z",
               "team1_player1": "50110535",
               "team1_player2": null,
               "team2_player1": "50068167",
@@ -2665,6 +2857,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50114177",
               "team1_player2": null,
               "team2_player1": "50068167",
@@ -2689,12 +2882,13 @@
       "subEvents": [
         {
           "poule": "HDC1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 7,
           "matches": [
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50080034",
               "team2_player1": "50101652",
@@ -2708,6 +2902,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50064165",
               "team1_player2": "50218379",
               "team2_player1": "50101652",
@@ -2721,6 +2916,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T11:00:00Z",
               "team1_player1": "50082726",
               "team1_player2": "50099169",
               "team2_player1": "50101652",
@@ -2734,6 +2930,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T12:00:00Z",
               "team1_player1": "50079793",
               "team1_player2": "50063885",
               "team2_player1": "50101652",
@@ -2747,6 +2944,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50037561",
               "team2_player1": "50101652",
@@ -2760,6 +2958,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50072512",
               "team1_player2": "50040436",
               "team2_player1": "50101652",
@@ -2773,6 +2972,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50101652",
               "team1_player2": "50069136",
               "team2_player1": "50077985",
@@ -2786,6 +2986,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T11:00:00Z",
               "team1_player1": "50064165",
               "team1_player2": "50218379",
               "team2_player1": "50077985",
@@ -2799,6 +3000,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T12:00:00Z",
               "team1_player1": "50082726",
               "team1_player2": "50099169",
               "team2_player1": "50077985",
@@ -2812,6 +3014,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T13:00:00Z",
               "team1_player1": "50079793",
               "team1_player2": "50063885",
               "team2_player1": "50077985",
@@ -2825,6 +3028,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50037561",
               "team2_player1": "50077985",
@@ -2838,6 +3042,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50072512",
               "team1_player2": "50040436",
               "team2_player1": "50077985",
@@ -2851,6 +3056,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50101652",
               "team1_player2": "50069136",
               "team2_player1": "50064165",
@@ -2864,6 +3070,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T11:00:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50080034",
               "team2_player1": "50064165",
@@ -2877,6 +3084,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:00:00Z",
               "team1_player1": "50082726",
               "team1_player2": "50099169",
               "team2_player1": "50064165",
@@ -2890,6 +3098,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50079793",
               "team1_player2": "50063885",
               "team2_player1": "50064165",
@@ -2903,6 +3112,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50037561",
               "team2_player1": "50064165",
@@ -2916,6 +3126,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50072512",
               "team1_player2": "50040436",
               "team2_player1": "50064165",
@@ -2929,6 +3140,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T11:00:00Z",
               "team1_player1": "50101652",
               "team1_player2": "50069136",
               "team2_player1": "50082726",
@@ -2942,6 +3154,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T12:00:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50080034",
               "team2_player1": "50082726",
@@ -2955,6 +3168,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:00:00Z",
               "team1_player1": "50064165",
               "team1_player2": "50218379",
               "team2_player1": "50082726",
@@ -2968,6 +3182,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50079793",
               "team1_player2": "50063885",
               "team2_player1": "50082726",
@@ -2981,6 +3196,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50037561",
               "team2_player1": "50082726",
@@ -2994,6 +3210,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50072512",
               "team1_player2": "50040436",
               "team2_player1": "50082726",
@@ -3007,6 +3224,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T12:00:00Z",
               "team1_player1": "50101652",
               "team1_player2": "50069136",
               "team2_player1": "50079793",
@@ -3020,6 +3238,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T13:00:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50080034",
               "team2_player1": "50079793",
@@ -3033,6 +3252,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50064165",
               "team1_player2": "50218379",
               "team2_player1": "50079793",
@@ -3046,6 +3266,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50082726",
               "team1_player2": "50099169",
               "team2_player1": "50079793",
@@ -3059,6 +3280,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50037561",
               "team2_player1": "50079793",
@@ -3072,6 +3294,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T11:00:00Z",
               "team1_player1": "50072512",
               "team1_player2": "50040436",
               "team2_player1": "50079793",
@@ -3085,6 +3308,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T13:00:00Z",
               "team1_player1": "50101652",
               "team1_player2": "50069136",
               "team2_player1": "50091722",
@@ -3098,6 +3322,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50080034",
               "team2_player1": "50091722",
@@ -3111,6 +3336,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50064165",
               "team1_player2": "50218379",
               "team2_player1": "50091722",
@@ -3124,6 +3350,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50082726",
               "team1_player2": "50099169",
               "team2_player1": "50091722",
@@ -3137,6 +3364,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50079793",
               "team1_player2": "50063885",
               "team2_player1": "50091722",
@@ -3150,6 +3378,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T12:00:00Z",
               "team1_player1": "50072512",
               "team1_player2": "50040436",
               "team2_player1": "50091722",
@@ -3163,6 +3392,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50101652",
               "team1_player2": "50069136",
               "team2_player1": "50072512",
@@ -3176,6 +3406,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50080034",
               "team2_player1": "50072512",
@@ -3189,6 +3420,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50064165",
               "team1_player2": "50218379",
               "team2_player1": "50072512",
@@ -3202,6 +3434,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50082726",
               "team1_player2": "50099169",
               "team2_player1": "50072512",
@@ -3215,6 +3448,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T11:00:00Z",
               "team1_player1": "50079793",
               "team1_player2": "50063885",
               "team2_player1": "50072512",
@@ -3228,6 +3462,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T12:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50037561",
               "team2_player1": "50072512",
@@ -3244,12 +3479,13 @@
         },
         {
           "poule": "DEB2 + C1",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2016-03-19T17:00:00Z",
               "team1_player1": "50066522",
               "team1_player2": null,
               "team2_player1": "50082657",
@@ -3263,6 +3499,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T18:00:00Z",
               "team1_player1": "50090103",
               "team1_player2": null,
               "team2_player1": "50082657",
@@ -3276,6 +3513,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T13:00:00Z",
               "team1_player1": "50108214",
               "team1_player2": null,
               "team2_player1": "50082657",
@@ -3289,6 +3527,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T14:00:00Z",
               "team1_player1": "50098670",
               "team1_player2": null,
               "team2_player1": "50082657",
@@ -3302,6 +3541,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T17:00:00Z",
               "team1_player1": "50082657",
               "team1_player2": null,
               "team2_player1": "50066522",
@@ -3315,6 +3555,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T13:00:00Z",
               "team1_player1": "50090103",
               "team1_player2": null,
               "team2_player1": "50066522",
@@ -3328,6 +3569,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T14:00:00Z",
               "team1_player1": "50108214",
               "team1_player2": null,
               "team2_player1": "50066522",
@@ -3341,6 +3583,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50098670",
               "team1_player2": null,
               "team2_player1": "50066522",
@@ -3354,6 +3597,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T18:00:00Z",
               "team1_player1": "50082657",
               "team1_player2": null,
               "team2_player1": "50090103",
@@ -3367,6 +3611,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T13:00:00Z",
               "team1_player1": "50066522",
               "team1_player2": null,
               "team2_player1": "50090103",
@@ -3380,6 +3625,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50108214",
               "team1_player2": null,
               "team2_player1": "50090103",
@@ -3393,6 +3639,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T17:00:00Z",
               "team1_player1": "50098670",
               "team1_player2": null,
               "team2_player1": "50090103",
@@ -3406,6 +3653,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T13:00:00Z",
               "team1_player1": "50082657",
               "team1_player2": null,
               "team2_player1": "50108214",
@@ -3419,6 +3667,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T14:00:00Z",
               "team1_player1": "50066522",
               "team1_player2": null,
               "team2_player1": "50108214",
@@ -3432,6 +3681,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50090103",
               "team1_player2": null,
               "team2_player1": "50108214",
@@ -3445,6 +3695,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T18:00:00Z",
               "team1_player1": "50098670",
               "team1_player2": null,
               "team2_player1": "50108214",
@@ -3458,6 +3709,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T14:00:00Z",
               "team1_player1": "50082657",
               "team1_player2": null,
               "team2_player1": "50098670",
@@ -3471,6 +3723,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50066522",
               "team1_player2": null,
               "team2_player1": "50098670",
@@ -3484,6 +3737,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T17:00:00Z",
               "team1_player1": "50090103",
               "team1_player2": null,
               "team2_player1": "50098670",
@@ -3497,6 +3751,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T18:00:00Z",
               "team1_player1": "50108214",
               "team1_player2": null,
               "team2_player1": "50098670",
@@ -3513,12 +3768,13 @@
         },
         {
           "poule": "Poule A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50091722",
               "team1_player2": null,
               "team2_player1": "50103721",
@@ -3532,6 +3788,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:30:00Z",
               "team1_player1": "50069136",
               "team1_player2": null,
               "team2_player1": "50103721",
@@ -3545,6 +3802,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50218379",
               "team1_player2": null,
               "team2_player1": "50103721",
@@ -3558,6 +3816,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50103721",
               "team1_player2": null,
               "team2_player1": "50091722",
@@ -3571,6 +3830,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50069136",
               "team1_player2": null,
               "team2_player1": "50091722",
@@ -3584,6 +3844,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T16:30:00Z",
               "team1_player1": "50218379",
               "team1_player2": null,
               "team2_player1": "50091722",
@@ -3597,6 +3858,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T16:30:00Z",
               "team1_player1": "50103721",
               "team1_player2": null,
               "team2_player1": "50069136",
@@ -3610,6 +3872,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50091722",
               "team1_player2": null,
               "team2_player1": "50069136",
@@ -3623,6 +3886,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50218379",
               "team1_player2": null,
               "team2_player1": "50069136",
@@ -3636,6 +3900,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50103721",
               "team1_player2": null,
               "team2_player1": "50218379",
@@ -3649,6 +3914,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T16:30:00Z",
               "team1_player1": "50091722",
               "team1_player2": null,
               "team2_player1": "50218379",
@@ -3662,6 +3928,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50069136",
               "team1_player2": null,
               "team2_player1": "50218379",
@@ -3678,12 +3945,13 @@
         },
         {
           "poule": "Poule B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50067530",
               "team1_player2": null,
               "team2_player1": "50003190",
@@ -3697,6 +3965,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:30:00Z",
               "team1_player1": "50089116",
               "team1_player2": null,
               "team2_player1": "50003190",
@@ -3710,6 +3979,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50024529",
               "team1_player2": null,
               "team2_player1": "50003190",
@@ -3723,6 +3993,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50003190",
               "team1_player2": null,
               "team2_player1": "50067530",
@@ -3736,6 +4007,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50089116",
               "team1_player2": null,
               "team2_player1": "50067530",
@@ -3749,6 +4021,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T16:30:00Z",
               "team1_player1": "50024529",
               "team1_player2": null,
               "team2_player1": "50067530",
@@ -3762,6 +4035,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T16:30:00Z",
               "team1_player1": "50003190",
               "team1_player2": null,
               "team2_player1": "50089116",
@@ -3775,6 +4049,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50067530",
               "team1_player2": null,
               "team2_player1": "50089116",
@@ -3788,6 +4063,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50024529",
               "team1_player2": null,
               "team2_player1": "50089116",
@@ -3801,6 +4077,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50003190",
               "team1_player2": null,
               "team2_player1": "50024529",
@@ -3814,6 +4091,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:30:00Z",
               "team1_player1": "50067530",
               "team1_player2": null,
               "team2_player1": "50024529",
@@ -3827,6 +4105,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50089116",
               "team1_player2": null,
               "team2_player1": "50024529",
@@ -3843,13 +4122,14 @@
         },
         {
           "poule": "HEC1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2016-03-20T13:30:00Z",
               "team1_player1": "50069136",
               "team1_player2": null,
               "team2_player1": "50103721",
@@ -3864,6 +4144,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2016-03-20T12:30:00Z",
               "team1_player1": "50069136",
               "team1_player2": null,
               "team2_player1": "50089116",
@@ -3878,6 +4159,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2016-03-20T12:30:00Z",
               "team1_player1": "50103721",
               "team1_player2": null,
               "team2_player1": "50024529",
@@ -3923,12 +4205,13 @@
       "subEvents": [
         {
           "poule": "Poule A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2016-03-19T09:30:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50089116",
               "team2_player1": "50070509",
@@ -3942,6 +4225,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T10:30:00Z",
               "team1_player1": "50069159",
               "team1_player2": "50035198",
               "team2_player1": "50070509",
@@ -3955,6 +4239,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T09:30:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50098834",
               "team2_player1": "50103721",
@@ -3968,6 +4253,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:30:00Z",
               "team1_player1": "50069159",
               "team1_player2": "50035198",
               "team2_player1": "50103721",
@@ -3981,6 +4267,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T10:30:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50098834",
               "team2_player1": "50069159",
@@ -3994,6 +4281,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:30:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50089116",
               "team2_player1": "50069159",
@@ -4007,6 +4295,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50066907",
               "team1_player2": null,
               "team2_player1": "50098834",
@@ -4020,6 +4309,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50054089",
               "team1_player2": null,
               "team2_player1": "50098834",
@@ -4033,6 +4323,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50098834",
               "team1_player2": null,
               "team2_player1": "50066907",
@@ -4046,6 +4337,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T13:00:00Z",
               "team1_player1": "50054089",
               "team1_player2": null,
               "team2_player1": "50066907",
@@ -4059,6 +4351,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50098834",
               "team1_player2": null,
               "team2_player1": "50054089",
@@ -4072,6 +4365,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T13:00:00Z",
               "team1_player1": "50066907",
               "team1_player2": null,
               "team2_player1": "50054089",
@@ -4088,12 +4382,13 @@
         },
         {
           "poule": "Poule B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2016-03-19T09:30:00Z",
               "team1_player1": "50072050",
               "team1_player2": "50024529",
               "team2_player1": "50017902",
@@ -4107,6 +4402,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T10:30:00Z",
               "team1_player1": "50081668",
               "team1_player2": "50066907",
               "team2_player1": "50017902",
@@ -4120,6 +4416,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:30:00Z",
               "team1_player1": "50092933",
               "team1_player2": "50037774",
               "team2_player1": "50017902",
@@ -4133,6 +4430,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T09:30:00Z",
               "team1_player1": "50017902",
               "team1_player2": "50003359",
               "team2_player1": "50072050",
@@ -4146,6 +4444,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:30:00Z",
               "team1_player1": "50081668",
               "team1_player2": "50066907",
               "team2_player1": "50072050",
@@ -4159,6 +4458,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T10:30:00Z",
               "team1_player1": "50092933",
               "team1_player2": "50037774",
               "team2_player1": "50072050",
@@ -4172,6 +4472,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T10:30:00Z",
               "team1_player1": "50017902",
               "team1_player2": "50003359",
               "team2_player1": "50081668",
@@ -4185,6 +4486,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T08:30:00Z",
               "team1_player1": "50072050",
               "team1_player2": "50024529",
               "team2_player1": "50081668",
@@ -4198,6 +4500,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T09:30:00Z",
               "team1_player1": "50092933",
               "team1_player2": "50037774",
               "team2_player1": "50081668",
@@ -4211,6 +4514,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:30:00Z",
               "team1_player1": "50017902",
               "team1_player2": "50003359",
               "team2_player1": "50092933",
@@ -4224,6 +4528,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T10:30:00Z",
               "team1_player1": "50072050",
               "team1_player2": "50024529",
               "team2_player1": "50092933",
@@ -4237,6 +4542,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T09:30:00Z",
               "team1_player1": "50081668",
               "team1_player2": "50066907",
               "team2_player1": "50092933",
@@ -4250,6 +4556,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50035198",
               "team1_player2": null,
               "team2_player1": "50070509",
@@ -4263,6 +4570,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50101652",
               "team1_player2": null,
               "team2_player1": "50070509",
@@ -4276,6 +4584,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T15:30:00Z",
               "team1_player1": "50070509",
               "team1_player2": null,
               "team2_player1": "50035198",
@@ -4289,6 +4598,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50101652",
               "team1_player2": null,
               "team2_player1": "50035198",
@@ -4302,6 +4612,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50070509",
               "team1_player2": null,
               "team2_player1": "50101652",
@@ -4315,6 +4626,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:30:00Z",
               "team1_player1": "50035198",
               "team1_player2": null,
               "team2_player1": "50101652",
@@ -4331,13 +4643,14 @@
         },
         {
           "poule": "HDB",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2016-03-19T12:30:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50098834",
               "team2_player1": "50069159",
@@ -4352,6 +4665,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2016-03-19T11:30:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50098834",
               "team2_player1": "50072050",
@@ -4366,6 +4680,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2016-03-19T11:30:00Z",
               "team1_player1": "50069159",
               "team1_player2": "50035198",
               "team2_player1": "50092933",
@@ -4382,7 +4697,7 @@
         },
         {
           "poule": "Poule A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
@@ -4390,7 +4705,7 @@
         },
         {
           "poule": "Poule B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
@@ -4398,12 +4713,13 @@
         },
         {
           "poule": "Poule C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50072050",
               "team1_player2": null,
               "team2_player1": "50081668",
@@ -4417,6 +4733,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50069159",
               "team1_player2": null,
               "team2_player1": "50081668",
@@ -4430,6 +4747,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50098094",
               "team1_player2": null,
               "team2_player1": "50081668",
@@ -4443,6 +4761,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50081668",
               "team1_player2": null,
               "team2_player1": "50072050",
@@ -4456,6 +4775,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50069159",
               "team1_player2": null,
               "team2_player1": "50072050",
@@ -4469,6 +4789,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50098094",
               "team1_player2": null,
               "team2_player1": "50072050",
@@ -4482,6 +4803,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50081668",
               "team1_player2": null,
               "team2_player1": "50069159",
@@ -4495,6 +4817,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50072050",
               "team1_player2": null,
               "team2_player1": "50069159",
@@ -4508,6 +4831,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50098094",
               "team1_player2": null,
               "team2_player1": "50069159",
@@ -4521,6 +4845,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:30:00Z",
               "team1_player1": "50081668",
               "team1_player2": null,
               "team2_player1": "50098094",
@@ -4534,6 +4859,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T16:00:00Z",
               "team1_player1": "50072050",
               "team1_player2": null,
               "team2_player1": "50098094",
@@ -4547,6 +4873,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T15:00:00Z",
               "team1_player1": "50069159",
               "team1_player2": null,
               "team2_player1": "50098094",
@@ -4563,12 +4890,13 @@
         },
         {
           "poule": "HEB",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2016-03-19T17:30:00Z",
               "team1_player1": "50070509",
               "team1_player2": null,
               "team2_player1": "50098834",
@@ -4582,6 +4910,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T18:30:00Z",
               "team1_player1": "50072050",
               "team1_player2": null,
               "team2_player1": "50098834",
@@ -4595,6 +4924,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T17:30:00Z",
               "team1_player1": "50098834",
               "team1_player2": null,
               "team2_player1": "50070509",
@@ -4608,6 +4938,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T17:00:00Z",
               "team1_player1": "50072050",
               "team1_player2": null,
               "team2_player1": "50070509",
@@ -4621,6 +4952,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T18:30:00Z",
               "team1_player1": "50098834",
               "team1_player2": null,
               "team2_player1": "50072050",
@@ -4634,6 +4966,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T17:00:00Z",
               "team1_player1": "50070509",
               "team1_player2": null,
               "team2_player1": "50072050",
@@ -4672,12 +5005,13 @@
       "subEvents": [
         {
           "poule": "DDB2 + C1",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 7,
           "matches": [
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50024904",
               "team1_player2": "50066522",
               "team2_player1": "50024168",
@@ -4691,6 +5025,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50098670",
               "team1_player2": "50114578",
               "team2_player1": "50024168",
@@ -4704,6 +5039,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T11:00:00Z",
               "team1_player1": "50058602",
               "team1_player2": "50095390",
               "team2_player1": "50024168",
@@ -4717,6 +5053,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T12:00:00Z",
               "team1_player1": "50039615",
               "team1_player2": "50048795",
               "team2_player1": "50024168",
@@ -4730,6 +5067,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:00:00Z",
               "team1_player1": "50090103",
               "team1_player2": "50037915",
               "team2_player1": "50024168",
@@ -4743,6 +5081,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50082657",
               "team1_player2": "50108214",
               "team2_player1": "50024168",
@@ -4756,6 +5095,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50024168",
               "team1_player2": "50002626",
               "team2_player1": "50024904",
@@ -4769,6 +5109,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T11:00:00Z",
               "team1_player1": "50098670",
               "team1_player2": "50114578",
               "team2_player1": "50024904",
@@ -4782,6 +5123,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T12:00:00Z",
               "team1_player1": "50058602",
               "team1_player2": "50095390",
               "team2_player1": "50024904",
@@ -4795,6 +5137,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T13:00:00Z",
               "team1_player1": "50039615",
               "team1_player2": "50048795",
               "team2_player1": "50024904",
@@ -4808,6 +5151,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50090103",
               "team1_player2": "50037915",
               "team2_player1": "50024904",
@@ -4821,6 +5165,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50082657",
               "team1_player2": "50108214",
               "team2_player1": "50024904",
@@ -4834,6 +5179,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50024168",
               "team1_player2": "50002626",
               "team2_player1": "50098670",
@@ -4847,6 +5193,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T11:00:00Z",
               "team1_player1": "50024904",
               "team1_player2": "50066522",
               "team2_player1": "50098670",
@@ -4860,6 +5207,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:00:00Z",
               "team1_player1": "50058602",
               "team1_player2": "50095390",
               "team2_player1": "50098670",
@@ -4873,6 +5221,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50039615",
               "team1_player2": "50048795",
               "team2_player1": "50098670",
@@ -4886,6 +5235,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50090103",
               "team1_player2": "50037915",
               "team2_player1": "50098670",
@@ -4899,6 +5249,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50082657",
               "team1_player2": "50108214",
               "team2_player1": "50098670",
@@ -4912,6 +5263,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T11:00:00Z",
               "team1_player1": "50024168",
               "team1_player2": "50002626",
               "team2_player1": "50058602",
@@ -4925,6 +5277,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T12:00:00Z",
               "team1_player1": "50024904",
               "team1_player2": "50066522",
               "team2_player1": "50058602",
@@ -4938,6 +5291,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T13:00:00Z",
               "team1_player1": "50098670",
               "team1_player2": "50114578",
               "team2_player1": "50058602",
@@ -4951,6 +5305,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50039615",
               "team1_player2": "50048795",
               "team2_player1": "50058602",
@@ -4964,6 +5319,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50090103",
               "team1_player2": "50037915",
               "team2_player1": "50058602",
@@ -4977,6 +5333,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50082657",
               "team1_player2": "50108214",
               "team2_player1": "50058602",
@@ -4990,6 +5347,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T12:00:00Z",
               "team1_player1": "50024168",
               "team1_player2": "50002626",
               "team2_player1": "50039615",
@@ -5003,6 +5361,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T13:00:00Z",
               "team1_player1": "50024904",
               "team1_player2": "50066522",
               "team2_player1": "50039615",
@@ -5016,6 +5375,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50098670",
               "team1_player2": "50114578",
               "team2_player1": "50039615",
@@ -5029,6 +5389,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50058602",
               "team1_player2": "50095390",
               "team2_player1": "50039615",
@@ -5042,6 +5403,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50090103",
               "team1_player2": "50037915",
               "team2_player1": "50039615",
@@ -5055,6 +5417,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T11:00:00Z",
               "team1_player1": "50082657",
               "team1_player2": "50108214",
               "team2_player1": "50039615",
@@ -5068,6 +5431,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T13:00:00Z",
               "team1_player1": "50024168",
               "team1_player2": "50002626",
               "team2_player1": "50090103",
@@ -5081,6 +5445,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50024904",
               "team1_player2": "50066522",
               "team2_player1": "50090103",
@@ -5094,6 +5459,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50098670",
               "team1_player2": "50114578",
               "team2_player1": "50090103",
@@ -5107,6 +5473,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50058602",
               "team1_player2": "50095390",
               "team2_player1": "50090103",
@@ -5120,6 +5487,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50039615",
               "team1_player2": "50048795",
               "team2_player1": "50090103",
@@ -5133,6 +5501,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T12:00:00Z",
               "team1_player1": "50082657",
               "team1_player2": "50108214",
               "team2_player1": "50090103",
@@ -5146,6 +5515,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T14:00:00Z",
               "team1_player1": "50024168",
               "team1_player2": "50002626",
               "team2_player1": "50082657",
@@ -5159,6 +5529,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T08:00:00Z",
               "team1_player1": "50024904",
               "team1_player2": "50066522",
               "team2_player1": "50082657",
@@ -5172,6 +5543,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T09:00:00Z",
               "team1_player1": "50098670",
               "team1_player2": "50114578",
               "team2_player1": "50082657",
@@ -5185,6 +5557,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T10:00:00Z",
               "team1_player1": "50058602",
               "team1_player2": "50095390",
               "team2_player1": "50082657",
@@ -5198,6 +5571,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-19T11:00:00Z",
               "team1_player1": "50039615",
               "team1_player2": "50048795",
               "team2_player1": "50082657",
@@ -5211,6 +5585,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-19T12:00:00Z",
               "team1_player1": "50090103",
               "team1_player2": "50037915",
               "team2_player1": "50082657",
@@ -5227,12 +5602,13 @@
         },
         {
           "poule": "GDB2",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 6,
           "matches": [
             {
+              "playedAt": "2016-03-20T09:30:00Z",
               "team1_player1": "50064165",
               "team1_player2": "50002626",
               "team2_player1": "50011455",
@@ -5246,6 +5622,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T10:30:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50036168",
               "team2_player1": "50011455",
@@ -5259,6 +5636,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T11:30:00Z",
               "team1_player1": "50113962",
               "team1_player2": "50088826",
               "team2_player1": "50011455",
@@ -5272,6 +5650,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T13:30:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50108214",
               "team2_player1": "50011455",
@@ -5285,6 +5664,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T08:30:00Z",
               "team1_player1": "50069159",
               "team1_player2": "50082657",
               "team2_player1": "50011455",
@@ -5298,6 +5678,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T09:30:00Z",
               "team1_player1": "50011455",
               "team1_player2": "50024904",
               "team2_player1": "50064165",
@@ -5311,6 +5692,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T11:30:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50036168",
               "team2_player1": "50064165",
@@ -5324,6 +5706,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T12:30:00Z",
               "team1_player1": "50113962",
               "team1_player2": "50088826",
               "team2_player1": "50064165",
@@ -5337,6 +5720,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T08:30:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50108214",
               "team2_player1": "50064165",
@@ -5350,6 +5734,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T10:30:00Z",
               "team1_player1": "50069159",
               "team1_player2": "50082657",
               "team2_player1": "50064165",
@@ -5363,6 +5748,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T10:30:00Z",
               "team1_player1": "50011455",
               "team1_player2": "50024904",
               "team2_player1": "50024529",
@@ -5376,6 +5762,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T11:30:00Z",
               "team1_player1": "50064165",
               "team1_player2": "50002626",
               "team2_player1": "50024529",
@@ -5389,6 +5776,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T08:30:00Z",
               "team1_player1": "50113962",
               "team1_player2": "50088826",
               "team2_player1": "50024529",
@@ -5402,6 +5790,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T09:30:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50108214",
               "team2_player1": "50024529",
@@ -5415,6 +5804,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T13:30:00Z",
               "team1_player1": "50069159",
               "team1_player2": "50082657",
               "team2_player1": "50024529",
@@ -5428,6 +5818,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T11:30:00Z",
               "team1_player1": "50011455",
               "team1_player2": "50024904",
               "team2_player1": "50113962",
@@ -5441,6 +5832,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T12:30:00Z",
               "team1_player1": "50064165",
               "team1_player2": "50002626",
               "team2_player1": "50113962",
@@ -5454,6 +5846,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T08:30:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50036168",
               "team2_player1": "50113962",
@@ -5467,6 +5860,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T10:30:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50108214",
               "team2_player1": "50113962",
@@ -5480,6 +5874,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T09:30:00Z",
               "team1_player1": "50069159",
               "team1_player2": "50082657",
               "team2_player1": "50113962",
@@ -5493,6 +5888,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T13:30:00Z",
               "team1_player1": "50011455",
               "team1_player2": "50024904",
               "team2_player1": "50070509",
@@ -5506,6 +5902,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T08:30:00Z",
               "team1_player1": "50064165",
               "team1_player2": "50002626",
               "team2_player1": "50070509",
@@ -5519,6 +5916,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T09:30:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50036168",
               "team2_player1": "50070509",
@@ -5532,6 +5930,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T10:30:00Z",
               "team1_player1": "50113962",
               "team1_player2": "50088826",
               "team2_player1": "50070509",
@@ -5545,6 +5944,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T11:30:00Z",
               "team1_player1": "50069159",
               "team1_player2": "50082657",
               "team2_player1": "50070509",
@@ -5558,6 +5958,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2016-03-20T08:30:00Z",
               "team1_player1": "50011455",
               "team1_player2": "50024904",
               "team2_player1": "50069159",
@@ -5571,6 +5972,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T10:30:00Z",
               "team1_player1": "50064165",
               "team1_player2": "50002626",
               "team2_player1": "50069159",
@@ -5584,6 +5986,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T13:30:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50036168",
               "team2_player1": "50069159",
@@ -5597,6 +6000,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T09:30:00Z",
               "team1_player1": "50113962",
               "team1_player2": "50088826",
               "team2_player1": "50069159",
@@ -5610,6 +6014,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2016-03-20T11:30:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50108214",
               "team2_player1": "50069159",

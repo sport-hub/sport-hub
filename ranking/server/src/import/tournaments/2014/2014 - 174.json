@@ -8,12 +8,13 @@
       "subEvents": [
         {
           "poule": "Groep A",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2014-04-26T07:30:00Z",
               "team1_player1": "30083646",
               "team1_player2": null,
               "team2_player1": "50359479",
@@ -27,6 +28,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "30079693",
               "team1_player2": null,
               "team2_player1": "50359479",
@@ -40,6 +42,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:30:00Z",
               "team1_player1": "50359479",
               "team1_player2": null,
               "team2_player1": "30083646",
@@ -53,6 +56,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "30079693",
               "team1_player2": null,
               "team2_player1": "30083646",
@@ -66,6 +70,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50359479",
               "team1_player2": null,
               "team2_player1": "30079693",
@@ -79,6 +84,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "30083646",
               "team1_player2": null,
               "team2_player1": "30079693",
@@ -95,12 +101,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T07:30:00Z",
               "team1_player1": "50015621",
               "team1_player2": null,
               "team2_player1": "50157558",
@@ -114,6 +121,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50114985",
               "team1_player2": null,
               "team2_player1": "50157558",
@@ -127,6 +135,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "30094911",
               "team1_player2": null,
               "team2_player1": "50157558",
@@ -140,6 +149,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:30:00Z",
               "team1_player1": "50157558",
               "team1_player2": null,
               "team2_player1": "50015621",
@@ -153,6 +163,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "50114985",
               "team1_player2": null,
               "team2_player1": "50015621",
@@ -166,6 +177,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "30094911",
               "team1_player2": null,
               "team2_player1": "50015621",
@@ -179,6 +191,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50157558",
               "team1_player2": null,
               "team2_player1": "50114985",
@@ -192,6 +205,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "50015621",
               "team1_player2": null,
               "team2_player1": "50114985",
@@ -205,6 +219,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:30:00Z",
               "team1_player1": "30094911",
               "team1_player2": null,
               "team2_player1": "50114985",
@@ -218,6 +233,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "50157558",
               "team1_player2": null,
               "team2_player1": "30094911",
@@ -231,6 +247,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50015621",
               "team1_player2": null,
               "team2_player1": "30094911",
@@ -244,6 +261,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:30:00Z",
               "team1_player1": "50114985",
               "team1_player2": null,
               "team2_player1": "30094911",
@@ -260,13 +278,14 @@
         },
         {
           "poule": "JE U9",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "30079693",
               "team1_player2": null,
               "team2_player1": "30094911",
@@ -283,12 +302,13 @@
         },
         {
           "poule": "ME U9",
-          "gender": 5,
+          "gender": 4,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2014-04-26T07:30:00Z",
               "team1_player1": "50592998",
               "team1_player2": null,
               "team2_player1": "50556916",
@@ -302,6 +322,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50757741",
               "team1_player2": null,
               "team2_player1": "50556916",
@@ -315,6 +336,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:30:00Z",
               "team1_player1": "50556916",
               "team1_player2": null,
               "team2_player1": "50592998",
@@ -328,6 +350,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "50757741",
               "team1_player2": null,
               "team2_player1": "50592998",
@@ -341,6 +364,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50556916",
               "team1_player2": null,
               "team2_player1": "50757741",
@@ -354,6 +378,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "50592998",
               "team1_player2": null,
               "team2_player1": "50757741",
@@ -385,12 +410,13 @@
       "subEvents": [
         {
           "poule": "Groep A",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "50112591",
               "team1_player2": null,
               "team2_player1": "30057620",
@@ -404,6 +430,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "50502573",
               "team1_player2": null,
               "team2_player1": "30057620",
@@ -417,6 +444,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "30057620",
               "team1_player2": null,
               "team2_player1": "50112591",
@@ -430,6 +458,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "50502573",
               "team1_player2": null,
               "team2_player1": "50112591",
@@ -443,6 +472,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "30057620",
               "team1_player2": null,
               "team2_player1": "50502573",
@@ -456,6 +486,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "50112591",
               "team1_player2": null,
               "team2_player1": "50502573",
@@ -469,6 +500,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "30079693",
               "team1_player2": "30094911",
               "team2_player1": "30057620",
@@ -482,6 +514,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "50502573",
               "team1_player2": "50112591",
               "team2_player1": "30057620",
@@ -495,6 +528,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "30057620",
               "team1_player2": "50114833",
               "team2_player1": "30079693",
@@ -508,6 +542,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "50502573",
               "team1_player2": "50112591",
               "team2_player1": "30079693",
@@ -521,6 +556,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "30057620",
               "team1_player2": "50114833",
               "team2_player1": "50502573",
@@ -534,6 +570,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "30079693",
               "team1_player2": "30094911",
               "team2_player1": "50502573",
@@ -550,12 +587,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "50110381",
               "team1_player2": null,
               "team2_player1": "50114833",
@@ -569,6 +607,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "30078288",
               "team1_player2": null,
               "team2_player1": "50114833",
@@ -582,6 +621,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "50114833",
               "team1_player2": null,
               "team2_player1": "50110381",
@@ -595,6 +635,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "30078288",
               "team1_player2": null,
               "team2_player1": "50110381",
@@ -608,6 +649,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "50114833",
               "team1_player2": null,
               "team2_player1": "30078288",
@@ -621,6 +663,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "50110381",
               "team1_player2": null,
               "team2_player1": "30078288",
@@ -634,6 +677,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "50112169",
               "team1_player2": null,
               "team2_player1": "50114833",
@@ -647,6 +691,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "50112169",
               "team1_player2": null,
               "team2_player1": "50110381",
@@ -660,6 +705,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "50112169",
               "team1_player2": null,
               "team2_player1": "30078288",
@@ -673,6 +719,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "50114833",
               "team1_player2": null,
               "team2_player1": "50112169",
@@ -686,6 +733,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "50110381",
               "team1_player2": null,
               "team2_player1": "50112169",
@@ -699,6 +747,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "30078288",
               "team1_player2": null,
               "team2_player1": "50112169",
@@ -712,6 +761,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "50112169",
               "team1_player2": "50112168",
               "team2_player1": "30098151",
@@ -725,6 +775,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "30054391",
               "team1_player2": "30064856",
               "team2_player1": "30098151",
@@ -738,6 +789,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "30006052",
               "team1_player2": "30078288",
               "team2_player1": "30098151",
@@ -751,6 +803,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "30098151",
               "team1_player2": "30056913",
               "team2_player1": "50112169",
@@ -764,6 +817,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "30054391",
               "team1_player2": "30064856",
               "team2_player1": "50112169",
@@ -777,6 +831,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "30006052",
               "team1_player2": "30078288",
               "team2_player1": "50112169",
@@ -790,6 +845,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "30098151",
               "team1_player2": "30056913",
               "team2_player1": "30054391",
@@ -803,6 +859,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "50112169",
               "team1_player2": "50112168",
               "team2_player1": "30054391",
@@ -816,6 +873,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "30006052",
               "team1_player2": "30078288",
               "team2_player1": "30054391",
@@ -829,6 +887,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "30098151",
               "team1_player2": "30056913",
               "team2_player1": "30006052",
@@ -842,6 +901,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "50112169",
               "team1_player2": "50112168",
               "team2_player1": "30006052",
@@ -855,6 +915,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "30054391",
               "team1_player2": "30064856",
               "team2_player1": "30006052",
@@ -871,12 +932,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "30098151",
               "team1_player2": null,
               "team2_player1": "30054391",
@@ -890,6 +952,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "30006052",
               "team1_player2": null,
               "team2_player1": "30054391",
@@ -903,6 +966,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "30054391",
               "team1_player2": null,
               "team2_player1": "30098151",
@@ -916,6 +980,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "30006052",
               "team1_player2": null,
               "team2_player1": "30098151",
@@ -929,6 +994,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "30054391",
               "team1_player2": null,
               "team2_player1": "30006052",
@@ -942,6 +1008,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "30098151",
               "team1_player2": null,
               "team2_player1": "30006052",
@@ -955,6 +1022,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "50536419",
               "team1_player2": null,
               "team2_player1": "30054391",
@@ -968,6 +1036,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "50536419",
               "team1_player2": null,
               "team2_player1": "30098151",
@@ -981,6 +1050,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "50536419",
               "team1_player2": null,
               "team2_player1": "30006052",
@@ -994,6 +1064,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "30054391",
               "team1_player2": null,
               "team2_player1": "50536419",
@@ -1007,6 +1078,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "30098151",
               "team1_player2": null,
               "team2_player1": "50536419",
@@ -1020,6 +1092,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "30006052",
               "team1_player2": null,
               "team2_player1": "50536419",
@@ -1036,12 +1109,13 @@
         },
         {
           "poule": "Groep D",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "50112168",
               "team1_player2": null,
               "team2_player1": "30056913",
@@ -1055,6 +1129,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "30001508",
               "team1_player2": null,
               "team2_player1": "30056913",
@@ -1068,6 +1143,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "30056913",
               "team1_player2": null,
               "team2_player1": "50112168",
@@ -1081,6 +1157,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "30001508",
               "team1_player2": null,
               "team2_player1": "50112168",
@@ -1094,6 +1171,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "30056913",
               "team1_player2": null,
               "team2_player1": "30001508",
@@ -1107,6 +1185,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "50112168",
               "team1_player2": null,
               "team2_player1": "30001508",
@@ -1120,6 +1199,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "30064856",
               "team1_player2": null,
               "team2_player1": "30056913",
@@ -1133,6 +1213,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "30064856",
               "team1_player2": null,
               "team2_player1": "50112168",
@@ -1146,6 +1227,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "30064856",
               "team1_player2": null,
               "team2_player1": "30001508",
@@ -1159,6 +1241,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "30056913",
               "team1_player2": null,
               "team2_player1": "30064856",
@@ -1172,6 +1255,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "50112168",
               "team1_player2": null,
               "team2_player1": "30064856",
@@ -1185,6 +1269,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "30001508",
               "team1_player2": null,
               "team2_player1": "30064856",
@@ -1201,13 +1286,14 @@
         },
         {
           "poule": "JE U11",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2014-04-26T15:00:00Z",
               "team1_player1": "30057620",
               "team1_player2": null,
               "team2_player1": "50114833",
@@ -1222,6 +1308,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2014-04-26T14:30:00Z",
               "team1_player1": "30057620",
               "team1_player2": null,
               "team2_player1": "30056913",
@@ -1236,6 +1323,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2014-04-26T14:30:00Z",
               "team1_player1": "30006052",
               "team1_player2": null,
               "team2_player1": "50114833",
@@ -1252,12 +1340,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 5,
+          "gender": 4,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "30007403",
               "team1_player2": null,
               "team2_player1": "50114113",
@@ -1271,6 +1360,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "50114252",
               "team1_player2": null,
               "team2_player1": "50114113",
@@ -1284,6 +1374,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50112928",
               "team1_player2": null,
               "team2_player1": "50114113",
@@ -1297,6 +1388,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "50114113",
               "team1_player2": null,
               "team2_player1": "30007403",
@@ -1310,6 +1402,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "50114252",
               "team1_player2": null,
               "team2_player1": "30007403",
@@ -1323,6 +1416,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "50112928",
               "team1_player2": null,
               "team2_player1": "30007403",
@@ -1336,6 +1430,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "50114113",
               "team1_player2": null,
               "team2_player1": "50114252",
@@ -1349,6 +1444,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:10:00Z",
               "team1_player1": "30007403",
               "team1_player2": null,
               "team2_player1": "50114252",
@@ -1362,6 +1458,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "50112928",
               "team1_player2": null,
               "team2_player1": "50114252",
@@ -1375,6 +1472,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50114113",
               "team1_player2": null,
               "team2_player1": "50112928",
@@ -1388,6 +1486,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "30007403",
               "team1_player2": null,
               "team2_player1": "50112928",
@@ -1401,6 +1500,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "50114252",
               "team1_player2": null,
               "team2_player1": "50112928",
@@ -1417,12 +1517,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 5,
+          "gender": 4,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "50097197",
               "team1_player2": null,
               "team2_player1": "50930907",
@@ -1436,6 +1537,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "30093315",
               "team1_player2": null,
               "team2_player1": "50930907",
@@ -1449,6 +1551,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "30067618",
               "team1_player2": null,
               "team2_player1": "50930907",
@@ -1462,6 +1565,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "50930907",
               "team1_player2": null,
               "team2_player1": "50097197",
@@ -1475,6 +1579,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "30093315",
               "team1_player2": null,
               "team2_player1": "50097197",
@@ -1488,6 +1593,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "30067618",
               "team1_player2": null,
               "team2_player1": "50097197",
@@ -1501,6 +1607,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "50930907",
               "team1_player2": null,
               "team2_player1": "30093315",
@@ -1514,6 +1621,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50097197",
               "team1_player2": null,
               "team2_player1": "30093315",
@@ -1527,6 +1635,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "30067618",
               "team1_player2": null,
               "team2_player1": "30093315",
@@ -1540,6 +1649,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50930907",
               "team1_player2": null,
               "team2_player1": "30067618",
@@ -1553,6 +1663,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "50097197",
               "team1_player2": null,
               "team2_player1": "30067618",
@@ -1566,6 +1677,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "30093315",
               "team1_player2": null,
               "team2_player1": "30067618",
@@ -1582,13 +1694,14 @@
         },
         {
           "poule": "ME U11",
-          "gender": 5,
+          "gender": 4,
           "event_type": 1,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2014-04-26T14:30:00Z",
               "team1_player1": "50114252",
               "team1_player2": null,
               "team2_player1": "30067618",
@@ -1605,7 +1718,7 @@
         },
         {
           "poule": "Groep A",
-          "gender": 4,
+          "gender": 3,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
@@ -1613,7 +1726,7 @@
         },
         {
           "poule": "Groep B",
-          "gender": 4,
+          "gender": 3,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
@@ -1621,13 +1734,14 @@
         },
         {
           "poule": "JD U11",
-          "gender": 4,
+          "gender": 3,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2014-04-26T15:30:00Z",
               "team1_player1": "30057620",
               "team1_player2": "50114833",
               "team2_player1": "30054391",
@@ -1644,12 +1758,13 @@
         },
         {
           "poule": "MD U11",
-          "gender": 5,
+          "gender": 4,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "50930907",
               "team1_player2": "50114113",
               "team2_player1": "30093315",
@@ -1663,6 +1778,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "50114252",
               "team1_player2": "50097197",
               "team2_player1": "30093315",
@@ -1676,6 +1792,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "30093315",
               "team1_player2": "30007403",
               "team2_player1": "50930907",
@@ -1689,6 +1806,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "50114252",
               "team1_player2": "50097197",
               "team2_player1": "50930907",
@@ -1702,6 +1820,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "30093315",
               "team1_player2": "30007403",
               "team2_player1": "50114252",
@@ -1715,6 +1834,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "50930907",
               "team1_player2": "50114113",
               "team2_player1": "50114252",
@@ -1767,12 +1887,13 @@
       "subEvents": [
         {
           "poule": "GD U13",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "50110381",
               "team1_player2": "50103536",
               "team2_player1": "50105234",
@@ -1786,6 +1907,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "50114109",
               "team1_player2": "50105136",
               "team2_player1": "50105234",
@@ -1799,6 +1921,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "50105234",
               "team1_player2": "50104449",
               "team2_player1": "50110381",
@@ -1812,6 +1935,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:30:00Z",
               "team1_player1": "50114109",
               "team1_player2": "50105136",
               "team2_player1": "50110381",
@@ -1825,6 +1949,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "50105234",
               "team1_player2": "50104449",
               "team2_player1": "50114109",
@@ -1838,6 +1963,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:30:00Z",
               "team1_player1": "50110381",
               "team1_player2": "50103536",
               "team2_player1": "50114109",
@@ -1854,12 +1980,13 @@
         },
         {
           "poule": "ME U13",
-          "gender": 5,
+          "gender": 4,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "50105136",
               "team1_player2": null,
               "team2_player1": "50104449",
@@ -1873,6 +2000,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "50109938",
               "team1_player2": null,
               "team2_player1": "50104449",
@@ -1886,6 +2014,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "50103536",
               "team1_player2": null,
               "team2_player1": "50104449",
@@ -1899,6 +2028,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "50104449",
               "team1_player2": null,
               "team2_player1": "50105136",
@@ -1912,6 +2042,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "50109938",
               "team1_player2": null,
               "team2_player1": "50105136",
@@ -1925,6 +2056,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "50103536",
               "team1_player2": null,
               "team2_player1": "50105136",
@@ -1938,6 +2070,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "50104449",
               "team1_player2": null,
               "team2_player1": "50109938",
@@ -1951,6 +2084,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "50105136",
               "team1_player2": null,
               "team2_player1": "50109938",
@@ -1964,6 +2098,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "50103536",
               "team1_player2": null,
               "team2_player1": "50109938",
@@ -1977,6 +2112,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "50104449",
               "team1_player2": null,
               "team2_player1": "50103536",
@@ -1990,6 +2126,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "50105136",
               "team1_player2": null,
               "team2_player1": "50103536",
@@ -2003,6 +2140,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "50109938",
               "team1_player2": null,
               "team2_player1": "50103536",
@@ -2019,12 +2157,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 4,
+          "gender": 3,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "50109771",
               "team1_player2": "50114841",
               "team2_player1": "30043989",
@@ -2038,6 +2177,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "50001051",
               "team1_player2": "30060850",
               "team2_player1": "30043989",
@@ -2051,6 +2191,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "30043989",
               "team1_player2": "30051962",
               "team2_player1": "50109771",
@@ -2064,6 +2205,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "50001051",
               "team1_player2": "30060850",
               "team2_player1": "50109771",
@@ -2077,6 +2219,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "30043989",
               "team1_player2": "30051962",
               "team2_player1": "50001051",
@@ -2090,6 +2233,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "50109771",
               "team1_player2": "50114841",
               "team2_player1": "50001051",
@@ -2103,6 +2247,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "50114841",
               "team1_player2": null,
               "team2_player1": "30051962",
@@ -2116,6 +2261,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "30060850",
               "team1_player2": null,
               "team2_player1": "30051962",
@@ -2129,6 +2275,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "30051962",
               "team1_player2": null,
               "team2_player1": "50114841",
@@ -2142,6 +2289,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "30060850",
               "team1_player2": null,
               "team2_player1": "50114841",
@@ -2155,6 +2303,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "30051962",
               "team1_player2": null,
               "team2_player1": "30060850",
@@ -2168,6 +2317,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50114841",
               "team1_player2": null,
               "team2_player1": "30060850",
@@ -2184,12 +2334,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 4,
+          "gender": 3,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "50105234",
               "team1_player2": "50114253",
               "team2_player1": "50106104",
@@ -2203,6 +2354,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "30082426",
               "team1_player2": "30085120",
               "team2_player1": "50106104",
@@ -2216,6 +2368,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "50106104",
               "team1_player2": "50114827",
               "team2_player1": "50105234",
@@ -2229,6 +2382,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "30082426",
               "team1_player2": "30085120",
               "team2_player1": "50105234",
@@ -2242,6 +2396,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "50106104",
               "team1_player2": "50114827",
               "team2_player1": "30082426",
@@ -2255,6 +2410,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "50105234",
               "team1_player2": "50114253",
               "team2_player1": "30082426",
@@ -2268,6 +2424,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "50109771",
               "team1_player2": null,
               "team2_player1": "30043989",
@@ -2281,6 +2438,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "50097650",
               "team1_player2": null,
               "team2_player1": "30043989",
@@ -2294,6 +2452,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "30043989",
               "team1_player2": null,
               "team2_player1": "50109771",
@@ -2307,6 +2466,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "50097650",
               "team1_player2": null,
               "team2_player1": "50109771",
@@ -2320,6 +2480,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "30043989",
               "team1_player2": null,
               "team2_player1": "50097650",
@@ -2333,6 +2494,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "50109771",
               "team1_player2": null,
               "team2_player1": "50097650",
@@ -2349,12 +2511,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 4,
+          "gender": 3,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "30054840",
               "team1_player2": "50114109",
               "team2_player1": "50100538",
@@ -2368,6 +2531,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "50108218",
               "team1_player2": "50100601",
               "team2_player1": "50100538",
@@ -2381,6 +2545,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "30055425",
               "team1_player2": "30078181",
               "team2_player1": "50100538",
@@ -2394,6 +2559,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "50100538",
               "team1_player2": "50106103",
               "team2_player1": "30054840",
@@ -2407,6 +2573,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "50108218",
               "team1_player2": "50100601",
               "team2_player1": "30054840",
@@ -2420,6 +2587,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "30055425",
               "team1_player2": "30078181",
               "team2_player1": "30054840",
@@ -2433,6 +2601,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "50100538",
               "team1_player2": "50106103",
               "team2_player1": "50108218",
@@ -2446,6 +2615,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "30054840",
               "team1_player2": "50114109",
               "team2_player1": "50108218",
@@ -2459,6 +2629,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "30055425",
               "team1_player2": "30078181",
               "team2_player1": "50108218",
@@ -2472,6 +2643,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "50100538",
               "team1_player2": "50106103",
               "team2_player1": "30055425",
@@ -2485,6 +2657,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "30054840",
               "team1_player2": "50114109",
               "team2_player1": "30055425",
@@ -2498,6 +2671,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "50108218",
               "team1_player2": "50100601",
               "team2_player1": "30055425",
@@ -2511,6 +2685,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "30085120",
               "team1_player2": null,
               "team2_player1": "50106103",
@@ -2524,6 +2699,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "50114253",
               "team1_player2": null,
               "team2_player1": "50106103",
@@ -2537,6 +2713,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "50106103",
               "team1_player2": null,
               "team2_player1": "30085120",
@@ -2550,6 +2727,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "50114253",
               "team1_player2": null,
               "team2_player1": "30085120",
@@ -2563,6 +2741,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "50106103",
               "team1_player2": null,
               "team2_player1": "50114253",
@@ -2576,6 +2755,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "30085120",
               "team1_player2": null,
               "team2_player1": "50114253",
@@ -2592,12 +2772,13 @@
         },
         {
           "poule": "Groep D",
-          "gender": 4,
+          "gender": 3,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "30062596",
               "team1_player2": "30087047",
               "team2_player1": "30056107",
@@ -2611,6 +2792,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "50109774",
               "team1_player2": "50106101",
               "team2_player1": "30056107",
@@ -2624,6 +2806,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "50107808",
               "team1_player2": "50099547",
               "team2_player1": "30056107",
@@ -2637,6 +2820,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "30056107",
               "team1_player2": "30068749",
               "team2_player1": "30062596",
@@ -2650,6 +2834,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "50109774",
               "team1_player2": "50106101",
               "team2_player1": "30062596",
@@ -2663,6 +2848,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "50107808",
               "team1_player2": "50099547",
               "team2_player1": "30062596",
@@ -2676,6 +2862,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "30056107",
               "team1_player2": "30068749",
               "team2_player1": "50109774",
@@ -2689,6 +2876,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "30062596",
               "team1_player2": "30087047",
               "team2_player1": "50109774",
@@ -2702,6 +2890,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "50107808",
               "team1_player2": "50099547",
               "team2_player1": "50109774",
@@ -2715,6 +2904,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "30056107",
               "team1_player2": "30068749",
               "team2_player1": "50107808",
@@ -2728,6 +2918,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "30062596",
               "team1_player2": "30087047",
               "team2_player1": "50107808",
@@ -2741,6 +2932,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:00:00Z",
               "team1_player1": "50109774",
               "team1_player2": "50106101",
               "team2_player1": "50107808",
@@ -2754,6 +2946,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "50107808",
               "team1_player2": null,
               "team2_player1": "50114827",
@@ -2767,6 +2960,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "50108218",
               "team1_player2": null,
               "team2_player1": "50114827",
@@ -2780,6 +2974,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "30067729",
               "team1_player2": null,
               "team2_player1": "50114827",
@@ -2793,6 +2988,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "50114827",
               "team1_player2": null,
               "team2_player1": "50107808",
@@ -2806,6 +3002,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "50108218",
               "team1_player2": null,
               "team2_player1": "50107808",
@@ -2819,6 +3016,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "30067729",
               "team1_player2": null,
               "team2_player1": "50107808",
@@ -2832,6 +3030,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "50114827",
               "team1_player2": null,
               "team2_player1": "50108218",
@@ -2845,6 +3044,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "50107808",
               "team1_player2": null,
               "team2_player1": "50108218",
@@ -2858,6 +3058,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "30067729",
               "team1_player2": null,
               "team2_player1": "50108218",
@@ -2871,6 +3072,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "50114827",
               "team1_player2": null,
               "team2_player1": "30067729",
@@ -2884,6 +3086,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "50107808",
               "team1_player2": null,
               "team2_player1": "30067729",
@@ -2897,6 +3100,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "50108218",
               "team1_player2": null,
               "team2_player1": "30067729",
@@ -2913,13 +3117,14 @@
         },
         {
           "poule": "JD U13",
-          "gender": 4,
+          "gender": 3,
           "event_type": 2,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2014-04-26T15:00:00Z",
               "team1_player1": "30043989",
               "team1_player2": "30051962",
               "team2_player1": "50100538",
@@ -2934,6 +3139,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2014-04-26T14:00:00Z",
               "team1_player1": "30043989",
               "team1_player2": "30051962",
               "team2_player1": "30062596",
@@ -2948,6 +3154,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2014-04-26T14:00:00Z",
               "team1_player1": "50100538",
               "team1_player2": "50106103",
               "team2_player1": "50106104",
@@ -2964,13 +3171,14 @@
         },
         {
           "poule": "MD U13",
-          "gender": 5,
+          "gender": 4,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "50103536",
               "team1_player2": "50104449",
               "team2_player1": "50109938",
@@ -2987,7 +3195,7 @@
         },
         {
           "poule": "Groep A",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
@@ -2995,7 +3203,7 @@
         },
         {
           "poule": "Groep B",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
@@ -3003,7 +3211,7 @@
         },
         {
           "poule": "Groep C",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
@@ -3011,7 +3219,7 @@
         },
         {
           "poule": "Groep D",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
@@ -3019,12 +3227,13 @@
         },
         {
           "poule": "Groep E",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "50114109",
               "team1_player2": null,
               "team2_player1": "50106104",
@@ -3038,6 +3247,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "30087047",
               "team1_player2": null,
               "team2_player1": "50106104",
@@ -3051,6 +3261,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "30054840",
               "team1_player2": null,
               "team2_player1": "50106104",
@@ -3064,6 +3275,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "50106104",
               "team1_player2": null,
               "team2_player1": "50114109",
@@ -3077,6 +3289,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "30087047",
               "team1_player2": null,
               "team2_player1": "50114109",
@@ -3090,6 +3303,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "30054840",
               "team1_player2": null,
               "team2_player1": "50114109",
@@ -3103,6 +3317,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "50106104",
               "team1_player2": null,
               "team2_player1": "30087047",
@@ -3116,6 +3331,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "50114109",
               "team1_player2": null,
               "team2_player1": "30087047",
@@ -3129,6 +3345,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "30054840",
               "team1_player2": null,
               "team2_player1": "30087047",
@@ -3142,6 +3359,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "50106104",
               "team1_player2": null,
               "team2_player1": "30054840",
@@ -3155,6 +3373,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "50114109",
               "team1_player2": null,
               "team2_player1": "30054840",
@@ -3168,6 +3387,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "30087047",
               "team1_player2": null,
               "team2_player1": "30054840",
@@ -3184,12 +3404,13 @@
         },
         {
           "poule": "Groep F",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "50109774",
               "team1_player2": null,
               "team2_player1": "30056107",
@@ -3203,6 +3424,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "30056107",
               "team1_player2": null,
               "team2_player1": "30055425",
@@ -3216,6 +3438,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "50001051",
               "team1_player2": null,
               "team2_player1": "30055425",
@@ -3229,6 +3452,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "50109774",
               "team1_player2": null,
               "team2_player1": "30055425",
@@ -3242,6 +3466,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "30056107",
               "team1_player2": null,
               "team2_player1": "50001051",
@@ -3255,6 +3480,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "30055425",
               "team1_player2": null,
               "team2_player1": "50001051",
@@ -3268,6 +3494,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "50109774",
               "team1_player2": null,
               "team2_player1": "50001051",
@@ -3281,6 +3508,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "30056107",
               "team1_player2": null,
               "team2_player1": "50109774",
@@ -3294,6 +3522,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "30055425",
               "team1_player2": null,
               "team2_player1": "50109774",
@@ -3307,6 +3536,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "50001051",
               "team1_player2": null,
               "team2_player1": "50109774",
@@ -3320,6 +3550,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "30055425",
               "team1_player2": null,
               "team2_player1": "30056107",
@@ -3333,6 +3564,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "50001051",
               "team1_player2": null,
               "team2_player1": "30056107",
@@ -3349,12 +3581,13 @@
         },
         {
           "poule": "Groep G",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "30078181",
               "team1_player2": null,
               "team2_player1": "50100601",
@@ -3368,6 +3601,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "50106101",
               "team1_player2": null,
               "team2_player1": "50100601",
@@ -3381,6 +3615,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "30068749",
               "team1_player2": null,
               "team2_player1": "50100601",
@@ -3394,6 +3629,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "50100601",
               "team1_player2": null,
               "team2_player1": "30078181",
@@ -3407,6 +3643,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "50106101",
               "team1_player2": null,
               "team2_player1": "30078181",
@@ -3420,6 +3657,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "30068749",
               "team1_player2": null,
               "team2_player1": "30078181",
@@ -3433,6 +3671,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "50100601",
               "team1_player2": null,
               "team2_player1": "50106101",
@@ -3446,6 +3685,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "30078181",
               "team1_player2": null,
               "team2_player1": "50106101",
@@ -3459,6 +3699,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "30068749",
               "team1_player2": null,
               "team2_player1": "50106101",
@@ -3472,6 +3713,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "50100601",
               "team1_player2": null,
               "team2_player1": "30068749",
@@ -3485,6 +3727,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "30078181",
               "team1_player2": null,
               "team2_player1": "30068749",
@@ -3498,6 +3741,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "50106101",
               "team1_player2": null,
               "team2_player1": "30068749",
@@ -3514,12 +3758,13 @@
         },
         {
           "poule": "Groep H",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "30082426",
               "team1_player2": null,
               "team2_player1": "50100538",
@@ -3533,6 +3778,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "50099547",
               "team1_player2": null,
               "team2_player1": "50100538",
@@ -3546,6 +3792,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "30062596",
               "team1_player2": null,
               "team2_player1": "50100538",
@@ -3559,6 +3806,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "50100538",
               "team1_player2": null,
               "team2_player1": "30082426",
@@ -3572,6 +3820,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "50099547",
               "team1_player2": null,
               "team2_player1": "30082426",
@@ -3585,6 +3834,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "30062596",
               "team1_player2": null,
               "team2_player1": "30082426",
@@ -3598,6 +3848,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "50100538",
               "team1_player2": null,
               "team2_player1": "50099547",
@@ -3611,6 +3862,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "30082426",
               "team1_player2": null,
               "team2_player1": "50099547",
@@ -3624,6 +3876,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "30062596",
               "team1_player2": null,
               "team2_player1": "50099547",
@@ -3637,6 +3890,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "50100538",
               "team1_player2": null,
               "team2_player1": "30062596",
@@ -3650,6 +3904,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:00:00Z",
               "team1_player1": "30082426",
               "team1_player2": null,
               "team2_player1": "30062596",
@@ -3663,6 +3918,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "50099547",
               "team1_player2": null,
               "team2_player1": "30062596",
@@ -3679,13 +3935,14 @@
         },
         {
           "poule": "JE U13",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 1,
           "size": 8,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2014-04-26T15:30:00Z",
               "team1_player1": "30051962",
               "team1_player2": null,
               "team2_player1": "30043989",
@@ -3700,6 +3957,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2014-04-26T15:00:00Z",
               "team1_player1": "30051962",
               "team1_player2": null,
               "team2_player1": "50114827",
@@ -3714,6 +3972,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2014-04-26T15:00:00Z",
               "team1_player1": "50106104",
               "team1_player2": null,
               "team2_player1": "30043989",
@@ -3728,6 +3987,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2014-04-26T14:30:00Z",
               "team1_player1": "30051962",
               "team1_player2": null,
               "team2_player1": "30062596",
@@ -3742,6 +4002,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2014-04-26T14:30:00Z",
               "team1_player1": "50114827",
               "team1_player2": null,
               "team2_player1": "30055425",
@@ -3756,6 +4017,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2014-04-26T14:30:00Z",
               "team1_player1": "50106104",
               "team1_player2": null,
               "team2_player1": "50106103",
@@ -3770,6 +4032,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2014-04-26T14:30:00Z",
               "team1_player1": "50100601",
               "team1_player2": null,
               "team2_player1": "30043989",
@@ -3822,12 +4085,13 @@
       "subEvents": [
         {
           "poule": "GD U15",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "50111005",
               "team1_player2": "50112173",
               "team2_player1": "50095082",
@@ -3841,6 +4105,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "30067729",
               "team1_player2": "30083725",
               "team2_player1": "50095082",
@@ -3854,6 +4119,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T08:30:00Z",
               "team1_player1": "50095082",
               "team1_player2": "50108020",
               "team2_player1": "50111005",
@@ -3867,6 +4133,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "30067729",
               "team1_player2": "30083725",
               "team2_player1": "50111005",
@@ -3880,6 +4147,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T11:00:00Z",
               "team1_player1": "50095082",
               "team1_player2": "50108020",
               "team2_player1": "30067729",
@@ -3893,6 +4161,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T07:00:00Z",
               "team1_player1": "50111005",
               "team1_player2": "50112173",
               "team2_player1": "30067729",
@@ -3909,12 +4178,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 4,
+          "gender": 3,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "50111005",
               "team1_player2": "50111006",
               "team2_player1": "30057190",
@@ -3928,6 +4198,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "30083934",
               "team1_player2": "30099230",
               "team2_player1": "30057190",
@@ -3941,6 +4212,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "30057190",
               "team1_player2": "30056912",
               "team2_player1": "50111005",
@@ -3954,6 +4226,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "30083934",
               "team1_player2": "30099230",
               "team2_player1": "50111005",
@@ -3967,6 +4240,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "30057190",
               "team1_player2": "30056912",
               "team2_player1": "30083934",
@@ -3980,6 +4254,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50111005",
               "team1_player2": "50111006",
               "team2_player1": "30083934",
@@ -3993,6 +4268,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "50111006",
               "team1_player2": null,
               "team2_player1": "30056912",
@@ -4006,6 +4282,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "50110211",
               "team1_player2": null,
               "team2_player1": "30056912",
@@ -4019,6 +4296,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "30056912",
               "team1_player2": null,
               "team2_player1": "50111006",
@@ -4032,6 +4310,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "50110211",
               "team1_player2": null,
               "team2_player1": "50111006",
@@ -4045,6 +4324,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "30056912",
               "team1_player2": null,
               "team2_player1": "50110211",
@@ -4058,6 +4338,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "50111006",
               "team1_player2": null,
               "team2_player1": "50110211",
@@ -4074,12 +4355,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 4,
+          "gender": 3,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "50104448",
               "team1_player2": "50100306",
               "team2_player1": "30056248",
@@ -4093,6 +4375,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "30074221",
               "team1_player2": "30056915",
               "team2_player1": "30056248",
@@ -4106,6 +4389,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "30056248",
               "team1_player2": "30049807",
               "team2_player1": "50104448",
@@ -4119,6 +4403,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "30074221",
               "team1_player2": "30056915",
               "team2_player1": "50104448",
@@ -4132,6 +4417,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "30056248",
               "team1_player2": "30049807",
               "team2_player1": "30074221",
@@ -4145,6 +4431,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50104448",
               "team1_player2": "50100306",
               "team2_player1": "30074221",
@@ -4158,6 +4445,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "30056915",
               "team1_player2": null,
               "team2_player1": "50105234",
@@ -4171,6 +4459,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "50111005",
               "team1_player2": null,
               "team2_player1": "30056915",
@@ -4184,6 +4473,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "50105234",
               "team1_player2": null,
               "team2_player1": "50111005",
@@ -4197,6 +4487,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "30056915",
               "team1_player2": null,
               "team2_player1": "50111005",
@@ -4210,6 +4501,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "50111005",
               "team1_player2": null,
               "team2_player1": "50105234",
@@ -4223,6 +4515,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "50105234",
               "team1_player2": null,
               "team2_player1": "30056915",
@@ -4239,12 +4532,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 4,
+          "gender": 3,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "50098885",
               "team1_player2": "50111007",
               "team2_player1": "30056903",
@@ -4258,6 +4552,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "50095082",
               "team1_player2": "50105167",
               "team2_player1": "30056903",
@@ -4271,6 +4566,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50099233",
               "team1_player2": "50106110",
               "team2_player1": "30056903",
@@ -4284,6 +4580,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "30056903",
               "team1_player2": "30056907",
               "team2_player1": "50098885",
@@ -4297,6 +4594,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50095082",
               "team1_player2": "50105167",
               "team2_player1": "50098885",
@@ -4310,6 +4608,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "50099233",
               "team1_player2": "50106110",
               "team2_player1": "50098885",
@@ -4323,6 +4622,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "30056903",
               "team1_player2": "30056907",
               "team2_player1": "50095082",
@@ -4336,6 +4636,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "50098885",
               "team1_player2": "50111007",
               "team2_player1": "50095082",
@@ -4349,6 +4650,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "30099230",
               "team1_player2": null,
               "team2_player1": "30049807",
@@ -4362,6 +4664,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "30074221",
               "team1_player2": null,
               "team2_player1": "30049807",
@@ -4375,6 +4678,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "50099233",
               "team1_player2": "50106110",
               "team2_player1": "50095082",
@@ -4388,6 +4692,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T08:00:00Z",
               "team1_player1": "30056903",
               "team1_player2": "30056907",
               "team2_player1": "50099233",
@@ -4401,6 +4706,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T12:30:00Z",
               "team1_player1": "50098885",
               "team1_player2": "50111007",
               "team2_player1": "50099233",
@@ -4414,6 +4720,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T10:30:00Z",
               "team1_player1": "50095082",
               "team1_player2": "50105167",
               "team2_player1": "50099233",
@@ -4427,6 +4734,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "30049807",
               "team1_player2": null,
               "team2_player1": "30099230",
@@ -4440,6 +4748,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "30074221",
               "team1_player2": null,
               "team2_player1": "30099230",
@@ -4453,6 +4762,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "30049807",
               "team1_player2": null,
               "team2_player1": "30074221",
@@ -4466,6 +4776,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "30099230",
               "team1_player2": null,
               "team2_player1": "30074221",
@@ -4482,12 +4793,13 @@
         },
         {
           "poule": "JD U15",
-          "gender": 4,
+          "gender": 3,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2014-04-26T15:00:00Z",
               "team1_player1": "30057190",
               "team1_player2": "30056912",
               "team2_player1": "30056248",
@@ -4501,6 +4813,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T14:30:00Z",
               "team1_player1": "50099233",
               "team1_player2": "50106110",
               "team2_player1": "30056248",
@@ -4514,6 +4827,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T15:30:00Z",
               "team1_player1": "30057190",
               "team1_player2": "30056912",
               "team2_player1": "50099233",
@@ -4527,6 +4841,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T14:30:00Z",
               "team1_player1": "30056248",
               "team1_player2": "30049807",
               "team2_player1": "50099233",
@@ -4540,6 +4855,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T15:00:00Z",
               "team1_player1": "30056248",
               "team1_player2": "30049807",
               "team2_player1": "30057190",
@@ -4553,6 +4869,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T15:30:00Z",
               "team1_player1": "50099233",
               "team1_player2": "50106110",
               "team2_player1": "30057190",
@@ -4569,7 +4886,7 @@
         },
         {
           "poule": "Groep A",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
@@ -4577,7 +4894,7 @@
         },
         {
           "poule": "Groep B",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
@@ -4585,7 +4902,7 @@
         },
         {
           "poule": "Groep C",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 3,
@@ -4593,12 +4910,13 @@
         },
         {
           "poule": "Groep D",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "50100065",
               "team1_player2": null,
               "team2_player1": "50099233",
@@ -4612,6 +4930,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "30056907",
               "team1_player2": null,
               "team2_player1": "50099233",
@@ -4625,6 +4944,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "30056248",
               "team1_player2": null,
               "team2_player1": "50099233",
@@ -4638,6 +4958,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "50099233",
               "team1_player2": null,
               "team2_player1": "50100065",
@@ -4651,6 +4972,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "30056907",
               "team1_player2": null,
               "team2_player1": "50100065",
@@ -4664,6 +4986,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "30056248",
               "team1_player2": null,
               "team2_player1": "50100065",
@@ -4677,6 +5000,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "50099233",
               "team1_player2": null,
               "team2_player1": "30056907",
@@ -4690,6 +5014,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "50100065",
               "team1_player2": null,
               "team2_player1": "30056907",
@@ -4703,6 +5028,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "30056248",
               "team1_player2": null,
               "team2_player1": "30056907",
@@ -4716,6 +5042,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "50099233",
               "team1_player2": null,
               "team2_player1": "30056248",
@@ -4729,6 +5056,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "50100065",
               "team1_player2": null,
               "team2_player1": "30056248",
@@ -4742,6 +5070,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "30056907",
               "team1_player2": null,
               "team2_player1": "30056248",
@@ -4758,12 +5087,13 @@
         },
         {
           "poule": "Groep E",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "30056903",
               "team1_player2": null,
               "team2_player1": "50106110",
@@ -4777,6 +5107,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T14:00:00Z",
               "team1_player1": "50100306",
               "team1_player2": null,
               "team2_player1": "50106110",
@@ -4790,6 +5121,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "50095082",
               "team1_player2": null,
               "team2_player1": "50106110",
@@ -4803,6 +5135,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "50106110",
               "team1_player2": null,
               "team2_player1": "30056903",
@@ -4816,6 +5149,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "50100306",
               "team1_player2": null,
               "team2_player1": "30056903",
@@ -4829,6 +5163,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T14:00:00Z",
               "team1_player1": "50095082",
               "team1_player2": null,
               "team2_player1": "30056903",
@@ -4842,6 +5177,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T14:00:00Z",
               "team1_player1": "50106110",
               "team1_player2": null,
               "team2_player1": "50100306",
@@ -4855,6 +5191,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "30056903",
               "team1_player2": null,
               "team2_player1": "50100306",
@@ -4868,6 +5205,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "50095082",
               "team1_player2": null,
               "team2_player1": "50100306",
@@ -4881,6 +5219,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "50106110",
               "team1_player2": null,
               "team2_player1": "50095082",
@@ -4894,6 +5233,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T14:00:00Z",
               "team1_player1": "30056903",
               "team1_player2": null,
               "team2_player1": "50095082",
@@ -4907,6 +5247,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "50100306",
               "team1_player2": null,
               "team2_player1": "50095082",
@@ -4923,12 +5264,13 @@
         },
         {
           "poule": "Groep F",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "50104448",
               "team1_player2": null,
               "team2_player1": "30057190",
@@ -4942,6 +5284,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T14:00:00Z",
               "team1_player1": "50105167",
               "team1_player2": null,
               "team2_player1": "30057190",
@@ -4955,6 +5298,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "30083934",
               "team1_player2": null,
               "team2_player1": "30057190",
@@ -4968,6 +5312,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "30057190",
               "team1_player2": null,
               "team2_player1": "50104448",
@@ -4981,6 +5326,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "50105167",
               "team1_player2": null,
               "team2_player1": "50104448",
@@ -4994,6 +5340,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T14:00:00Z",
               "team1_player1": "30083934",
               "team1_player2": null,
               "team2_player1": "50104448",
@@ -5007,6 +5354,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T14:00:00Z",
               "team1_player1": "30057190",
               "team1_player2": null,
               "team2_player1": "50105167",
@@ -5020,6 +5368,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "50104448",
               "team1_player2": null,
               "team2_player1": "50105167",
@@ -5033,6 +5382,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "30083934",
               "team1_player2": null,
               "team2_player1": "50105167",
@@ -5046,6 +5396,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:30:00Z",
               "team1_player1": "30057190",
               "team1_player2": null,
               "team2_player1": "30083934",
@@ -5059,6 +5410,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T14:00:00Z",
               "team1_player1": "50104448",
               "team1_player2": null,
               "team2_player1": "30083934",
@@ -5072,6 +5424,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T12:00:00Z",
               "team1_player1": "50105167",
               "team1_player2": null,
               "team2_player1": "30083934",
@@ -5088,13 +5441,14 @@
         },
         {
           "poule": "JE U15",
-          "gender": 4,
+          "gender": 3,
           "event_type": 1,
           "draw_type": 1,
           "size": 8,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2014-04-26T15:30:00Z",
               "team1_player1": "50099233",
               "team1_player2": null,
               "team2_player1": "30049807",
@@ -5109,6 +5463,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2014-04-26T15:00:00Z",
               "team1_player1": "30056912",
               "team1_player2": null,
               "team2_player1": "50099233",
@@ -5123,6 +5478,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2014-04-26T15:00:00Z",
               "team1_player1": "30049807",
               "team1_player2": null,
               "team2_player1": "50105234",
@@ -5137,6 +5493,7 @@
             },
             {
               "final": 3,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "30056912",
               "team1_player2": null,
               "team2_player1": null,
@@ -5151,6 +5508,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2014-04-26T14:30:00Z",
               "team1_player1": "50099233",
               "team1_player2": null,
               "team2_player1": "30057190",
@@ -5165,6 +5523,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2014-04-26T14:30:00Z",
               "team1_player1": "50106110",
               "team1_player2": null,
               "team2_player1": "30049807",
@@ -5179,6 +5538,7 @@
             },
             {
               "final": 3,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50105234",
@@ -5195,12 +5555,13 @@
         },
         {
           "poule": "ME U15",
-          "gender": 5,
+          "gender": 4,
           "event_type": 1,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "50112173",
               "team1_player2": null,
               "team2_player1": "50108020",
@@ -5214,6 +5575,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "50116139",
               "team1_player2": null,
               "team2_player1": "50108020",
@@ -5227,6 +5589,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "30083725",
               "team1_player2": null,
               "team2_player1": "50108020",
@@ -5240,6 +5603,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "50108020",
               "team1_player2": null,
               "team2_player1": "50112173",
@@ -5253,6 +5617,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "50116139",
               "team1_player2": null,
               "team2_player1": "50112173",
@@ -5266,6 +5631,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "30083725",
               "team1_player2": null,
               "team2_player1": "50112173",
@@ -5279,6 +5645,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "50108020",
               "team1_player2": null,
               "team2_player1": "50116139",
@@ -5292,6 +5659,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "50112173",
               "team1_player2": null,
               "team2_player1": "50116139",
@@ -5305,6 +5673,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "30083725",
               "team1_player2": null,
               "team2_player1": "50116139",
@@ -5318,6 +5687,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T09:00:00Z",
               "team1_player1": "50108020",
               "team1_player2": null,
               "team2_player1": "30083725",
@@ -5331,6 +5701,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2014-04-26T13:30:00Z",
               "team1_player1": "50112173",
               "team1_player2": null,
               "team2_player1": "30083725",
@@ -5344,6 +5715,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2014-04-26T11:30:00Z",
               "team1_player1": "50116139",
               "team1_player2": null,
               "team2_player1": "30083725",

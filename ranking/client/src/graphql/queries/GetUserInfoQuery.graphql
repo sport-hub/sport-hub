@@ -26,6 +26,9 @@ query GetUserInfoQuery($userId: ID!) {
         playedAt
         SubEvent {
           draw
+          Event {
+            name
+          }
         }
       }
     }

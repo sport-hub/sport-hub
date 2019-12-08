@@ -7,8 +7,6 @@ export function paginateResults({
 }) {
   if (pageSize < 1) return [];
   
-  console.log(`REsults`, results);
-
   if (!cursor) return results.slice(0, pageSize);
   const cursorIndex = results.findIndex(item => {
     // if an item has a `cursor` on it, use that, otherwise try to generate one

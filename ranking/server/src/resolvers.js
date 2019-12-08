@@ -1,11 +1,11 @@
-import moment from "moment";
+import moment from 'moment';
 
 module.exports = {
   Query: {
     players: async (_, { limit = 20, skip = 0, search }, { models }, info) => {
       let options = { limit, skip };
       if (search) {
-        var parts = search.split(" ");
+        var parts = search.split(' ');
         var queries = [];
         for (let part of parts) {
           queries.push({
@@ -66,7 +66,7 @@ module.exports = {
     },
     async ranking(parent, args, { models }, info) {
       const before = moment()
-        .subtract(53, "year")
+        .subtract(53, 'year')
         .toDate();
 
       var ranking = await Promise.all([
@@ -79,7 +79,7 @@ module.exports = {
               model: models.Game,
               where: {
                 [models.Sequelize.Op.and]: {
-                  type: "S",
+                  type: 'S',
                   playedAt: {
                     [models.Sequelize.Op.gte]: before
                   }
@@ -98,7 +98,7 @@ module.exports = {
               model: models.Game,
               where: {
                 [models.Sequelize.Op.and]: {
-                  type: "D",
+                  type: 'D',
                   playedAt: {
                     [models.Sequelize.Op.gte]: before
                   }
@@ -111,13 +111,13 @@ module.exports = {
           where: {
             PlayerId: parent.id
           },
-          order: ["points"],
+          order: ['points'],
           include: [
             {
               model: models.Game,
               where: {
                 [models.Sequelize.Op.and]: {
-                  type: "MX",
+                  type: 'MX',
                   playedAt: {
                     [models.Sequelize.Op.gte]: before
                   }
@@ -168,9 +168,21 @@ module.exports = {
 
   SubEvent: {
     draw(parent, args, { models }, info) {
-      return `${parent.Event.division}e ${parent.Event.league} ${readableType(parent.type)} - ${parent.poule}`;
+      switch (parent.Event.league) {
+        // Toernaments
+        case 'BASIC':
+        case 'TOP':
+          return `${parent.poule}`;
+        // Competition
+        case 'PROV':
+          return `${parent.Event.division}e ${
+            parent.Event.league
+          } ${readableType(parent.type)} - ${parent.poule}`;
+        default:
+          return 'Woops';
+      }
     }
-  }, 
+  },
   PlayerGame: {
     async partner(parent, args, { models }, info) {
       if (!parent.opponentPartner) return null;
@@ -247,32 +259,32 @@ export function setpartner(game, playerId) {
 
 function getRanking(points) {
   if (points > 120) {
-    return "C2";
+    return 'C2';
   }
 
   if (points > 350) {
-    return "C1";
+    return 'C1';
   }
   if (points > 600) {
-    return "B2";
+    return 'B2';
   }
 
   if (points > 1050) {
-    return "B1";
+    return 'B1';
   }
   if (points > 1500) {
-    return "A";
+    return 'A';
   }
-  return "D";
+  return 'D';
 }
 
 function readableType(type) {
   switch (type) {
-    case "G":
-      return "Gemengd";
-    case "H":
-      return "Heren";
-    case "D":
-      return "Dames";
+    case 'G':
+      return 'Gemengd';
+    case 'H':
+      return 'Heren';
+    case 'D':
+      return 'Dames';
   }
 }

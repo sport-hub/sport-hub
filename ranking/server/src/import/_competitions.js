@@ -62,7 +62,7 @@ export async function ImportCompetition(file) {
             poule: xmlDivision.DivisionName,
             type: prefix
           });
-          console.log(`Processing subEvent`, subEvent.name, subEvent.id);
+          console.debug(`Processing subEvent`, subEvent.name, subEvent.id);
 
           let games = [];
           xmlDivision.Fixture.forEach(ontmoeting => {

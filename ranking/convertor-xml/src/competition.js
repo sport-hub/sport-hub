@@ -7,7 +7,7 @@ import { create } from "xmlbuilder";
 const basePathFiles = join(__dirname, "competitions");
 
 export async function ImportCompetition(file) {
-  console.log("Importing", file);
+  console.info("Importing", file);
 
   var xmlData = GetXmlData(join(basePathFiles, file));
   var fixtures = GetCsvData(

@@ -2,7 +2,7 @@ import { GetValidXmlFiles, GetValidJsonFiles } from "./fileHandler";
 import { ImportCompetition } from "./_competitions";
 import { ImportToernament } from "./_tournaments";
 export async function ImportAll() {
-  await importCompetitionFiles();
+  // await importCompetitionFiles();
   await importTournamentFiles();
   console.info("Imported all");
 }

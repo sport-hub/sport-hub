@@ -8,13 +8,14 @@
       "subEvents": [
         {
           "poule": "HEC2",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 16,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2018-03-25T13:00:00Z",
               "team1_player1": "50084421",
               "team1_player2": null,
               "team2_player1": "30039039",
@@ -29,6 +30,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2018-03-25T12:15:00Z",
               "team1_player1": "50084421",
               "team1_player2": null,
               "team2_player1": "50079793",
@@ -43,6 +45,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2018-03-25T12:00:00Z",
               "team1_player1": "50104857",
               "team1_player2": null,
               "team2_player1": "30039039",
@@ -57,6 +60,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T15:15:00Z",
               "team1_player1": "50084421",
               "team1_player2": null,
               "team2_player1": "50077101",
@@ -71,6 +75,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T16:00:00Z",
               "team1_player1": "50679651",
               "team1_player2": null,
               "team2_player1": "50079793",
@@ -85,6 +90,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T16:15:00Z",
               "team1_player1": "50114177",
               "team1_player2": null,
               "team2_player1": "50104857",
@@ -99,6 +105,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T15:15:00Z",
               "team1_player1": "30038053",
               "team1_player2": null,
               "team2_player1": "30039039",
@@ -113,6 +120,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50084421",
               "team1_player2": null,
               "team2_player1": null,
@@ -127,6 +135,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50077101",
               "team1_player2": null,
               "team2_player1": null,
@@ -141,6 +150,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50679651",
               "team1_player2": null,
               "team2_player1": null,
@@ -155,6 +165,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T15:00:00Z",
               "team1_player1": "50079793",
               "team1_player2": null,
               "team2_player1": "50357298",
@@ -169,6 +180,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T15:00:00Z",
               "team1_player1": "50185896",
               "team1_player2": null,
               "team2_player1": "50114177",
@@ -183,6 +195,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50104857",
@@ -197,6 +210,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "30038053",
@@ -211,6 +225,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "30039039",
@@ -227,13 +242,14 @@
         },
         {
           "poule": "DEC2",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 1,
           "size": 16,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2018-03-25T13:00:00Z",
               "team1_player1": "50090076",
               "team1_player2": null,
               "team2_player1": "50504320",
@@ -248,6 +264,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2018-03-25T12:00:00Z",
               "team1_player1": "50093137",
               "team1_player2": null,
               "team2_player1": "50090076",
@@ -262,6 +279,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2018-03-25T12:15:00Z",
               "team1_player1": "50116585",
               "team1_player2": null,
               "team2_player1": "50504320",
@@ -276,6 +294,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T16:30:00Z",
               "team1_player1": "50093137",
               "team1_player2": null,
               "team2_player1": "50333224",
@@ -290,6 +309,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T17:15:00Z",
               "team1_player1": "50600915",
               "team1_player2": null,
               "team2_player1": "50090076",
@@ -304,6 +324,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T17:30:00Z",
               "team1_player1": "50402021",
               "team1_player2": null,
               "team2_player1": "50116585",
@@ -318,6 +339,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T16:30:00Z",
               "team1_player1": "50751271",
               "team1_player2": null,
               "team2_player1": "50504320",
@@ -332,6 +354,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50093137",
               "team1_player2": null,
               "team2_player1": null,
@@ -346,6 +369,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50333224",
               "team1_player2": null,
               "team2_player1": null,
@@ -360,6 +384,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50600915",
               "team1_player2": null,
               "team2_player1": null,
@@ -374,6 +399,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T16:15:00Z",
               "team1_player1": "50562789",
               "team1_player2": null,
               "team2_player1": "50090076",
@@ -388,6 +414,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T16:30:00Z",
               "team1_player1": "50402021",
               "team1_player2": null,
               "team2_player1": "50098678",
@@ -402,6 +429,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50116585",
@@ -416,6 +444,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50751271",
@@ -430,6 +459,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50504320",
@@ -446,12 +476,13 @@
         },
         {
           "poule": "GDC2",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2018-03-25T08:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50037915",
               "team2_player1": "50077985",
@@ -465,6 +496,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T08:45:00Z",
               "team1_player1": "50393758",
               "team1_player2": "50871048",
               "team2_player1": "50077985",
@@ -478,6 +510,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T09:45:00Z",
               "team1_player1": "50107640",
               "team1_player2": "50110458",
               "team2_player1": "50077985",
@@ -491,6 +524,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T10:30:00Z",
               "team1_player1": "50084021",
               "team1_player2": "50097886",
               "team2_player1": "50077985",
@@ -504,6 +538,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T08:00:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50098678",
               "team2_player1": "50448269",
@@ -517,6 +552,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T09:30:00Z",
               "team1_player1": "50393758",
               "team1_player2": "50871048",
               "team2_player1": "50448269",
@@ -530,6 +566,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T10:30:00Z",
               "team1_player1": "50107640",
               "team1_player2": "50110458",
               "team2_player1": "50448269",
@@ -543,6 +580,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T07:00:00Z",
               "team1_player1": "50084021",
               "team1_player2": "50097886",
               "team2_player1": "50448269",
@@ -556,6 +594,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T08:45:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50098678",
               "team2_player1": "50393758",
@@ -569,6 +608,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T09:30:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50037915",
               "team2_player1": "50393758",
@@ -582,6 +622,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T07:00:00Z",
               "team1_player1": "50107640",
               "team1_player2": "50110458",
               "team2_player1": "50393758",
@@ -595,6 +636,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T08:00:00Z",
               "team1_player1": "50084021",
               "team1_player2": "50097886",
               "team2_player1": "50393758",
@@ -608,6 +650,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T09:45:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50098678",
               "team2_player1": "50107640",
@@ -621,6 +664,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T10:30:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50037915",
               "team2_player1": "50107640",
@@ -634,6 +678,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T07:00:00Z",
               "team1_player1": "50393758",
               "team1_player2": "50871048",
               "team2_player1": "50107640",
@@ -647,6 +692,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T09:00:00Z",
               "team1_player1": "50084021",
               "team1_player2": "50097886",
               "team2_player1": "50107640",
@@ -660,6 +706,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T10:30:00Z",
               "team1_player1": "50077985",
               "team1_player2": "50098678",
               "team2_player1": "50084021",
@@ -673,6 +720,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T07:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50037915",
               "team2_player1": "50084021",
@@ -686,6 +734,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T08:00:00Z",
               "team1_player1": "50393758",
               "team1_player2": "50871048",
               "team2_player1": "50084021",
@@ -699,6 +748,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T09:00:00Z",
               "team1_player1": "50107640",
               "team1_player2": "50110458",
               "team2_player1": "50084021",
@@ -715,12 +765,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2018-03-24T13:30:00Z",
               "team1_player1": "50054770",
               "team1_player2": "50057341",
               "team2_player1": "50093137",
@@ -734,6 +785,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T14:15:00Z",
               "team1_player1": "50110917",
               "team1_player2": "50588737",
               "team2_player1": "50093137",
@@ -747,6 +799,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T13:30:00Z",
               "team1_player1": "50093137",
               "team1_player2": "50220950",
               "team2_player1": "50054770",
@@ -760,6 +813,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:45:00Z",
               "team1_player1": "50110917",
               "team1_player2": "50588737",
               "team2_player1": "50054770",
@@ -773,6 +827,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T14:15:00Z",
               "team1_player1": "50093137",
               "team1_player2": "50220950",
               "team2_player1": "50110917",
@@ -786,6 +841,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:45:00Z",
               "team1_player1": "50054770",
               "team1_player2": "50057341",
               "team2_player1": "50110917",
@@ -802,12 +858,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2018-03-24T13:30:00Z",
               "team1_player1": "50153242",
               "team1_player2": "50949659",
               "team2_player1": "50024912",
@@ -821,6 +878,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T14:15:00Z",
               "team1_player1": "50116585",
               "team1_player2": "50333224",
               "team2_player1": "50024912",
@@ -834,6 +892,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T12:45:00Z",
               "team1_player1": "50060407",
               "team1_player2": "50751271",
               "team2_player1": "50024912",
@@ -847,6 +906,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T13:30:00Z",
               "team1_player1": "50024912",
               "team1_player2": "50036168",
               "team2_player1": "50153242",
@@ -860,6 +920,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:45:00Z",
               "team1_player1": "50116585",
               "team1_player2": "50333224",
               "team2_player1": "50153242",
@@ -873,6 +934,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T14:15:00Z",
               "team1_player1": "50060407",
               "team1_player2": "50751271",
               "team2_player1": "50153242",
@@ -886,6 +948,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T14:15:00Z",
               "team1_player1": "50024912",
               "team1_player2": "50036168",
               "team2_player1": "50116585",
@@ -899,6 +962,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:45:00Z",
               "team1_player1": "50153242",
               "team1_player2": "50949659",
               "team2_player1": "50116585",
@@ -912,6 +976,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T13:30:00Z",
               "team1_player1": "50060407",
               "team1_player2": "50751271",
               "team2_player1": "50116585",
@@ -925,6 +990,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:45:00Z",
               "team1_player1": "50024912",
               "team1_player2": "50036168",
               "team2_player1": "50060407",
@@ -938,6 +1004,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T14:15:00Z",
               "team1_player1": "50153242",
               "team1_player2": "50949659",
               "team2_player1": "50060407",
@@ -951,6 +1018,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T13:30:00Z",
               "team1_player1": "50116585",
               "team1_player2": "50333224",
               "team2_player1": "50060407",
@@ -967,13 +1035,14 @@
         },
         {
           "poule": "DDC2",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2018-03-24T15:00:00Z",
               "team1_player1": "50093137",
               "team1_player2": "50220950",
               "team2_player1": "50024912",
@@ -990,12 +1059,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2018-03-24T09:15:00Z",
               "team1_player1": "50116365",
               "team1_player2": "50098329",
               "team2_player1": "50073678",
@@ -1009,6 +1079,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:15:00Z",
               "team1_player1": "50066396",
               "team1_player2": "50052407",
               "team2_player1": "50073678",
@@ -1022,6 +1093,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:15:00Z",
               "team1_player1": "50073678",
               "team1_player2": "50116300",
               "team2_player1": "50116365",
@@ -1035,6 +1107,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "50066396",
               "team1_player2": "50052407",
               "team2_player1": "50116365",
@@ -1048,6 +1121,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T10:15:00Z",
               "team1_player1": "50073678",
               "team1_player2": "50116300",
               "team2_player1": "50066396",
@@ -1061,6 +1135,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "50116365",
               "team1_player2": "50098329",
               "team2_player1": "50066396",
@@ -1077,12 +1152,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2018-03-24T09:15:00Z",
               "team1_player1": "50393758",
               "team1_player2": "50107640",
               "team2_player1": "50114177",
@@ -1096,6 +1172,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:15:00Z",
               "team1_player1": "50080512",
               "team1_player2": "50077101",
               "team2_player1": "50114177",
@@ -1109,6 +1186,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "50038572",
               "team1_player2": "50892177",
               "team2_player1": "50114177",
@@ -1122,6 +1200,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:15:00Z",
               "team1_player1": "50114177",
               "team1_player2": "30038053",
               "team2_player1": "50393758",
@@ -1135,6 +1214,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "50080512",
               "team1_player2": "50077101",
               "team2_player1": "50393758",
@@ -1148,6 +1228,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T10:30:00Z",
               "team1_player1": "50038572",
               "team1_player2": "50892177",
               "team2_player1": "50393758",
@@ -1161,6 +1242,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T10:15:00Z",
               "team1_player1": "50114177",
               "team1_player2": "30038053",
               "team2_player1": "50080512",
@@ -1174,6 +1256,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "50393758",
               "team1_player2": "50107640",
               "team2_player1": "50080512",
@@ -1187,6 +1270,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:30:00Z",
               "team1_player1": "50038572",
               "team1_player2": "50892177",
               "team2_player1": "50080512",
@@ -1200,6 +1284,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "50114177",
               "team1_player2": "30038053",
               "team2_player1": "50038572",
@@ -1213,6 +1298,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T10:30:00Z",
               "team1_player1": "50393758",
               "team1_player2": "50107640",
               "team2_player1": "50038572",
@@ -1226,6 +1312,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:30:00Z",
               "team1_player1": "50080512",
               "team1_player2": "50077101",
               "team2_player1": "50038572",
@@ -1242,13 +1329,14 @@
         },
         {
           "poule": "HDC2",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 1,
           "size": 4,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2018-03-24T12:00:00Z",
               "team1_player1": "50080512",
               "team1_player2": "50077101",
               "team2_player1": "50114177",
@@ -1263,6 +1351,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2018-03-24T11:15:00Z",
               "team1_player1": "50073678",
               "team1_player2": "50116300",
               "team2_player1": "50080512",
@@ -1277,6 +1366,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2018-03-24T11:15:00Z",
               "team1_player1": "50066396",
               "team1_player2": "50052407",
               "team2_player1": "50114177",
@@ -1301,13 +1391,14 @@
       "subEvents": [
         {
           "poule": "HEB2",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 8,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2018-03-25T13:15:00Z",
               "team1_player1": "50092197",
               "team1_player2": null,
               "team2_player1": "50029507",
@@ -1322,6 +1413,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2018-03-25T12:00:00Z",
               "team1_player1": "50603108",
               "team1_player2": null,
               "team2_player1": "50092197",
@@ -1336,6 +1428,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2018-03-25T12:15:00Z",
               "team1_player1": "50065268",
               "team1_player2": null,
               "team2_player1": "50029507",
@@ -1350,6 +1443,7 @@
             },
             {
               "final": 3,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50603108",
               "team1_player2": null,
               "team2_player1": null,
@@ -1364,6 +1458,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T16:45:00Z",
               "team1_player1": "50072512",
               "team1_player2": null,
               "team2_player1": "50092197",
@@ -1378,6 +1473,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T17:00:00Z",
               "team1_player1": "50070509",
               "team1_player2": null,
               "team2_player1": "50065268",
@@ -1392,6 +1488,7 @@
             },
             {
               "final": 3,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50029507",
@@ -1408,12 +1505,13 @@
         },
         {
           "poule": "HDB2",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 6,
           "matches": [
             {
+              "playedAt": "2018-03-24T09:30:00Z",
               "team1_player1": "30045419",
               "team1_player2": "50045869",
               "team2_player1": "50048378",
@@ -1427,6 +1525,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:30:00Z",
               "team1_player1": "50056741",
               "team1_player2": "50066229",
               "team2_player1": "50048378",
@@ -1440,6 +1539,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T11:15:00Z",
               "team1_player1": "50072364",
               "team1_player2": "50056727",
               "team2_player1": "50048378",
@@ -1453,6 +1553,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T12:00:00Z",
               "team1_player1": "50603108",
               "team1_player2": "50111095",
               "team2_player1": "50048378",
@@ -1466,6 +1567,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:30:00Z",
               "team1_player1": "50048378",
               "team1_player2": "50081668",
               "team2_player1": "30045419",
@@ -1479,6 +1581,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T11:15:00Z",
               "team1_player1": "50056741",
               "team1_player2": "50066229",
               "team2_player1": "30045419",
@@ -1492,6 +1595,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T12:00:00Z",
               "team1_player1": "50072364",
               "team1_player2": "50056727",
               "team2_player1": "30045419",
@@ -1505,6 +1609,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "50603108",
               "team1_player2": "50111095",
               "team2_player1": "30045419",
@@ -1518,6 +1623,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T10:30:00Z",
               "team1_player1": "50048378",
               "team1_player2": "50081668",
               "team2_player1": "50056741",
@@ -1531,6 +1637,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T11:15:00Z",
               "team1_player1": "30045419",
               "team1_player2": "50045869",
               "team2_player1": "50056741",
@@ -1544,6 +1651,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "50072364",
               "team1_player2": "50056727",
               "team2_player1": "50056741",
@@ -1557,6 +1665,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T09:30:00Z",
               "team1_player1": "50603108",
               "team1_player2": "50111095",
               "team2_player1": "50056741",
@@ -1570,6 +1679,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T11:15:00Z",
               "team1_player1": "50048378",
               "team1_player2": "50081668",
               "team2_player1": "50072364",
@@ -1583,6 +1693,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:00:00Z",
               "team1_player1": "30045419",
               "team1_player2": "50045869",
               "team2_player1": "50072364",
@@ -1596,6 +1707,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "50056741",
               "team1_player2": "50066229",
               "team2_player1": "50072364",
@@ -1609,6 +1721,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:30:00Z",
               "team1_player1": "50603108",
               "team1_player2": "50111095",
               "team2_player1": "50072364",
@@ -1622,6 +1735,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:00:00Z",
               "team1_player1": "50048378",
               "team1_player2": "50081668",
               "team2_player1": "50603108",
@@ -1635,6 +1749,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "30045419",
               "team1_player2": "50045869",
               "team2_player1": "50603108",
@@ -1648,6 +1763,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:30:00Z",
               "team1_player1": "50056741",
               "team1_player2": "50066229",
               "team2_player1": "50603108",
@@ -1661,6 +1777,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:30:00Z",
               "team1_player1": "50072364",
               "team1_player2": "50056727",
               "team2_player1": "50603108",
@@ -1674,6 +1791,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50069421",
               "team2_player1": "50048378",
@@ -1687,6 +1805,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:30:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50069421",
               "team2_player1": "30045419",
@@ -1700,6 +1819,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T12:00:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50069421",
               "team2_player1": "50056741",
@@ -1713,6 +1833,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T09:30:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50069421",
               "team2_player1": "50072364",
@@ -1726,6 +1847,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T11:15:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50069421",
               "team2_player1": "50603108",
@@ -1739,6 +1861,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "50048378",
               "team1_player2": "50081668",
               "team2_player1": "50024529",
@@ -1752,6 +1875,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T10:30:00Z",
               "team1_player1": "30045419",
               "team1_player2": "50045869",
               "team2_player1": "50024529",
@@ -1765,6 +1889,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:00:00Z",
               "team1_player1": "50056741",
               "team1_player2": "50066229",
               "team2_player1": "50024529",
@@ -1778,6 +1903,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:30:00Z",
               "team1_player1": "50072364",
               "team1_player2": "50056727",
               "team2_player1": "50024529",
@@ -1791,6 +1917,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T11:15:00Z",
               "team1_player1": "50603108",
               "team1_player2": "50111095",
               "team2_player1": "50024529",
@@ -1807,12 +1934,13 @@
         },
         {
           "poule": "DDB2",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2018-03-24T13:15:00Z",
               "team1_player1": "50090103",
               "team1_player2": "50115154",
               "team2_player1": "50096060",
@@ -1826,6 +1954,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T14:00:00Z",
               "team1_player1": "50088489",
               "team1_player2": "50072283",
               "team2_player1": "50096060",
@@ -1839,6 +1968,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T14:45:00Z",
               "team1_player1": "50082657",
               "team1_player2": "50576283",
               "team2_player1": "50096060",
@@ -1852,6 +1982,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T15:30:00Z",
               "team1_player1": "50092835",
               "team1_player2": "50108214",
               "team2_player1": "50096060",
@@ -1865,6 +1996,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T13:15:00Z",
               "team1_player1": "50096060",
               "team1_player2": "50050625",
               "team2_player1": "50090103",
@@ -1878,6 +2010,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T14:45:00Z",
               "team1_player1": "50088489",
               "team1_player2": "50072283",
               "team2_player1": "50090103",
@@ -1891,6 +2024,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T15:30:00Z",
               "team1_player1": "50082657",
               "team1_player2": "50576283",
               "team2_player1": "50090103",
@@ -1904,6 +2038,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:30:00Z",
               "team1_player1": "50092835",
               "team1_player2": "50108214",
               "team2_player1": "50090103",
@@ -1917,6 +2052,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T14:00:00Z",
               "team1_player1": "50096060",
               "team1_player2": "50050625",
               "team2_player1": "50088489",
@@ -1930,6 +2066,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T14:45:00Z",
               "team1_player1": "50090103",
               "team1_player2": "50115154",
               "team2_player1": "50088489",
@@ -1943,6 +2080,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T12:15:00Z",
               "team1_player1": "50082657",
               "team1_player2": "50576283",
               "team2_player1": "50088489",
@@ -1956,6 +2094,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T13:15:00Z",
               "team1_player1": "50092835",
               "team1_player2": "50108214",
               "team2_player1": "50088489",
@@ -1969,6 +2108,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T14:45:00Z",
               "team1_player1": "50096060",
               "team1_player2": "50050625",
               "team2_player1": "50082657",
@@ -1982,6 +2122,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T15:30:00Z",
               "team1_player1": "50090103",
               "team1_player2": "50115154",
               "team2_player1": "50082657",
@@ -1995,6 +2136,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T12:15:00Z",
               "team1_player1": "50088489",
               "team1_player2": "50072283",
               "team2_player1": "50082657",
@@ -2008,6 +2150,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T14:00:00Z",
               "team1_player1": "50092835",
               "team1_player2": "50108214",
               "team2_player1": "50082657",
@@ -2021,6 +2164,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T15:30:00Z",
               "team1_player1": "50096060",
               "team1_player2": "50050625",
               "team2_player1": "50092835",
@@ -2034,6 +2178,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:30:00Z",
               "team1_player1": "50090103",
               "team1_player2": "50115154",
               "team2_player1": "50092835",
@@ -2047,6 +2192,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T13:15:00Z",
               "team1_player1": "50088489",
               "team1_player2": "50072283",
               "team2_player1": "50092835",
@@ -2060,6 +2206,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T14:00:00Z",
               "team1_player1": "50082657",
               "team1_player2": "50576283",
               "team2_player1": "50092835",
@@ -2076,12 +2223,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2018-03-25T08:30:00Z",
               "team1_player1": "50092197",
               "team1_player2": "50082657",
               "team2_player1": "50037095",
@@ -2095,6 +2243,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T09:30:00Z",
               "team1_player1": "50011455",
               "team1_player2": "50065745",
               "team2_player1": "50037095",
@@ -2108,6 +2257,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T08:30:00Z",
               "team1_player1": "50037095",
               "team1_player2": "50576283",
               "team2_player1": "50092197",
@@ -2121,6 +2271,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T07:30:00Z",
               "team1_player1": "50011455",
               "team1_player2": "50065745",
               "team2_player1": "50092197",
@@ -2134,6 +2285,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T09:30:00Z",
               "team1_player1": "50037095",
               "team1_player2": "50576283",
               "team2_player1": "50011455",
@@ -2147,6 +2299,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T07:30:00Z",
               "team1_player1": "50092197",
               "team1_player2": "50082657",
               "team2_player1": "50011455",
@@ -2163,12 +2316,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2018-03-25T08:30:00Z",
               "team1_player1": "30051437",
               "team1_player2": "30043599",
               "team2_player1": "50060750",
@@ -2182,6 +2336,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T09:30:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50115154",
               "team2_player1": "50060750",
@@ -2195,6 +2350,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T07:30:00Z",
               "team1_player1": "50056166",
               "team1_player2": "50066876",
               "team2_player1": "50060750",
@@ -2208,6 +2364,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T08:30:00Z",
               "team1_player1": "50060750",
               "team1_player2": "50879766",
               "team2_player1": "30051437",
@@ -2221,6 +2378,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T07:30:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50115154",
               "team2_player1": "30051437",
@@ -2234,6 +2392,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T09:30:00Z",
               "team1_player1": "50056166",
               "team1_player2": "50066876",
               "team2_player1": "30051437",
@@ -2247,6 +2406,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T09:30:00Z",
               "team1_player1": "50060750",
               "team1_player2": "50879766",
               "team2_player1": "50103721",
@@ -2260,6 +2420,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T07:30:00Z",
               "team1_player1": "30051437",
               "team1_player2": "30043599",
               "team2_player1": "50103721",
@@ -2273,6 +2434,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T08:45:00Z",
               "team1_player1": "50056166",
               "team1_player2": "50066876",
               "team2_player1": "50103721",
@@ -2286,6 +2448,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T07:30:00Z",
               "team1_player1": "50060750",
               "team1_player2": "50879766",
               "team2_player1": "50056166",
@@ -2299,6 +2462,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T09:30:00Z",
               "team1_player1": "30051437",
               "team1_player2": "30043599",
               "team2_player1": "50056166",
@@ -2312,6 +2476,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T08:45:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50115154",
               "team2_player1": "50056166",
@@ -2328,13 +2493,14 @@
         },
         {
           "poule": "GDB2",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2018-03-25T10:15:00Z",
               "team1_player1": "50092197",
               "team1_player2": "50082657",
               "team2_player1": "30051437",
@@ -2373,13 +2539,14 @@
       "subEvents": [
         {
           "poule": "HEB1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 8,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2018-03-25T12:30:00Z",
               "team1_player1": "50103721",
               "team1_player2": null,
               "team2_player1": "30051437",
@@ -2394,6 +2561,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2018-03-25T10:30:00Z",
               "team1_player1": "50103721",
               "team1_player2": null,
               "team2_player1": "50045869",
@@ -2408,6 +2576,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2018-03-25T11:15:00Z",
               "team1_player1": "807115",
               "team1_player2": null,
               "team2_player1": "30051437",
@@ -2422,6 +2591,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T15:45:00Z",
               "team1_player1": "50103721",
               "team1_player2": null,
               "team2_player1": "151176",
@@ -2436,6 +2606,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T15:45:00Z",
               "team1_player1": "816047",
               "team1_player2": null,
               "team2_player1": "50045869",
@@ -2450,6 +2621,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T16:30:00Z",
               "team1_player1": "50091400",
               "team1_player2": null,
               "team2_player1": "807115",
@@ -2464,6 +2636,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T16:45:00Z",
               "team1_player1": "30051437",
               "team1_player2": null,
               "team2_player1": "50060750",
@@ -2480,12 +2653,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "50065268",
               "team1_player2": "50091400",
               "team2_player1": "50103721",
@@ -2499,6 +2673,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:00:00Z",
               "team1_player1": "50092197",
               "team1_player2": "50094774",
               "team2_player1": "50103721",
@@ -2512,6 +2687,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:45:00Z",
               "team1_player1": "50072050",
               "team1_player2": "816047",
               "team2_player1": "50103721",
@@ -2525,6 +2701,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T11:30:00Z",
               "team1_player1": "50084421",
               "team1_player2": "50060750",
               "team2_player1": "50103721",
@@ -2538,6 +2715,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50057100",
               "team2_player1": "50065268",
@@ -2551,6 +2729,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T10:45:00Z",
               "team1_player1": "50092197",
               "team1_player2": "50094774",
               "team2_player1": "50065268",
@@ -2564,6 +2743,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T11:30:00Z",
               "team1_player1": "50072050",
               "team1_player2": "816047",
               "team2_player1": "50065268",
@@ -2577,6 +2757,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "50084421",
               "team1_player2": "50060750",
               "team2_player1": "50065268",
@@ -2590,6 +2771,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:00:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50057100",
               "team2_player1": "50092197",
@@ -2603,6 +2785,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T10:45:00Z",
               "team1_player1": "50065268",
               "team1_player2": "50091400",
               "team2_player1": "50092197",
@@ -2616,6 +2799,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "50072050",
               "team1_player2": "816047",
               "team2_player1": "50092197",
@@ -2629,6 +2813,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "50084421",
               "team1_player2": "50060750",
               "team2_player1": "50092197",
@@ -2642,6 +2827,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:45:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50057100",
               "team2_player1": "50072050",
@@ -2655,6 +2841,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T11:30:00Z",
               "team1_player1": "50065268",
               "team1_player2": "50091400",
               "team2_player1": "50072050",
@@ -2668,6 +2855,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "50092197",
               "team1_player2": "50094774",
               "team2_player1": "50072050",
@@ -2681,6 +2869,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T10:00:00Z",
               "team1_player1": "50084421",
               "team1_player2": "50060750",
               "team2_player1": "50072050",
@@ -2694,6 +2883,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T11:30:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50057100",
               "team2_player1": "50084421",
@@ -2707,6 +2897,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "50065268",
               "team1_player2": "50091400",
               "team2_player1": "50084421",
@@ -2720,6 +2911,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "50092197",
               "team1_player2": "50094774",
               "team2_player1": "50084421",
@@ -2733,6 +2925,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T10:00:00Z",
               "team1_player1": "50072050",
               "team1_player2": "816047",
               "team2_player1": "50084421",
@@ -2749,12 +2942,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2018-03-24T09:15:00Z",
               "team1_player1": "151176",
               "team1_player2": "807115",
               "team2_player1": "50060991",
@@ -2768,6 +2962,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:15:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50072512",
               "team2_player1": "50060991",
@@ -2781,6 +2976,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T11:00:00Z",
               "team1_player1": "50082726",
               "team1_player2": "50054089",
               "team2_player1": "50060991",
@@ -2794,6 +2990,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T11:45:00Z",
               "team1_player1": "50093094",
               "team1_player2": "50099653",
               "team2_player1": "50060991",
@@ -2807,6 +3004,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:15:00Z",
               "team1_player1": "50060991",
               "team1_player2": "50091594",
               "team2_player1": "151176",
@@ -2820,6 +3018,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T11:00:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50072512",
               "team2_player1": "151176",
@@ -2833,6 +3032,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T11:45:00Z",
               "team1_player1": "50082726",
               "team1_player2": "50054089",
               "team2_player1": "151176",
@@ -2846,6 +3046,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "50093094",
               "team1_player2": "50099653",
               "team2_player1": "151176",
@@ -2859,6 +3060,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T10:15:00Z",
               "team1_player1": "50060991",
               "team1_player2": "50091594",
               "team2_player1": "50070509",
@@ -2872,6 +3074,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T11:00:00Z",
               "team1_player1": "151176",
               "team1_player2": "807115",
               "team2_player1": "50070509",
@@ -2885,6 +3088,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "50082726",
               "team1_player2": "50054089",
               "team2_player1": "50070509",
@@ -2898,6 +3102,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T09:15:00Z",
               "team1_player1": "50093094",
               "team1_player2": "50099653",
               "team2_player1": "50070509",
@@ -2911,6 +3116,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T11:00:00Z",
               "team1_player1": "50060991",
               "team1_player2": "50091594",
               "team2_player1": "50082726",
@@ -2924,6 +3130,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T11:45:00Z",
               "team1_player1": "151176",
               "team1_player2": "807115",
               "team2_player1": "50082726",
@@ -2937,6 +3144,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50072512",
               "team2_player1": "50082726",
@@ -2950,6 +3158,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:15:00Z",
               "team1_player1": "50093094",
               "team1_player2": "50099653",
               "team2_player1": "50082726",
@@ -2963,6 +3172,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T11:45:00Z",
               "team1_player1": "50060991",
               "team1_player2": "50091594",
               "team2_player1": "50093094",
@@ -2976,6 +3186,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:30:00Z",
               "team1_player1": "151176",
               "team1_player2": "807115",
               "team2_player1": "50093094",
@@ -2989,6 +3200,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:15:00Z",
               "team1_player1": "50070509",
               "team1_player2": "50072512",
               "team2_player1": "50093094",
@@ -3002,6 +3214,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:15:00Z",
               "team1_player1": "50082726",
               "team1_player2": "50054089",
               "team2_player1": "50093094",
@@ -3018,13 +3231,14 @@
         },
         {
           "poule": "HDB1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2018-03-24T12:30:00Z",
               "team1_player1": "50103721",
               "team1_player2": "50057100",
               "team2_player1": "50060991",
@@ -3049,13 +3263,14 @@
       "subEvents": [
         {
           "poule": "HEC1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 1,
           "size": 32,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2018-03-25T13:15:00Z",
               "team1_player1": "50084021",
               "team1_player2": null,
               "team2_player1": "50111255",
@@ -3070,6 +3285,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2018-03-25T12:30:00Z",
               "team1_player1": "50084021",
               "team1_player2": null,
               "team2_player1": "30040760",
@@ -3084,6 +3300,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2018-03-25T12:30:00Z",
               "team1_player1": "50077985",
               "team1_player2": null,
               "team2_player1": "50111255",
@@ -3098,6 +3315,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T15:15:00Z",
               "team1_player1": "50084021",
               "team1_player2": null,
               "team2_player1": "50054089",
@@ -3112,6 +3330,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T15:00:00Z",
               "team1_player1": "50068781",
               "team1_player2": null,
               "team2_player1": "30040760",
@@ -3126,6 +3345,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T15:30:00Z",
               "team1_player1": "50077985",
               "team1_player2": null,
               "team2_player1": "50080512",
@@ -3140,6 +3360,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T15:30:00Z",
               "team1_player1": "50111255",
               "team1_player2": null,
               "team2_player1": "30051239",
@@ -3154,6 +3375,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T13:30:00Z",
               "team1_player1": "50084021",
               "team1_player2": null,
               "team2_player1": "50211544",
@@ -3168,6 +3390,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T14:15:00Z",
               "team1_player1": "30045419",
               "team1_player2": null,
               "team2_player1": "50054089",
@@ -3182,6 +3405,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T13:45:00Z",
               "team1_player1": "50056727",
               "team1_player2": null,
               "team2_player1": "50068781",
@@ -3196,6 +3420,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T14:00:00Z",
               "team1_player1": "50093796",
               "team1_player2": null,
               "team2_player1": "30040760",
@@ -3210,6 +3435,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T14:30:00Z",
               "team1_player1": "50077985",
               "team1_player2": null,
               "team2_player1": "30042782",
@@ -3224,6 +3450,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T13:45:00Z",
               "team1_player1": "50069421",
               "team1_player2": null,
               "team2_player1": "50080512",
@@ -3238,6 +3465,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T14:00:00Z",
               "team1_player1": "50111255",
               "team1_player2": null,
               "team2_player1": "50024529",
@@ -3252,6 +3480,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T14:30:00Z",
               "team1_player1": "50035319",
               "team1_player2": null,
               "team2_player1": "30051239",
@@ -3266,6 +3495,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50084021",
               "team1_player2": null,
               "team2_player1": null,
@@ -3280,6 +3510,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50211544",
               "team1_player2": null,
               "team2_player1": null,
@@ -3294,6 +3525,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "30045419",
               "team1_player2": null,
               "team2_player1": null,
@@ -3308,6 +3540,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2018-03-24T13:15:00Z",
               "team1_player1": "50054089",
               "team1_player2": null,
               "team2_player1": "50056741",
@@ -3322,6 +3555,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50056727",
               "team1_player2": null,
               "team2_player1": null,
@@ -3336,6 +3570,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50068781",
               "team1_player2": null,
               "team2_player1": null,
@@ -3350,6 +3585,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50093796",
               "team1_player2": null,
               "team2_player1": null,
@@ -3364,6 +3600,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2018-03-24T13:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": null,
               "team2_player1": "30040760",
@@ -3378,6 +3615,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2018-03-24T13:15:00Z",
               "team1_player1": "50099653",
               "team1_player2": null,
               "team2_player1": "50077985",
@@ -3392,6 +3630,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "30042782",
@@ -3406,6 +3645,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2018-03-24T12:45:00Z",
               "team1_player1": "50069421",
               "team1_player2": null,
               "team2_player1": "50109394",
@@ -3420,6 +3660,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50080512",
@@ -3434,6 +3675,7 @@
             },
             {
               "final": 5,
+              "playedAt": "2018-03-24T13:00:00Z",
               "team1_player1": "50111255",
               "team1_player2": null,
               "team2_player1": "50513117",
@@ -3448,6 +3690,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50024529",
@@ -3462,6 +3705,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "50035319",
@@ -3476,6 +3720,7 @@
             },
             {
               "final": 5,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "30051239",
@@ -3492,13 +3737,14 @@
         },
         {
           "poule": "DEC1",
-          "gender": 2,
+          "gender": 1,
           "event_type": 1,
           "draw_type": 1,
           "size": 16,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2018-03-25T13:00:00Z",
               "team1_player1": "50097886",
               "team1_player2": null,
               "team2_player1": "50576283",
@@ -3513,6 +3759,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2018-03-25T12:15:00Z",
               "team1_player1": "50097886",
               "team1_player2": null,
               "team2_player1": "30038054",
@@ -3527,6 +3774,7 @@
             },
             {
               "final": 2,
+              "playedAt": "2018-03-25T12:00:00Z",
               "team1_player1": "50576283",
               "team1_player2": null,
               "team2_player1": "50053596",
@@ -3541,6 +3789,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T17:15:00Z",
               "team1_player1": "50097886",
               "team1_player2": null,
               "team2_player1": "50115154",
@@ -3555,6 +3804,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T17:15:00Z",
               "team1_player1": "30038054",
               "team1_player2": null,
               "team2_player1": "50879766",
@@ -3569,6 +3819,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T17:00:00Z",
               "team1_player1": "50576283",
               "team1_player2": null,
               "team2_player1": "861323",
@@ -3583,6 +3834,7 @@
             },
             {
               "final": 3,
+              "playedAt": "2018-03-24T17:00:00Z",
               "team1_player1": "50053596",
               "team1_player2": null,
               "team2_player1": "30043599",
@@ -3597,6 +3849,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "50097886",
               "team1_player2": null,
               "team2_player1": null,
@@ -3611,6 +3864,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T16:15:00Z",
               "team1_player1": "50714805",
               "team1_player2": null,
               "team2_player1": "50115154",
@@ -3625,6 +3879,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": "30038054",
               "team1_player2": null,
               "team2_player1": null,
@@ -3639,6 +3894,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T16:15:00Z",
               "team1_player1": "50879766",
               "team1_player2": null,
               "team2_player1": "50108214",
@@ -3653,6 +3909,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T16:00:00Z",
               "team1_player1": "50576283",
               "team1_player2": null,
               "team2_player1": "50097888",
@@ -3667,6 +3924,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T16:00:00Z",
               "team1_player1": "50098670",
               "team1_player2": null,
               "team2_player1": "861323",
@@ -3681,6 +3939,7 @@
             },
             {
               "final": 4,
+              "playedAt": "2018-03-24T16:00:00Z",
               "team1_player1": "50588737",
               "team1_player2": null,
               "team2_player1": "50053596",
@@ -3695,6 +3954,7 @@
             },
             {
               "final": 4,
+              "playedAt": "1899-12-29T23:00:00Z",
               "team1_player1": null,
               "team1_player2": null,
               "team2_player1": "30043599",
@@ -3711,12 +3971,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "50079793",
               "team1_player2": "50063885",
               "team2_player1": "50093796",
@@ -3730,6 +3991,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T09:45:00Z",
               "team1_player1": "50357298",
               "team1_player2": "50104857",
               "team2_player1": "50093796",
@@ -3743,6 +4005,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "50075317",
               "team1_player2": "50033589",
               "team2_player1": "50093796",
@@ -3756,6 +4019,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "50093796",
               "team1_player2": "50090603",
               "team2_player1": "50079793",
@@ -3769,6 +4033,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "50357298",
               "team1_player2": "50104857",
               "team2_player1": "50079793",
@@ -3782,6 +4047,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T09:45:00Z",
               "team1_player1": "50075317",
               "team1_player2": "50033589",
               "team2_player1": "50079793",
@@ -3795,6 +4061,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T09:45:00Z",
               "team1_player1": "50093796",
               "team1_player2": "50090603",
               "team2_player1": "50357298",
@@ -3808,6 +4075,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "50079793",
               "team1_player2": "50063885",
               "team2_player1": "50357298",
@@ -3821,6 +4089,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "50075317",
               "team1_player2": "50033589",
               "team2_player1": "50357298",
@@ -3834,6 +4103,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "50093796",
               "team1_player2": "50090603",
               "team2_player1": "50075317",
@@ -3847,6 +4117,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:45:00Z",
               "team1_player1": "50079793",
               "team1_player2": "50063885",
               "team2_player1": "50075317",
@@ -3860,6 +4131,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "50357298",
               "team1_player2": "50104857",
               "team2_player1": "50075317",
@@ -3876,12 +4148,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50077985",
               "team2_player1": "50068781",
@@ -3895,6 +4168,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:45:00Z",
               "team1_player1": "30042782",
               "team1_player2": "30040760",
               "team2_player1": "50068781",
@@ -3908,6 +4182,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "50709461",
               "team1_player2": "50111255",
               "team2_player1": "50068781",
@@ -3921,6 +4196,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "50068781",
               "team1_player2": "50109394",
               "team2_player1": "50091722",
@@ -3934,6 +4210,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "30042782",
               "team1_player2": "30040760",
               "team2_player1": "50091722",
@@ -3947,6 +4224,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T09:45:00Z",
               "team1_player1": "50709461",
               "team1_player2": "50111255",
               "team2_player1": "50091722",
@@ -3960,6 +4238,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T09:45:00Z",
               "team1_player1": "50068781",
               "team1_player2": "50109394",
               "team2_player1": "30042782",
@@ -3973,6 +4252,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50077985",
               "team2_player1": "30042782",
@@ -3986,6 +4266,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "50709461",
               "team1_player2": "50111255",
               "team2_player1": "30042782",
@@ -3999,6 +4280,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "50068781",
               "team1_player2": "50109394",
               "team2_player1": "50709461",
@@ -4012,6 +4294,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:45:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50077985",
               "team2_player1": "50709461",
@@ -4025,6 +4308,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "30042782",
               "team1_player2": "30040760",
               "team2_player1": "50709461",
@@ -4041,12 +4325,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "30039039",
               "team1_player2": "30051239",
               "team2_player1": "50101223",
@@ -4060,6 +4345,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50058244",
               "team2_player1": "50101223",
@@ -4073,6 +4359,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "50084021",
               "team1_player2": "50035319",
               "team2_player1": "50101223",
@@ -4086,6 +4373,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "50101223",
               "team1_player2": "50513117",
               "team2_player1": "30039039",
@@ -4099,6 +4387,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50058244",
               "team2_player1": "30039039",
@@ -4112,6 +4401,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T10:00:00Z",
               "team1_player1": "50084021",
               "team1_player2": "50035319",
               "team2_player1": "30039039",
@@ -4125,6 +4415,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:00:00Z",
               "team1_player1": "50101223",
               "team1_player2": "50513117",
               "team2_player1": "50448269",
@@ -4138,6 +4429,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "30039039",
               "team1_player2": "30051239",
               "team2_player1": "50448269",
@@ -4151,6 +4443,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "50084021",
               "team1_player2": "50035319",
               "team2_player1": "50448269",
@@ -4164,6 +4457,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T08:00:00Z",
               "team1_player1": "50101223",
               "team1_player2": "50513117",
               "team2_player1": "50084021",
@@ -4177,6 +4471,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:00:00Z",
               "team1_player1": "30039039",
               "team1_player2": "30051239",
               "team2_player1": "50084021",
@@ -4190,6 +4485,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T09:00:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50058244",
               "team2_player1": "50084021",
@@ -4206,12 +4502,13 @@
         },
         {
           "poule": "HDC1",
-          "gender": 1,
+          "gender": 0,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2018-03-24T11:30:00Z",
               "team1_player1": "50709461",
               "team1_player2": "50111255",
               "team2_player1": "50357298",
@@ -4225,6 +4522,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:15:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50058244",
               "team2_player1": "50357298",
@@ -4238,6 +4536,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T11:30:00Z",
               "team1_player1": "50357298",
               "team1_player2": "50104857",
               "team2_player1": "50709461",
@@ -4251,6 +4550,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:45:00Z",
               "team1_player1": "50448269",
               "team1_player2": "50058244",
               "team2_player1": "50709461",
@@ -4264,6 +4564,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T12:15:00Z",
               "team1_player1": "50357298",
               "team1_player2": "50104857",
               "team2_player1": "50448269",
@@ -4277,6 +4578,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T10:45:00Z",
               "team1_player1": "50709461",
               "team1_player2": "50111255",
               "team2_player1": "50448269",
@@ -4293,12 +4595,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2018-03-24T11:45:00Z",
               "team1_player1": "50600915",
               "team1_player2": "50504320",
               "team2_player1": "50097888",
@@ -4312,6 +4615,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T12:30:00Z",
               "team1_player1": "50111276",
               "team1_player2": "50064164",
               "team2_player1": "50097888",
@@ -4325,6 +4629,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T11:00:00Z",
               "team1_player1": "861323",
               "team1_player2": "50037915",
               "team2_player1": "50097888",
@@ -4338,6 +4643,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T11:45:00Z",
               "team1_player1": "50097888",
               "team1_player2": "50097886",
               "team2_player1": "50600915",
@@ -4351,6 +4657,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T10:45:00Z",
               "team1_player1": "50111276",
               "team1_player2": "50064164",
               "team2_player1": "50600915",
@@ -4364,6 +4671,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:30:00Z",
               "team1_player1": "861323",
               "team1_player2": "50037915",
               "team2_player1": "50600915",
@@ -4377,6 +4685,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:30:00Z",
               "team1_player1": "50097888",
               "team1_player2": "50097886",
               "team2_player1": "50111276",
@@ -4390,6 +4699,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T10:45:00Z",
               "team1_player1": "50600915",
               "team1_player2": "50504320",
               "team2_player1": "50111276",
@@ -4403,6 +4713,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T11:45:00Z",
               "team1_player1": "861323",
               "team1_player2": "50037915",
               "team2_player1": "50111276",
@@ -4416,6 +4727,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T11:00:00Z",
               "team1_player1": "50097888",
               "team1_player2": "50097886",
               "team2_player1": "861323",
@@ -4429,6 +4741,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:30:00Z",
               "team1_player1": "50600915",
               "team1_player2": "50504320",
               "team2_player1": "861323",
@@ -4442,6 +4755,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T11:45:00Z",
               "team1_player1": "50111276",
               "team1_player2": "50064164",
               "team2_player1": "861323",
@@ -4458,12 +4772,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2018-03-24T12:15:00Z",
               "team1_player1": "50090076",
               "team1_player2": "50062591",
               "team2_player1": "50053596",
@@ -4477,6 +4792,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T13:00:00Z",
               "team1_player1": "30043599",
               "team1_player2": "30038054",
               "team2_player1": "50053596",
@@ -4490,6 +4806,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T13:45:00Z",
               "team1_player1": "50098670",
               "team1_player2": "50098678",
               "team2_player1": "50053596",
@@ -4503,6 +4820,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:15:00Z",
               "team1_player1": "50053596",
               "team1_player2": "50879766",
               "team2_player1": "50090076",
@@ -4516,6 +4834,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T13:45:00Z",
               "team1_player1": "30043599",
               "team1_player2": "30038054",
               "team2_player1": "50090076",
@@ -4529,6 +4848,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T14:30:00Z",
               "team1_player1": "50098670",
               "team1_player2": "50098678",
               "team2_player1": "50090076",
@@ -4542,6 +4862,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T13:00:00Z",
               "team1_player1": "50053596",
               "team1_player2": "50879766",
               "team2_player1": "30043599",
@@ -4555,6 +4876,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T13:45:00Z",
               "team1_player1": "50090076",
               "team1_player2": "50062591",
               "team2_player1": "30043599",
@@ -4568,6 +4890,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T11:00:00Z",
               "team1_player1": "50098670",
               "team1_player2": "50098678",
               "team2_player1": "30043599",
@@ -4581,6 +4904,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T13:45:00Z",
               "team1_player1": "50053596",
               "team1_player2": "50879766",
               "team2_player1": "50098670",
@@ -4594,6 +4918,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T14:30:00Z",
               "team1_player1": "50090076",
               "team1_player2": "50062591",
               "team2_player1": "50098670",
@@ -4607,6 +4932,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T11:00:00Z",
               "team1_player1": "30043599",
               "team1_player2": "30038054",
               "team2_player1": "50098670",
@@ -4620,6 +4946,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T14:30:00Z",
               "team1_player1": "50714805",
               "team1_player2": "50402021",
               "team2_player1": "50053596",
@@ -4633,6 +4960,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T11:30:00Z",
               "team1_player1": "50714805",
               "team1_player2": "50402021",
               "team2_player1": "50090076",
@@ -4646,6 +4974,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T12:15:00Z",
               "team1_player1": "50714805",
               "team1_player2": "50402021",
               "team2_player1": "30043599",
@@ -4659,6 +4988,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T13:00:00Z",
               "team1_player1": "50714805",
               "team1_player2": "50402021",
               "team2_player1": "50098670",
@@ -4672,6 +5002,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T14:30:00Z",
               "team1_player1": "50053596",
               "team1_player2": "50879766",
               "team2_player1": "50714805",
@@ -4685,6 +5016,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T11:30:00Z",
               "team1_player1": "50090076",
               "team1_player2": "50062591",
               "team2_player1": "50714805",
@@ -4698,6 +5030,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T12:15:00Z",
               "team1_player1": "30043599",
               "team1_player2": "30038054",
               "team2_player1": "50714805",
@@ -4711,6 +5044,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T13:00:00Z",
               "team1_player1": "50098670",
               "team1_player2": "50098678",
               "team2_player1": "50714805",
@@ -4727,13 +5061,14 @@
         },
         {
           "poule": "DDC1",
-          "gender": 2,
+          "gender": 1,
           "event_type": 2,
           "draw_type": 1,
           "size": 2,
           "matches": [
             {
               "final": 1,
+              "playedAt": "2018-03-24T15:15:00Z",
               "team1_player1": "50097888",
               "team1_player2": "50097886",
               "team2_player1": "50090076",
@@ -4750,12 +5085,13 @@
         },
         {
           "poule": "Groep A",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2018-03-25T08:00:00Z",
               "team1_player1": "50054089",
               "team1_player2": "50108214",
               "team2_player1": "30040760",
@@ -4769,6 +5105,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T09:00:00Z",
               "team1_player1": "50044933",
               "team1_player2": "50079420",
               "team2_player1": "30040760",
@@ -4782,6 +5119,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T08:00:00Z",
               "team1_player1": "30040760",
               "team1_player2": "30038054",
               "team2_player1": "50054089",
@@ -4795,6 +5133,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T07:00:00Z",
               "team1_player1": "50044933",
               "team1_player2": "50079420",
               "team2_player1": "50054089",
@@ -4808,6 +5147,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T09:00:00Z",
               "team1_player1": "30040760",
               "team1_player2": "30038054",
               "team2_player1": "50044933",
@@ -4821,6 +5161,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T07:00:00Z",
               "team1_player1": "50054089",
               "team1_player2": "50108214",
               "team2_player1": "50044933",
@@ -4837,12 +5178,13 @@
         },
         {
           "poule": "Groep B",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2018-03-25T08:00:00Z",
               "team1_player1": "50017285",
               "team1_player2": "50062591",
               "team2_player1": "50091722",
@@ -4856,6 +5198,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T09:00:00Z",
               "team1_player1": "30045419",
               "team1_player2": "861323",
               "team2_player1": "50091722",
@@ -4869,6 +5212,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T07:00:00Z",
               "team1_player1": "50100350",
               "team1_player2": "50093328",
               "team2_player1": "50091722",
@@ -4882,6 +5226,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T08:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50098670",
               "team2_player1": "50017285",
@@ -4895,6 +5240,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T07:00:00Z",
               "team1_player1": "30045419",
               "team1_player2": "861323",
               "team2_player1": "50017285",
@@ -4908,6 +5254,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T09:15:00Z",
               "team1_player1": "50100350",
               "team1_player2": "50093328",
               "team2_player1": "50017285",
@@ -4921,6 +5268,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T09:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50098670",
               "team2_player1": "30045419",
@@ -4934,6 +5282,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T07:00:00Z",
               "team1_player1": "50017285",
               "team1_player2": "50062591",
               "team2_player1": "30045419",
@@ -4947,6 +5296,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T08:15:00Z",
               "team1_player1": "50100350",
               "team1_player2": "50093328",
               "team2_player1": "30045419",
@@ -4960,6 +5310,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T07:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50098670",
               "team2_player1": "50100350",
@@ -4973,6 +5324,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T09:15:00Z",
               "team1_player1": "50017285",
               "team1_player2": "50062591",
               "team2_player1": "50100350",
@@ -4986,6 +5338,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T08:15:00Z",
               "team1_player1": "30045419",
               "team1_player2": "861323",
               "team2_player1": "50100350",
@@ -5002,12 +5355,13 @@
         },
         {
           "poule": "Groep C",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 4,
           "matches": [
             {
+              "playedAt": "2018-03-25T08:15:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50036168",
               "team2_player1": "50084421",
@@ -5021,6 +5375,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T09:15:00Z",
               "team1_player1": "50036738",
               "team1_player2": "50090076",
               "team2_player1": "50084421",
@@ -5034,6 +5389,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T07:00:00Z",
               "team1_player1": "50048378",
               "team1_player2": "50504320",
               "team2_player1": "50084421",
@@ -5047,6 +5403,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T08:15:00Z",
               "team1_player1": "50084421",
               "team1_player2": "50714805",
               "team2_player1": "50024529",
@@ -5060,6 +5417,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T07:00:00Z",
               "team1_player1": "50036738",
               "team1_player2": "50090076",
               "team2_player1": "50024529",
@@ -5073,6 +5431,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T09:15:00Z",
               "team1_player1": "50048378",
               "team1_player2": "50504320",
               "team2_player1": "50024529",
@@ -5086,6 +5445,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T09:15:00Z",
               "team1_player1": "50084421",
               "team1_player2": "50714805",
               "team2_player1": "50036738",
@@ -5099,6 +5459,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T07:00:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50036168",
               "team2_player1": "50036738",
@@ -5112,6 +5473,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T08:15:00Z",
               "team1_player1": "50048378",
               "team1_player2": "50504320",
               "team2_player1": "50036738",
@@ -5125,6 +5487,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T07:00:00Z",
               "team1_player1": "50084421",
               "team1_player2": "50714805",
               "team2_player1": "50048378",
@@ -5138,6 +5501,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T09:15:00Z",
               "team1_player1": "50024529",
               "team1_player2": "50036168",
               "team2_player1": "50048378",
@@ -5151,6 +5515,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T08:15:00Z",
               "team1_player1": "50036738",
               "team1_player2": "50090076",
               "team2_player1": "50048378",
@@ -5167,12 +5532,13 @@
         },
         {
           "poule": "GDC1",
-          "gender": 3,
+          "gender": 2,
           "event_type": 2,
           "draw_type": 2,
           "size": 3,
           "matches": [
             {
+              "playedAt": "2018-03-25T10:45:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50098670",
               "team2_player1": "30040760",
@@ -5186,6 +5552,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T11:30:00Z",
               "team1_player1": "50084421",
               "team1_player2": "50714805",
               "team2_player1": "30040760",
@@ -5199,6 +5566,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T10:45:00Z",
               "team1_player1": "30040760",
               "team1_player2": "30038054",
               "team2_player1": "50091722",
@@ -5212,6 +5580,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T10:00:00Z",
               "team1_player1": "50084421",
               "team1_player2": "50714805",
               "team2_player1": "50091722",
@@ -5225,6 +5594,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T11:30:00Z",
               "team1_player1": "30040760",
               "team1_player2": "30038054",
               "team2_player1": "50084421",
@@ -5238,6 +5608,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T10:00:00Z",
               "team1_player1": "50091722",
               "team1_player2": "50098670",
               "team2_player1": "50084421",
@@ -5318,12 +5689,13 @@
       "subEvents": [
         {
           "poule": "HED",
-          "gender": 1,
+          "gender": 0,
           "event_type": 1,
           "draw_type": 2,
           "size": 5,
           "matches": [
             {
+              "playedAt": "2018-03-24T15:45:00Z",
               "team1_player1": "50892177",
               "team1_player2": null,
               "team2_player1": "50393758",
@@ -5337,6 +5709,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T16:45:00Z",
               "team1_player1": "50052407",
               "team1_player2": null,
               "team2_player1": "50393758",
@@ -5350,6 +5723,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T10:15:00Z",
               "team1_player1": "50392131",
               "team1_player2": null,
               "team2_player1": "50393758",
@@ -5363,6 +5737,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T11:45:00Z",
               "team1_player1": "50038572",
               "team1_player2": null,
               "team2_player1": "50393758",
@@ -5376,6 +5751,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T15:45:00Z",
               "team1_player1": "50393758",
               "team1_player2": null,
               "team2_player1": "50892177",
@@ -5389,6 +5765,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T10:15:00Z",
               "team1_player1": "50052407",
               "team1_player2": null,
               "team2_player1": "50892177",
@@ -5402,6 +5779,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-25T11:45:00Z",
               "team1_player1": "50392131",
               "team1_player2": null,
               "team2_player1": "50892177",
@@ -5415,6 +5793,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T14:45:00Z",
               "team1_player1": "50038572",
               "team1_player2": null,
               "team2_player1": "50892177",
@@ -5428,6 +5807,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T16:45:00Z",
               "team1_player1": "50393758",
               "team1_player2": null,
               "team2_player1": "50052407",
@@ -5441,6 +5821,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T10:15:00Z",
               "team1_player1": "50892177",
               "team1_player2": null,
               "team2_player1": "50052407",
@@ -5454,6 +5835,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T14:45:00Z",
               "team1_player1": "50392131",
               "team1_player2": null,
               "team2_player1": "50052407",
@@ -5467,6 +5849,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T15:45:00Z",
               "team1_player1": "50038572",
               "team1_player2": null,
               "team2_player1": "50052407",
@@ -5480,6 +5863,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T10:15:00Z",
               "team1_player1": "50393758",
               "team1_player2": null,
               "team2_player1": "50392131",
@@ -5493,6 +5877,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T11:45:00Z",
               "team1_player1": "50892177",
               "team1_player2": null,
               "team2_player1": "50392131",
@@ -5506,6 +5891,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T14:45:00Z",
               "team1_player1": "50052407",
               "team1_player2": null,
               "team2_player1": "50392131",
@@ -5519,6 +5905,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T16:45:00Z",
               "team1_player1": "50038572",
               "team1_player2": null,
               "team2_player1": "50392131",
@@ -5532,6 +5919,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-25T11:45:00Z",
               "team1_player1": "50393758",
               "team1_player2": null,
               "team2_player1": "50038572",
@@ -5545,6 +5933,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T14:45:00Z",
               "team1_player1": "50892177",
               "team1_player2": null,
               "team2_player1": "50038572",
@@ -5558,6 +5947,7 @@
               "winner": 2
             },
             {
+              "playedAt": "2018-03-24T15:45:00Z",
               "team1_player1": "50052407",
               "team1_player2": null,
               "team2_player1": "50038572",
@@ -5571,6 +5961,7 @@
               "winner": 1
             },
             {
+              "playedAt": "2018-03-24T16:45:00Z",
               "team1_player1": "50392131",
               "team1_player2": null,
               "team2_player1": "50038572",

@@ -34,10 +34,11 @@ export async function ImportToernament(file) {
         let dbSubEvent = await AddSubEvent({
           EventId: dbEvent.id,
           poule: subEvent.poule,
-          type: subEvent.gender
+          type: eventType[subEvent.gender]
         });
         let matches = subEvent.matches.map(match => {
           return {
+            playedAt: new Date(match.playedAt),
             type: gameType[match.gender],
             SubEventId: dbSubEvent.id,
             player1Team1Id: match.team1_player1,
@@ -50,8 +51,8 @@ export async function ImportToernament(file) {
             set2_team2: match.set2_team2,
             set3_team1: match.set3_team1,
             set3_team2: match.set3_team2
-          }
-        })
+          };
+        });
         await AddGames(matches);
       }
     }
@@ -66,4 +67,5 @@ export async function ImportToernament(file) {
   }
 }
 
-const gameType = ['S', 'D', 'MX']
+const gameType = ['S', 'D', 'MX'];
+const eventType = ['H', 'D', 'G'];
