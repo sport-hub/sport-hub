@@ -2,26 +2,40 @@ import ADODB from 'node-adodb';
 import { basename, join } from 'path';
 import { basePathTp } from './fileHandler';
 ADODB.debug = true;
-const { promises: fs } = require('fs');
+
+// import {writeFile, exists, mkdir} from 'fs';
+const { promises: fs, existsSync } = require('fs');
 
 export async function ImportToernament(file) {
   console.log('Importing', file);
   const connectionString = `Provider=Microsoft.Jet.OLEDB.4.0;Data Source='${join(
     basePathTp,
     file
-  )}';Jet OLEDB:Database Password=d4R2GY76w2qzZ;`;
+  )}';Jet OLEDB:Database Password=${process.env.ACCESS_DB};`;
   console.log('Connection string', connectionString);
 
   var connection = ADODB.open(connectionString);
 
   try {
     var dBTournament = await connection.query(
-      `select name, value from Settings where name = 'Tournament' or name ='TournamentNr'`
+      `select name, value from Settings where name='Tournament' or name='TournamentNr'`
+    );
+    var dBTournamentday = await connection.query(
+      `select tournamentday from TournamentDay`
     );
   } catch (e) {
     console.error('Something went wrong getting something from the db', e);
   }
-  var tournamentName = dBTournament.find(x => (x.name = 'Tournament')).value;
+  var tournamentName = dBTournament.find(x => x.name == 'Tournament').value;
+  var tournamentDay = new Date(dBTournamentday[0].tournamentday);
+  var tournamentNumber = parseInt(
+    dBTournament.find(x => x.name == 'TournamentNr').value
+  );
+
+  if (isNaN(tournamentNumber)) {
+    console.info(`${tournamentName} is not a valid tournament`);
+    return;
+  }
 
   try {
     var players = await getPlayers();
@@ -33,12 +47,24 @@ export async function ImportToernament(file) {
     console.error('Someting wrong', erro);
   }
 
-  const fileLocation = join(
+  const dir = join(
     __dirname,
-    '../server/src/import/tournaments/',
-    `${basename(file)}.json`
+    `../server/src/import/tournaments/${tournamentDay.getFullYear()}/`
   );
-  console.log(fileLocation);
+
+  try {
+    if (!existsSync(dir)) {
+      await fs.mkdir(dir, { recursive: true });
+    }
+  } catch (erro) {
+    console.error('Someting wrong', erro);
+  }
+
+  const fileLocation = join(
+    dir,
+    `${tournamentDay.getFullYear()} - ${tournamentNumber}.json`
+  );
+
   await fs.writeFile(fileLocation, JSON.stringify(db, null, 2));
 
   async function getPlayers() {
@@ -169,12 +195,12 @@ export async function ImportToernament(file) {
         team2_player2: getMemberId(
           dbOponentEntry ? dbOponentEntry.player2 : null
         ),
-        set1_team1: match.team1set1 == 0 ? null: match.team1set1,
-        set1_team2: match.team2set1 == 0 ? null: match.team2set1,
-        set2_team1: match.team1set2 == 0 ? null: match.team1set2,
-        set2_team2: match.team2set2 == 0 ? null: match.team2set2,
-        set3_team1: match.team1set3 == 0 ? null: match.team1set3,
-        set3_team2: match.team2set3 == 0 ? null: match.team2set3,
+        set1_team1: match.team1set1 == 0 ? null : match.team1set1,
+        set1_team2: match.team2set1 == 0 ? null : match.team2set1,
+        set2_team1: match.team1set2 == 0 ? null : match.team1set2,
+        set2_team2: match.team2set2 == 0 ? null : match.team2set2,
+        set3_team1: match.team1set3 == 0 ? null : match.team1set3,
+        set3_team2: match.team2set3 == 0 ? null : match.team2set3,
         winner: match.winner
       });
 

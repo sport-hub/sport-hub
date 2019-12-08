@@ -1,11 +1,11 @@
-import { ListItemAvatar, makeStyles } from "@material-ui/core";
-import Avatar from "@material-ui/core/Avatar";
-import List from "@material-ui/core/List";
-import ListItem from "@material-ui/core/ListItem";
-import React from "react";
-import { Link } from "react-router-dom";
-import UserGamesStyle from "./UserGamesStyle";
-import Moment from "react-moment";
+import { ListItemAvatar, makeStyles } from '@material-ui/core';
+import Avatar from '@material-ui/core/Avatar';
+import List from '@material-ui/core/List';
+import ListItem from '@material-ui/core/ListItem';
+import React from 'react';
+import { Link } from 'react-router-dom';
+import UserGamesStyle from './UserGamesStyle';
+import Moment from 'react-moment';
 
 const useStyles = makeStyles(UserGamesStyle);
 
@@ -17,7 +17,7 @@ export function UserGames(props) {
     if (partner) {
       p = (
         <span>
-          {" / "}
+          {' / '}
           <Link to={`/user/${partner.id}`}>{partner.fullName}</Link>
         </span>
       );
@@ -91,13 +91,18 @@ export function UserGames(props) {
     );
   }
 
-  
-  var results = props.games && props.games.length > 0 ? props.games.result
-    .sort(x => x.playedAt)
-    .reduce(function(acc, item) {
-      (acc[item.playedAt] = acc[item.playedAt] || []).push(item);
-      return acc;
-    }, {}): [];
+  var results =
+    props.games && props.games.result && props.games.result.length > 0
+      ? props.games.result
+          .sort(x => x.playedAt)
+          .reduce(function(acc, item) {
+            (acc[item.playedAt] = acc[item.playedAt] || []).push(item);
+            return acc;
+          }, {})
+      : [];
+
+  console.log(props.games, results);
+
 
   const entries = Object.entries(results).map(([key, result]) => {
     return (
@@ -105,7 +110,9 @@ export function UserGames(props) {
         <ListItem component="div" className={classes.listItem}>
           <div className={classes.draw}>
             <div className={classes.drawName}>{result[0].SubEvent.draw}</div>
-            <div className={classes.drawDate}><Moment fromNow>{key}</Moment></div>
+            <div className={classes.drawDate}>
+              <Moment fromNow>{key}</Moment>
+            </div>
           </div>
           {result.map((game, key2) => (
             <div className={classes.result} key={key2}>
@@ -113,7 +120,7 @@ export function UserGames(props) {
                 <Avatar
                   className={game.won ? classes.avatarWon : classes.avatarLost}
                 >
-                  {game.won ? "W" : "L"}
+                  {game.won ? 'W' : 'L'}
                 </Avatar>
               </ListItemAvatar>
 

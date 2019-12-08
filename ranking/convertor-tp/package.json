@@ -20,6 +20,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "dotenv": "^8.2.0",
     "nock": "^11.4.0",
     "node-fetch": "^2.6.0",
     "typescript": "3.6.3"
