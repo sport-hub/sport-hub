@@ -1,0 +1,12 @@
+{
+  "packages": [
+    "ranking/*",
+    "sport-hub/*"
+  ],
+  "command": {
+    "bootstrap": {
+      "ignore": "ranking-convertor-*"
+    }
+  },
+  "version": "0.0.2"
+}

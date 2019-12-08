@@ -1,0 +1,77 @@
+﻿tournamentid;matchid;LeagueTypeID;LeagueTypeName;eventid;eventcode;eventname;drawid;drawcode;drawname;team1id;team1name;team2id;team2name;winner;plannedtime;plannedtime_original;locationid;locationname;team1matchpoints;team2matchpoints;team1matches;team2matches;team1sets;team2sets;team1points;team2points;HomeAwaySwapped;teamresult_enteredon;teamresult_user;submatchresult_enteredon;submatchresult_user;teammatchconfirmed_confirmedon;teammatchconfirmed_user;flag_MatchNotPlayedTeam1DidNotShow;flag_MatchNotPlayedTeam2DidNotShow;flag_PenaltyTeam1;flag_PenaltyTeam2;flag_PenaltyTeam1AllPoints;flag_PenaltyTeam2AllPoints;flag_PenaltyBothTeams
+261702;1559;1;Mixed;2;;Division 2;43;;Pool;;Hebad 2G;;Dijlevallei 1G;3;28-9-2019 10:00:00;28-9-2019 10:00:00;;Dijlevallei ;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1565;1;Mixed;2;;Division 2;43;;Pool;;Lokerse 1G;;Pluimplukkers 2G;1;28-9-2019 10:00:00;28-9-2019 10:00:00;;Dijlevallei ;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1571;1;Mixed;2;;Division 2;43;;Pool;;Verviers 1 MX;;Antwerp 1G;1;28-9-2019 10:00:00;28-9-2019 10:00:00;;Dijlevallei ;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1577;1;Mixed;2;;Division 2;43;;Pool;;Grace 1 MX;;W&L 2G;2;28-9-2019 10:00:00;28-9-2019 10:00:00;;Dijlevallei ;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1581;1;Mixed;2;;Division 2;43;;Pool;;Dijlevallei 1G;;W&L 2G;3;28-9-2019 14:00:00;28-9-2019 14:00:00;;Dijlevallei ;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1572;1;Mixed;2;;Division 2;43;;Pool;;Lokerse 1G;;Antwerp 1G;1;28-9-2019 14:00:00;28-9-2019 14:00:00;;Dijlevallei ;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1566;1;Mixed;2;;Division 2;43;;Pool;;Hebad 2G;;Pluimplukkers 2G;1;28-9-2019 14:00:00;28-9-2019 14:00:00;;Dijlevallei ;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1535;1;Mixed;2;;Division 2;43;;Pool;;Grace 1 MX;;Verviers 1 MX;2;28-9-2019 14:00:00;28-9-2019 14:00:00;;Dijlevallei ;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1677;1;Mixed;1;;Division 1;47;;Pool;;Olve 1G;;Pluimplukkers 1G;2;29-9-2019 10:00:00;29-9-2019 10:00:00;;OLVE;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1683;1;Mixed;1;;Division 1;47;;Pool;;W&L 1G;;Hebad 1G;1;29-9-2019 10:00:00;29-9-2019 10:00:00;;OLVE;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1689;1;Mixed;1;;Division 1;47;;Pool;;Oupeye 1 MX;;DZ99 1G;2;29-9-2019 10:00:00;29-9-2019 10:00:00;;OLVE;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1671;1;Mixed;1;;Division 1;47;;Pool;;Bad 79 1 MX;;Lebad 1G;2;29-9-2019 10:00:00;29-9-2019 10:00:00;;OLVE;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1693;1;Mixed;1;;Division 1;47;;Pool;;Lebad 1G;;DZ99 1G;2;29-9-2019 14:00:00;29-9-2019 14:00:00;;OLVE;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1684;1;Mixed;1;;Division 1;47;;Pool;;Olve 1G;;Hebad 1G;2;29-9-2019 14:00:00;29-9-2019 14:00:00;;OLVE;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1678;1;Mixed;1;;Division 1;47;;Pool;;Bad 79 1 MX;;Pluimplukkers 1G;1;29-9-2019 14:00:00;29-9-2019 14:00:00;;OLVE;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1647;1;Mixed;1;;Division 1;47;;Pool;;Oupeye 1 MX;;W&L 1G;2;29-9-2019 14:00:00;29-9-2019 14:00:00;;OLVE;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1654;1;Mixed;1;;Division 1;47;;Pool;;Oupeye 1 MX;;Olve 1G;1;6-10-2019 10:00:00;6-10-2019 10:00:00;;DZ 99;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1679;1;Mixed;1;;Division 1;47;;Pool;;Lebad 1G;;Pluimplukkers 1G;3;6-10-2019 10:00:00;6-10-2019 10:00:00;;DZ 99;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1685;1;Mixed;1;;Division 1;47;;Pool;;Bad 79 1 MX;;Hebad 1G;1;6-10-2019 10:00:00;6-10-2019 10:00:00;;DZ 99;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1690;1;Mixed;1;;Division 1;47;;Pool;;W&L 1G;;DZ99 1G;2;6-10-2019 10:00:00;6-10-2019 10:00:00;;DZ 99;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1686;1;Mixed;1;;Division 1;47;;Pool;;Lebad 1G;;Hebad 1G;1;6-10-2019 14:00:00;6-10-2019 14:00:00;;DZ 99;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1694;1;Mixed;1;;Division 1;47;;Pool;;Pluimplukkers 1G;;DZ99 1G;2;6-10-2019 14:00:00;6-10-2019 14:00:00;;DZ 99;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1655;1;Mixed;1;;Division 1;47;;Pool;;W&L 1G;;Olve 1G;1;6-10-2019 14:00:00;6-10-2019 14:00:00;;DZ 99;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1661;1;Mixed;1;;Division 1;47;;Pool;;Oupeye 1 MX;;Bad 79 1 MX;1;6-10-2019 14:00:00;6-10-2019 14:00:00;;DZ 99;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1578;1;Mixed;2;;Division 2;43;;Pool;;Verviers 1 MX;;W&L 2G;1;19-10-2019 10:00:00;19-10-2019 10:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1542;1;Mixed;2;;Division 2;43;;Pool;;Grace 1 MX;;Lokerse 1G;2;19-10-2019 10:00:00;19-10-2019 10:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1567;1;Mixed;2;;Division 2;43;;Pool;;Dijlevallei 1G;;Pluimplukkers 2G;2;19-10-2019 10:00:00;19-10-2019 10:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1573;1;Mixed;2;;Division 2;43;;Pool;;Hebad 2G;;Antwerp 1G;2;19-10-2019 10:00:00;19-10-2019 10:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1574;1;Mixed;2;;Division 2;43;;Pool;;Dijlevallei 1G;;Antwerp 1G;2;19-10-2019 14:00:00;19-10-2019 14:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1543;1;Mixed;2;;Division 2;43;;Pool;;Verviers 1 MX;;Lokerse 1G;2;19-10-2019 14:00:00;19-10-2019 14:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1549;1;Mixed;2;;Division 2;43;;Pool;;Grace 1 MX;;Hebad 2G;2;19-10-2019 14:00:00;19-10-2019 14:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1582;1;Mixed;2;;Division 2;43;;Pool;;Pluimplukkers 2G;;W&L 2G;1;19-10-2019 14:00:00;19-10-2019 14:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1662;1;Mixed;1;;Division 1;47;;Pool;;W&L 1G;;Bad 79 1 MX;2;20-10-2019 10:00:00;20-10-2019 10:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1687;1;Mixed;1;;Division 1;47;;Pool;;Pluimplukkers 1G;;Hebad 1G;1;20-10-2019 10:00:00;20-10-2019 10:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1691;1;Mixed;1;;Division 1;47;;Pool;;Olve 1G;;DZ99 1G;2;20-10-2019 10:00:00;20-10-2019 10:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1668;1;Mixed;1;;Division 1;47;;Pool;;Oupeye 1 MX;;Lebad 1G;3;20-10-2019 10:00:00;20-10-2019 10:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1669;1;Mixed;1;;Division 1;47;;Pool;;W&L 1G;;Lebad 1G;1;20-10-2019 14:00:00;20-10-2019 14:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1695;1;Mixed;1;;Division 1;47;;Pool;;Hebad 1G;;DZ99 1G;3;20-10-2019 14:00:00;20-10-2019 14:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1675;1;Mixed;1;;Division 1;47;;Pool;;Oupeye 1 MX;;Pluimplukkers 1G;1;20-10-2019 14:00:00;20-10-2019 14:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1663;1;Mixed;1;;Division 1;47;;Pool;;Olve 1G;;Bad 79 1 MX;2;20-10-2019 14:00:00;20-10-2019 14:00:00;;W&L;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1579;1;Mixed;2;;Division 2;43;;Pool;;Lokerse 1G;;W&L 2G;0;30-11-2019 10:00:00;30-11-2019 10:00:00;;Grace;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1550;1;Mixed;2;;Division 2;43;;Pool;;Verviers 1 MX;;Hebad 2G;0;30-11-2019 10:00:00;30-11-2019 10:00:00;;Grace;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1556;1;Mixed;2;;Division 2;43;;Pool;;Grace 1 MX;;Dijlevallei 1G;0;30-11-2019 10:00:00;30-11-2019 10:00:00;;Grace;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1575;1;Mixed;2;;Division 2;43;;Pool;;Pluimplukkers 2G;;Antwerp 1G;0;30-11-2019 10:00:00;30-11-2019 10:00:00;;Grace;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1557;1;Mixed;2;;Division 2;43;;Pool;;Verviers 1 MX;;Dijlevallei 1G;0;30-11-2019 14:00:00;30-11-2019 14:00:00;;Grace;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1563;1;Mixed;2;;Division 2;43;;Pool;;Grace 1 MX;;Pluimplukkers 2G;0;30-11-2019 14:00:00;30-11-2019 14:00:00;;Grace;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1551;1;Mixed;2;;Division 2;43;;Pool;;Lokerse 1G;;Hebad 2G;0;30-11-2019 14:00:00;30-11-2019 14:00:00;;Grace;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1583;1;Mixed;2;;Division 2;43;;Pool;;Antwerp 1G;;W&L 2G;0;30-11-2019 14:00:00;30-11-2019 14:00:00;;Grace;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1580;1;Mixed;2;;Division 2;43;;Pool;;Hebad 2G;;W&L 2G;0;7-12-2019 10:00:00;7-12-2019 10:00:00;;Pluimplukkers;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1564;1;Mixed;2;;Division 2;43;;Pool;;Verviers 1 MX;;Pluimplukkers 2G;0;7-12-2019 10:00:00;7-12-2019 10:00:00;;Pluimplukkers;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1558;1;Mixed;2;;Division 2;43;;Pool;;Lokerse 1G;;Dijlevallei 1G;0;7-12-2019 10:00:00;7-12-2019 10:00:00;;Pluimplukkers;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1570;1;Mixed;2;;Division 2;43;;Pool;;Grace 1 MX;;Antwerp 1G;0;7-12-2019 10:00:00;7-12-2019 10:00:00;;Pluimplukkers;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1676;1;Mixed;1;;Division 1;47;;Pool;;W&L 1G;;Pluimplukkers 1G;0;7-12-2019 14:00:00;7-12-2019 14:00:00;;Pluimplukkers;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1670;1;Mixed;1;;Division 1;47;;Pool;;Olve 1G;;Lebad 1G;0;7-12-2019 14:00:00;7-12-2019 14:00:00;;Pluimplukkers;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1682;1;Mixed;1;;Division 1;47;;Pool;;Oupeye 1 MX;;Hebad 1G;0;7-12-2019 14:00:00;7-12-2019 14:00:00;;Pluimplukkers;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1692;1;Mixed;1;;Division 1;47;;Pool;;Bad 79 1 MX;;DZ99 1G;0;7-12-2019 14:00:00;7-12-2019 14:00:00;;Pluimplukkers;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1588;1;Mixed;2;;Division 2;44;;Play Off;;;;Pool #3 or #4;0;8-2-2020 10:00:00;8-2-2020 10:00:00;;BAD 79;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1589;1;Mixed;2;;Division 2;44;;Play Off;;Pool #4 or #3;;;0;8-2-2020 10:00:00;8-2-2020 10:00:00;;BAD 79;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1700;1;Mixed;1;;Division 1;48;;Play Off;;;;Pool #3 or #4;0;8-2-2020 14:00:00;8-2-2020 14:00:00;;BAD 79;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1701;1;Mixed;1;;Division 1;48;;Play Off;;Pool #4 or #3;;;0;8-2-2020 14:00:00;8-2-2020 14:00:00;;BAD 79;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1607;1;Mixed;2;;Division 2;45;;Play Down;;;;;0;15-2-2020 10:00:00;15-2-2020 10:00:00;;Erpe-Mere;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1609;1;Mixed;2;;Division 2;45;;Play Down;;;;;0;15-2-2020 10:00:00;15-2-2020 10:00:00;;Erpe-Mere;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1611;1;Mixed;2;;Division 2;45;;Play Down;;;;;0;15-2-2020 14:00:00;15-2-2020 14:00:00;;Erpe-Mere;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1603;1;Mixed;2;;Division 2;45;;Play Down;;;;;0;15-2-2020 14:00:00;15-2-2020 14:00:00;;Erpe-Mere;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1719;1;Mixed;1;;Division 1;49;;Play Down;;;;;0;16-2-2020 10:00:00;16-2-2020 10:00:00;;Erpe-Mere;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1721;1;Mixed;1;;Division 1;49;;Play Down;;;;;0;16-2-2020 10:00:00;16-2-2020 10:00:00;;Erpe-Mere;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1723;1;Mixed;1;;Division 1;49;;Play Down;;;;;0;16-2-2020 14:00:00;16-2-2020 14:00:00;;Erpe-Mere;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1715;1;Mixed;1;;Division 1;49;;Play Down;;;;;0;16-2-2020 14:00:00;16-2-2020 14:00:00;;Erpe-Mere;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1610;1;Mixed;2;;Division 2;45;;Play Down;;;;;0;1-3-2020 10:00:00;1-3-2020 10:00:00;;LEBAD;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1606;1;Mixed;2;;Division 2;45;;Play Down;;;;;0;1-3-2020 10:00:00;1-3-2020 10:00:00;;LEBAD;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1718;1;Mixed;1;;Division 1;49;;Play Down;;;;;0;1-3-2020 14:00:00;1-3-2020 14:00:00;;LEBAD;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1722;1;Mixed;1;;Division 1;49;;Play Down;;;;;0;1-3-2020 14:00:00;1-3-2020 14:00:00;;LEBAD;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1584;1;Mixed;2;;Division 2;44;;Play Off;;;;;0;14-3-2020 10:00:00;14-3-2020 10:00:00;;Erpe-Mere;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1586;1;Mixed;2;;Division 2;44;;Play Off;;;;;0;14-3-2020 10:00:00;14-3-2020 10:00:00;;Erpe-Mere;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1696;1;Mixed;1;;Division 1;48;;Play Off;;;;;0;14-3-2020 14:00:00;14-3-2020 14:00:00;;Erpe-Mere;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false
+261702;1698;1;Mixed;1;;Division 1;48;;Play Off;;;;;0;14-3-2020 14:00:00;14-3-2020 14:00:00;;Erpe-Mere;0;0;0;0;0;0;0;0;False;;;;;;;false;false;false;false;false;false;false

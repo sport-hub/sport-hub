@@ -1,0 +1,35 @@
+{
+  "name": "ranking-convertor-xml",
+  "version": "0.0.2",
+  "private": true,
+  "dependencies": {
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.7.2",
+    "@babel/node": "^7.7.0",
+    "@babel/preset-env": "^7.7.1",
+    "fast-xml-parser": "^3.14.0",
+    "nodemon": "^1.19.4",
+    "papaparse": "^5.1.0",
+    "xmlbuilder": "^13.0.2"
+  },
+  "scripts": {
+    "start": "nodemon --exec babel-node src/import.js"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "nock": "^11.7.0",
+    "node-fetch": "^2.6.0",
+    "typescript": "3.7.2"
+  },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      "/__utils"
+    ]
+  }
+}

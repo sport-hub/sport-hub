@@ -1,0 +1,14 @@
+fragment PlayersInfo on PlayerGame {
+  partner {
+    id
+    fullName
+  }
+  opponent {
+    id
+    fullName
+  }
+  opponentPartner {
+    id
+    fullName
+  }
+}

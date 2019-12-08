@@ -1,0 +1,9 @@
+query GetPlayers($search: String, $limit: Int, $skip: Int) {
+  players(search: $search, limit: $limit, skip: $skip) {
+    count
+    result {
+      id
+      fullName
+    }
+  }
+}

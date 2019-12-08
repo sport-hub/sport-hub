@@ -1,0 +1,79 @@
+version: '3.7'
+services:
+  db:
+    container_name: db
+    ports:
+      - '3306:3306'
+    image: mysql:5.7
+    # restart: always
+    environment:
+      - MYSQL_USER=${MYSQL_USER}
+      - MYSQL_PASSWORD=${MYSQL_PASSWORD}
+      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+      - MYSQL_DATABASE=${MYSQL_DATABASE}
+      - MYSQL_ROOT_HOST=${MYSQL_ROOT_HOST}
+
+    volumes:
+      - db:/var/lib/mysql
+
+  server:
+    container_name: server
+
+    ports:
+      - ${SERVER_PORT}:${SERVER_PORT}
+      
+    depends_on:
+      - db
+
+    build:
+      context: server
+      dockerfile: Dockerfile
+
+    environment:
+      - MYSQL_DATABASE=${MYSQL_DATABASE}
+      - MYSQL_USER=${MYSQL_USER}
+      - MYSQL_PASSWORD=${MYSQL_PASSWORD}
+      - SERVER_IP=${SERVER_IP}
+
+    expose:
+      - ${SERVER_PORT}
+
+    volumes:
+      - ./server:/app
+      - /app/node_modules
+
+    command: npm start
+
+    restart: on-failure
+    network_mode: "host"
+
+  client:
+    container_name: client
+
+    ports:
+      - ${CLIENT_PORT}:${CLIENT_PORT}
+
+    expose:
+      - ${CLIENT_PORT}
+
+    depends_on:
+      - server
+
+    build:
+      context: client
+      dockerfile: Dockerfile
+
+    environment:
+      - REACT_APP_SERVER_IP=${SERVER_IP}
+      - REACT_APP_SERVER_PORT=${SERVER_PORT}
+      - NODE_ENV=development
+      - CHOKIDAR_USEPOLLING=true
+
+    volumes:
+      - ./client:/app
+      - /app/node_modules
+
+    command: npm start
+
+volumes: #define our mysql volume used above
+  db:

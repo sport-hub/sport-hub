@@ -1,0 +1,45 @@
+{
+  "name": "ranking-convertor-tp",
+  "version": "0.0.2",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/node": "^7.6.3",
+    "@babel/preset-env": "^7.6.3",
+    "node-adodb": "^5.0.2",
+    "nodemon": "^1.19.3"
+  },
+  "scripts": {
+    "start": "nodemon --exec babel-node import.js",
+    "import": "node ./node_modules/@babel/node/bin/babel-node.js --presets @babel/preset-env import.js"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "nock": "^11.4.0",
+    "node-fetch": "^2.6.0",
+    "typescript": "3.6.3"
+  },
+  "babel": {
+    "presets": [
+      [
+        "@babel/preset-env",
+        {
+          "targets": {
+            "node": "current"
+          }
+        }
+      ]
+    ]
+  },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      "/__utils"
+    ]
+  }
+}
