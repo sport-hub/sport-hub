@@ -1,4 +1,12 @@
-const open = require('open');
+import open from 'open';
+
+function* range(start, end) {
+  yield start;
+  console.log(start, end);
+
+  if (start === end) return;
+  yield* range(start + 1, end);
+}
 
 var list = [
   'https://www.badmintonvlaanderen.be/sport/admin/tournamentfiles.aspx?id=68BF7920-F571-4C86-AAE0-F2FA40B13D9E',
@@ -1227,18 +1235,39 @@ var list = [
   'https://www.badmintonvlaanderen.be/sport/admin/tournamentfiles.aspx?id=C58D51E3-77AC-4E24-9E49-01CDF6FA86A1',
   'https://www.badmintonvlaanderen.be/sport/admin/tournamentfiles.aspx?id=3275AC56-AC44-4E0A-B0DF-EB85CC04D69B',
   'https://www.badmintonvlaanderen.be/sport/admin/tournamentfiles.aspx?id=D480B6A3-2634-4C0A-AFFB-AFB96456B262'
-];
+].slice();
 (async () => {
   // Opens the URL in the default browser.
-  var cp = await open("http://toernooi.nl", {app: 'darwin'});
-  
-  console.log("'cp' has been opened");
-  
-  setTimeout(function() {
-      console.log("attempting to kill 'cp'");
-  
-      cp.kill();
-      console.log("Kill was", cp.killed)
-  }, 4000);
+  let i = 0;
+
+  function openPage(item) {
+    console.log(item, list.length);
+    if (item < list.length) {
+      console.debug(`Opening ${list[item]}`);
+      open(list[item]);
+    }
+  }
+
+  function openSet(setSize = 10) {
+    console.log(`Opening ${setSize} links, offset: ${i}`);
+
+    for (let seti of range(i, i + setSize)) {
+      openPage(seti);
+    }
+
+    i += setSize;
+  }
+
+  function GetStuff() {
+    openSet();
+    setTimeout(_ => {
+      if (i < list.length) {
+        console.log('Still got some links', list.length);
+        GetStuff();
+      }
+    }, 10000);
+  }
+
+  GetStuff();
+
 })();
-  
