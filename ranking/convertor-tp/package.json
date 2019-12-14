@@ -7,9 +7,11 @@
     "@babel/node": "^7.6.3",
     "@babel/preset-env": "^7.6.3",
     "node-adodb": "^5.0.2",
-    "nodemon": "^1.19.3"
+    "nodemon": "^1.19.3",
+    "open": "^7.0.0"
   },
   "scripts": {
+    "download": "nodemon --exec babel-node downloadTP.js",
     "start": "nodemon --exec babel-node import.js",
     "import": "node ./node_modules/@babel/node/bin/babel-node.js --presets @babel/preset-env import.js"
   },
