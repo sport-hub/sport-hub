@@ -7,12 +7,10 @@ ADODB.debug = true;
 const { promises: fs, existsSync } = require('fs');
 
 export async function ImportToernament(file) {
-  console.info('Importing', file);
   const connectionString = `Provider=Microsoft.Jet.OLEDB.4.0;Data Source='${join(
     basePathTp,
     file
   )}';Jet OLEDB:Database Password=${process.env.ACCESS_DB};`;
-  console.log('Connection string', connectionString);
 
   var connection = ADODB.open(connectionString);
 
@@ -26,6 +24,8 @@ export async function ImportToernament(file) {
   } catch (e) {
     console.error('Something went wrong getting something from the db', e);
   }
+  console.log(dBTournament)
+
   var tournamentName = dBTournament.find(x => x.name == 'Tournament').value;
   var tournamentDay = new Date(dBTournamentday[0].tournamentday);
   var tournamentNumber = parseInt(

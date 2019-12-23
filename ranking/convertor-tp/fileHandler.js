@@ -12,5 +12,5 @@ export function getTPfiles(directory) {
 }
 
 export function GetValidTpFiles() {
-  return getTPfiles(basePathTp);
+  return getTPfiles(basePathTp).slice(0,1);
 }
