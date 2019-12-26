@@ -1,0 +1,713 @@
+{
+  "events": [
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "D",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "B2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "C1",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "C2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "D",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "B2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "C1",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "C2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "D",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "B2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "C1",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "C2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "B2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "C1",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "C2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "D",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "B2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "C1",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "C2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "D",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "B1",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "B1",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "B1",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "B1",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Nationaal Tornooi Tienen 5 & 6 maart 2016",
+      "division": "B1",
+      "league": "BASIC",
+      "subEvents": []
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "memberid": "50104295",
+      "firstname": "Elke",
+      "name": "Bogaert",
+      "gender": 2
+    },
+    {
+      "id": 2,
+      "memberid": "50105234",
+      "firstname": "Niels",
+      "name": "Diddens",
+      "gender": 1
+    },
+    {
+      "id": 3,
+      "memberid": "50046949",
+      "firstname": "Nico",
+      "name": "Peeters",
+      "gender": 1
+    },
+    {
+      "id": 4,
+      "memberid": "30033462",
+      "firstname": "Benoit",
+      "name": "Wiltgen",
+      "gender": 1
+    },
+    {
+      "id": 9,
+      "memberid": "50097886",
+      "firstname": "Sarah",
+      "name": "Reniers",
+      "gender": 2
+    },
+    {
+      "id": 10,
+      "memberid": "50054173",
+      "firstname": "Sander",
+      "name": "Tegethoff",
+      "gender": 1
+    },
+    {
+      "id": 11,
+      "memberid": "50104727",
+      "firstname": "Annelore",
+      "name": "Van Leuven",
+      "gender": 2
+    },
+    {
+      "id": 12,
+      "memberid": "50093094",
+      "firstname": "Steven",
+      "name": "Coeckelberghs",
+      "gender": 1
+    },
+    {
+      "id": 13,
+      "memberid": "50090603",
+      "firstname": "Laurens",
+      "name": "Kok",
+      "gender": 1
+    },
+    {
+      "id": 14,
+      "memberid": "50038816",
+      "firstname": "Marc",
+      "name": "Van Nieuwenhuyse",
+      "gender": 1
+    },
+    {
+      "id": 15,
+      "memberid": "50096566",
+      "firstname": "Sophie",
+      "name": "Verlinden",
+      "gender": 2
+    },
+    {
+      "id": 16,
+      "memberid": "50109212",
+      "firstname": "Kirsten",
+      "name": "Grossard",
+      "gender": 2
+    },
+    {
+      "id": 17,
+      "memberid": "50101365",
+      "firstname": "Amelie",
+      "name": "Moyens",
+      "gender": 2
+    },
+    {
+      "id": 18,
+      "memberid": "50078553",
+      "firstname": "Kenny",
+      "name": "Van Der Auwera",
+      "gender": 1
+    },
+    {
+      "id": 19,
+      "memberid": "50085383",
+      "firstname": "Wouter",
+      "name": "Vandekinderen",
+      "gender": 1
+    },
+    {
+      "id": 20,
+      "memberid": "50066746",
+      "firstname": "Ben",
+      "name": "Lauwens",
+      "gender": 1
+    },
+    {
+      "id": 21,
+      "memberid": "50082758",
+      "firstname": "Stef",
+      "name": "Mallaerts",
+      "gender": 1
+    },
+    {
+      "id": 22,
+      "memberid": "50093008",
+      "firstname": "Arno",
+      "name": "Torbeyns",
+      "gender": 1
+    },
+    {
+      "id": 23,
+      "memberid": "50093796",
+      "firstname": "Niels",
+      "name": "Blockhuys",
+      "gender": 1
+    },
+    {
+      "id": 24,
+      "memberid": "30071819",
+      "firstname": "Emilia",
+      "name": "Ferdinandusse",
+      "gender": 2
+    },
+    {
+      "id": 25,
+      "memberid": "50886789",
+      "firstname": "Maja",
+      "name": "Jonckers",
+      "gender": 2
+    },
+    {
+      "id": 26,
+      "memberid": "50109681",
+      "firstname": "Mick",
+      "name": "Kennes",
+      "gender": 1
+    },
+    {
+      "id": 27,
+      "memberid": "50111719",
+      "firstname": "Mathias",
+      "name": "Schoonheydt",
+      "gender": 1
+    },
+    {
+      "id": 28,
+      "memberid": "50090905",
+      "firstname": "Kyrlyn",
+      "name": "Van Hootegem",
+      "gender": 2
+    },
+    {
+      "id": 29,
+      "memberid": "50063814",
+      "firstname": "Emma",
+      "name": "Ver Elst",
+      "gender": 2
+    },
+    {
+      "id": 30,
+      "memberid": "50089296",
+      "firstname": "Kristof",
+      "name": "Cnops",
+      "gender": 1
+    },
+    {
+      "id": 31,
+      "memberid": "50086845",
+      "firstname": "Thomas",
+      "name": "Degrande",
+      "gender": 1
+    },
+    {
+      "id": 32,
+      "memberid": "50041393",
+      "firstname": "Peter",
+      "name": "Teuwen",
+      "gender": 1
+    },
+    {
+      "id": 33,
+      "memberid": "50086009",
+      "firstname": "Fendi",
+      "name": "De Souter",
+      "gender": 2
+    },
+    {
+      "id": 34,
+      "memberid": "30098218",
+      "firstname": "Andreas",
+      "name": "Kühlcke",
+      "gender": 1
+    },
+    {
+      "id": 35,
+      "memberid": "50077140",
+      "firstname": "Annes",
+      "name": "Claes",
+      "gender": 2
+    },
+    {
+      "id": 36,
+      "memberid": "30089745",
+      "firstname": "Ivan",
+      "name": "Grigorov",
+      "gender": 1
+    },
+    {
+      "id": 37,
+      "memberid": "50063649",
+      "firstname": "Lien",
+      "name": "Heymans",
+      "gender": 2
+    },
+    {
+      "id": 38,
+      "memberid": "50038505",
+      "firstname": "Pieter",
+      "name": "Maerevoet",
+      "gender": 1
+    },
+    {
+      "id": 39,
+      "memberid": "50089739",
+      "firstname": "Lotte",
+      "name": "Smets",
+      "gender": 2
+    },
+    {
+      "id": 40,
+      "memberid": "50090247",
+      "firstname": "Dries",
+      "name": "De Ruysscher",
+      "gender": 1
+    },
+    {
+      "id": 41,
+      "memberid": "50088826",
+      "firstname": "Christa",
+      "name": "Matthys",
+      "gender": 2
+    },
+    {
+      "id": 42,
+      "memberid": "50088829",
+      "firstname": "Tom",
+      "name": "Roelants",
+      "gender": 1
+    },
+    {
+      "id": 43,
+      "memberid": "50614991",
+      "firstname": "Emily",
+      "name": "Vyncke",
+      "gender": 2
+    },
+    {
+      "id": 44,
+      "memberid": "50095242",
+      "firstname": "Thomas",
+      "name": "Debaere",
+      "gender": 1
+    },
+    {
+      "id": 45,
+      "memberid": "50366599",
+      "firstname": "Daan",
+      "name": "Bauwens",
+      "gender": 1
+    },
+    {
+      "id": 46,
+      "memberid": "50086927",
+      "firstname": "Marit",
+      "name": "Putzeys",
+      "gender": 2
+    },
+    {
+      "id": 47,
+      "memberid": "30090091",
+      "firstname": "Laima",
+      "name": "Sadauskiene",
+      "gender": 2
+    },
+    {
+      "id": 48,
+      "memberid": "50087637",
+      "firstname": "Nelis",
+      "name": "De Kerpel",
+      "gender": 1
+    },
+    {
+      "id": 49,
+      "memberid": "50098114",
+      "firstname": "Thomas",
+      "name": "Felix",
+      "gender": 1
+    },
+    {
+      "id": 50,
+      "memberid": "50102069",
+      "firstname": "Katleen",
+      "name": "Martens",
+      "gender": 2
+    },
+    {
+      "id": 51,
+      "memberid": "50079397",
+      "firstname": "Emily",
+      "name": "Roelants",
+      "gender": 2
+    },
+    {
+      "id": 52,
+      "memberid": "50115529",
+      "firstname": "Bart",
+      "name": "Thumas",
+      "gender": 1
+    },
+    {
+      "id": 53,
+      "memberid": "50104685",
+      "firstname": "Julie",
+      "name": "Van Brussel",
+      "gender": 2
+    },
+    {
+      "id": 54,
+      "memberid": "50104687",
+      "firstname": "Lucas",
+      "name": "Van Snick",
+      "gender": 1
+    },
+    {
+      "id": 55,
+      "memberid": "30067022",
+      "firstname": "Sonia",
+      "name": "Hedencova",
+      "gender": 2
+    },
+    {
+      "id": 56,
+      "memberid": "50060296",
+      "firstname": "Mitch",
+      "name": "Cornelis",
+      "gender": 1
+    },
+    {
+      "id": 57,
+      "memberid": "50078456",
+      "firstname": "Peejay",
+      "name": "De Guzman",
+      "gender": 1
+    },
+    {
+      "id": 58,
+      "memberid": "50027610",
+      "firstname": "Armand",
+      "name": "De Kerpel",
+      "gender": 1
+    },
+    {
+      "id": 59,
+      "memberid": "50104714",
+      "firstname": "Arno",
+      "name": "Lenaerts",
+      "gender": 1
+    },
+    {
+      "id": 60,
+      "memberid": "50111033",
+      "firstname": "Karim",
+      "name": "Rega",
+      "gender": 1
+    },
+    {
+      "id": 61,
+      "memberid": "50080614",
+      "firstname": "Tomas",
+      "name": "Timmerman",
+      "gender": 1
+    },
+    {
+      "id": 62,
+      "memberid": "50062690",
+      "firstname": "Kim",
+      "name": "Van Espen",
+      "gender": 2
+    },
+    {
+      "id": 63,
+      "memberid": "50039093",
+      "firstname": "Glenn",
+      "name": "Wayenbergh",
+      "gender": 1
+    },
+    {
+      "id": 64,
+      "memberid": "50100089",
+      "firstname": "Jeroen",
+      "name": "Cocquyt",
+      "gender": 1
+    },
+    {
+      "id": 65,
+      "memberid": "50095886",
+      "firstname": "Diekje",
+      "name": "Lathouwers",
+      "gender": 2
+    },
+    {
+      "id": 66,
+      "memberid": "50106471",
+      "firstname": "Ewoud",
+      "name": "Michiels",
+      "gender": 1
+    },
+    {
+      "id": 67,
+      "memberid": "50085682",
+      "firstname": "Dries",
+      "name": "Wijnants",
+      "gender": 1
+    },
+    {
+      "id": 68,
+      "memberid": "50087549",
+      "firstname": "Johan",
+      "name": "Vandevelde",
+      "gender": 1
+    },
+    {
+      "id": 69,
+      "memberid": "50111083",
+      "firstname": "Pien",
+      "name": "Legrand",
+      "gender": 2
+    },
+    {
+      "id": 70,
+      "memberid": "50230468",
+      "firstname": "Dirk",
+      "name": "Vangrunderbeeck",
+      "gender": 1
+    },
+    {
+      "id": 71,
+      "memberid": "50093244",
+      "firstname": "Rutger",
+      "name": "Hendrickx",
+      "gender": 1
+    },
+    {
+      "id": 72,
+      "memberid": "50081095",
+      "firstname": "Bart",
+      "name": "Switsers",
+      "gender": 1
+    },
+    {
+      "id": 73,
+      "memberid": "50104249",
+      "firstname": "Esther",
+      "name": "Tubbax",
+      "gender": 2
+    },
+    {
+      "id": 74,
+      "memberid": "50094270",
+      "firstname": "Pieter",
+      "name": "Vandeuren",
+      "gender": 1
+    },
+    {
+      "id": 75,
+      "memberid": "50282409",
+      "firstname": "Cedric",
+      "name": "Derwa",
+      "gender": 1
+    },
+    {
+      "id": 76,
+      "memberid": "50315714",
+      "firstname": "Ward",
+      "name": "Jochmans",
+      "gender": 1
+    },
+    {
+      "id": 5,
+      "memberid": "50048091",
+      "firstname": "Roel",
+      "name": "Bergiers",
+      "gender": 1
+    },
+    {
+      "id": 6,
+      "memberid": "50094886",
+      "firstname": "Bart",
+      "name": "De Cupere",
+      "gender": 1
+    },
+    {
+      "id": 7,
+      "memberid": "30054839",
+      "firstname": "Tommi",
+      "name": "Friari",
+      "gender": 1
+    },
+    {
+      "id": 8,
+      "memberid": "50097888",
+      "firstname": "Anke",
+      "name": "Reniers",
+      "gender": 2
+    }
+  ]
+}

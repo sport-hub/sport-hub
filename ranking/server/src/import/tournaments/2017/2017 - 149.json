@@ -1,0 +1,251 @@
+{
+  "events": [
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "11 JE",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "13 JE",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "15 JE",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "17 JE",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "19 JE",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "11 ME",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "3 ME",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "5 ME",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "7 ME",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "9 ME",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "1 JD",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "3 JD",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "5 JD",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "17 JD",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "9 JD",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "1 MD",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "3 MD",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "5 MD",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "17 MD",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "9 MD",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "11 GD",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "3 GD",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "15 GD",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "17 GD",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Jeugdtornooi Royal Antwerp 2017",
+      "division": "9 GD",
+      "league": "BASIC",
+      "subEvents": []
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "memberid": "50105234",
+      "firstname": "Niels",
+      "name": "Diddens",
+      "gender": 1
+    },
+    {
+      "id": 2,
+      "memberid": "50814370",
+      "firstname": "Joshua",
+      "name": "Butaye",
+      "gender": 1
+    },
+    {
+      "id": 3,
+      "memberid": "50113168",
+      "firstname": "Jasper",
+      "name": "Celen",
+      "gender": 1
+    },
+    {
+      "id": 4,
+      "memberid": "50005758",
+      "firstname": "Alexandre",
+      "name": "Chun",
+      "gender": 1
+    },
+    {
+      "id": 5,
+      "memberid": "50158015",
+      "firstname": "Elise",
+      "name": "Claes",
+      "gender": 2
+    },
+    {
+      "id": 6,
+      "memberid": "50303244",
+      "firstname": "Lloyd",
+      "name": "Wan",
+      "gender": 1
+    },
+    {
+      "id": 7,
+      "memberid": "50107150",
+      "firstname": "Quinten",
+      "name": "Vermeir",
+      "gender": 1
+    },
+    {
+      "id": 8,
+      "memberid": "50423304",
+      "firstname": "Noah",
+      "name": "Claes",
+      "gender": 1
+    },
+    {
+      "id": 9,
+      "memberid": "50608878",
+      "firstname": "Femke",
+      "name": "Christien",
+      "gender": 2
+    },
+    {
+      "id": 10,
+      "memberid": "50994786",
+      "firstname": "Nouka",
+      "name": "Beynaerts",
+      "gender": 2
+    }
+  ]
+}

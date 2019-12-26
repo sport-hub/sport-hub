@@ -1,0 +1,755 @@
+{
+  "events": [
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V1",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V3",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V4",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V1",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V3",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V4",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -11",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -13",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -15",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -17",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -19",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V1",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V3",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V4",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V1",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V3",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V4",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V1",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V3",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " V4",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -11",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -13",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -15",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -17",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -19",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -11",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -13",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -15",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -17",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -19",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -9",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -11",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -13",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -15",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -17",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -19",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -11",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -13",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -15",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -17",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -19",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "Provinciale Kampioenschappen voor Jeugd en Senioren in Antwerpen",
+      "division": " -9",
+      "league": "BASIC",
+      "subEvents": []
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "memberid": "50319957",
+      "firstname": "Femke",
+      "name": "Broeckx",
+      "gender": 2
+    },
+    {
+      "id": 2,
+      "memberid": "50711563",
+      "firstname": "Matts",
+      "name": "Croes",
+      "gender": 1
+    },
+    {
+      "id": 3,
+      "memberid": "50721593",
+      "firstname": "Mattis",
+      "name": "De Backer",
+      "gender": 1
+    },
+    {
+      "id": 4,
+      "memberid": "50410199",
+      "firstname": "Michiel",
+      "name": "De Sitter",
+      "gender": 1
+    },
+    {
+      "id": 5,
+      "memberid": "50108199",
+      "firstname": "Robbe",
+      "name": "De Sitter",
+      "gender": 1
+    },
+    {
+      "id": 6,
+      "memberid": "50221051",
+      "firstname": "Jen",
+      "name": "Nuyts",
+      "gender": 1
+    },
+    {
+      "id": 7,
+      "memberid": "50374370",
+      "firstname": "Vincent",
+      "name": "Volders",
+      "gender": 1
+    },
+    {
+      "id": 8,
+      "memberid": "50492527",
+      "firstname": "Hanlin",
+      "name": "Lou",
+      "gender": 1
+    },
+    {
+      "id": 9,
+      "memberid": "50103580",
+      "firstname": "Samarth",
+      "name": "Shah",
+      "gender": 1
+    },
+    {
+      "id": 10,
+      "memberid": "50311085",
+      "firstname": "Kyan",
+      "name": "Vancamp",
+      "gender": 1
+    },
+    {
+      "id": 11,
+      "memberid": "50105856",
+      "firstname": "Merel",
+      "name": "Proost",
+      "gender": 2
+    },
+    {
+      "id": 12,
+      "memberid": "50111184",
+      "firstname": "Kaat",
+      "name": "Van Wouwe",
+      "gender": 2
+    },
+    {
+      "id": 13,
+      "memberid": "50105837",
+      "firstname": "Liam",
+      "name": "Herman",
+      "gender": 1
+    },
+    {
+      "id": 14,
+      "memberid": "50115427",
+      "firstname": "Sarah",
+      "name": "Rymenans",
+      "gender": 2
+    },
+    {
+      "id": 15,
+      "memberid": "50049201",
+      "firstname": "Roeland",
+      "name": "Adriaensen",
+      "gender": 1
+    },
+    {
+      "id": 16,
+      "memberid": "50050452",
+      "firstname": "Karin",
+      "name": "De Borger",
+      "gender": 2
+    },
+    {
+      "id": 17,
+      "memberid": "50069760",
+      "firstname": "Frank",
+      "name": "Graré",
+      "gender": 1
+    },
+    {
+      "id": 18,
+      "memberid": "50109977",
+      "firstname": "Laura",
+      "name": "Luijten",
+      "gender": 2
+    },
+    {
+      "id": 19,
+      "memberid": "50731599",
+      "firstname": "Thomas",
+      "name": "Luijten",
+      "gender": 1
+    },
+    {
+      "id": 20,
+      "memberid": "50038371",
+      "firstname": "Viviane",
+      "name": "Peeters",
+      "gender": 2
+    },
+    {
+      "id": 21,
+      "memberid": "50516035",
+      "firstname": "Maya",
+      "name": "Vancamp",
+      "gender": 2
+    },
+    {
+      "id": 22,
+      "memberid": "50605909",
+      "firstname": "Jelle",
+      "name": "Vandessel",
+      "gender": 1
+    },
+    {
+      "id": 23,
+      "memberid": "50116381",
+      "firstname": "Robbe",
+      "name": "Verbist",
+      "gender": 1
+    },
+    {
+      "id": 24,
+      "memberid": "50104239",
+      "firstname": "Eveline",
+      "name": "De Bock",
+      "gender": 2
+    },
+    {
+      "id": 25,
+      "memberid": "50050450",
+      "firstname": "Erik",
+      "name": "De Borger",
+      "gender": 1
+    },
+    {
+      "id": 26,
+      "memberid": "50873342",
+      "firstname": "Daan",
+      "name": "Hellemans",
+      "gender": 1
+    },
+    {
+      "id": 27,
+      "memberid": "50633627",
+      "firstname": "Mathis",
+      "name": "Lenaerts",
+      "gender": 1
+    },
+    {
+      "id": 28,
+      "memberid": "50097502",
+      "firstname": "Jonathan",
+      "name": "Pijl",
+      "gender": 1
+    },
+    {
+      "id": 29,
+      "memberid": "50821482",
+      "firstname": "Tom",
+      "name": "Van Reusel",
+      "gender": 1
+    },
+    {
+      "id": 30,
+      "memberid": "50935496",
+      "firstname": "Rune",
+      "name": "Verbist",
+      "gender": 1
+    },
+    {
+      "id": 31,
+      "memberid": "50660551",
+      "firstname": "Arnav",
+      "name": "Ahuja",
+      "gender": 1
+    },
+    {
+      "id": 32,
+      "memberid": "50095528",
+      "firstname": "Ine",
+      "name": "Van Wouwe",
+      "gender": 2
+    },
+    {
+      "id": 33,
+      "memberid": "50110306",
+      "firstname": "Joppe",
+      "name": "Begas",
+      "gender": 1
+    },
+    {
+      "id": 34,
+      "memberid": "50162616",
+      "firstname": "Brent",
+      "name": "Buts",
+      "gender": 1
+    },
+    {
+      "id": 35,
+      "memberid": "50012439",
+      "firstname": "Wim",
+      "name": "Schippers",
+      "gender": 1
+    },
+    {
+      "id": 36,
+      "memberid": "50116636",
+      "firstname": "Mats",
+      "name": "Born",
+      "gender": 1
+    },
+    {
+      "id": 37,
+      "memberid": "50110153",
+      "firstname": "Anne-Marie",
+      "name": "Braspenning",
+      "gender": 2
+    },
+    {
+      "id": 38,
+      "memberid": "50096025",
+      "firstname": "Johan",
+      "name": "De Bock",
+      "gender": 1
+    },
+    {
+      "id": 39,
+      "memberid": "50078160",
+      "firstname": "Marina",
+      "name": "Fransen",
+      "gender": 2
+    },
+    {
+      "id": 40,
+      "memberid": "50230719",
+      "firstname": "Viktor",
+      "name": "Patteet",
+      "gender": 1
+    },
+    {
+      "id": 41,
+      "memberid": "50481657",
+      "firstname": "Janelle",
+      "name": "Rypens",
+      "gender": 2
+    },
+    {
+      "id": 42,
+      "memberid": "50630792",
+      "firstname": "Janne",
+      "name": "Van Hove",
+      "gender": 2
+    },
+    {
+      "id": 43,
+      "memberid": "50100350",
+      "firstname": "Jelle",
+      "name": "Smet",
+      "gender": 1
+    },
+    {
+      "id": 44,
+      "memberid": "50065221",
+      "firstname": "Peter",
+      "name": "Kiekens",
+      "gender": 1
+    },
+    {
+      "id": 45,
+      "memberid": "50059495",
+      "firstname": "Gerda",
+      "name": "Verschaeren",
+      "gender": 2
+    },
+    {
+      "id": 46,
+      "memberid": "50001452",
+      "firstname": "Johan",
+      "name": "De Cuyper",
+      "gender": 1
+    },
+    {
+      "id": 47,
+      "memberid": "50048956",
+      "firstname": "Gunther",
+      "name": "Van Stevendaal",
+      "gender": 1
+    },
+    {
+      "id": 48,
+      "memberid": "50048510",
+      "firstname": "Dirk",
+      "name": "Verbeeck",
+      "gender": 1
+    },
+    {
+      "id": 49,
+      "memberid": "50261789",
+      "firstname": "Wannes",
+      "name": "Vermeulen",
+      "gender": 1
+    },
+    {
+      "id": 50,
+      "memberid": "50264699",
+      "firstname": "Ruben",
+      "name": "Hellemans",
+      "gender": 1
+    },
+    {
+      "id": 51,
+      "memberid": "50908391",
+      "firstname": "Simon",
+      "name": "Raes",
+      "gender": 1
+    },
+    {
+      "id": 52,
+      "memberid": "50032177",
+      "firstname": "Marcel",
+      "name": "Janssens",
+      "gender": 1
+    },
+    {
+      "id": 53,
+      "memberid": "50946684",
+      "firstname": "Nishant",
+      "name": "Shah",
+      "gender": 1
+    },
+    {
+      "id": 54,
+      "memberid": "50015967",
+      "firstname": "Elisabeth",
+      "name": "Verswyvel",
+      "gender": 2
+    },
+    {
+      "id": 55,
+      "memberid": "50437224",
+      "firstname": "Ine",
+      "name": "Maerevoet",
+      "gender": 2
+    },
+    {
+      "id": 56,
+      "memberid": "50000301",
+      "firstname": "Pol",
+      "name": "Smet",
+      "gender": 1
+    },
+    {
+      "id": 57,
+      "memberid": "50000141",
+      "firstname": "Jan",
+      "name": "Bonheur",
+      "gender": 1
+    },
+    {
+      "id": 58,
+      "memberid": "50028097",
+      "firstname": "Jozef",
+      "name": "Kampers",
+      "gender": 1
+    },
+    {
+      "id": 59,
+      "memberid": "30007379",
+      "firstname": "Dauphinais",
+      "name": "Noa",
+      "gender": 2
+    },
+    {
+      "id": 60,
+      "memberid": "50096981",
+      "firstname": "Shikha",
+      "name": "Surana",
+      "gender": 2
+    }
+  ]
+}

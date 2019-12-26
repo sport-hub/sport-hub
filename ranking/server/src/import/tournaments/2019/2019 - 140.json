@@ -6602,62 +6602,6 @@
           "matches": [
             {
               "playedAt": "2019-03-23T18:00:00Z",
-              "team1_player1": "50068550",
-              "team1_player2": "50852256",
-              "team2_player1": "50316303",
-              "team2_player2": "50721038",
-              "set1_team1": 21,
-              "set1_team2": 7,
-              "set2_team1": 21,
-              "set2_team2": 7,
-              "set3_team1": null,
-              "set3_team2": null,
-              "winner": 1
-            },
-            {
-              "playedAt": "2019-03-23T16:45:00Z",
-              "team1_player1": "50719297",
-              "team1_player2": "4984759",
-              "team2_player1": "50068550",
-              "team2_player2": "50852256",
-              "set1_team1": 15,
-              "set1_team2": 21,
-              "set2_team1": 11,
-              "set2_team2": 21,
-              "set3_team1": null,
-              "set3_team2": null,
-              "winner": 2
-            },
-            {
-              "playedAt": "2019-03-23T19:30:00Z",
-              "team1_player1": "50114177",
-              "team1_player2": "50508202",
-              "team2_player1": "50068550",
-              "team2_player2": "50852256",
-              "set1_team1": 22,
-              "set1_team2": 24,
-              "set2_team1": 21,
-              "set2_team2": 16,
-              "set3_team1": 19,
-              "set3_team2": 21,
-              "winner": 2
-            },
-            {
-              "playedAt": "2019-03-23T18:00:00Z",
-              "team1_player1": "50316303",
-              "team1_player2": "50721038",
-              "team2_player1": "50068550",
-              "team2_player2": "50852256",
-              "set1_team1": 7,
-              "set1_team2": 21,
-              "set2_team1": 7,
-              "set2_team2": 21,
-              "set3_team1": null,
-              "set3_team2": null,
-              "winner": 2
-            },
-            {
-              "playedAt": "2019-03-23T18:00:00Z",
               "team1_player1": "50114177",
               "team1_player2": "50508202",
               "team2_player1": "50719297",
@@ -6767,6 +6711,62 @@
               "set3_team1": null,
               "set3_team2": null,
               "winner": 1
+            },
+            {
+              "playedAt": "2019-03-23T18:00:00Z",
+              "team1_player1": "50068550",
+              "team1_player2": "50852256",
+              "team2_player1": "50316303",
+              "team2_player2": "50721038",
+              "set1_team1": 21,
+              "set1_team2": 7,
+              "set2_team1": 21,
+              "set2_team2": 7,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-23T16:45:00Z",
+              "team1_player1": "50719297",
+              "team1_player2": "4984759",
+              "team2_player1": "50068550",
+              "team2_player2": "50852256",
+              "set1_team1": 15,
+              "set1_team2": 21,
+              "set2_team1": 11,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-23T19:30:00Z",
+              "team1_player1": "50114177",
+              "team1_player2": "50508202",
+              "team2_player1": "50068550",
+              "team2_player2": "50852256",
+              "set1_team1": 22,
+              "set1_team2": 24,
+              "set2_team1": 21,
+              "set2_team2": 16,
+              "set3_team1": 19,
+              "set3_team2": 21,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-23T18:00:00Z",
+              "team1_player1": "50316303",
+              "team1_player2": "50721038",
+              "team2_player1": "50068550",
+              "team2_player2": "50852256",
+              "set1_team1": 7,
+              "set1_team2": 21,
+              "set2_team1": 7,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
             }
           ]
         },
@@ -7416,34 +7416,6 @@
       "memberid": "50070509",
       "firstname": "Kevin",
       "name": "Cuypers",
-      "gender": 1
-    },
-    {
-      "id": 143,
-      "memberid": "50043844",
-      "firstname": "Ger",
-      "name": "Loopmans",
-      "gender": 1
-    },
-    {
-      "id": 144,
-      "memberid": "50009515",
-      "firstname": "Chris",
-      "name": "Deckx",
-      "gender": 1
-    },
-    {
-      "id": 145,
-      "memberid": "50091400",
-      "firstname": "Marco",
-      "name": "Jans",
-      "gender": 1
-    },
-    {
-      "id": 146,
-      "memberid": "50069485",
-      "firstname": "Carlo",
-      "name": "Ludecke",
       "gender": 1
     },
     {
@@ -8222,6 +8194,34 @@
       "firstname": "Lindsey",
       "name": "Wenzlawski",
       "gender": 2
+    },
+    {
+      "id": 143,
+      "memberid": "50043844",
+      "firstname": "Ger",
+      "name": "Loopmans",
+      "gender": 1
+    },
+    {
+      "id": 144,
+      "memberid": "50009515",
+      "firstname": "Chris",
+      "name": "Deckx",
+      "gender": 1
+    },
+    {
+      "id": 145,
+      "memberid": "50091400",
+      "firstname": "Marco",
+      "name": "Jans",
+      "gender": 1
+    },
+    {
+      "id": 146,
+      "memberid": "50069485",
+      "firstname": "Carlo",
+      "name": "Ludecke",
+      "gender": 1
     },
     {
       "id": 147,

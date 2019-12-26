@@ -5,7 +5,6 @@ ADODB.debug = true;
 
 // import {writeFile, exists, mkdir} from 'fs';
 const { promises: fs, existsSync } = require('fs');
-
 export async function ImportToernament(file) {
   const connectionString = `Provider=Microsoft.Jet.OLEDB.4.0;Data Source='${join(
     basePathTp,
@@ -22,9 +21,11 @@ export async function ImportToernament(file) {
       `select tournamentday from TournamentDay`
     );
   } catch (e) {
-    console.error('Something went wrong getting something from the db', e);
+    throw new Error(
+      'Something went wrong getting tournament info from the db',
+      e
+    );
   }
-  console.log(dBTournament)
 
   var tournamentName = dBTournament.find(x => x.name == 'Tournament').value;
   var tournamentDay = new Date(dBTournamentday[0].tournamentday);
@@ -33,18 +34,23 @@ export async function ImportToernament(file) {
   );
 
   if (isNaN(tournamentNumber)) {
-    console.info(`${tournamentName} is not a valid tournament`);
+    // console.debug(`${tournamentName} is not a valid tournament`);
     return;
   }
 
   try {
     var players = await getPlayers();
+  } catch (e) {
+    throw new Error('Something went wrong getting players', e);
+  }
+
+  try {
     var db = {
       events: await getEvents(tournamentName, players),
       players
     };
-  } catch (erro) {
-    console.error('Someting wrong', erro);
+  } catch (e) {
+    throw new Error('Something went wrong getting events', e);
   }
 
   const dir = join(
@@ -56,8 +62,8 @@ export async function ImportToernament(file) {
     if (!existsSync(dir)) {
       await fs.mkdir(dir, { recursive: true });
     }
-  } catch (erro) {
-    console.error('Someting wrong', erro);
+  } catch (e) {
+    throw new Error('Something went wrong making the dir', e);
   }
 
   const fileLocation = join(
@@ -94,125 +100,162 @@ export async function ImportToernament(file) {
         `select id, player1, player2 from Entry`
       );
     } catch (e) {
-      console.error('Something went wrong getting something from the db', e);
+      throw new Error(
+        'Something went wrong getting events from from the db',
+        e
+      );
     }
 
-    dbEvents.forEach(dbEvent => {
-      var division = dbEvent.name.slice(2);
-      var league = 'BASIC'; // type toernament
+    try {
+      dbEvents.forEach(dbEvent => {
+        var division = dbEvent.name.slice(2);
+        var league = 'BASIC'; // type toernament
 
-      events.push({
-        type: 'TOERNAMENT',
-        name,
-        division,
-        league,
-        subEvents: []
+        events.push({
+          type: 'TOERNAMENT',
+          name,
+          division,
+          league,
+          subEvents: []
+        });
       });
-    });
+    } catch (error) {
+      console.error('Something went wrong processings events', error);
+      throw new Error('Something went wrong processings events', error);
+    }
 
-    dbDraws.forEach(dbDraw => {
-      // Find from original
-      var dbEvent = dbEvents.find(e => e.id == dbDraw.event);
-      // find in new set
-      var name = dbEvent.name.slice(2);
-      var event = events.find(e => e.division == name);
-
-      event.subEvents.push({
-        poule: dbDraw.name,
-        gender: dbEvent.gender-1, // Toernooi.nl works with 1 based instead of 0 based array
-        event_type: dbEvent.eventtype,
-        draw_type: dbDraw.drawtype,
-        size: dbDraw.drawsize,
-        matches: []
-      });
-    }); 
-
-    // Build KO's
-    dbPlayerMatches
-      .map(x => {
-        return {
-          ...x,
-          van1: x.van1 == 0 ? null : x.van1,
-          van2: x.van2 == 0 ? null : x.van2
-        };
-      })
-      .filter(x => x.van1 !== null && x.van2 !== null)
-      .forEach(dbPlayerMatch => {
-        var playerMatch1 = dbPlayerMatches.find(
-          x =>
-            x.planning == dbPlayerMatch.van1 &&
-            x.event == dbPlayerMatch.event &&
-            x.draw == dbPlayerMatch.draw
-        );
-        var playerMatch2 = dbPlayerMatches.find(
-          x =>
-            x.planning == dbPlayerMatch.van2 &&
-            x.event == dbPlayerMatch.event &&
-            x.draw == dbPlayerMatch.draw
-        );
-        var dbEvent = dbEvents.find(e => e.id == dbPlayerMatch.event);
-        var dbDraw = dbDraws.find(e => e.id == dbPlayerMatch.draw);
+    try {
+      dbDraws.forEach(dbDraw => {
+        // Find from original
+        var dbEvent = dbEvents.find(e => e.id == dbDraw.event);
+        // find in new set
         var name = dbEvent.name.slice(2);
-        var event = events.find(event => event.division == name);
+        var event = events.find(e => e.division == name);
 
-        var subEvent = event.subEvents.find(
-          subEvent =>
-            subEvent.poule == dbDraw.name && subEvent.gender == dbEvent.gender-1 // Toernooi.nl works 1 based instead of 0 based!
-        );
-        if (!playerMatch1) {
-          console.log(
-            event.division,
-            subEvent.poule,
-            dbPlayerMatch,
-            playerMatch1
-          );
-        }
-        var dbEntry1 = dbEntries.find(e => e.id == playerMatch1.entry);
-        var dbEntry2 = dbEntries.find(e => e.id == playerMatch2.entry);
-
-        if (dbDraw.drawtype == DrawType.KO) {
-          // TODO: Check if ever have more then 9
-          var final = parseInt(
-            dbPlayerMatch.planning.toString().substring(0, 1)
-          );
-          // final = `Place 1/${Math.pow(2, final - 1)}`;
-        } else {
-          var final = undefined;
-        }
-        addMatch(dbEntry1, dbEntry2, dbPlayerMatch, final, subEvent);
+        event.subEvents.push({
+          poule: dbDraw.name,
+          gender: dbEvent.gender - 1, // Toernooi.nl works with 1 based instead of 0 based array
+          event_type: dbEvent.eventtype,
+          draw_type: dbDraw.drawtype,
+          size: dbDraw.drawsize,
+          matches: []
+        });
       });
+    } catch (error) {
+      console.error('Something went wrong processings draws', error);
+      throw new Error('Something went wrong processings draws', error);
+    }
+
+    try {
+      // Build KO's
+      dbPlayerMatches
+        .map(x => {
+          return {
+            ...x,
+            van1: x.van1 == 0 ? null : x.van1,
+            van2: x.van2 == 0 ? null : x.van2
+          };
+        })
+        .filter(x => x.van1 !== null && x.van2 !== null)
+        .forEach(dbPlayerMatch => {
+          var playerMatch1 = dbPlayerMatches.find(
+            x =>
+              x.planning == dbPlayerMatch.van1 &&
+              x.event == dbPlayerMatch.event &&
+              x.draw == dbPlayerMatch.draw
+          );
+          var playerMatch2 = dbPlayerMatches.find(
+            x =>
+              x.planning == dbPlayerMatch.van2 &&
+              x.event == dbPlayerMatch.event &&
+              x.draw == dbPlayerMatch.draw
+          );
+          var dbEvent = dbEvents.find(e => e.id == dbPlayerMatch.event);
+          var dbDraw = dbDraws.find(e => e.id == dbPlayerMatch.draw);
+          var name = dbEvent.name.slice(2);
+          var event = events.find(event => event.division == name);
+
+          var subEvent = event.subEvents.find(
+            subEvent =>
+              subEvent.poule == dbDraw.name &&
+              subEvent.gender == dbEvent.gender - 1 // Toernooi.nl works 1 based instead of 0 based!
+          );
+          if (!playerMatch1) {
+            console.warn('No player1 in a match?')
+            // console.log(
+            //   event.division,
+            //   subEvent.poule,
+            //   dbPlayerMatch,
+            //   playerMatch1
+            // );
+            return;
+          }
+
+          var dbEntry1 = dbEntries.find(e => e.id == playerMatch1.entry);
+          if (playerMatch2) {
+            var dbEntry2 = dbEntries.find(e => e.id == playerMatch2.entry);
+          }
+
+          if (dbDraw.drawtype == DrawType.KO) {
+            // TODO: Check if ever have more then 9
+            var final = parseInt(
+              dbPlayerMatch.planning.toString().substring(0, 1)
+            );
+            // final = `Place 1/${Math.pow(2, final - 1)}`;
+          } else {
+            var final = undefined;
+          }
+          addMatch(dbEntry1, dbEntry2, dbPlayerMatch, final, subEvent);
+        });
+    } catch (error) {
+      console.error('Something went wrong processings player matches', error);
+      throw new Error(
+        'Something went wrong processings  player matches',
+        error
+      );
+    }
 
     return events;
 
     function addMatch(dbEntry, dbOponentEntry, match, final, subEvent) {
-      subEvent.matches.push({
-        final,
-        playedAt: match.plandate,
-        team1_player1: getMemberId(dbEntry ? dbEntry.player1 : null),
-        team1_player2: getMemberId(dbEntry ? dbEntry.player2 : null),
-        team2_player1: getMemberId(
-          dbOponentEntry ? dbOponentEntry.player1 : null
-        ),
-        team2_player2: getMemberId(
-          dbOponentEntry ? dbOponentEntry.player2 : null
-        ),
-        set1_team1: match.team1set1 == 0 ? null : match.team1set1,
-        set1_team2: match.team2set1 == 0 ? null : match.team2set1,
-        set2_team1: match.team1set2 == 0 ? null : match.team1set2,
-        set2_team2: match.team2set2 == 0 ? null : match.team2set2,
-        set3_team1: match.team1set3 == 0 ? null : match.team1set3,
-        set3_team2: match.team2set3 == 0 ? null : match.team2set3,
-        winner: match.winner
-      });
+      try {
+        subEvent.matches.push({
+          final,
+          playedAt: match.plandate,
+          team1_player1: getMemberId(dbEntry ? dbEntry.player1 : null),
+          team1_player2: getMemberId(dbEntry ? dbEntry.player2 : null),
+          team2_player1: getMemberId(
+            dbOponentEntry ? dbOponentEntry.player1 : null
+          ),
+          team2_player2: getMemberId(
+            dbOponentEntry ? dbOponentEntry.player2 : null
+          ),
+          set1_team1: match.team1set1 == 0 ? null : match.team1set1,
+          set1_team2: match.team2set1 == 0 ? null : match.team2set1,
+          set2_team1: match.team1set2 == 0 ? null : match.team1set2,
+          set2_team2: match.team2set2 == 0 ? null : match.team2set2,
+          set3_team1: match.team1set3 == 0 ? null : match.team1set3,
+          set3_team2: match.team2set3 == 0 ? null : match.team2set3,
+          winner: match.winner
+        });
+      } catch (e) {
+        console.error('Something went wrong adding match', e);
+        throw new Error('Something went wrong adding match', e);
+      }
 
       function getMemberId(number) {
-        if (!number) return null;
-        var player = players.find(player => player.id == number);
-        if (!player) {
-          console.warn('Not null number found no player??', number);
-          return null;
+        try {
+          if (!number || number == 0) return null;
+          var player = players.find(player => player.id == number);
+          if (!player) {
+            console.warn('Not null number found no player??', number);
+            return null;
+          }
+          return player.memberid;
+        } catch (e) {
+          console.error('Something went wrong getting memberId', e);
+          throw new Error('Something went wrong getting memberId', e);
         }
-        return player.memberid;
       }
     }
   }
