@@ -7,7 +7,7 @@ name: Build and deploy ranking
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       # checkout the repo
       - name: 'Checkout Github Action'

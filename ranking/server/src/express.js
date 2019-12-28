@@ -31,9 +31,9 @@ app.get('/sync', async (req, res) => {
   res.send();
 });
 
-app.get('/calculate', async(req, res)=> {
-   calculateRanking().then(result => res.json(result))
-   res.send('Processing started');
-  })
+app.get('/calculate', async (req, res) => {
+  calculateRanking().then(result => res.json(result));
+  res.send('Processing started');
+});
 
 module.exports = app;
