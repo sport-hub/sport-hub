@@ -12,10 +12,10 @@ coverage:
 flags:
   backend:
     paths:
-      - server/
+      - ranking/server/
   frontend:
     paths:
-      - client/
+      - ranking/client/
 
 comment:
   layout: "reach, diff, flags, files"

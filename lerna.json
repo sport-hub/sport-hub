@@ -3,7 +3,12 @@
   "command": {
     "bootstrap": {
       "ignore": "ranking-convertor-*"
+    },
+    "run": {
+      "ignore": "ranking-convertor-*"
     }
   },
+  "npmClient": "yarn",
+  "useWorkspaces": true,
   "version": "0.0.2"
 }

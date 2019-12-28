@@ -1,0 +1,39 @@
+on:
+  push:
+    branches:
+      - master
+
+name: Build and deploy ranking
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    # checkout the repo
+    - name: 'Checkout Github Action' 
+      uses: actions/checkout@master
+    
+    - name: 'Azure Login'
+      uses: azure/docker-login@v1
+      with:
+        login-server: badvlasimacr.azurecr.io
+        username: ${{ secrets.REGISTRY_USERNAME }}
+        password: ${{ secrets.REGISTRY_PASSWORD }}
+    
+    - run: |
+        docker-compose build
+        docker-compose push
+      
+    - uses: azure/webapps-container-deploy@v1
+      with:
+        app-name: 'ranking_server'
+        images: 'badvlasimacr.azurecr.io/ranking_server:latest'
+
+    - uses: azure/webapps-container-deploy@v1
+      with:
+        app-name: 'ranking_client'
+        images: 'badvlasimacr.azurecr.io/ranking_client:latest'
+    
+    - name: Azure logout
+      run: |
+        az logout
