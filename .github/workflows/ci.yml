@@ -22,6 +22,8 @@ jobs:
       run: yarn run bootstrap
     - name: test
       run: yarn test
+      env:
+        CI: true
     - name: Publish codecov
       uses: codecov/codecov-action@v1
       with:
