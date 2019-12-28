@@ -7,6 +7,7 @@
     "@babel/node": "^7.7.4",
     "@babel/plugin-proposal-object-rest-spread": "^7.7.4",
     "@babel/preset-env": "^7.7.6",
+    "@supercharge/promise-pool": "^1.2.0",
     "apollo-server": "2.9.12",
     "apollo-server-testing": "2.9.12",
     "dotenv": "^8.2.0",

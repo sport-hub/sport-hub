@@ -1,6 +1,15 @@
 {
   "name": "root",
   "private": true,
+  "workspaces": [
+    "ranking/*",
+    "hub/*",
+    "trainer/*"
+  ],
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "test": "lerna run test"
+  },
   "devDependencies": {
     "lerna": "^3.19.0"
   }

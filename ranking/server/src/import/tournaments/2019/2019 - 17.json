@@ -1,0 +1,3430 @@
+{
+  "events": [
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": " C1",
+      "league": "BASIC",
+      "subEvents": [
+        {
+          "poule": "GD C1",
+          "gender": 2,
+          "event_type": 2,
+          "draw_type": 1,
+          "size": 2,
+          "matches": [
+            {
+              "final": 1,
+              "playedAt": "2019-03-16T20:00:00Z",
+              "team1_player1": "50049741",
+              "team1_player2": "50060474",
+              "team2_player1": "50105914",
+              "team2_player2": "50072433",
+              "set1_team1": 21,
+              "set1_team2": 19,
+              "set2_team1": 21,
+              "set2_team2": 17,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            }
+          ]
+        },
+        {
+          "poule": "Poule A",
+          "gender": 0,
+          "event_type": 2,
+          "draw_type": 2,
+          "size": 4,
+          "matches": [
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "50105449",
+              "team1_player2": "Van Robbroeck Dries",
+              "team2_player1": "50105914",
+              "team2_player2": "50072433",
+              "set1_team1": 17,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 20,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T18:40:00Z",
+              "team1_player1": "50101652",
+              "team1_player2": null,
+              "team2_player1": "50105914",
+              "team2_player2": "50072433",
+              "set1_team1": 13,
+              "set1_team2": 21,
+              "set2_team1": 14,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": "50607812",
+              "team1_player2": "50307193",
+              "team2_player1": "50105914",
+              "team2_player2": "50072433",
+              "set1_team1": 21,
+              "set1_team2": 11,
+              "set2_team1": 21,
+              "set2_team2": 16,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "50105914",
+              "team1_player2": "50072433",
+              "team2_player1": "50105449",
+              "team2_player2": "Van Robbroeck Dries",
+              "set1_team1": 21,
+              "set1_team2": 17,
+              "set2_team1": 20,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": "50101652",
+              "team1_player2": null,
+              "team2_player1": "50105449",
+              "team2_player2": "Van Robbroeck Dries",
+              "set1_team1": 20,
+              "set1_team2": 21,
+              "set2_team1": 16,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T18:40:00Z",
+              "team1_player1": "50607812",
+              "team1_player2": "50307193",
+              "team2_player1": "50105449",
+              "team2_player2": "Van Robbroeck Dries",
+              "set1_team1": 21,
+              "set1_team2": 14,
+              "set2_team1": 21,
+              "set2_team2": 13,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T18:40:00Z",
+              "team1_player1": "50105914",
+              "team1_player2": "50072433",
+              "team2_player1": "50101652",
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 13,
+              "set2_team1": 21,
+              "set2_team2": 14,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": "50105449",
+              "team1_player2": "Van Robbroeck Dries",
+              "team2_player1": "50101652",
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 20,
+              "set2_team1": 21,
+              "set2_team2": 16,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "50607812",
+              "team1_player2": "50307193",
+              "team2_player1": "50101652",
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 11,
+              "set2_team1": 21,
+              "set2_team2": 14,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": "50105914",
+              "team1_player2": "50072433",
+              "team2_player1": "50607812",
+              "team2_player2": "50307193",
+              "set1_team1": 11,
+              "set1_team2": 21,
+              "set2_team1": 16,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T18:40:00Z",
+              "team1_player1": "50105449",
+              "team1_player2": "Van Robbroeck Dries",
+              "team2_player1": "50607812",
+              "team2_player2": "50307193",
+              "set1_team1": 14,
+              "set1_team2": 21,
+              "set2_team1": 13,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "50101652",
+              "team1_player2": null,
+              "team2_player1": "50607812",
+              "team2_player2": "50307193",
+              "set1_team1": 11,
+              "set1_team2": 21,
+              "set2_team1": 14,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            }
+          ]
+        },
+        {
+          "poule": "Poule B",
+          "gender": 0,
+          "event_type": 2,
+          "draw_type": 2,
+          "size": 4,
+          "matches": [
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "50035126",
+              "team1_player2": null,
+              "team2_player1": "50034196",
+              "team2_player2": "50017902",
+              "set1_team1": 20,
+              "set1_team2": 21,
+              "set2_team1": 11,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T18:40:00Z",
+              "team1_player1": "50052953",
+              "team1_player2": null,
+              "team2_player1": "50034196",
+              "team2_player2": "50017902",
+              "set1_team1": 14,
+              "set1_team2": 21,
+              "set2_team1": 14,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": "50711563",
+              "team1_player2": "50075563",
+              "team2_player1": "50034196",
+              "team2_player2": "50017902",
+              "set1_team1": 21,
+              "set1_team2": 15,
+              "set2_team1": 21,
+              "set2_team2": 15,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "50034196",
+              "team1_player2": "50017902",
+              "team2_player1": "50035126",
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 20,
+              "set2_team1": 21,
+              "set2_team2": 11,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": "50052953",
+              "team1_player2": null,
+              "team2_player1": "50035126",
+              "team2_player2": null,
+              "set1_team1": 11,
+              "set1_team2": 21,
+              "set2_team1": 18,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T18:40:00Z",
+              "team1_player1": "50711563",
+              "team1_player2": "50075563",
+              "team2_player1": "50035126",
+              "team2_player2": null,
+              "set1_team1": 20,
+              "set1_team2": 21,
+              "set2_team1": 15,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T18:40:00Z",
+              "team1_player1": "50034196",
+              "team1_player2": "50017902",
+              "team2_player1": "50052953",
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 14,
+              "set2_team1": 21,
+              "set2_team2": 14,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": "50035126",
+              "team1_player2": null,
+              "team2_player1": "50052953",
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 11,
+              "set2_team1": 21,
+              "set2_team2": 18,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "50711563",
+              "team1_player2": "50075563",
+              "team2_player1": "50052953",
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 16,
+              "set2_team1": 21,
+              "set2_team2": 13,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": "50034196",
+              "team1_player2": "50017902",
+              "team2_player1": "50711563",
+              "team2_player2": "50075563",
+              "set1_team1": 15,
+              "set1_team2": 21,
+              "set2_team1": 15,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T18:40:00Z",
+              "team1_player1": "50035126",
+              "team1_player2": null,
+              "team2_player1": "50711563",
+              "team2_player2": "50075563",
+              "set1_team1": 21,
+              "set1_team2": 20,
+              "set2_team1": 21,
+              "set2_team2": 15,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "50052953",
+              "team1_player2": null,
+              "team2_player1": "50711563",
+              "team2_player2": "50075563",
+              "set1_team1": 16,
+              "set1_team2": 21,
+              "set2_team1": 13,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            }
+          ]
+        },
+        {
+          "poule": "HD C1",
+          "gender": 0,
+          "event_type": 2,
+          "draw_type": 1,
+          "size": 2,
+          "matches": [
+            {
+              "final": 1,
+              "playedAt": "2019-03-16T23:05:00Z",
+              "team1_player1": "50607812",
+              "team1_player2": "50307193",
+              "team2_player1": "50711563",
+              "team2_player2": "50075563",
+              "set1_team1": 17,
+              "set1_team2": 21,
+              "set2_team1": 11,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": "ECIAL 1",
+      "league": "BASIC",
+      "subEvents": [
+        {
+          "poule": "SPECIAL 1",
+          "gender": 5,
+          "event_type": 2,
+          "draw_type": 1,
+          "size": 2,
+          "matches": [
+            {
+              "final": 1,
+              "playedAt": "2019-03-16T20:00:00Z",
+              "team1_player1": "50074415",
+              "team1_player2": null,
+              "team2_player1": "50034196",
+              "team2_player2": "50017902",
+              "set1_team1": 21,
+              "set1_team2": 10,
+              "set2_team1": 21,
+              "set2_team2": 15,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": " C2",
+      "league": "BASIC",
+      "subEvents": [
+        {
+          "poule": "Poule A",
+          "gender": 0,
+          "event_type": 2,
+          "draw_type": 2,
+          "size": 4,
+          "matches": [
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "500065829",
+              "team1_player2": "50028466",
+              "team2_player1": "50049741",
+              "team2_player2": "50060474",
+              "set1_team1": 14,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 13,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T18:40:00Z",
+              "team1_player1": "XX6353632",
+              "team1_player2": "Van Der Vloet Nico",
+              "team2_player1": "50049741",
+              "team2_player2": "50060474",
+              "set1_team1": 7,
+              "set1_team2": 21,
+              "set2_team1": 17,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": "50021800",
+              "team1_player2": "50106432",
+              "team2_player1": "50049741",
+              "team2_player2": "50060474",
+              "set1_team1": 17,
+              "set1_team2": 21,
+              "set2_team1": 15,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "50049741",
+              "team1_player2": "50060474",
+              "team2_player1": "500065829",
+              "team2_player2": "50028466",
+              "set1_team1": 21,
+              "set1_team2": 14,
+              "set2_team1": 13,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T20:50:00Z",
+              "team1_player1": "XX6353632",
+              "team1_player2": "Van Der Vloet Nico",
+              "team2_player1": "500065829",
+              "team2_player2": "50028466",
+              "set1_team1": 7,
+              "set1_team2": 21,
+              "set2_team1": 17,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T19:30:00Z",
+              "team1_player1": "50021800",
+              "team1_player2": "50106432",
+              "team2_player1": "500065829",
+              "team2_player2": "50028466",
+              "set1_team1": 20,
+              "set1_team2": 21,
+              "set2_team1": 15,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T18:40:00Z",
+              "team1_player1": "50049741",
+              "team1_player2": "50060474",
+              "team2_player1": "XX6353632",
+              "team2_player2": "Van Der Vloet Nico",
+              "set1_team1": 21,
+              "set1_team2": 7,
+              "set2_team1": 21,
+              "set2_team2": 17,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T20:50:00Z",
+              "team1_player1": "500065829",
+              "team1_player2": "50028466",
+              "team2_player1": "XX6353632",
+              "team2_player2": "Van Der Vloet Nico",
+              "set1_team1": 21,
+              "set1_team2": 7,
+              "set2_team1": 21,
+              "set2_team2": 17,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T17:40:00Z",
+              "team1_player1": "50021800",
+              "team1_player2": "50106432",
+              "team2_player1": "XX6353632",
+              "team2_player2": "Van Der Vloet Nico",
+              "set1_team1": 21,
+              "set1_team2": 6,
+              "set2_team1": 21,
+              "set2_team2": 14,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": "50049741",
+              "team1_player2": "50060474",
+              "team2_player1": "50021800",
+              "team2_player2": "50106432",
+              "set1_team1": 21,
+              "set1_team2": 17,
+              "set2_team1": 21,
+              "set2_team2": 15,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T19:30:00Z",
+              "team1_player1": "500065829",
+              "team1_player2": "50028466",
+              "team2_player1": "50021800",
+              "team2_player2": "50106432",
+              "set1_team1": 21,
+              "set1_team2": 20,
+              "set2_team1": 21,
+              "set2_team2": 15,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T17:40:00Z",
+              "team1_player1": "XX6353632",
+              "team1_player2": "Van Der Vloet Nico",
+              "team2_player1": "50021800",
+              "team2_player2": "50106432",
+              "set1_team1": 6,
+              "set1_team2": 21,
+              "set2_team1": 14,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            }
+          ]
+        },
+        {
+          "poule": "Poule B",
+          "gender": 0,
+          "event_type": 2,
+          "draw_type": 2,
+          "size": 5,
+          "matches": [
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "50006768",
+              "team1_player2": "50025334",
+              "team2_player1": "50000250",
+              "team2_player2": "xx0000003",
+              "set1_team1": 15,
+              "set1_team2": 21,
+              "set2_team1": 19,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T22:15:00Z",
+              "team1_player1": null,
+              "team1_player2": "50075018",
+              "team2_player1": "50000250",
+              "team2_player2": "xx0000003",
+              "set1_team1": 21,
+              "set1_team2": 10,
+              "set2_team1": 21,
+              "set2_team2": 11,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T19:30:00Z",
+              "team1_player1": "50429442",
+              "team1_player2": "50029337",
+              "team2_player1": "50000250",
+              "team2_player2": "xx0000003",
+              "set1_team1": 21,
+              "set1_team2": 20,
+              "set2_team1": 20,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T20:50:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": "50000250",
+              "team2_player2": "xx0000003",
+              "set1_team1": 13,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 9,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "50000250",
+              "team1_player2": "xx0000003",
+              "team2_player1": "50006768",
+              "team2_player2": "50025334",
+              "set1_team1": 21,
+              "set1_team2": 15,
+              "set2_team1": 21,
+              "set2_team2": 19,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T18:15:00Z",
+              "team1_player1": null,
+              "team1_player2": "50075018",
+              "team2_player1": "50006768",
+              "team2_player2": "50025334",
+              "set1_team1": 17,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 19,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T20:50:00Z",
+              "team1_player1": "50429442",
+              "team1_player2": "50029337",
+              "team2_player1": "50006768",
+              "team2_player2": "50025334",
+              "set1_team1": 16,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 13,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T22:15:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": "50006768",
+              "team2_player2": "50025334",
+              "set1_team1": 21,
+              "set1_team2": 13,
+              "set2_team1": 21,
+              "set2_team2": 17,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T22:15:00Z",
+              "team1_player1": "50000250",
+              "team1_player2": "xx0000003",
+              "team2_player1": null,
+              "team2_player2": "50075018",
+              "set1_team1": 10,
+              "set1_team2": 21,
+              "set2_team1": 11,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T18:15:00Z",
+              "team1_player1": "50006768",
+              "team1_player2": "50025334",
+              "team2_player1": null,
+              "team2_player2": "50075018",
+              "set1_team1": 21,
+              "set1_team2": 17,
+              "set2_team1": 19,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "50429442",
+              "team1_player2": "50029337",
+              "team2_player1": null,
+              "team2_player2": "50075018",
+              "set1_team1": 14,
+              "set1_team2": 21,
+              "set2_team1": 19,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T19:30:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": null,
+              "team2_player2": "50075018",
+              "set1_team1": 21,
+              "set1_team2": 16,
+              "set2_team1": 21,
+              "set2_team2": 13,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T19:30:00Z",
+              "team1_player1": "50000250",
+              "team1_player2": "xx0000003",
+              "team2_player1": "50429442",
+              "team2_player2": "50029337",
+              "set1_team1": 20,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 20,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T20:50:00Z",
+              "team1_player1": "50006768",
+              "team1_player2": "50025334",
+              "team2_player1": "50429442",
+              "team2_player2": "50029337",
+              "set1_team1": 21,
+              "set1_team2": 16,
+              "set2_team1": 13,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": null,
+              "team1_player2": "50075018",
+              "team2_player1": "50429442",
+              "team2_player2": "50029337",
+              "set1_team1": 21,
+              "set1_team2": 14,
+              "set2_team1": 21,
+              "set2_team2": 19,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T18:15:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": "50429442",
+              "team2_player2": "50029337",
+              "set1_team1": 20,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 16,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T20:50:00Z",
+              "team1_player1": "50000250",
+              "team1_player2": "xx0000003",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 13,
+              "set2_team1": 9,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T22:15:00Z",
+              "team1_player1": "50006768",
+              "team1_player2": "50025334",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 13,
+              "set1_team2": 21,
+              "set2_team1": 17,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T19:30:00Z",
+              "team1_player1": null,
+              "team1_player2": "50075018",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 16,
+              "set1_team2": 21,
+              "set2_team1": 13,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T18:15:00Z",
+              "team1_player1": "50429442",
+              "team1_player2": "50029337",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 20,
+              "set2_team1": 16,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            }
+          ]
+        },
+        {
+          "poule": "HD C2",
+          "gender": 0,
+          "event_type": 2,
+          "draw_type": 1,
+          "size": 2,
+          "matches": [
+            {
+              "final": 1,
+              "playedAt": "2019-03-16T23:05:00Z",
+              "team1_player1": "50049741",
+              "team1_player2": "50060474",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 12,
+              "set2_team1": 21,
+              "set2_team2": 19,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            }
+          ]
+        },
+        {
+          "poule": "GD C2",
+          "gender": 2,
+          "event_type": 2,
+          "draw_type": 2,
+          "size": 6,
+          "matches": [
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "Dedeurwaerder Lynn",
+              "team1_player2": "50056714",
+              "team2_player1": "50067545",
+              "team2_player2": "50086633",
+              "set1_team1": 14,
+              "set1_team2": 21,
+              "set2_team1": 15,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T20:00:00Z",
+              "team1_player1": "50092784",
+              "team1_player2": "50106836",
+              "team2_player1": "50067545",
+              "team2_player2": "50086633",
+              "set1_team1": 19,
+              "set1_team2": 21,
+              "set2_team1": 9,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T19:05:00Z",
+              "team1_player1": "50116116",
+              "team1_player2": "50105314",
+              "team2_player1": "50067545",
+              "team2_player2": "50086633",
+              "set1_team1": 18,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 19,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T21:50:00Z",
+              "team1_player1": "50753312",
+              "team1_player2": "50042109",
+              "team2_player1": "50067545",
+              "team2_player2": "50086633",
+              "set1_team1": 21,
+              "set1_team2": 15,
+              "set2_team1": 21,
+              "set2_team2": 17,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T22:40:00Z",
+              "team1_player1": "50072265",
+              "team1_player2": "50264672",
+              "team2_player1": "50067545",
+              "team2_player2": "50086633",
+              "set1_team1": 20,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 18,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "50067545",
+              "team1_player2": "50086633",
+              "team2_player1": "Dedeurwaerder Lynn",
+              "team2_player2": "50056714",
+              "set1_team1": 21,
+              "set1_team2": 14,
+              "set2_team1": 21,
+              "set2_team2": 15,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T21:50:00Z",
+              "team1_player1": "50092784",
+              "team1_player2": "50106836",
+              "team2_player1": "Dedeurwaerder Lynn",
+              "team2_player2": "50056714",
+              "set1_team1": 14,
+              "set1_team2": 21,
+              "set2_team1": 11,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T22:40:00Z",
+              "team1_player1": "50116116",
+              "team1_player2": "50105314",
+              "team2_player1": "Dedeurwaerder Lynn",
+              "team2_player2": "50056714",
+              "set1_team1": 20,
+              "set1_team2": 21,
+              "set2_team1": 10,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T19:05:00Z",
+              "team1_player1": "50753312",
+              "team1_player2": "50042109",
+              "team2_player1": "Dedeurwaerder Lynn",
+              "team2_player2": "50056714",
+              "set1_team1": 21,
+              "set1_team2": 16,
+              "set2_team1": 21,
+              "set2_team2": 14,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T20:00:00Z",
+              "team1_player1": "50072265",
+              "team1_player2": "50264672",
+              "team2_player1": "Dedeurwaerder Lynn",
+              "team2_player2": "50056714",
+              "set1_team1": 21,
+              "set1_team2": 16,
+              "set2_team1": 12,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T20:00:00Z",
+              "team1_player1": "50067545",
+              "team1_player2": "50086633",
+              "team2_player1": "50092784",
+              "team2_player2": "50106836",
+              "set1_team1": 21,
+              "set1_team2": 19,
+              "set2_team1": 21,
+              "set2_team2": 9,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T21:50:00Z",
+              "team1_player1": "Dedeurwaerder Lynn",
+              "team1_player2": "50056714",
+              "team2_player1": "50092784",
+              "team2_player2": "50106836",
+              "set1_team1": 21,
+              "set1_team2": 14,
+              "set2_team1": 21,
+              "set2_team2": 11,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T17:40:00Z",
+              "team1_player1": "50116116",
+              "team1_player2": "50105314",
+              "team2_player1": "50092784",
+              "team2_player2": "50106836",
+              "set1_team1": 21,
+              "set1_team2": 13,
+              "set2_team1": 21,
+              "set2_team2": 12,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T22:40:00Z",
+              "team1_player1": "50753312",
+              "team1_player2": "50042109",
+              "team2_player1": "50092784",
+              "team2_player2": "50106836",
+              "set1_team1": 21,
+              "set1_team2": 14,
+              "set2_team1": 21,
+              "set2_team2": 16,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T19:05:00Z",
+              "team1_player1": "50072265",
+              "team1_player2": "50264672",
+              "team2_player1": "50092784",
+              "team2_player2": "50106836",
+              "set1_team1": 21,
+              "set1_team2": 15,
+              "set2_team1": 15,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T19:05:00Z",
+              "team1_player1": "50067545",
+              "team1_player2": "50086633",
+              "team2_player1": "50116116",
+              "team2_player2": "50105314",
+              "set1_team1": 21,
+              "set1_team2": 18,
+              "set2_team1": 19,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T22:40:00Z",
+              "team1_player1": "Dedeurwaerder Lynn",
+              "team1_player2": "50056714",
+              "team2_player1": "50116116",
+              "team2_player2": "50105314",
+              "set1_team1": 21,
+              "set1_team2": 20,
+              "set2_team1": 21,
+              "set2_team2": 10,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T17:40:00Z",
+              "team1_player1": "50092784",
+              "team1_player2": "50106836",
+              "team2_player1": "50116116",
+              "team2_player2": "50105314",
+              "set1_team1": 13,
+              "set1_team2": 21,
+              "set2_team1": 12,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T20:00:00Z",
+              "team1_player1": "50753312",
+              "team1_player2": "50042109",
+              "team2_player1": "50116116",
+              "team2_player2": "50105314",
+              "set1_team1": 21,
+              "set1_team2": 12,
+              "set2_team1": 21,
+              "set2_team2": 18,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T21:50:00Z",
+              "team1_player1": "50072265",
+              "team1_player2": "50264672",
+              "team2_player1": "50116116",
+              "team2_player2": "50105314",
+              "set1_team1": 13,
+              "set1_team2": 21,
+              "set2_team1": 10,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T21:50:00Z",
+              "team1_player1": "50067545",
+              "team1_player2": "50086633",
+              "team2_player1": "50753312",
+              "team2_player2": "50042109",
+              "set1_team1": 15,
+              "set1_team2": 21,
+              "set2_team1": 17,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T19:05:00Z",
+              "team1_player1": "Dedeurwaerder Lynn",
+              "team1_player2": "50056714",
+              "team2_player1": "50753312",
+              "team2_player2": "50042109",
+              "set1_team1": 16,
+              "set1_team2": 21,
+              "set2_team1": 14,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T22:40:00Z",
+              "team1_player1": "50092784",
+              "team1_player2": "50106836",
+              "team2_player1": "50753312",
+              "team2_player2": "50042109",
+              "set1_team1": 14,
+              "set1_team2": 21,
+              "set2_team1": 16,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T20:00:00Z",
+              "team1_player1": "50116116",
+              "team1_player2": "50105314",
+              "team2_player1": "50753312",
+              "team2_player2": "50042109",
+              "set1_team1": 12,
+              "set1_team2": 21,
+              "set2_team1": 18,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T17:40:00Z",
+              "team1_player1": "50072265",
+              "team1_player2": "50264672",
+              "team2_player1": "50753312",
+              "team2_player2": "50042109",
+              "set1_team1": 10,
+              "set1_team2": 21,
+              "set2_team1": 12,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T22:40:00Z",
+              "team1_player1": "50067545",
+              "team1_player2": "50086633",
+              "team2_player1": "50072265",
+              "team2_player2": "50264672",
+              "set1_team1": 21,
+              "set1_team2": 20,
+              "set2_team1": 18,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T20:00:00Z",
+              "team1_player1": "Dedeurwaerder Lynn",
+              "team1_player2": "50056714",
+              "team2_player1": "50072265",
+              "team2_player2": "50264672",
+              "set1_team1": 16,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 12,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T19:05:00Z",
+              "team1_player1": "50092784",
+              "team1_player2": "50106836",
+              "team2_player1": "50072265",
+              "team2_player2": "50264672",
+              "set1_team1": 15,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 15,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T21:50:00Z",
+              "team1_player1": "50116116",
+              "team1_player2": "50105314",
+              "team2_player1": "50072265",
+              "team2_player2": "50264672",
+              "set1_team1": 21,
+              "set1_team2": 13,
+              "set2_team1": 21,
+              "set2_team2": 10,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T17:40:00Z",
+              "team1_player1": "50753312",
+              "team1_player2": "50042109",
+              "team2_player1": "50072265",
+              "team2_player2": "50264672",
+              "set1_team1": 21,
+              "set1_team2": 10,
+              "set2_team1": 21,
+              "set2_team2": 12,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": " D",
+      "league": "BASIC",
+      "subEvents": [
+        {
+          "poule": "HD D",
+          "gender": 0,
+          "event_type": 2,
+          "draw_type": 2,
+          "size": 6,
+          "matches": [
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": "XX5490722",
+              "team2_player2": "XX6350672",
+              "set1_team1": 16,
+              "set1_team2": 21,
+              "set2_team1": 16,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T20:50:00Z",
+              "team1_player1": "50170813",
+              "team1_player2": "50156446",
+              "team2_player1": "XX5490722",
+              "team2_player2": "XX6350672",
+              "set1_team1": 9,
+              "set1_team2": 21,
+              "set2_team1": 15,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T19:05:00Z",
+              "team1_player1": "Hille Rob",
+              "team1_player2": null,
+              "team2_player1": "XX5490722",
+              "team2_player2": "XX6350672",
+              "set1_team1": 18,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 18,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T21:50:00Z",
+              "team1_player1": "50109853",
+              "team1_player2": "50109854",
+              "team2_player1": "XX5490722",
+              "team2_player2": "XX6350672",
+              "set1_team1": 21,
+              "set1_team2": 16,
+              "set2_team1": 14,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T22:40:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": "XX5490722",
+              "team2_player2": "XX6350672",
+              "set1_team1": 20,
+              "set1_team2": 22,
+              "set2_team1": 7,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T17:15:00Z",
+              "team1_player1": "XX5490722",
+              "team1_player2": "XX6350672",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 16,
+              "set2_team1": 21,
+              "set2_team2": 16,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T21:50:00Z",
+              "team1_player1": "50170813",
+              "team1_player2": "50156446",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 13,
+              "set2_team1": 18,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T22:40:00Z",
+              "team1_player1": "Hille Rob",
+              "team1_player2": null,
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 20,
+              "set2_team1": 21,
+              "set2_team2": 19,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T19:05:00Z",
+              "team1_player1": "50109853",
+              "team1_player2": "50109854",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 11,
+              "set2_team1": 21,
+              "set2_team2": 8,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T20:50:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 13,
+              "set1_team2": 21,
+              "set2_team1": 20,
+              "set2_team2": 231,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T20:50:00Z",
+              "team1_player1": "XX5490722",
+              "team1_player2": "XX6350672",
+              "team2_player1": "50170813",
+              "team2_player2": "50156446",
+              "set1_team1": 21,
+              "set1_team2": 9,
+              "set2_team1": 21,
+              "set2_team2": 15,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T21:50:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": "50170813",
+              "team2_player2": "50156446",
+              "set1_team1": 13,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 18,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T17:40:00Z",
+              "team1_player1": "Hille Rob",
+              "team1_player2": null,
+              "team2_player1": "50170813",
+              "team2_player2": "50156446",
+              "set1_team1": 21,
+              "set1_team2": 13,
+              "set2_team1": 21,
+              "set2_team2": 11,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T22:40:00Z",
+              "team1_player1": "50109853",
+              "team1_player2": "50109854",
+              "team2_player1": "50170813",
+              "team2_player2": "50156446",
+              "set1_team1": 21,
+              "set1_team2": 19,
+              "set2_team1": 21,
+              "set2_team2": 12,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T19:05:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": "50170813",
+              "team2_player2": "50156446",
+              "set1_team1": 12,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 17,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T19:05:00Z",
+              "team1_player1": "XX5490722",
+              "team1_player2": "XX6350672",
+              "team2_player1": "Hille Rob",
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 18,
+              "set2_team1": 18,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T22:40:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": "Hille Rob",
+              "team2_player2": null,
+              "set1_team1": 20,
+              "set1_team2": 21,
+              "set2_team1": 19,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T17:40:00Z",
+              "team1_player1": "50170813",
+              "team1_player2": "50156446",
+              "team2_player1": "Hille Rob",
+              "team2_player2": null,
+              "set1_team1": 13,
+              "set1_team2": 21,
+              "set2_team1": 11,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T20:50:00Z",
+              "team1_player1": "50109853",
+              "team1_player2": "50109854",
+              "team2_player1": "Hille Rob",
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 12,
+              "set2_team1": 21,
+              "set2_team2": 10,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T21:50:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": "Hille Rob",
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 16,
+              "set2_team1": 16,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T21:50:00Z",
+              "team1_player1": "XX5490722",
+              "team1_player2": "XX6350672",
+              "team2_player1": "50109853",
+              "team2_player2": "50109854",
+              "set1_team1": 16,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 14,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T19:05:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": "50109853",
+              "team2_player2": "50109854",
+              "set1_team1": 11,
+              "set1_team2": 21,
+              "set2_team1": 8,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T22:40:00Z",
+              "team1_player1": "50170813",
+              "team1_player2": "50156446",
+              "team2_player1": "50109853",
+              "team2_player2": "50109854",
+              "set1_team1": 19,
+              "set1_team2": 21,
+              "set2_team1": 12,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T20:50:00Z",
+              "team1_player1": "Hille Rob",
+              "team1_player2": null,
+              "team2_player1": "50109853",
+              "team2_player2": "50109854",
+              "set1_team1": 12,
+              "set1_team2": 21,
+              "set2_team1": 10,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T17:40:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": "50109853",
+              "team2_player2": "50109854",
+              "set1_team1": 9,
+              "set1_team2": 21,
+              "set2_team1": 16,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T22:40:00Z",
+              "team1_player1": "XX5490722",
+              "team1_player2": "XX6350672",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 22,
+              "set1_team2": 20,
+              "set2_team1": 21,
+              "set2_team2": 7,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T20:50:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 13,
+              "set2_team1": 231,
+              "set2_team2": 20,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T19:05:00Z",
+              "team1_player1": "50170813",
+              "team1_player2": "50156446",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 12,
+              "set2_team1": 17,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T21:50:00Z",
+              "team1_player1": "Hille Rob",
+              "team1_player2": null,
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 16,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 16,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T17:40:00Z",
+              "team1_player1": "50109853",
+              "team1_player2": "50109854",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 9,
+              "set2_team1": 21,
+              "set2_team2": 16,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            }
+          ]
+        },
+        {
+          "poule": "Poule A",
+          "gender": 2,
+          "event_type": 2,
+          "draw_type": 2,
+          "size": 5,
+          "matches": [
+            {
+              "playedAt": "2019-03-16T18:15:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": null,
+              "team2_player2": "50858599",
+              "set1_team1": null,
+              "set1_team2": null,
+              "set2_team1": null,
+              "set2_team2": null,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T22:15:00Z",
+              "team1_player1": null,
+              "team1_player2": "50090137",
+              "team2_player1": null,
+              "team2_player2": "50858599",
+              "set1_team1": null,
+              "set1_team2": null,
+              "set2_team1": null,
+              "set2_team2": null,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T20:25:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": null,
+              "team2_player2": "50858599",
+              "set1_team1": null,
+              "set1_team2": null,
+              "set2_team1": null,
+              "set2_team2": null,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T18:15:00Z",
+              "team1_player1": null,
+              "team1_player2": "50858599",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": null,
+              "set1_team2": null,
+              "set2_team1": null,
+              "set2_team2": null,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T19:30:00Z",
+              "team1_player1": null,
+              "team1_player2": "50090137",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 19,
+              "set2_team1": 20,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 18,
+              "set2_team1": 15,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T22:15:00Z",
+              "team1_player1": null,
+              "team1_player2": "50858599",
+              "team2_player1": null,
+              "team2_player2": "50090137",
+              "set1_team1": null,
+              "set1_team2": null,
+              "set2_team1": null,
+              "set2_team2": null,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T19:30:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": null,
+              "team2_player2": "50090137",
+              "set1_team1": 19,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 20,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T18:15:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": null,
+              "team2_player2": "50090137",
+              "set1_team1": 21,
+              "set1_team2": 20,
+              "set2_team1": 14,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T20:25:00Z",
+              "team1_player1": null,
+              "team1_player2": "50858599",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": null,
+              "set1_team2": null,
+              "set2_team1": null,
+              "set2_team2": null,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 18,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 15,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T18:15:00Z",
+              "team1_player1": null,
+              "team1_player2": "50090137",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 20,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 14,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": "50099618",
+              "team1_player2": "50103375",
+              "team2_player1": null,
+              "team2_player2": "50858599",
+              "set1_team1": null,
+              "set1_team2": null,
+              "set2_team1": null,
+              "set2_team2": null,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T22:15:00Z",
+              "team1_player1": "50099618",
+              "team1_player2": "50103375",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 8,
+              "set2_team1": 21,
+              "set2_team2": 12,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T20:25:00Z",
+              "team1_player1": "50099618",
+              "team1_player2": "50103375",
+              "team2_player1": null,
+              "team2_player2": "50090137",
+              "set1_team1": 11,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 14,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T19:05:00Z",
+              "team1_player1": "50099618",
+              "team1_player2": "50103375",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 6,
+              "set2_team1": 21,
+              "set2_team2": 16,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": null,
+              "team1_player2": "50858599",
+              "team2_player1": "50099618",
+              "team2_player2": "50103375",
+              "set1_team1": null,
+              "set1_team2": null,
+              "set2_team1": null,
+              "set2_team2": null,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T22:15:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": "50099618",
+              "team2_player2": "50103375",
+              "set1_team1": 8,
+              "set1_team2": 21,
+              "set2_team1": 12,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T20:25:00Z",
+              "team1_player1": null,
+              "team1_player2": "50090137",
+              "team2_player1": "50099618",
+              "team2_player2": "50103375",
+              "set1_team1": 21,
+              "set1_team2": 11,
+              "set2_team1": 14,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T19:05:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": "50099618",
+              "team2_player2": "50103375",
+              "set1_team1": 6,
+              "set1_team2": 21,
+              "set2_team1": 16,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            }
+          ]
+        },
+        {
+          "poule": "Poule B",
+          "gender": 2,
+          "event_type": 2,
+          "draw_type": 2,
+          "size": 4,
+          "matches": [
+            {
+              "playedAt": "2019-03-16T17:40:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 4,
+              "set2_team1": 21,
+              "set2_team2": 9,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T19:30:00Z",
+              "team1_player1": null,
+              "team1_player2": "50077783",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 14,
+              "set2_team1": 21,
+              "set2_team2": 6,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": "50073861",
+              "team1_player2": "50073862",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 9,
+              "set2_team1": 21,
+              "set2_team2": 13,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T17:40:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 4,
+              "set1_team2": 21,
+              "set2_team1": 9,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T21:50:00Z",
+              "team1_player1": null,
+              "team1_player2": "50077783",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 13,
+              "set1_team2": 21,
+              "set2_team1": 11,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T20:00:00Z",
+              "team1_player1": "50073861",
+              "team1_player2": "50073862",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 20,
+              "set1_team2": 21,
+              "set2_team1": 16,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T19:30:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": null,
+              "team2_player2": "50077783",
+              "set1_team1": 14,
+              "set1_team2": 21,
+              "set2_team1": 6,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T21:50:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": null,
+              "team2_player2": "50077783",
+              "set1_team1": 21,
+              "set1_team2": 13,
+              "set2_team1": 21,
+              "set2_team2": 11,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T18:15:00Z",
+              "team1_player1": "50073861",
+              "team1_player2": "50073862",
+              "team2_player1": null,
+              "team2_player2": "50077783",
+              "set1_team1": 21,
+              "set1_team2": 15,
+              "set2_team1": 15,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": "50073861",
+              "team2_player2": "50073862",
+              "set1_team1": 9,
+              "set1_team2": 21,
+              "set2_team1": 13,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T20:00:00Z",
+              "team1_player1": null,
+              "team1_player2": null,
+              "team2_player1": "50073861",
+              "team2_player2": "50073862",
+              "set1_team1": 21,
+              "set1_team2": 20,
+              "set2_team1": 21,
+              "set2_team2": 16,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T18:15:00Z",
+              "team1_player1": null,
+              "team1_player2": "50077783",
+              "team2_player1": "50073861",
+              "team2_player2": "50073862",
+              "set1_team1": 15,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 15,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            }
+          ]
+        },
+        {
+          "poule": "GD D",
+          "gender": 2,
+          "event_type": 2,
+          "draw_type": 1,
+          "size": 2,
+          "matches": [
+            {
+              "final": 1,
+              "playedAt": "2019-03-16T23:05:00Z",
+              "team1_player1": "50099618",
+              "team1_player2": "50103375",
+              "team2_player1": null,
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 9,
+              "set2_team1": 19,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": " C1",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": " C2",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": " D",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": " B",
+      "league": "BASIC",
+      "subEvents": [
+        {
+          "poule": "HD B",
+          "gender": 0,
+          "event_type": 2,
+          "draw_type": 2,
+          "size": 3,
+          "matches": [
+            {
+              "playedAt": "2019-03-16T18:15:00Z",
+              "team1_player1": "50101650",
+              "team1_player2": "50070264",
+              "team2_player1": "50074415",
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 18,
+              "set2_team1": 21,
+              "set2_team2": 16,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T22:15:00Z",
+              "team1_player1": "50053249",
+              "team1_player2": "50061910",
+              "team2_player1": "50074415",
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 11,
+              "set2_team1": 21,
+              "set2_team2": 17,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T18:15:00Z",
+              "team1_player1": "50074415",
+              "team1_player2": null,
+              "team2_player1": "50101650",
+              "team2_player2": "50070264",
+              "set1_team1": 18,
+              "set1_team2": 21,
+              "set2_team1": 16,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T19:30:00Z",
+              "team1_player1": "50053249",
+              "team1_player2": "50061910",
+              "team2_player1": "50101650",
+              "team2_player2": "50070264",
+              "set1_team1": 21,
+              "set1_team2": 18,
+              "set2_team1": 21,
+              "set2_team2": 16,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T22:15:00Z",
+              "team1_player1": "50074415",
+              "team1_player2": null,
+              "team2_player1": "50053249",
+              "team2_player2": "50061910",
+              "set1_team1": 11,
+              "set1_team2": 21,
+              "set2_team1": 17,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T19:30:00Z",
+              "team1_player1": "50101650",
+              "team1_player2": "50070264",
+              "team2_player1": "50053249",
+              "team2_player2": "50061910",
+              "set1_team1": 18,
+              "set1_team2": 21,
+              "set2_team1": 16,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            }
+          ]
+        },
+        {
+          "poule": "DD B",
+          "gender": 1,
+          "event_type": 2,
+          "draw_type": 2,
+          "size": 3,
+          "matches": [
+            {
+              "playedAt": "2019-03-16T18:15:00Z",
+              "team1_player1": "50073806",
+              "team1_player2": "50079466",
+              "team2_player1": "50008498",
+              "team2_player2": "50682512",
+              "set1_team1": 17,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 18,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T22:15:00Z",
+              "team1_player1": "50025822",
+              "team1_player2": "50053795",
+              "team2_player1": "50008498",
+              "team2_player2": "50682512",
+              "set1_team1": 16,
+              "set1_team2": 21,
+              "set2_team1": 2,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            },
+            {
+              "playedAt": "2019-03-16T18:15:00Z",
+              "team1_player1": "50008498",
+              "team1_player2": "50682512",
+              "team2_player1": "50073806",
+              "team2_player2": "50079466",
+              "set1_team1": 21,
+              "set1_team2": 17,
+              "set2_team1": 18,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 3
+            },
+            {
+              "playedAt": "2019-03-16T19:30:00Z",
+              "team1_player1": "50025822",
+              "team1_player2": "50053795",
+              "team2_player1": "50073806",
+              "team2_player2": "50079466",
+              "set1_team1": 21,
+              "set1_team2": 9,
+              "set2_team1": 21,
+              "set2_team2": 14,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T22:15:00Z",
+              "team1_player1": "50008498",
+              "team1_player2": "50682512",
+              "team2_player1": "50025822",
+              "team2_player2": "50053795",
+              "set1_team1": 21,
+              "set1_team2": 16,
+              "set2_team1": 21,
+              "set2_team2": 2,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            },
+            {
+              "playedAt": "2019-03-16T19:30:00Z",
+              "team1_player1": "50073806",
+              "team1_player2": "50079466",
+              "team2_player1": "50025822",
+              "team2_player2": "50053795",
+              "set1_team1": 9,
+              "set1_team2": 21,
+              "set2_team1": 14,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            }
+          ]
+        },
+        {
+          "poule": "GD B",
+          "gender": 2,
+          "event_type": 2,
+          "draw_type": 1,
+          "size": 2,
+          "matches": [
+            {
+              "final": 1,
+              "playedAt": "2019-03-16T23:05:00Z",
+              "team1_player1": "50073806",
+              "team1_player2": "50101650",
+              "team2_player1": "50079466",
+              "team2_player2": "50070264",
+              "set1_team1": 13,
+              "set1_team2": 21,
+              "set2_team1": 21,
+              "set2_team2": 20,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": " B",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": " x",
+      "league": "BASIC",
+      "subEvents": [
+        {
+          "poule": "HD x",
+          "gender": 0,
+          "event_type": 2,
+          "draw_type": 1,
+          "size": 2,
+          "matches": [
+            {
+              "final": 1,
+              "playedAt": "2019-03-16T22:15:00Z",
+              "team1_player1": "50101652",
+              "team1_player2": null,
+              "team2_player1": "50052953",
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 20,
+              "set2_team1": 21,
+              "set2_team2": 16,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": "ECIAL 2",
+      "league": "BASIC",
+      "subEvents": [
+        {
+          "poule": "SPECIAL 2",
+          "gender": 5,
+          "event_type": 2,
+          "draw_type": 1,
+          "size": 2,
+          "matches": [
+            {
+              "final": 1,
+              "playedAt": "2019-03-16T20:25:00Z",
+              "team1_player1": "50101650",
+              "team1_player2": "50070264",
+              "team2_player1": "50035126",
+              "team2_player2": null,
+              "set1_team1": 21,
+              "set1_team2": 18,
+              "set2_team1": 21,
+              "set2_team2": 15,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": "ECIAL 3",
+      "league": "BASIC",
+      "subEvents": [
+        {
+          "poule": "SPECIAL 3",
+          "gender": 5,
+          "event_type": 2,
+          "draw_type": 1,
+          "size": 2,
+          "matches": [
+            {
+              "final": 1,
+              "playedAt": "2019-03-16T20:25:00Z",
+              "team1_player1": "50053249",
+              "team1_player2": "50061910",
+              "team2_player1": "50607812",
+              "team2_player2": "50307193",
+              "set1_team1": 21,
+              "set1_team2": 15,
+              "set2_team1": 21,
+              "set2_team2": 12,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": "ECIAL 4",
+      "league": "BASIC",
+      "subEvents": [
+        {
+          "poule": "SPECIAL 4",
+          "gender": 5,
+          "event_type": 2,
+          "draw_type": 1,
+          "size": 2,
+          "matches": [
+            {
+              "final": 1,
+              "playedAt": "2019-03-16T20:00:00Z",
+              "team1_player1": "50008498",
+              "team1_player2": "50682512",
+              "team2_player1": "50105449",
+              "team2_player2": "Van Robbroeck Dries",
+              "set1_team1": 16,
+              "set1_team2": 21,
+              "set2_team1": 15,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": "ECIAL 5",
+      "league": "BASIC",
+      "subEvents": [
+        {
+          "poule": "SPECIAL 5",
+          "gender": 5,
+          "event_type": 2,
+          "draw_type": 1,
+          "size": 2,
+          "matches": [
+            {
+              "final": 1,
+              "playedAt": "2019-03-16T21:20:00Z",
+              "team1_player1": "50074415",
+              "team1_player2": null,
+              "team2_player1": "50073806",
+              "team2_player2": "50079466",
+              "set1_team1": 21,
+              "set1_team2": 12,
+              "set2_team1": 21,
+              "set2_team2": 15,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": "ECIAL 6",
+      "league": "BASIC",
+      "subEvents": [
+        {
+          "poule": "SPECIAL 6",
+          "gender": 5,
+          "event_type": 2,
+          "draw_type": 1,
+          "size": 2,
+          "matches": [
+            {
+              "final": 1,
+              "playedAt": "2019-03-16T20:25:00Z",
+              "team1_player1": "50025822",
+              "team1_player2": "50053795",
+              "team2_player1": "50711563",
+              "team2_player2": "50075563",
+              "set1_team1": 20,
+              "set1_team2": 21,
+              "set2_team1": 18,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": " B",
+      "league": "BASIC",
+      "subEvents": []
+    },
+    {
+      "type": "TOERNAMENT",
+      "name": "17de Nacht van Antverpino",
+      "division": "ECIAL 7",
+      "league": "BASIC",
+      "subEvents": [
+        {
+          "poule": "SPECIAL 7",
+          "gender": 0,
+          "event_type": 2,
+          "draw_type": 1,
+          "size": 2,
+          "matches": [
+            {
+              "final": 1,
+              "playedAt": "2019-03-16T23:06:00Z",
+              "team1_player1": "50101652",
+              "team1_player2": "50052953",
+              "team2_player1": "50053249",
+              "team2_player2": "50061910",
+              "set1_team1": 15,
+              "set1_team2": 21,
+              "set2_team1": 14,
+              "set2_team2": 21,
+              "set3_team1": null,
+              "set3_team2": null,
+              "winner": 2
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "memberid": "50006768",
+      "firstname": "Danny",
+      "name": "Graff",
+      "gender": 1
+    },
+    {
+      "id": 2,
+      "memberid": "50075018",
+      "firstname": "Sibren",
+      "name": "Janssens",
+      "gender": 1
+    },
+    {
+      "id": 3,
+      "memberid": "50025334",
+      "firstname": "Patrick",
+      "name": "Van Den Bemt",
+      "gender": 1
+    },
+    {
+      "id": 5,
+      "memberid": null,
+      "firstname": "Yenz",
+      "name": "Winkelmans",
+      "gender": 1
+    },
+    {
+      "id": 6,
+      "memberid": null,
+      "firstname": "Jasper",
+      "name": "Vercammen",
+      "gender": 1
+    },
+    {
+      "id": 7,
+      "memberid": "50073861",
+      "firstname": "Patricia",
+      "name": "Van Gaever",
+      "gender": 2
+    },
+    {
+      "id": 8,
+      "memberid": "50073862",
+      "firstname": "Alain",
+      "name": "Vermeesch",
+      "gender": 1
+    },
+    {
+      "id": 9,
+      "memberid": "50086633",
+      "firstname": "Tommy",
+      "name": "De Laet",
+      "gender": 1
+    },
+    {
+      "id": 11,
+      "memberid": "50607812",
+      "firstname": "Attique",
+      "name": "Malik",
+      "gender": 1
+    },
+    {
+      "id": 13,
+      "memberid": "50017902",
+      "firstname": "Roel",
+      "name": "Daneels",
+      "gender": 1
+    },
+    {
+      "id": 14,
+      "memberid": "50034196",
+      "firstname": "Rachid",
+      "name": "Assemiouni",
+      "gender": 1
+    },
+    {
+      "id": 15,
+      "memberid": "XX6353632",
+      "firstname": "Werner",
+      "name": "Jacobs",
+      "gender": 1
+    },
+    {
+      "id": 16,
+      "memberid": "Van Der Vloet Nico",
+      "firstname": "Nico",
+      "name": "Van Der Vloet",
+      "gender": 1
+    },
+    {
+      "id": 18,
+      "memberid": "50056714",
+      "firstname": "Tom",
+      "name": "De Maeyer",
+      "gender": 1
+    },
+    {
+      "id": 19,
+      "memberid": "Dedeurwaerder Lynn",
+      "firstname": "Lynn",
+      "name": "Dedeurwaerder",
+      "gender": 2
+    },
+    {
+      "id": 20,
+      "memberid": "50074415",
+      "firstname": "Jannes",
+      "name": "Hellemans",
+      "gender": 1
+    },
+    {
+      "id": 21,
+      "memberid": "50090137",
+      "firstname": "Richard",
+      "name": "Miranda Marques",
+      "gender": 1
+    },
+    {
+      "id": 22,
+      "memberid": "50429442",
+      "firstname": "Kevin",
+      "name": "Tan",
+      "gender": 1
+    },
+    {
+      "id": 23,
+      "memberid": "50029337",
+      "firstname": "Patrick",
+      "name": "Tan",
+      "gender": 1
+    },
+    {
+      "id": 24,
+      "memberid": "50711563",
+      "firstname": "Matts",
+      "name": "Croes",
+      "gender": 1
+    },
+    {
+      "id": 25,
+      "memberid": "50008498",
+      "firstname": "Bo",
+      "name": "Daneels",
+      "gender": 2
+    },
+    {
+      "id": 26,
+      "memberid": "50682512",
+      "firstname": "Ellis",
+      "name": "Daneels",
+      "gender": 2
+    },
+    {
+      "id": 28,
+      "memberid": null,
+      "firstname": "Sofie",
+      "name": "Thys",
+      "gender": 2
+    },
+    {
+      "id": 29,
+      "memberid": null,
+      "firstname": "Joeri",
+      "name": "De Waegeneere",
+      "gender": 1
+    },
+    {
+      "id": 30,
+      "memberid": "50028466",
+      "firstname": "Stefan",
+      "name": "Schmidt",
+      "gender": 1
+    },
+    {
+      "id": 31,
+      "memberid": "50116116",
+      "firstname": "Laura",
+      "name": "De Wachter",
+      "gender": 2
+    },
+    {
+      "id": 32,
+      "memberid": "XX5490722",
+      "firstname": "Andy",
+      "name": "Anderson",
+      "gender": 1
+    },
+    {
+      "id": 33,
+      "memberid": "50000250",
+      "firstname": "Dirk",
+      "name": "Delechambre",
+      "gender": 1
+    },
+    {
+      "id": 34,
+      "memberid": "XX6350672",
+      "firstname": "Marc",
+      "name": "Joris",
+      "gender": 1
+    },
+    {
+      "id": 35,
+      "memberid": "xx0000003",
+      "firstname": "Andre",
+      "name": "Wens",
+      "gender": 1
+    },
+    {
+      "id": 36,
+      "memberid": null,
+      "firstname": "Birgit",
+      "name": "Janssens",
+      "gender": 2
+    },
+    {
+      "id": 37,
+      "memberid": null,
+      "firstname": "Lies",
+      "name": "Huyghe",
+      "gender": 2
+    },
+    {
+      "id": 38,
+      "memberid": "50035126",
+      "firstname": "Zulfiqar Ali",
+      "name": "Khan",
+      "gender": 1
+    },
+    {
+      "id": 39,
+      "memberid": null,
+      "firstname": "Butt",
+      "name": "Saqib",
+      "gender": 1
+    },
+    {
+      "id": 41,
+      "memberid": "Hille Rob",
+      "firstname": "Rob",
+      "name": "Hille",
+      "gender": 1
+    },
+    {
+      "id": 42,
+      "memberid": null,
+      "firstname": "Bart",
+      "name": "Ivens",
+      "gender": 1
+    },
+    {
+      "id": 43,
+      "memberid": null,
+      "firstname": "Rupesh",
+      "name": "Shah",
+      "gender": 1
+    },
+    {
+      "id": 44,
+      "memberid": null,
+      "firstname": "Pinky",
+      "name": "Shah",
+      "gender": 2
+    },
+    {
+      "id": 45,
+      "memberid": "50101652",
+      "firstname": "Rik",
+      "name": "Broeckx",
+      "gender": 1
+    },
+    {
+      "id": 46,
+      "memberid": "50025822",
+      "firstname": "Jessie",
+      "name": "Ruts",
+      "gender": 2
+    },
+    {
+      "id": 47,
+      "memberid": "50156446",
+      "firstname": "Umer",
+      "name": "Sajid",
+      "gender": 1
+    },
+    {
+      "id": 48,
+      "memberid": "50072433",
+      "firstname": "Stijn",
+      "name": "Van Gaver",
+      "gender": 1
+    },
+    {
+      "id": 49,
+      "memberid": "50053795",
+      "firstname": "Karen",
+      "name": "Van Looveren",
+      "gender": 2
+    },
+    {
+      "id": 50,
+      "memberid": "50106836",
+      "firstname": "Mirko",
+      "name": "Corthals",
+      "gender": 1
+    },
+    {
+      "id": 51,
+      "memberid": "50105314",
+      "firstname": "Bjorn",
+      "name": "Jongenelen",
+      "gender": 1
+    },
+    {
+      "id": 52,
+      "memberid": "50307193",
+      "firstname": "Azeem Fawad",
+      "name": "Shahid",
+      "gender": 1
+    },
+    {
+      "id": 53,
+      "memberid": "50105449",
+      "firstname": "Kristof",
+      "name": "Baeyens",
+      "gender": 1
+    },
+    {
+      "id": 54,
+      "memberid": "50049741",
+      "firstname": "Katrien",
+      "name": "Meiresonne",
+      "gender": 2
+    },
+    {
+      "id": 55,
+      "memberid": "50072265",
+      "firstname": "Annelore",
+      "name": "Simons",
+      "gender": 2
+    },
+    {
+      "id": 56,
+      "memberid": "50264672",
+      "firstname": "Pieter",
+      "name": "Van Petegem",
+      "gender": 1
+    },
+    {
+      "id": 57,
+      "memberid": "50170813",
+      "firstname": "Mian",
+      "name": "Ahmad",
+      "gender": 1
+    },
+    {
+      "id": 58,
+      "memberid": null,
+      "firstname": "Lukas",
+      "name": "Hellemans",
+      "gender": 1
+    },
+    {
+      "id": 59,
+      "memberid": "Van Robbroeck Dries",
+      "firstname": "Dries",
+      "name": "Van Robbroeck",
+      "gender": 1
+    },
+    {
+      "id": 60,
+      "memberid": null,
+      "firstname": "Lorenz",
+      "name": "Kempeneers",
+      "gender": 1
+    },
+    {
+      "id": 61,
+      "memberid": null,
+      "firstname": "Sam",
+      "name": "Fissers",
+      "gender": 1
+    },
+    {
+      "id": 62,
+      "memberid": "50060474",
+      "firstname": "Bart",
+      "name": "Van Tilborgh",
+      "gender": 1
+    },
+    {
+      "id": 63,
+      "memberid": "50073860",
+      "firstname": "",
+      "name": "Tania&Stefan",
+      "gender": 2
+    },
+    {
+      "id": 64,
+      "memberid": "50067545",
+      "firstname": "Kay-Leigh",
+      "name": "Bruers",
+      "gender": 2
+    },
+    {
+      "id": 65,
+      "memberid": "50092784",
+      "firstname": "Hanne",
+      "name": "Roeymans",
+      "gender": 2
+    },
+    {
+      "id": 66,
+      "memberid": "50053249",
+      "firstname": "Emmanuel",
+      "name": "Budini",
+      "gender": 1
+    },
+    {
+      "id": 67,
+      "memberid": "50061910",
+      "firstname": "Jeroen",
+      "name": "Roeymans",
+      "gender": 1
+    },
+    {
+      "id": 68,
+      "memberid": null,
+      "firstname": "Patricia",
+      "name": "Van Gastel",
+      "gender": 2
+    },
+    {
+      "id": 69,
+      "memberid": "xx100015",
+      "firstname": null,
+      "name": "Danny&Linda",
+      "gender": 1
+    },
+    {
+      "id": 70,
+      "memberid": "50753312",
+      "firstname": "Charlotte",
+      "name": "Peetermans",
+      "gender": 2
+    },
+    {
+      "id": 71,
+      "memberid": "50101650",
+      "firstname": "Ares",
+      "name": "De Groote",
+      "gender": 1
+    },
+    {
+      "id": 72,
+      "memberid": "50109853",
+      "firstname": "Amish",
+      "name": "Jain",
+      "gender": 1
+    },
+    {
+      "id": 73,
+      "memberid": "50070264",
+      "firstname": "Thomas",
+      "name": "Maes",
+      "gender": 1
+    },
+    {
+      "id": 74,
+      "memberid": "50858599",
+      "firstname": "Bart",
+      "name": "Meynckens",
+      "gender": 1
+    },
+    {
+      "id": 75,
+      "memberid": null,
+      "firstname": "Yirka",
+      "name": "Beeckman",
+      "gender": 2
+    },
+    {
+      "id": 76,
+      "memberid": "50106432",
+      "firstname": "Jolan",
+      "name": "Kint",
+      "gender": 1
+    },
+    {
+      "id": 77,
+      "memberid": null,
+      "firstname": "Safi",
+      "name": "Sanaullah",
+      "gender": 1
+    },
+    {
+      "id": 78,
+      "memberid": null,
+      "firstname": null,
+      "name": "Tayyab",
+      "gender": 1
+    },
+    {
+      "id": 79,
+      "memberid": null,
+      "firstname": "Raf",
+      "name": "Jansen",
+      "gender": 1
+    },
+    {
+      "id": 80,
+      "memberid": "50075563",
+      "firstname": "Ian",
+      "name": "De Cuyper",
+      "gender": 1
+    },
+    {
+      "id": 81,
+      "memberid": "50073806",
+      "firstname": "Nena",
+      "name": "De Dauw",
+      "gender": 2
+    },
+    {
+      "id": 83,
+      "memberid": "50042109",
+      "firstname": "Roel",
+      "name": "Vanthienen",
+      "gender": 1
+    },
+    {
+      "id": 84,
+      "memberid": "50079466",
+      "firstname": "Lisa",
+      "name": "Van Der Aa",
+      "gender": 2
+    },
+    {
+      "id": 85,
+      "memberid": "50052953",
+      "firstname": "Koen",
+      "name": "De Cauwer",
+      "gender": 1
+    },
+    {
+      "id": 86,
+      "memberid": "50105914",
+      "firstname": "Boonbanjong",
+      "name": "Nicharee",
+      "gender": 2
+    },
+    {
+      "id": 87,
+      "memberid": "50077783",
+      "firstname": "Johan",
+      "name": "Plochaet",
+      "gender": 1
+    },
+    {
+      "id": 88,
+      "memberid": null,
+      "firstname": "Sigrid",
+      "name": "Schallenberg",
+      "gender": 2
+    },
+    {
+      "id": 89,
+      "memberid": "50021800",
+      "firstname": "Joris",
+      "name": "De Wandel",
+      "gender": 1
+    },
+    {
+      "id": 90,
+      "memberid": null,
+      "firstname": "Roel",
+      "name": "Sauvillers",
+      "gender": 1
+    },
+    {
+      "id": 91,
+      "memberid": null,
+      "firstname": "Tijmen",
+      "name": "Van Meer",
+      "gender": 1
+    },
+    {
+      "id": 92,
+      "memberid": "50109854",
+      "firstname": "Gaurav",
+      "name": "Jain",
+      "gender": 1
+    },
+    {
+      "id": 93,
+      "memberid": "50037208",
+      "firstname": "Wim",
+      "name": "Croes",
+      "gender": 1
+    },
+    {
+      "id": 94,
+      "memberid": null,
+      "firstname": null,
+      "name": "Wout&Annick",
+      "gender": 1
+    },
+    {
+      "id": 95,
+      "memberid": "xx100006",
+      "firstname": "Johan",
+      "name": "Simons",
+      "gender": 1
+    },
+    {
+      "id": 96,
+      "memberid": null,
+      "firstname": "Flor",
+      "name": "Wuyts",
+      "gender": 1
+    },
+    {
+      "id": 97,
+      "memberid": null,
+      "firstname": "Birte",
+      "name": "Hosteaux",
+      "gender": 2
+    },
+    {
+      "id": 98,
+      "memberid": "500065829",
+      "firstname": "Dave",
+      "name": "Basteleysens",
+      "gender": 1
+    },
+    {
+      "id": 99,
+      "memberid": "50099618",
+      "firstname": "Leen",
+      "name": "Mattheyses",
+      "gender": 2
+    },
+    {
+      "id": 100,
+      "memberid": "50103375",
+      "firstname": "Dacien",
+      "name": "Pouponnot",
+      "gender": 1
+    }
+  ]
+}

@@ -23,7 +23,7 @@ ReactDOM.render(
     <Router history={hist}>
       <Switch>
         <Route path="/user/:userId" component={ProfilePage} />
-        <Route path="/admin" component={AdminPage} />
+        <Route path="/admin" component={AdminPage} /> 
         <Route path="/" component={DashboardPage} />
       </Switch>
     </Router>
