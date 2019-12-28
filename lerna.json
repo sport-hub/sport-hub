@@ -1,7 +1,8 @@
 {
   "packages": [
     "ranking/*",
-    "sport-hub/*"
+    "hub/*",
+    "trainer/*",
   ],
   "command": {
     "bootstrap": {

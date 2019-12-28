@@ -7,13 +7,13 @@ import {
 } from "../database/databseHandler";
 
 export async function ImportCompetition(file) {
-  console.info("Started import", file);
-  var data = GetXmlData(file);
+  console.log("Started import competion", file);
+  var data = await GetXmlData(file);
 
   try {
     for await (const xmlTeam of data.League.Team) {
       if (!xmlTeam.Member) {
-        console.info(`No members found for ${xmlTeam.TeamName}`);
+        console.warn(`No members found for ${xmlTeam.TeamName}`);
         return;
       }
       await AddUsers(
@@ -131,7 +131,7 @@ export async function ImportCompetition(file) {
         throw error;
       }
     }
-    console.info("Finished import");
+    console.log("Finished import");
 
     return "All good";
   } catch (e) {

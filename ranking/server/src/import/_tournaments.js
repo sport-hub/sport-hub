@@ -7,8 +7,8 @@ import {
 } from '../database/databseHandler';
 
 export async function ImportToernament(file) {
-  console.info('Started import', file);
-  var data = GetJsonData(file);
+  console.log('Started import toernament', file);
+  var data = await GetJsonData(file);
 
   try {
     const players = data.players.map(member => {
@@ -57,7 +57,7 @@ export async function ImportToernament(file) {
       }
     }
 
-    console.info('Finished import');
+    console.log('Finished import');
 
     return 'All good';
   } catch (e) {
