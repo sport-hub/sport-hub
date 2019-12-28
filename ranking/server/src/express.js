@@ -12,11 +12,11 @@ app.get('/import', async (req, res) => {
   try {
     let result;
     if (req.query.file) {
-      result = await Import(req.query.file);
+      result = Import(req.query.file);
     } else {
-      result = await ImportAll();
+      result = ImportAll();
     }
-    res.send(result);
+    res.send('Processing started');
   } catch (error) {
     console.error(error);
     throw error;
@@ -33,6 +33,7 @@ app.get('/sync', async (req, res) => {
 
 app.get('/calculate', async(req, res)=> {
    calculateRanking().then(result => res.json(result))
-})
+   res.send('Processing started');
+  })
 
 module.exports = app;

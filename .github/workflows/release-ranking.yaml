@@ -1,0 +1,61 @@
+on:
+  push:
+    branches:
+      - master
+
+name: Build and deploy ranking
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # checkout the repo
+      - name: 'Checkout Github Action'
+        uses: actions/checkout@master
+
+      - name: 'Azure Login'
+        uses: azure/docker-login@v1
+        with:
+          login-server: badvlasimacr.azurecr.io
+          username: ${{ secrets.REGISTRY_USERNAME }}
+          password: ${{ secrets.REGISTRY_PASSWORD }}
+
+      - name: build
+        run: yarn run ranking:build
+        env:
+          SERVER_IP: ${{ secrets.SERVER_IP }}
+          SERVER_PORT: 80
+          CLIENT_PORT: 80
+          MYSQL_USER: ${{ secrets.MYSQL_USER }}
+          MYSQL_PASSWORD: ${{ secrets.MYSQL_PASSWORD }}
+          MYSQL_ROOT_PASSWORD: ${{ secrets.MYSQL_ROOT_PASSWORD }}
+          MYSQL_DATABASE: ${{ secrets.MYSQL_DATABASE }}
+          MYSQL_ROOT_HOST: ${{ secrets.MYSQL_ROOT_HOST }}
+          LOG_LEVEL: WARN
+
+      - name: push
+        run: yarn run ranking:push
+        env:
+          SERVER_IP: ${{ secrets.SERVER_IP }}
+          SERVER_PORT: 80
+          CLIENT_PORT: 80
+          MYSQL_USER: ${{ secrets.MYSQL_USER }}
+          MYSQL_PASSWORD: ${{ secrets.MYSQL_PASSWORD }}
+          MYSQL_ROOT_PASSWORD: ${{ secrets.MYSQL_ROOT_PASSWORD }}
+          MYSQL_DATABASE: ${{ secrets.MYSQL_DATABASE }}
+          MYSQL_ROOT_HOST: ${{ secrets.MYSQL_ROOT_HOST }}
+          LOG_LEVEL: WARN
+
+      - uses: azure/webapps-container-deploy@v1
+        with:
+          app-name: 'ranking_server'
+          images: 'badvlasimacr.azurecr.io/ranking_server:latest'
+
+      - uses: azure/webapps-container-deploy@v1
+        with:
+          app-name: 'ranking_client'
+          images: 'badvlasimacr.azurecr.io/ranking_client:latest'
+
+      - name: Azure logout
+        run: |
+          az logout

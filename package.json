@@ -8,7 +8,15 @@
   ],
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "test": "lerna run test"
+    "test": "lerna run test",
+    "docker:start-windows": "docker-machine start default",
+    "docker:start-linux": "systemctl start docker",
+    "docker:clean": "docker system prune -af",
+    "docker:clean:volumes": "docker volume prune -f",
+    "ranking:start": "docker-compose -f .\\ranking\\docker-compose.yaml up",
+    "ranking:start:server": "docker-compose -f .\\ranking\\docker-compose.yaml up server",
+    "ranking:build": "docker-compose -f .\\ranking\\docker-compose.yaml build",
+    "ranking:stop": "docker-compose -f .\\ranking\\docker-compose.yaml down"
   },
   "devDependencies": {
     "lerna": "^3.19.0"
