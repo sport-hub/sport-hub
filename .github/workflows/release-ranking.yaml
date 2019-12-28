@@ -36,12 +36,12 @@ jobs:
       - uses: azure/webapps-container-deploy@v1
         with:
           app-name: 'ranking_server'
-          images: 'badvlasimacr.azurecr.io/ranking_server:latest'
+          images: 'ranking_server:latest'
 
       - uses: azure/webapps-container-deploy@v1
         with:
           app-name: 'ranking_client'
-          images: 'badvlasimacr.azurecr.io/ranking_client:latest'
+          images: 'ranking_client:latest'
 
       - name: Azure logout
         run: |
