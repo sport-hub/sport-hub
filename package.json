@@ -14,7 +14,6 @@
     "docker:clean": "docker system prune -af",
     "docker:clean:volumes": "docker volume prune -f",
     "ranking:start": "docker-compose -f ./ranking/docker-compose.yaml up",
-    "ranking:push": "docker-compose -f ./ranking/docker-compose.yaml push",
     "ranking:start:server": "docker-compose -f ./ranking/docker-compose.yaml up server",
     "ranking:build": "docker-compose -f ./ranking/docker-compose.yaml build",
     "ranking:stop": "docker-compose -f ./ranking/docker-compose.yaml down"

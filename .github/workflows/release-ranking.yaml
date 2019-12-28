@@ -33,19 +33,6 @@ jobs:
           MYSQL_ROOT_HOST: ${{ secrets.MYSQL_ROOT_HOST }}
           LOG_LEVEL: WARN
 
-      - name: push
-        run: yarn run ranking:push
-        env:
-          SERVER_IP: ${{ secrets.SERVER_IP }}
-          SERVER_PORT: 80
-          CLIENT_PORT: 80
-          MYSQL_USER: ${{ secrets.MYSQL_USER }}
-          MYSQL_PASSWORD: ${{ secrets.MYSQL_PASSWORD }}
-          MYSQL_ROOT_PASSWORD: ${{ secrets.MYSQL_ROOT_PASSWORD }}
-          MYSQL_DATABASE: ${{ secrets.MYSQL_DATABASE }}
-          MYSQL_ROOT_HOST: ${{ secrets.MYSQL_ROOT_HOST }}
-          LOG_LEVEL: WARN
-
       - uses: azure/webapps-container-deploy@v1
         with:
           app-name: 'ranking_server'
