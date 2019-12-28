@@ -1,15 +1,16 @@
 {
   "name": "root",
   "private": true,
+  "workspaces": [
+    "ranking/*",
+    "hub/*",
+    "trainer/*"
+  ],
   "scripts": {
     "bootstrap": "lerna bootstrap --hoist",
-    "pretest": "eslint packages",
-    "test": "jest"
+    "test": "lerna run test"
   },
   "devDependencies": {
     "lerna": "^3.19.0"
-  },
-  "dependencies": {
-    "es6-promise-pool": "^2.5.0"
   }
 }

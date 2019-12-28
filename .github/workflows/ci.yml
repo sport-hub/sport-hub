@@ -16,6 +16,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
+
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
       with:
@@ -24,5 +25,11 @@ jobs:
       run: |
         yarn
         yarn run bootstrap
+        yarn test
+    
+    - uses: codecov/codecov-action@v1
+      with:
+        token: ${{ secrets.CODECOV_TOKEN }} 
+
       env:
         CI: true
