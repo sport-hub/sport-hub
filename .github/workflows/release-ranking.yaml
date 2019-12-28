@@ -5,6 +5,12 @@ on:
 
 name: Build and deploy ranking
 
+env:
+  REGISTRY_NAME: badvlasimacr
+  CLUSTER_NAME: BadVlasim2
+  CLUSTER_RESOURCE_GROUP: BadVlaKub
+  NAMESPACE: default
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -16,7 +22,7 @@ jobs:
       - name: 'Azure Login'
         uses: azure/docker-login@v1
         with:
-          login-server: badvlasimacr.azurecr.io
+          login-server: ${{ env.REGISTRY_NAME }}.azurecr.io
           username: ${{ secrets.REGISTRY_USERNAME }}
           password: ${{ secrets.REGISTRY_PASSWORD }}
 
@@ -46,16 +52,36 @@ jobs:
           MYSQL_ROOT_HOST: ${{ secrets.MYSQL_ROOT_HOST }}
           LOG_LEVEL: WARN
 
-      # - uses: azure/webapps-container-deploy@v1
-      #   with:
-      #     app-name: 'ranking_server'
-      #     images: 'ranking_server:latest'
+      # Set the target Azure Kubernetes Service (AKS) cluster.
+      - uses: azure/aks-set-context@v1
+        with:
+          creds: '${{ secrets.AZURE_CREDENTIALS }}'
+          cluster-name: ${{ env.CLUSTER_NAME }}
+          resource-group: ${{ env.CLUSTER_RESOURCE_GROUP }}
 
-      # - uses: azure/webapps-container-deploy@v1
-      #   with:
-      #     app-name: 'ranking_client'
-      #     images: 'ranking_client:latest'
+      # Create namespace if doesn't exist
+      - run: |
+          kubectl create namespace ${{ env.NAMESPACE }} --dry-run -o json | kubectl apply -f -
 
-      - name: Azure logout
-        run: |
-          az logout
+      # Create imagepullsecret for Azure Container registry (ACR)
+      - uses: azure/k8s-create-secret@v1
+        with:
+          container-registry-url: ${{ env.REGISTRY_NAME }}.azurecr.io
+          container-registry-username: ${{ secrets.REGISTRY_USERNAME }}
+          container-registry-password: ${{ secrets.REGISTRY_PASSWORD }}
+          secret-name: ${{ env.REGISTRY_NAME }}-registry-connection
+          namespace: ${{ env.NAMESPACE }}
+
+      # Deploy app to AKS
+      - uses: azure/k8s-deploy@v1
+        with:
+          manifests: |
+            manifests/deployment.yml
+            manifests/service.yml
+          images: |
+            ${{ env.REGISTRY_NAME }}.azurecr.io/ranking_db:latest
+            ${{ env.REGISTRY_NAME }}.azurecr.io/ranking_server:latest
+            ${{ env.REGISTRY_NAME }}.azurecr.io/ranking_client:latest
+          imagepullsecrets: |
+            ${{ env.REGISTRY_NAME }}-registry-connection
+          namespace: ${{ env.NAMESPACE }}
