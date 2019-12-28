@@ -33,15 +33,18 @@ jobs:
           MYSQL_ROOT_HOST: ${{ secrets.MYSQL_ROOT_HOST }}
           LOG_LEVEL: WARN
 
-      - uses: azure/webapps-container-deploy@v1
-        with:
-          app-name: 'ranking_server'
-          images: 'ranking_server:latest'
+      - name: push
+        run: yarn run ranking:push
 
-      - uses: azure/webapps-container-deploy@v1
-        with:
-          app-name: 'ranking_client'
-          images: 'ranking_client:latest'
+      # - uses: azure/webapps-container-deploy@v1
+      #   with:
+      #     app-name: 'ranking_server'
+      #     images: 'ranking_server:latest'
+
+      # - uses: azure/webapps-container-deploy@v1
+      #   with:
+      #     app-name: 'ranking_client'
+      #     images: 'ranking_client:latest'
 
       - name: Azure logout
         run: |

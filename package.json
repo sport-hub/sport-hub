@@ -16,6 +16,7 @@
     "ranking:start": "docker-compose -f ./ranking/docker-compose.yaml up",
     "ranking:start:server": "docker-compose -f ./ranking/docker-compose.yaml up server",
     "ranking:build": "docker-compose -f ./ranking/docker-compose.yaml build",
+    "ranking:push": "docker-compose -f ./ranking/docker-compose.yaml push",
     "ranking:stop": "docker-compose -f ./ranking/docker-compose.yaml down"
   },
   "devDependencies": {

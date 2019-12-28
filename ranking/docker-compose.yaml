@@ -19,6 +19,8 @@ services:
     volumes:
       - db:/var/lib/mysql
 
+    image: badvlasimacr.azurecr.io/ranking_server
+
   server:
     container_name: server
 
@@ -51,6 +53,8 @@ services:
     restart: on-failure
     network_mode: "host"
 
+    image: badvlasimacr.azurecr.io/ranking_db
+
   client:
     container_name: client
 
@@ -78,6 +82,9 @@ services:
       - /app/node_modules
 
     command: npm start
+
+    image: badvlasimacr.azurecr.io/ranking_client
+
 
 volumes: #define our mysql volume used above
   db:
