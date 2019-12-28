@@ -17,7 +17,7 @@ export class SubEvent extends Model {
         poule: DataTypes.STRING,
         size: DataTypes.INTEGER,
         type: DataTypes.ENUM({
-          values: ['G', 'H', 'D']
+          values: ['G', 'H', 'D', 'XXX', 'J', 'YYY', 'MB'] // J = Jeugd, MB = MiniBad
         })
       },
       {

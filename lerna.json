@@ -1,8 +1,5 @@
 {
-  "packages": [
-    "ranking/*",
-    "sport-hub/*"
-  ],
+  "packages": ["ranking/*", "hub/*", "trainer/*"],
   "command": {
     "bootstrap": {
       "ignore": "ranking-convertor-*"

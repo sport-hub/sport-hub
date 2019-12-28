@@ -10,9 +10,27 @@ const server = new ApolloServer({
   resolvers
 });
 
+console.log('Logging level: ', process.env.LOG_LEVEL)
+
+switch (process.env.LOG_LEVEL) {
+  case 'ERROR':
+    console.warn = function() {};
+  case 'WARN':
+    console.info = function() {};
+  case 'INFO':
+    console.log = function() {};
+  case 'LOG':
+    console.debug = function() {};
+    console.trace = function() {};
+    console.dir = function() {};
+}
+
 server.applyMiddleware({ app });
 
 app.listen({ port: 4000 }, () =>
-  console.log(`🚀 Server ready at http://${process.env.SERVER_IP}:${4000}${server.graphqlPath}`)
+  console.info(
+    `🚀  Server ready at http://${process.env.SERVER_IP}:${4000}${
+      server.graphqlPath
+    }`
+  )
 );
- 
