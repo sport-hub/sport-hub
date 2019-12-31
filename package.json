@@ -15,9 +15,9 @@
     "docker:clean:volumes": "docker volume prune -f",
     "ranking:start": "env-cmd docker-compose -f ./ranking/docker-compose.yaml up",
     "ranking:start:server": "env-cmd docker-compose -f ./ranking/docker-compose.yaml up server",
-    "ranking:build": "env-cmd docker-compose -f ./ranking/docker-compose.yaml build",
-    "ranking:push": "env-cmd docker-compose -f ./ranking/docker-compose.yaml push",
-    "ranking:stop": "env-cmd docker-compose -f ./ranking/docker-compose.yaml down"
+    "ranking:build": "docker-compose -f ./ranking/docker-compose.yaml build",
+    "ranking:push": "docker-compose -f ./ranking/docker-compose.yaml push",
+    "ranking:stop": "docker-compose -f ./ranking/docker-compose.yaml down"
   },
   "devDependencies": {
     "lerna": "^3.19.0",
