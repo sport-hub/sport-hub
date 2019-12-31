@@ -26,6 +26,9 @@ jobs:
           username: ${{ secrets.REGISTRY_USERNAME }}
           password: ${{ secrets.REGISTRY_PASSWORD }}
 
+      - name: 'Getting the reqs'
+        run: yarn
+
       - name: build
         run: yarn run ranking:build
         env:
@@ -53,18 +56,21 @@ jobs:
           LOG_LEVEL: WARN
 
       # Set the target Azure Kubernetes Service (AKS) cluster.
-      - uses: azure/aks-set-context@v1
+      - name: Set the target Azure Kubernetes Service (AKS) cluster.
+        uses: azure/aks-set-context@v1
         with:
           creds: '${{ secrets.AZURE_CREDENTIALS }}'
           cluster-name: ${{ env.CLUSTER_NAME }}
           resource-group: ${{ env.CLUSTER_RESOURCE_GROUP }}
 
       # Create namespace if doesn't exist
-      - run: |
+      - name: Create namespace if doesn't exist
+        run: |
           kubectl create namespace ${{ env.NAMESPACE }} --dry-run -o json | kubectl apply -f -
 
       # Create imagepullsecret for Azure Container registry (ACR)
-      - uses: azure/k8s-create-secret@v1
+      - name: Create imagepullsecret for Azure Container registry (ACR)
+        uses: azure/k8s-create-secret@v1
         with:
           container-registry-url: ${{ env.REGISTRY_NAME }}.azurecr.io
           container-registry-username: ${{ secrets.REGISTRY_USERNAME }}
@@ -73,7 +79,8 @@ jobs:
           namespace: ${{ env.NAMESPACE }}
 
       # Deploy app to AKS
-      - uses: azure/k8s-deploy@v1
+      - name: Deploy app to AKS
+        uses: azure/k8s-deploy@v1
         with:
           manifests: |
             manifests/deployment.yml
