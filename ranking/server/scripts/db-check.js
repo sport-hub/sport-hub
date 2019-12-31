@@ -9,6 +9,7 @@ const timeoutPromise = time => {
       process.env.MYSQL_USER,
       process.env.MYSQL_PASSWORD,
       {
+        host: process.env.SERVER_IP,
         dialect: 'mysql'
       }
     );
@@ -18,6 +19,7 @@ const timeoutPromise = time => {
       process.env.MYSQL_USER,
       process.env.MYSQL_PASSWORD,
       {
+        host: process.env.SERVER_IP,
         dialect: 'mysql'
       }
     );

@@ -2,23 +2,17 @@ version: '3.7'
 services:
   db:
     container_name: db
-
     image: mysql:5.7
-    # restart: always
     environment:
       - MYSQL_USER=${MYSQL_USER}
       - MYSQL_PASSWORD=${MYSQL_PASSWORD}
       - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
       - MYSQL_DATABASE=${MYSQL_DATABASE}
       - MYSQL_ROOT_HOST=${MYSQL_ROOT_HOST}
-    
     ports:
       - 3306:3306
-    
     volumes:
       - db:/var/lib/mysql
-
-    image: badvlasimacr.azurecr.io/ranking_db
 
   server:
     container_name: server
@@ -53,7 +47,6 @@ services:
     network_mode: "host"
 
     image: badvlasimacr.azurecr.io/ranking_server
-
   client:
     container_name: client
 
@@ -83,7 +76,6 @@ services:
     command: npm start
 
     image: badvlasimacr.azurecr.io/ranking_client
-
 
 volumes: #define our mysql volume used above
   db:

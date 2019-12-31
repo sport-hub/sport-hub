@@ -13,13 +13,14 @@
     "docker:start-linux": "systemctl start docker",
     "docker:clean": "docker system prune -af",
     "docker:clean:volumes": "docker volume prune -f",
-    "ranking:start": "docker-compose -f ./ranking/docker-compose.yaml up",
-    "ranking:start:server": "docker-compose -f ./ranking/docker-compose.yaml up server",
-    "ranking:build": "docker-compose -f ./ranking/docker-compose.yaml build",
-    "ranking:push": "docker-compose -f ./ranking/docker-compose.yaml push",
-    "ranking:stop": "docker-compose -f ./ranking/docker-compose.yaml down"
+    "ranking:start": "env-cmd docker-compose -f ./ranking/docker-compose.yaml up",
+    "ranking:start:server": "env-cmd docker-compose -f ./ranking/docker-compose.yaml up server",
+    "ranking:build": "env-cmd docker-compose -f ./ranking/docker-compose.yaml build",
+    "ranking:push": "env-cmd docker-compose -f ./ranking/docker-compose.yaml push",
+    "ranking:stop": "env-cmd docker-compose -f ./ranking/docker-compose.yaml down"
   },
   "devDependencies": {
-    "lerna": "^3.19.0"
+    "lerna": "^3.19.0",
+    "env-cmd": "^10.0.1"
   }
 }
